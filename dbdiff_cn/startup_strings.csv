@@ -1,0 +1,16 @@
+ID,Name,Message_lang
+1,MSG_TITLE_WOW,魔兽世界
+2,MSG_GX_INIT_FAILED_D3D,魔兽世界无法启用3D加速。请确保您已经安装了DirectX 9.0c并已将显卡驱动升级为最新版本。
+3,MSG_GX_INIT_FAILED,魔兽世界无法启用3D加速。
+4,MSG_HW_UNSUPPORTED,魔兽世界不支持您的3D加速卡。更多详情，请查看：https://www.battlenet.com.cn/support/zh/article/126
+5,MSG_HW_CHANGED,硬件配置已更改，要采用默认设置吗？
+9,MSG_GLUEXML_UI_CORRUPT,您的登录界面文件已被破坏，请重新安装游戏。
+10,MSG_FRAMEXML_UI_CORRUPT,您的游戏界面文件已损坏。请删除您的Interface\FrameXML目录。
+11,MSG_GX_NO_DEVICE,无法找到合适的显示设备。正在退出程序。
+12,MSG_REMOTE_DESKTOP,不支持通过远程桌面连接运行《魔兽世界》。正在退出程序。
+14,MSG_CLIENT_INIT,魔兽世界正在进行必要数据文件的安装。这可能需要花费几分钟的时间。你也可以取消这个过程，经由启动器来完成安装。
+15,MSG_DOWNLOAD_FAILED,无法获取重要的游戏数据。请检查你的网络连接。
+16,MSG_DISK_FULL,磁盘空间已满。请释放更多的磁盘空间。
+17,MSG_GX_FAIL_API_VERSION,魔兽世界需要安装最新版本的DirectX Runtime。如需了解更多信息，请参考https://www.battlenet.com.cn/support/zh/article/driver-update-information。
+18,MSG_GX_FAIL_NO_DRIVER,魔兽世界无法识别出可用的显卡，请检查显卡驱动是否已经升级至最新版本，并确定您的电脑没有运行在安全模式下。如需了解更多信息，请参考https://www.battlenet.com.cn/support/zh/article/driver-update-information。
+27,MSG_COMPATIBILITY_ERROR,由于兼容模式设置问题，魔兽世界无法启动。请在关闭WoW.exe与Launcher.exe的兼容模式后再次尝试启动游戏。关于关闭兼容模式的步骤，请参见：https://www.battlenet.com.cn/support/zh/article/2085

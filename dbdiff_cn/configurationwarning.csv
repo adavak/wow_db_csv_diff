@@ -1,0 +1,9 @@
+ID,Warning_lang,Type
+2,"<html><body><p align=""CENTER"">警告：《魔兽世界》今后的版本将不再支持您的显卡，未来将需要支持Shader Model 3或者更好的显卡。</p></body></html>",0
+3,"<html><body><p align=""CENTER"">您的显卡驱动不兼容。请访问<a href=""https://www.battlenet.com.cn/support/zh/article/206"">https://www.battlenet.com.cn/support/zh/article/206</a>了解更多详情。</p></body></html>",3
+4,"<html><body><p align=""CENTER"">您的显卡驱动已过期。请访问<a href=""https://www.battlenet.com.cn/support/zh/article/31024"">https://www.battlenet.com.cn/support/zh/article/31024</a>了解更多信息。</p></body></html>",4
+5,"<html><body><p align=""CENTER"">《魔兽世界》不支持此显卡。请访问<a href=""https://www.battlenet.com.cn/support/zh/article/126"">https://www.battlenet.com.cn/support/zh/article/126</a>了解更多信息。</p></body></html>",1
+6,"<html><body><p align=""CENTER"">今后的魔兽世界版本将不再支持此系统。请访问<a href=""https://www.battlenet.com.cn/support/zh/article/126"">https://www.battlenet.com.cn/support/zh/article/126</a>了解更多信息。</p></body></html>",2
+7,"<html><body><p align=""CENTER"">您的显卡不兼容或者效果不佳。请访问<a href="": https://www.battlenet.com.cn/support/zh/article/126 "">https://www.battlenet.com.cn/support/zh/article/126 </a>了解更多信息。</p></body></html>",5
+10,"<html><body><p align=""CENTER"">警告：《魔兽世界》今后的版本将不再支持你当前的图形API。未来将需要DirectX 11或Metal。</p></body></html>",6
+11,"<html><body><p align=""CENTER"">警告：《魔兽世界》今后的版本将不再支持你当前的系统。未来将需要64位的操作系统。</p></body></html>",7

@@ -1,0 +1,160 @@
+Name_lang,ID,Field_9_0_1_33978_001,PlayerConditionID,ReagentType,Field_10_0_2_46091_005
+,12,1,0,0,0
+修正物品等级 - 强效,16,0,0,0,0
+指定某一副属性,17,0,0,0,0
+,31,0,0,0,0
+修正物品等级 - 次级,46,0,0,0,0
+,47,0,0,0,0
+,48,0,0,0,0
+,49,0,0,0,0
+,50,0,0,0,0
+指定某一副属性,67,0,0,0,0
+指定某一副属性,72,0,0,0,0
+指定某一副属性,73,0,0,0,0
+指定某一副属性,74,0,0,0,0
+指定某一副属性,75,0,0,0,0
+修正物品等级 - 次级,77,0,0,0,0
+提升技能等级,78,0,92156,0,0
+添加元尊强化,79,0,95770,0,0
+Test Ore (DNT),80,1,0,1,0
+Draconium Ore (DNT),81,0,0,1,0
+Primal Molten Alloy (DNT),82,0,0,1,0
+Frostfire Alloy (DNT),83,0,0,1,0
+Obsidian Seared Alloy (DNT),84,0,0,1,0
+Infurious Alloy (DNT),85,0,0,1,0
+不改变品质的附加材料,86,0,0,0,0
+改变品质的附加材料,87,0,0,0,0
+不改变和改变品质的附加材料,88,0,0,0,0
+Test finishing reagent (DNT),89,0,0,2,0
+Test finishing reagent Slot (DNT),90,0,0,2,0
+炼金催化剂,91,2,0,2,2
+次级卓然洞悉,92,2,0,2,2
+卓然洞悉,93,2,0,2,2
+炼金催化剂,94,2,0,2,2
+Hochenblume (DNT),98,0,0,1,0
+Writhebark (DNT),99,0,0,1,0
+Saxifrage (DNT),100,0,0,1,0
+Bubble Poppy (DNT),101,0,0,1,0
+Primal Convergent (DNT),102,0,0,1,0
+Omnium Draconis (DNT),103,0,0,1,0
+Draconic Vial (DNT),104,0,0,1,0
+Elemental Potion of Power (DNT),105,0,0,1,0
+Phial of Tepid Versatility (DNT),106,0,0,1,0
+Phial of Elemental Chaos (DNT),107,0,0,1,0
+Potion of Frozen Focus (DNT),108,0,0,1,0
+提升技能等级,110,0,92156,0,0
+注入能量,111,2,0,0,1
+添加修饰,112,0,0,0,1
+Serevite Ore (DNT),114,0,0,1,0
+用训练矩阵强化,116,0,0,0,1
+Khaz'gorite Ore (DNT),117,0,0,1,0
+添加修饰,123,0,0,0,1
+淬火液体,124,2,0,2,2
+自定义副属性,125,2,0,0,0
+注入能量,126,0,0,0,1
+Queen's Ruby (DNT),128,0,0,1,0
+Mystic Sapphire (DNT),129,0,0,1,0
+Vibrant Emerald (DNT),130,0,0,1,0
+Sundered Onyx (DNT),131,0,0,1,0
+Eternity Amber (DNT),132,0,0,1,0
+Alexstraszite (DNT),133,0,0,1,0
+Malygite (DNT),134,0,0,1,0
+Ysemerald (DNT),135,0,0,1,0
+Neltharite (DNT),136,0,0,1,0
+Nozdorite (DNT),137,0,0,1,0
+Illimited Diamond (DNT),138,0,0,1,0
+Frameless Lens (DNT),140,0,0,1,0
+Glossy Stone (DNT),142,0,0,1,0
+Shimmering Clasp (DNT),143,0,0,1,0
+Projection Prism (DNT),145,0,0,1,0
+Resilient Leather (DNT),146,0,0,1,0
+Adamant Scales (DNT),147,0,0,1,0
+Dense Hide (DNT),148,0,0,1,0
+Lustrous Scaled Hide (DNT),149,0,0,1,0
+Stonecrust Hide (DNT),150,0,0,1,0
+Mireslush Hide (DNT),151,0,0,1,0
+Infurious Hide (DNT),153,0,0,1,0
+Earthshine Scales (DNT),155,0,0,1,0
+Frostbite Scales (DNT),156,0,0,1,0
+Infurious Scales (DNT),157,0,0,1,0
+Silken Gemdust (DNT),158,0,0,1,0
+Elemental Harmony (DNT),159,0,0,1,0
+Vibrant Spellthread (DNT),169,0,0,1,0
+Frozen Spellthread (DNT),170,0,0,1,0
+Temporal Spellthread (DNT),171,0,0,1,0
+Wildercloth Bolt (DNT),172,0,0,1,0
+Azureweave Bolt (DNT),173,0,0,1,0
+Chronocloth Bolt (DNT),174,0,0,1,0
+Vibrant Wildercloth Bolt (DNT),175,0,0,1,0
+Infurious Wildercloth Bolt (DNT),176,0,0,1,0
+Spool of Wilderthread (DNT),177,0,0,1,0
+添加修饰,178,0,0,0,1
+添加修饰,179,0,0,0,1
+添加修饰,180,0,0,0,1
+刺绣线,181,2,0,2,2
+抛光布,182,2,0,2,2
+添加修饰,183,0,0,0,1
+链油,184,2,0,2,2
+固化剂,185,2,0,2,2
+Fiery Spirit (DNT),186,0,0,1,0
+用训练矩阵强化,189,0,0,0,1
+,190,0,0,2,2
+锦上添花,192,0,0,2,2
+秘密原料,193,0,0,2,2
+Handful of Serevite Bolts (DNT),194,0,0,1,0
+Shock-Spring Coil (DNT),195,0,0,1,0
+Everburning Blasting Powder (DNT),196,0,0,1,0
+Greased-Up Gears (DNT),197,0,0,1,0
+Arclight Capacitor (DNT),198,0,0,1,0
+Reinforced Machine Chassis (DNT),199,0,0,1,0
+Assorted Safety Fuses (DNT),200,0,0,1,0
+Primal Deconstruction Charge (DNT),201,0,0,1,0
+暗月徽记,202,2,0,0,0
+Refreshing Healing Potion (DNT),203,0,0,1,0
+Aerated Mana Potion (DNT),204,0,0,1,0
+Potion of Gusts (DNT),205,0,0,1,0
+Creature Combustion Canister (DNT),206,0,0,1,0
+Draconium Gun Shoes (DNT),207,0,0,1,0
+Gravitational Displacer (DNT),208,0,0,1,0
+Blazing Ink (DNT),209,0,0,1,0
+Cosmic Ink (DNT),210,0,0,1,0
+Flourishing Ink (DNT),211,0,0,1,0
+Burnished Ink (DNT),212,0,0,1,0
+Serene Ink (DNT),213,0,0,1,0
+Serene Pigment (DNT),214,0,0,1,0
+Flourishing Pigment (DNT),215,0,0,1,0
+Blazing Pigment (DNT),216,0,0,1,0
+Shimmering Pigment (DNT),217,0,0,1,0
+Chilled Rune (DNT),218,0,0,1,0
+Runed Writhebark (DNT),219,0,0,1,0
+Potion of the Hushed Zephyr (DNT),220,0,0,1,0
+去污沙,221,2,0,2,2
+自定义制作属性,222,0,0,0,0
+安全组件,223,2,0,0,0
+增强副属性,224,2,0,0,0
+增强副属性,225,0,0,0,0
+添加修饰,226,2,0,0,1
+自定义副属性,227,0,0,0,0
+备用部件,230,2,0,2,2
+自定义采集属性,231,0,0,0,0
+自定义制作属性,232,0,0,0,0
+添加修饰,233,2,0,0,1
+抛光布,234,0,0,2,2
+次级卓然洞悉,235,0,0,2,2
+钢铸之魂,236,0,0,0,0
+真钢之魂,237,0,0,0,0
+加油锁具袋,238,0,0,0,0
+真铁扳机,239,0,0,0,0
+上光精华,240,0,0,0,0
+妖纹精华,241,0,0,0,0
+武器水晶,242,0,0,0,0
+自定义副属性,243,2,0,0,0
+提高PvP物品等级,244,0,0,0,1
+提高PvP物品等级,245,0,0,0,1
+提高PvP物品等级,246,0,0,0,1
+火花,247,4,0,0,1
+Shadowed Alloy (DNT),248,0,0,1,0
+去污沙,249,0,0,2,2
+Wildercloth Bandage (DNT),250,0,0,1,0
+镶孔,251,0,0,3,3
+镶孔,252,0,0,3,3
