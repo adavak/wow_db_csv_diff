@@ -52,9 +52,12 @@ ID,Title_lang,Description_lang,UiTextureKitID,RewardQuestID,Prerequisite,Field_9
 173,"Dracthyr, Awaken","Dracthyr Evoker starting zone, Zone 0, Horde",5467,0,99584,96645,99954,0,46,0,0,0,0
 174,The Azure Span,Level-up for zone 3,5466,0,102804,0,0,0,47,0,0,104511,0
 189,Thaldraszus,Level-up for Zone 4,5470,0,102815,102815,0,0,51,0,0,104511,0
+190,The Dreamer,Max Level Green Dragons Zone 2,5469,0,21439,21439,0,0,48,0,0,0,34450
 191,Professions Onboarding Skip,,0,0,5703,5703,0,0,0,0,0,0,0
 192,Valdrakken Accord,Max Level Tyrhold Zone 4,5470,0,104933,34450,0,0,51,0,0,0,34450
 193,Valdrakken,,5470,0,21439,21439,0,0,51,0,0,0,0
+194,Iskaara Tuskarr,Max Level Renown Iskaara Tuskarr Zone 1,5471,0,104934,34450,0,0,49,0,0,0,34450
+197,Dragonscale Expedition,Dragonscale Expedition Renown Campaign,5468,0,104935,34450,0,0,50,0,0,0,34450
 198,Catching Up!,,0,0,5703,5703,0,0,0,0,0,0,0
 199,The Mother Oathstone,10.0 - Raid Opening Quests,5470,0,21439,103947,0,0,51,0,0,0,0
 200,Obsidian Citadel,,0,0,5703,5703,0,0,0,0,0,0,0

@@ -8260,6 +8260,7 @@ ID,ZoneName,AreaName_lang,ContinentID,ParentAreaID,AreaBit,SoundProviderPref,Sou
 13877,SteelcliffRampart,Steelcliff Rampart,2444,13647,12480,0,0,0,0,2678,0,0,0,0,0,15,-1,0,0,0,0,1073741888,0,0,0,0,0
 13878,AqueductBasin,Aqueduct Basin,2444,13647,12481,0,0,0,0,2653,0,0,0,0,0,15,-1,0,0,0,0,1073741888,0,0,0,0,0
 13879,ThePetitionersConcourse,The Petitioner's Concourse,2444,13647,12482,0,0,0,0,2678,0,0,0,0,0,15,-1,0,0,0,0,1073741888,0,0,0,0,0
+13880,SealedTitanFacility,Sealed Titan Facility,2444,13647,12483,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,0,1073741888,0,0,0,0,0
 13881,WildCliffs,Wild Cliffs,2444,13647,12484,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,0,1073741888,0,0,0,0,0
 13882,ProvisFlora,Provis Flora,2374,13536,12485,0,0,0,0,2587,0,0,0,0,0,15,-1,25,25,0,2057,1073758272,0,0,0,0,0
 13883,ProvisTerra,Provis Terra,2374,13536,12486,0,0,0,0,2587,0,0,0,0,0,15,-1,25,25,0,2057,1073758272,0,0,0,0,0
@@ -8393,6 +8394,7 @@ ID,ZoneName,AreaName_lang,ContinentID,ParentAreaID,AreaBit,SoundProviderPref,Sou
 14081,HouseofPlaguesLordaeron,House of Plagues,2222,12775,0,0,0,2283,0,2445,0,0,0,0,0.15,15,-1,0,0,0,1340,1073741888,8320,0,0,0,0
 14082,HallsofInfusion,Halls of Infusion,2527,0,12146,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,2155,268435456,12,0,0,0,0
 14083,EnigmaCrucible,Enigma Crucible,2547,0,12147,0,0,2434,0,2627,0,1604,0,0,0,13,-1,0,0,0,969,65664,0,0,0,0,0
+14084,10MaxGreensEmeraldDreamway,Emerald Dreamway,2556,0,0,0,0,1408,675,2315,0,0,0,0,0.15,13,-1,0,0,0,2523,268505088,128,0,0,0,0
 14085,GenesisFalls,Genesis Falls,2444,13644,0,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,2523,1140867136,8320,0,0,0,0
 14086,AshscaleHalls,Ashscale Halls,2444,13644,0,0,0,2440,2476,0,0,0,0,0,0,15,-1,0,0,0,2523,1140867136,8320,0,0,0,0
 14087,AshscaleHallsScenario,Ashscale HallsS,2444,13644,0,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,2151,1140867136,8320,0,0,0,0
@@ -8433,6 +8435,9 @@ ID,ZoneName,AreaName_lang,ContinentID,ParentAreaID,AreaBit,SoundProviderPref,Sou
 14158,Hissinggrotto,Hissing Grotto,2444,13644,0,0,0,2588,2589,0,0,0,0,0,0,15,-1,0,0,0,2523,1140867136,8320,0,0,0,0
 14159,CreektoothDenDeathCave,Creektooth Den,2444,13646,0,0,0,0,0,0,0,0,0,0,0,0,-1,0,0,0,0,1073741888,128,0,0,0,0
 14160,FlayscaleCavern,Flayscale Cavern,2444,13644,0,0,0,2440,2476,2640,0,0,0,0,0,15,-1,0,0,0,2523,1141162048,41088,0,0,0,0
+14343,HallOfRecords,Hall of Records,2444,13647,0,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,0,1073741888,128,0,0,0,0
+14344,HallOfSamples,Hall of Samples,2444,13647,0,0,0,0,0,0,0,0,0,0,0,13,-1,0,0,0,0,1073741888,128,0,0,0,0
+14345,HallOfAspects,Hall of the Aspects,2444,13647,0,0,0,0,0,0,0,0,0,0,0,13,-1,0,0,0,0,1073741888,128,0,0,0,0
 14346,UktulutPier,Uktulut Pier,2444,13644,12276,0,0,0,0,2657,0,0,0,0,0,15,-1,0,0,0,2523,1140867136,8192,0,0,0,0
 14347,MountainviewPost,Mountainview Post,2444,13645,0,0,0,0,0,2641,0,0,0,0,0,15,-1,0,0,0,2523,1140867136,8320,0,0,0,0
 14348,FlutteringCavern,Fluttering Cavern,2444,13644,0,0,0,0,0,0,0,0,0,0,0,15,-1,0,0,0,2523,1140867136,8320,0,0,0,0

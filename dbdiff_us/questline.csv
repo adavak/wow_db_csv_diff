@@ -945,6 +945,8 @@ ID,Name_lang,Description_lang,Field_10_1_0_48898_002,QuestID,PlayerConditionID
 1304,Maruukai,,0,0,0
 1305,Ohn'ahra's Blessing,,0,0,0
 1306,Bonds Renewed,,0,0,0
+1308,Garden of Secrets,,0,0,0
+1309,The Dreamer,,0,0,0
 1310,"Valdrakken, City of Dragons",,0,0,0
 1311,The Dark Talons,,0,0,0
 1314,Into the Archives,,0,0,0
@@ -955,6 +957,7 @@ ID,Name_lang,Description_lang,Field_10_1_0_48898_002,QuestID,PlayerConditionID
 1323,Big Time Adventurer,,0,0,0
 1324,Time Management,,0,0,0
 1325,The Silver Purpose,,0,0,0
+1331,"A Mystery, Sealed",Dragonscale Expedition Renown Chapter 1,0,0,0
 1333,The Mother Oathstone,,0,0,0
 1347,10.0 Professions - Alchemy,,0,0,0
 1348,10.0 Professions - Blacksmithing,,0,0,0
@@ -969,6 +972,7 @@ ID,Name_lang,Description_lang,Field_10_1_0_48898_002,QuestID,PlayerConditionID
 1357,10.0 Professions - Tailoring,,0,0,0
 1358,Introduction to Dragonriding,,0,0,0
 1359,[DEPRECATED],,0,0,0
+1362,The Chieftain's Duty,,0,0,0
 1363,Ancient Waygates,Travel Network,0,0,0
 1364,Catching Up!,,0,0,0
 1366,Born to Be Wilder,,0,0,0
@@ -978,6 +982,7 @@ ID,Name_lang,Description_lang,Field_10_1_0_48898_002,QuestID,PlayerConditionID
 1371,Tyr's Third Challenge,,0,0,0
 1372,Tyr's Fourth Challenge,,0,0,0
 1373,Releasing Ingenuity,,0,0,0
+1374,In the Halls of Titans,Dragonscale Expedition Renown Chapter 2,0,0,0
 1375,Professions Quest,,0,0,5703
 1376,Obsidian Citadel Alt Skip,,0,0,0
 1378,Adamanthia,,0,0,0
@@ -990,6 +995,7 @@ ID,Name_lang,Description_lang,Field_10_1_0_48898_002,QuestID,PlayerConditionID
 1385,The Chieftain's Duty,,0,0,0
 1386,"A Mystery, Sealed",Dragonscale Expedition Renown Chapter 1,0,0,0
 1387,Garden of Secrets,,0,0,0
+1388,The Dreamer,,0,0,0
 1389,The Silver Purpose,,0,0,0
 1390,The Spark of Ingenuity,,0,0,5703
 1392,Breaking Ground,,0,0,0
