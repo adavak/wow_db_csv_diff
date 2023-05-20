@@ -2272,7 +2272,7 @@ A dream of the memory of fire.,|cFFFFD200Vendor: |rMythressa|n|cFFFFD200Zone: |r
 Scruffles' lust for battle runs deep.,|cFFFFD200Drop: |rVraken the Hunter|n|cFFFFD200Zone: |rThe Forbidden Reach,3291,189115,375047,3946886,7,2,0,6,7,0
 Some think this creature is smoldering because it is on fire. In truth it's because of its burning gaze.,|cFFFFD200Quest: |rTale of the Phoenix|n|cFFFFD200Zone: |rThe Waking Shores,3292,189117,375084,4007139,5,2,1,6,7,0
 Red for the fires in which it was born.,|cFFFFD200Drop: |rBonesifter Marwak|n|cFFFFD200Zone: |rThe Forbidden Reach,3293,189118,375085,4007140,5,2,0,6,7,0
-Is it possible to rise from the ashes of time? Gerald thinks so and he will not be denied.,|cFFFFD200Achievement: |rFamily Battler of Zaralek Cavern|n|cFFFFD200Category: |rBattle,3294,189119,375089,4007141,5,2,5,6,7,0
+Is it possible to rise from the ashes of time? Gerald thinks so and he will not be denied.,|cFFFFD200Achievement: |rFamily Battler of Zaralek Cavern|n|cFFFFD200Category: |rBattle,3294,189119,375089,4007141,5,82,5,6,7,0
 "An Igneoid is formed when magma makes it to Azeroth's surface and is infused with dark elemental magic. The resulting creature is tiny, fierce, and very cute.","|cFFFFD200Pet Battle: |rThaldraszus, The Azure Span, The Waking Shores",3295,189121,0,1016245,6,26,4,6,7,0
 This salamanther wants to be your best friend.,"|cFFFFD200Pet Battle: |rOhn'ahran Plains, Thaldraszus, The Azure Span, The Waking Shores",3296,189122,0,4056158,8,26,4,6,7,0
 This Salamanther met itself while lost in time. The two hung out on a rock together for a few hours. It was nice.,,3297,189123,375235,4056156,8,16416,-1,6,7,0
@@ -2497,3 +2497,4 @@ Kromos can often be found napping in sandboxes.,,3556,204370,408332,4719557,1,16
 ,,3573,204939,0,5003562,4,32,-1,6,7,0
 Newsy delivers mail all around the Dragon Isles. She is so quick and reliable that the small holes on the letters she delivers are negligible.,"|cFFFFD200Quest: |rSigned, Sealed, and Self Delivered",3578,205359,411110,5003562,4,82,1,6,7,0
 "Also known as the Lord of Lies, Baa'lial is a master of deceit.",|cFFFFD200Promotion:|r|n,3580,205637,411791,5159899,5,16466,7,6,7,0
+The light of the new legacy illuminates the path you forge.,|cFFFFD200Treasure:|rWayward Motes of Nasz'uro |n,3581,205649,411800,5098442,6,210,10,6,7,0
