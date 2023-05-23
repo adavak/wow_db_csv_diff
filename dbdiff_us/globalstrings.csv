@@ -2176,7 +2176,7 @@ ID,BaseTag,TagText_lang,Flags
 12094,MARKED_AFK,You are now Away.,1
 12095,EMBLEM_BORDER_COLOR,Border Color,1
 12096,ERR_GUILDEMBLEM_COLORSPRESENT,Your guild already has an emblem!,1
-12097,ERR_GUILD_NOT_ALLIED,You can't invite players from the opposing faction.,1
+12097,ERR_GUILD_NOT_ALLIED,Only Battle.net friends can be invited from the opposing faction.,1
 12098,VOICEMACRO_4_Dw_0_FEMALE,Join my attack!,1
 12099,VOICEMACRO_8_Dw_1_FEMALE,Tend me wounds!,1
 12100,VOICEMACRO_5_Ni_0,My mana is low!,1
