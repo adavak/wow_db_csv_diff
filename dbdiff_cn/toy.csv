@@ -893,6 +893,7 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200掉落：|r斯考纳克|n|cFFFFD200地区：|r查拉雷克洞窟,1321,205463,0,0
 |cFFFFD200世界任务：|r金光闪闪,1322,205688,0,-1
 |cFFFFD200掉落：|r因沃克|n|cFFFFD200地区：|r查拉雷克洞窟,1323,205796,0,0
+|cFFFFD200任务：|r平静的告别|n|cFFFFD200地区：|r碧蓝林海,1324,205908,2,1
 |cFFFFD200成就：|r洞窟炼爪|n|cFFFFD200分类：|r巨龙时代,1325,205904,0,-1
 |cFFFFD200商人出售：|r哈洛维·玛尔|n|cFFFFD200地区：|r查拉雷克洞窟|n|cFFFFD200价格：|r200|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,1326,205963,0,2
 |cFFFFD200掉落：|r菲莱克的信徒,1327,206043,0,-1

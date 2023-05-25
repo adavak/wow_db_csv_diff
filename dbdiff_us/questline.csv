@@ -1004,6 +1004,13 @@ ID,Name_lang,Description_lang,Field_10_1_0_48898_002,QuestID,PlayerConditionID
 1395,Inherited Sin,,0,0,0
 1396,Inevitable Confrontation,,0,0,0
 1397,"A Flame, Extinguished",,0,0,0
+1398,The Veiled Ossuary,,0,0,0
+1399,Chapter 2A - Crystalsong Forest,,0,0,0
+1400,Chapter 2B - Theramore,,0,0,0
+1401,Chapter 3A - Booty Bay,,0,0,0
+1402,Chapter 3B - Jade Forest,,0,0,0
+1403,Chapter 3C - Winterspring,,0,0,0
+1404,United Again,,0,0,0
 1405,10.0 Pre-Patch [DNT],,0,0,5793
 1406,10.0 Faction Swap Protection [DNT],,0,0,5793
 1407,Old Hatreds,,0,0,5793
@@ -1017,11 +1024,13 @@ ID,Name_lang,Description_lang,Field_10_1_0_48898_002,QuestID,PlayerConditionID
 1418,The Storm's Fury,,0,0,0
 1419,Relic Recovery,,0,0,0
 1420,Preserving the Past,,0,0,0
+5348,Tarecgosa's Rest,,0,0,0
 5349,Blue Dragon Campaign,,0,0,0
 5350,Catalyst (DNT),,0,0,0
 5352,New Legacy,,0,0,0
 5353,The Dragons and the Scale Expedition,"A Dragonscale Expedition group have been attacked. Help them, and Two Dragons who have stopped to help recover",0,0,0
 5354,"Return to the Reach - Skip Questline (Not a Real Questline, Used for Skips)",,0,0,0
+5355,Azure Span Chapter 1,,0,0,0
 5356,"A Creche Divided - Skip Questline (Not a Real Questline, Used for Skips)",,0,0,0
 5357,Orc Heritage Armor,,0,0,0
 5359,Zskera Vaults,,0,0,0
