@@ -3729,3 +3729,4 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 无穷的仇恨吞噬了目标，使目标受到的每次伤害都提高 [abs(abilityStateMod(71,2504))*AttackBonus()] 点。
 
 持续[duration(1,1)]轮。",4050664,5,5,0,2
+2506,臣服恐惧,,132296,3,0,0,2

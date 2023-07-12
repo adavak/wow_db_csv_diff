@@ -9083,13 +9083,13 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 17869,|cFFFFD200专精：|r武器打造 - 长刃,-1,3,367585
 17870,|cFFFFD200专精：|r武器打造 - 锤,-1,3,367586
 17871,|cFFFFD200掉落：|r世界生物|n|cFFFFD200地区：|r黑曜堡垒|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,367587
-17872,|cFFFFD200商人出售：|r军需官胡森|n|cFFFFD200地区：|r欧恩哈拉平原|n|cFFFFD200阵营：|r马鲁克半人马 - 名望等级13|n|cFFFFD200价格：|r300|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,367588
-17873,|cFFFFD200商人出售：|r军需官胡森|n|cFFFFD200地区：|r欧恩哈拉平原|n|cFFFFD200阵营：|r马鲁克半人马 - 名望等级13|n|cFFFFD200价格：|r300|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,367589
-17874,|cFFFFD200商人出售：|r多赛诺斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200阵营：|r瓦德拉肯联军 - 名望等级14|n|cFFFFD200价格：|r300|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h|n|n|cFFFFD200商人出售：|r乌纳托斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200阵营：|r瓦德拉肯联军 - 名望等级14|n|cFFFFD200价格：|r300|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,367590
+17872,|cFFFFD200商人出售：|r军需官胡森|n|cFFFFD200地区：|r欧恩哈拉平原|n|cFFFFD200价格：|r400|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,367588
+17873,|cFFFFD200商人出售：|r军需官胡森|n|cFFFFD200地区：|r欧恩哈拉平原|n|cFFFFD200价格：|r400|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,367589
+17874,|cFFFFD200商人出售：|r多赛诺斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r400|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h|n|n|cFFFFD200商人出售：|r乌纳托斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r400|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,367590
 17875,|cFFFFD200掉落：|r世界生物|n|cFFFFD200地区：|r黑曜堡垒|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,367591
-17876,|cFFFFD200商人出售：|r多赛诺斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200阵营：|r瓦德拉肯联军 - 名望等级14|n|cFFFFD200价格：|r300|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h|n|n|cFFFFD200商人出售：|r乌纳托斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200阵营：|r瓦德拉肯联军 - 名望等级14|n|cFFFFD200价格：|r300|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,367592
+17876,|cFFFFD200商人出售：|r多赛诺斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r400|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h|n|n|cFFFFD200商人出售：|r乌纳托斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r400|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,367592
 17877,|cFFFFD200掉落：|r世界生物|n|cFFFFD200地区：|r黑曜堡垒|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,367593
-17878,|cFFFFD200商人出售：|r军需官胡森|n|cFFFFD200地区：|r欧恩哈拉平原|n|cFFFFD200阵营：|r马鲁克半人马 - 名望等级13|n|cFFFFD200价格：|r300|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,367594
+17878,|cFFFFD200商人出售：|r军需官胡森|n|cFFFFD200地区：|r欧恩哈拉平原|n|cFFFFD200价格：|r400|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,367594
 17879,|cFFFFD200专业技能训练师：|r巨龙群岛锻造（30）|n|cFFFFD200价格：|r140|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,367595
 17880,|cFFFFD200专业技能训练师：|r巨龙群岛锻造（20）|n|cFFFFD200价格：|r110|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,367596
 17881,|cFFFFD200专业技能训练师：|r巨龙群岛锻造（45）|n|cFFFFD200价格：|r170|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,367597
@@ -9145,8 +9145,8 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 17931,|cFFFFD200专精：|r药水精通 - 批量生产（10）,-1,3,370668
 17932,|cFFFFD200掉落：|r 扎卡利突袭|n|cFFFFD200地区：|r亚贝鲁斯，焰影熔炉|n|cFFFFD200习得：|r元素究极强能法典|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,370672
 17933,|cFFFFD200钓鱼：|r瓶中的巨龙配方|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,370673
-17934,|cFFFFD200商人出售：|r多赛诺斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200阵营：|r瓦德拉肯联军 - 名望等级14|n|cFFFFD200价格：|r300|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h|n|n|cFFFFD200商人出售：|r乌纳托斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200阵营：|r瓦德拉肯联军 - 名望等级14|n|cFFFFD200价格：|r300|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,370676
-17935,|cFFFFD200商人出售：|r军需官胡森|n|cFFFFD200地区：|r欧恩哈拉平原|n|cFFFFD200阵营：|r马鲁克半人马 - 名望等级13|n|cFFFFD200价格：|r300|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,370677
+17934,|cFFFFD200商人出售：|r多赛诺斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r400|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h|n|n|cFFFFD200商人出售：|r乌纳托斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r400|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,370676
+17935,|cFFFFD200商人出售：|r军需官胡森|n|cFFFFD200地区：|r欧恩哈拉平原|n|cFFFFD200价格：|r400|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,370677
 17936,|cFFFFD200掉落：|r火焰世界生物|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,370707
 17937,|cFFFFD200商人出售：|r斯泰兹|n|cFFFFD200地区：|r碧蓝林海|n|cFFFFD200阵营：|r钴蓝集所 - 中|n|cFFFFD200价格：|r50|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,370708
 17938,|cFFFFD200掉落：|r大地世界生物|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,370710
@@ -9229,8 +9229,8 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 18015,|cFFFFD200专精：|r事业心,-1,3,374483
 18016,|cFFFFD200专精：|r事业心 - 奢侈品,-1,3,374484
 18017,|cFFFFD200商人出售：|r马格尔老板|n|cFFFFD200地区：|r觉醒海岸|n|cFFFFD200阵营：|r龙鳞探险队 - 名望等级13|n|cFFFFD200价格：|r200|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t|n|n|cFFFFD200商人出售：|r编目员杰克斯|n|cFFFFD200地区：|r觉醒海岸|n|cFFFFD200阵营：|r龙鳞探险队 - 名望等级13|n|cFFFFD200价格：|r200|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,374486
-18018,|cFFFFD200商人出售：|r穆里克|n|cFFFFD200地区：|r碧蓝林海|n|cFFFFD200阵营：|r伊斯卡拉海象人 - 名望等级15|n|cFFFFD200价格：|r300|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h|n|n|cFFFFD200商人出售：|r罗库图克|n|cFFFFD200地区：|r碧蓝林海|n|cFFFFD200阵营：|r伊斯卡拉海象人 - 名望等级15|n|cFFFFD200价格：|r300|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,374488
-18019,|cFFFFD200商人出售：|r穆里克|n|cFFFFD200地区：|r碧蓝林海|n|cFFFFD200阵营：|r伊斯卡拉海象人 - 名望等级15|n|cFFFFD200价格：|r300|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h|n|n|cFFFFD200商人出售：|r罗库图克|n|cFFFFD200地区：|r碧蓝林海|n|cFFFFD200阵营：|r伊斯卡拉海象人 - 名望等级15|n|cFFFFD200价格：|r300|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,374490
+18018,|cFFFFD200商人出售：|r穆里克|n|cFFFFD200地区：|r碧蓝林海|n|cFFFFD200价格：|r400|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h|n|n|cFFFFD200商人出售：|r罗库图克|n|cFFFFD200地区：|r碧蓝林海|n|cFFFFD200价格：|r400|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,374488
+18019,|cFFFFD200商人出售：|r穆里克|n|cFFFFD200地区：|r碧蓝林海|n|cFFFFD200价格：|r400|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h|n|n|cFFFFD200商人出售：|r罗库图克|n|cFFFFD200地区：|r碧蓝林海|n|cFFFFD200价格：|r400|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,374490
 18020,|cFFFFD200商人出售：|r马格尔老板|n|cFFFFD200地区：|r觉醒海岸|n|cFFFFD200阵营：|r龙鳞探险队 - 名望等级13|n|cFFFFD200价格：|r200|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t|n|n|cFFFFD200商人出售：|r编目员杰克斯|n|cFFFFD200地区：|r觉醒海岸|n|cFFFFD200阵营：|r龙鳞探险队 - 名望等级13|n|cFFFFD200价格：|r200|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,374493
 18021,|cFFFFD200专业技能训练师：|r巨龙群岛珠宝加工（15）|n|cFFFFD200价格：|r100|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,374494
 18022,|cFFFFD200商人出售：|r科加纳尔·焖炉|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,374495
@@ -9305,20 +9305,20 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 18091,|cFFFFD200商人出售：|r科加纳尔·焖炉|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,375141
 18092,|cFFFFD200掉落：|r腐朽生物|n|cFFFFD200地区：|r蕨皮山谷与周边区域|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,375142
 18093,|cFFFFD200掉落：|r腐朽生物|n|cFFFFD200地区：|r蕨皮山谷与周边区域|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,375143
-18094,|cFFFFD200商人出售：|r穆里克|n|cFFFFD200地区：|r碧蓝林海|n|cFFFFD200阵营：|r伊斯卡拉海象人 - 名望等级15|n|cFFFFD200价格：|r300|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h|n|n|cFFFFD200商人出售：|r罗库图克|n|cFFFFD200地区：|r碧蓝林海|n|cFFFFD200阵营：|r伊斯卡拉海象人 - 名望等级15|n|cFFFFD200价格：|r300|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,375144
+18094,|cFFFFD200商人出售：|r穆里克|n|cFFFFD200地区：|r碧蓝林海|n|cFFFFD200价格：|r400|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h|n|n|cFFFFD200商人出售：|r罗库图克|n|cFFFFD200地区：|r碧蓝林海|n|cFFFFD200价格：|r400|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,375144
 18095,|cFFFFD200掉落：|r 扎卡利突袭|n|cFFFFD200地区：|r亚贝鲁斯，焰影熔炉|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,375145
-18096,|cFFFFD200商人出售：|r穆里克|n|cFFFFD200地区：|r碧蓝林海|n|cFFFFD200阵营：|r伊斯卡拉海象人 - 名望等级15|n|cFFFFD200价格：|r300|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h|n|n|cFFFFD200商人出售：|r罗库图克|n|cFFFFD200地区：|r碧蓝林海|n|cFFFFD200阵营：|r伊斯卡拉海象人 - 名望等级15|n|cFFFFD200价格：|r300|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,375146
+18096,|cFFFFD200商人出售：|r穆里克|n|cFFFFD200地区：|r碧蓝林海|n|cFFFFD200价格：|r400|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h|n|n|cFFFFD200商人出售：|r罗库图克|n|cFFFFD200地区：|r碧蓝林海|n|cFFFFD200价格：|r400|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,375146
 18097,|cFFFFD200掉落：|r 扎卡利突袭|n|cFFFFD200地区：|r亚贝鲁斯，焰影熔炉|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,375147
 18098,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,375148
 18099,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,375149
 18100,|cFFFFD200掉落：|r腐朽生物|n|cFFFFD200地区：|r蕨皮山谷与周边区域|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,375150
 18101,|cFFFFD200掉落：|r腐朽生物|n|cFFFFD200地区：|r蕨皮山谷与周边区域|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,375151
 18102,|cFFFFD200掉落：|r 扎卡利突袭|n|cFFFFD200地区：|r亚贝鲁斯，焰影熔炉|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,375152
-18103,|cFFFFD200商人出售：|r军需官胡森|n|cFFFFD200地区：|r欧恩哈拉平原|n|cFFFFD200阵营：|r马鲁克半人马 - 名望等级13|n|cFFFFD200价格：|r300|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,375153
+18103,|cFFFFD200商人出售：|r军需官胡森|n|cFFFFD200地区：|r欧恩哈拉平原|n|cFFFFD200价格：|r400|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,375153
 18104,|cFFFFD200掉落：|r 扎卡利突袭|n|cFFFFD200地区：|r亚贝鲁斯，焰影熔炉|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,375154
 18105,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,375155
 18106,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,375156
-18107,|cFFFFD200商人出售：|r军需官胡森|n|cFFFFD200地区：|r欧恩哈拉平原|n|cFFFFD200阵营：|r马鲁克半人马 - 名望等级13|n|cFFFFD200价格：|r300|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,375157
+18107,|cFFFFD200商人出售：|r军需官胡森|n|cFFFFD200地区：|r欧恩哈拉平原|n|cFFFFD200价格：|r400|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,375157
 18108,|cFFFFD200专精：|r始源制皮 - 卓越野兽（20）,-1,3,375159
 18109,|cFFFFD200专精：|r始源制皮 - 腐朽之握（20）,-1,3,375160
 18110,|cFFFFD200商人出售：|r斯泰兹|n|cFFFFD200地区：|r碧蓝林海|n|cFFFFD200阵营：|r钴蓝集所 - 高|n|cFFFFD200价格：|r50|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,375161
@@ -9364,11 +9364,11 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 18150,|cFFFFD200掉落：|r 扎卡利突袭|n|cFFFFD200地区：|r亚贝鲁斯，焰影熔炉|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,376496
 18151,|cFFFFD200掉落：|r 扎卡利突袭|n|cFFFFD200地区：|r亚贝鲁斯，焰影熔炉|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,376497
 18152,|cFFFFD200专精：|r巨龙针线活 - 青纹布裁缝（30）,-1,3,376500
-18153,|cFFFFD200商人出售：|r多赛诺斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200阵营：|r瓦德拉肯联军 - 名望等级14|n|cFFFFD200价格：|r300|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h|n|n|cFFFFD200商人出售：|r乌纳托斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200阵营：|r瓦德拉肯联军 - 名望等级14|n|cFFFFD200价格：|r300|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,376501
+18153,|cFFFFD200商人出售：|r多赛诺斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r400|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h|n|n|cFFFFD200商人出售：|r乌纳托斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r400|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,376501
 18154,|cFFFFD200专精：|r巨龙针线活 - 青纹布裁缝（10）,-1,3,376502
 18155,|cFFFFD200专精：|r巨龙针线活 - 时序布裁缝（10）,-1,3,376503
 18156,|cFFFFD200专精：|r巨龙针线活 - 时序布裁缝（30）,-1,3,376504
-18157,|cFFFFD200商人出售：|r多赛诺斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200阵营：|r瓦德拉肯联军 - 名望等级14|n|cFFFFD200价格：|r300|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h|n|n|cFFFFD200商人出售：|r乌纳托斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200阵营：|r瓦德拉肯联军 - 名望等级14|n|cFFFFD200价格：|r300|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,376505
+18157,|cFFFFD200商人出售：|r多赛诺斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r400|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h|n|n|cFFFFD200商人出售：|r乌纳托斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r400|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,376505
 18158,|cFFFFD200专业技能训练师：|r巨龙群岛裁缝（20）|n|cFFFFD200价格：|r110|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,376506
 18159,|cFFFFD200专业技能训练师：|r巨龙群岛裁缝（15）|n|cFFFFD200价格：|r100|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,376507
 18160,|cFFFFD200专业技能训练师：|r巨龙群岛裁缝（10）|n|cFFFFD200价格：|r80|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,376508
@@ -9454,7 +9454,7 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 18240,|cFFFFD200专业技能训练师：|r巨龙群岛烹饪（15）|n|cFFFFD200价格：|r100|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,381368
 18241,|cFFFFD200专业技能训练师：|r巨龙群岛烹饪（45）|n|cFFFFD200价格：|r170|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,381371
 18242,|cFFFFD200商人出售：|r马格尔老板|n|cFFFFD200地区：|r觉醒海岸|n|cFFFFD200阵营：|r龙鳞探险队 - 名望等级13|n|cFFFFD200价格：|r200|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t|n|n|cFFFFD200商人出售：|r编目员杰克斯|n|cFFFFD200地区：|r觉醒海岸|n|cFFFFD200阵营：|r龙鳞探险队 - 名望等级13|n|cFFFFD200价格：|r200|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,381373
-18243,|cFFFFD200商人出售：|r穆里克|n|cFFFFD200地区：|r碧蓝林海|n|cFFFFD200阵营：|r伊斯卡拉海象人 - 名望等级15|n|cFFFFD200价格：|r300|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h|n|n|cFFFFD200商人出售：|r罗库图克|n|cFFFFD200地区：|r碧蓝林海|n|cFFFFD200阵营：|r伊斯卡拉海象人 - 名望等级15|n|cFFFFD200价格：|r300|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,381375
+18243,|cFFFFD200商人出售：|r穆里克|n|cFFFFD200地区：|r碧蓝林海|n|cFFFFD200价格：|r400|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h|n|n|cFFFFD200商人出售：|r罗库图克|n|cFFFFD200地区：|r碧蓝林海|n|cFFFFD200价格：|r400|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,381375
 18244,|cFFFFD200宝藏：|r积雪覆盖的卷轴|n|cFFFFD200地区：|r碧蓝林海,-1,0,381376
 18245,|cFFFFD200商人出售：|r金库图克|n|cFFFFD200地区：|r碧蓝林海|n|cFFFFD200价格：|r20|Hitem:197760|h|TInterface\ICONS\INV_Cooking_80_SailorsPie.BLP:0|t|h 1|Hitem:197772|h|TInterface\ICONS\INV_Drink_19.blp:0|t|h,-1,2,381377
 18246,|cFFFFD200任务：|r欧恩指引我心|n|cFFFFD200地区：|r欧恩哈拉平原,-1,1,381378
@@ -9616,12 +9616,12 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 18402,|cFFFFD200专业技能训练师：|r巨龙群岛铭文（45）|n|cFFFFD200价格：|r170|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,383561
 18403,|cFFFFD200专业技能训练师：|r巨龙群岛铭文（45）|n|cFFFFD200价格：|r170|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,383562
 18404,|cFFFFD200专业技能训练师：|r巨龙群岛铭文（10）|n|cFFFFD200价格：|r80|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,383563
-18405,|cFFFFD200商人出售：|r马格尔老板|n|cFFFFD200地区：|r觉醒海岸|n|cFFFFD200阵营：|r龙鳞探险队 - 名望等级21|n|cFFFFD200价格：|r200|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t|n|n|cFFFFD200商人出售：|r编目员杰克斯|n|cFFFFD200地区：|r觉醒海岸|n|cFFFFD200阵营：|r龙鳞探险队 - 名望等级21|n|cFFFFD200价格：|r200|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,383565
+18405,|cFFFFD200商人出售：|r马格尔老板|n|cFFFFD200地区：|r觉醒海岸|n|cFFFFD200阵营：|r龙鳞探险队 - 名望等级21|n|cFFFFD200价格：|r750|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h|n|n|cFFFFD200商人出售：|r编目员杰克斯|n|cFFFFD200地区：|r觉醒海岸|n|cFFFFD200阵营：|r龙鳞探险队 - 名望等级21|n|cFFFFD200价格：|r750|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,383565
 18406,|cFFFFD200钓鱼：|r瓶中的巨龙配方|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,383567
-18407,|cFFFFD200商人出售：|r多赛诺斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200阵营：|r瓦德拉肯联军 - 名望等级28|n|cFFFFD200价格：|r500|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h|n|n|cFFFFD200商人出售：|r乌纳托斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200阵营：|r瓦德拉肯联军 - 名望等级28|n|cFFFFD200价格：|r500|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,383569
+18407,|cFFFFD200商人出售：|r多赛诺斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200阵营：|r瓦德拉肯联军 - 名望等级28|n|cFFFFD200价格：|r750|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h|n|n|cFFFFD200商人出售：|r乌纳托斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200阵营：|r瓦德拉肯联军 - 名望等级28|n|cFFFFD200价格：|r750|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,383569
 18408,|cFFFFD200掉落：|r世界生物|n|cFFFFD200地区：|r索德拉苏斯|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,383570
 18409,|cFFFFD200掉落：|r世界生物|n|cFFFFD200地区：|r碧蓝林海|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,383571
-18410,|cFFFFD200专业技能训练师：|r巨龙群岛铭文（15）|n|cFFFFD200价格：|r100|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,383572
+18410,|cFFFFD200专业技能训练师：|r巨龙群岛铭文（25）|n|cFFFFD200价格：|r130|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,383572
 18411,|cFFFFD200掉落：|r多拉苟萨的回响|n|cFFFFD200地区：|r艾杰斯亚学院|n|n|cFFFFD200宝藏：|r挑战者的箱子|n|cFFFFD200地区：|r艾杰斯亚学院,-1,0,383573
 18412,|cFFFFD200钓鱼：|r瓶中的巨龙配方|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,383574
 18413,|cFFFFD200商人出售：|r多赛诺斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200阵营：|r瓦德拉肯联军 - 名望等级15|n|cFFFFD200价格：|r25|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h|n|n|cFFFFD200商人出售：|r乌纳托斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200阵营：|r瓦德拉肯联军 - 名望等级15|n|cFFFFD200价格：|r25|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,383575
@@ -9631,18 +9631,18 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 18417,|cFFFFD200钓鱼：|r瓶中的巨龙配方|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,383579
 18418,|cFFFFD200钓鱼：|r瓶中的巨龙配方|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,383580
 18419,|cFFFFD200掉落：|r世界生物|n|cFFFFD200地区：|r觉醒海岸|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,383581
-18420,|cFFFFD200商人出售：|r马格尔老板|n|cFFFFD200地区：|r觉醒海岸|n|cFFFFD200阵营：|r龙鳞探险队 - 名望等级15|n|cFFFFD200价格：|r200|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t|n|n|cFFFFD200商人出售：|r编目员杰克斯|n|cFFFFD200地区：|r觉醒海岸|n|cFFFFD200阵营：|r龙鳞探险队 - 名望等级15|n|cFFFFD200价格：|r200|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,383582
+18420,|cFFFFD200商人出售：|r马格尔老板|n|cFFFFD200地区：|r觉醒海岸|n|cFFFFD200阵营：|r龙鳞探险队 - 名望等级15|n|cFFFFD200价格：|r25|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h|n|n|cFFFFD200商人出售：|r编目员杰克斯|n|cFFFFD200地区：|r觉醒海岸|n|cFFFFD200阵营：|r龙鳞探险队 - 名望等级15|n|cFFFFD200价格：|r25|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,383582
 18421,|cFFFFD200商人出售：|r军需官胡森|n|cFFFFD200地区：|r欧恩哈拉平原|n|cFFFFD200阵营：|r马鲁克半人马 - 名望等级15|n|cFFFFD200价格：|r25|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,383583
 18422,|cFFFFD200钓鱼：|r瓶中的巨龙配方|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,383584
 18423,|cFFFFD200掉落：|r世界生物|n|cFFFFD200地区：|r欧恩哈拉平原|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,383585
 18424,"|cFFFFD200宝藏：|r挑战者的箱子
 |cFFFFD200地区：|r红玉新生法池",-1,0,383586
-18425,|cFFFFD200钓鱼：|r瓶中的巨龙配方|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,383587
+18425,|cFFFFD200商人出售：|r了不起的龙蛙|n|cFFFFD200地区：|r欧恩哈拉平原|n|cFFFFD200购买：|r无瑕的龙蛙财宝囊,-1,2,383587
 18426,|cFFFFD200商人出售：|r穆里克|n|cFFFFD200地区：|r碧蓝林海|n|cFFFFD200阵营：|r伊斯卡拉海象人 - 名望等级25|n|cFFFFD200价格：|r200|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h|n|n|cFFFFD200商人出售：|r罗库图克|n|cFFFFD200地区：|r碧蓝林海|n|cFFFFD200阵营：|r伊斯卡拉海象人 - 名望等级25|n|cFFFFD200价格：|r200|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,383588
 18427,|cFFFFD200商人出售：|r多赛诺斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200阵营：|r瓦德拉肯联军 - 名望等级23|n|cFFFFD200价格：|r200|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h|n|n|cFFFFD200商人出售：|r乌纳托斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200阵营：|r瓦德拉肯联军 - 名望等级23|n|cFFFFD200价格：|r200|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,383590
 18428,|cFFFFD200商人出售：|r军需官胡森|n|cFFFFD200地区：|r欧恩哈拉平原|n|cFFFFD200阵营：|r马鲁克半人马 - 名望等级22|n|cFFFFD200价格：|r200|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,383591
 18429,|cFFFFD200商人出售：|r拉布尔|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200阵营：|r工匠商盟 - 重视|n|cFFFFD200价格：|r200|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,383592
-18430,|cFFFFD200商人出售：|r马格尔老板|n|cFFFFD200地区：|r觉醒海岸|n|cFFFFD200阵营：|r龙鳞探险队 - 名望等级19|n|cFFFFD200价格：|r200|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t|n|n|cFFFFD200商人出售：|r编目员杰克斯|n|cFFFFD200地区：|r觉醒海岸|n|cFFFFD200阵营：|r龙鳞探险队 - 名望等级19|n|cFFFFD200价格：|r200|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,383593
+18430,|cFFFFD200商人出售：|r马格尔老板|n|cFFFFD200地区：|r觉醒海岸|n|cFFFFD200阵营：|r龙鳞探险队 - 名望等级19|n|cFFFFD200价格：|r200|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h|n|n|cFFFFD200商人出售：|r编目员杰克斯|n|cFFFFD200地区：|r觉醒海岸|n|cFFFFD200阵营：|r龙鳞探险队 - 名望等级19|n|cFFFFD200价格：|r200|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,383593
 18431,|cFFFFD200专精：|r冶金,-1,3,383649
 18432,,-1,-1,383736
 18433,|cFFFFD200专精：|r归档 - 巨龙论述,-1,3,383759
@@ -9692,7 +9692,7 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 18478,|cFFFFD200专业技能训练师：|r巨龙群岛附魔（25）|n|cFFFFD200价格：|r130|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,389397
 18479,|cFFFFD200专业技能训练师：|r巨龙群岛附魔（25）|n|cFFFFD200价格：|r130|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,389398
 18480,|cFFFFD200专业技能训练师：|r巨龙群岛附魔（25）|n|cFFFFD200价格：|r130|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,389400
-18481,|cFFFFD200商人出售：|r马格尔老板|n|cFFFFD200地区：|r觉醒海岸|n|cFFFFD200阵营：|r龙鳞探险队 - 名望等级9|n|cFFFFD200价格：|r200|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t|n|n|cFFFFD200商人出售：|r编目员杰克斯|n|cFFFFD200地区：|r觉醒海岸|n|cFFFFD200阵营：|r龙鳞探险队 - 名望等级9|n|cFFFFD200价格：|r200|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,389403
+18481,|cFFFFD200商人出售：|r马格尔老板|n|cFFFFD200地区：|r觉醒海岸|n|cFFFFD200阵营：|r龙鳞探险队 - 名望等级9|n|cFFFFD200价格：|r50|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h|n|n|cFFFFD200商人出售：|r编目员杰克斯|n|cFFFFD200地区：|r觉醒海岸|n|cFFFFD200阵营：|r龙鳞探险队 - 名望等级9|n|cFFFFD200价格：|r50|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,389403
 18482,|cFFFFD200商人出售：|r穆里克|n|cFFFFD200地区：|r碧蓝林海|n|cFFFFD200阵营：|r伊斯卡拉海象人 - 名望等级10|n|cFFFFD200价格：|r50|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h|n|n|cFFFFD200商人出售：|r罗库图克|n|cFFFFD200地区：|r碧蓝林海|n|cFFFFD200阵营：|r伊斯卡拉海象人 - 名望等级10|n|cFFFFD200价格：|r50|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,389404
 18483,|cFFFFD200商人出售：|r多赛诺斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200阵营：|r瓦德拉肯联军 - 名望等级11|n|cFFFFD200价格：|r50|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h|n|n|cFFFFD200商人出售：|r乌纳托斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200阵营：|r瓦德拉肯联军 - 名望等级11|n|cFFFFD200价格：|r50|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,389405
 18484,|cFFFFD200专精：|r附魔 - 魔法支援,-1,3,389410
@@ -9700,7 +9700,15 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 18486,|cFFFFD200专精：|r附魔 - 魔法支援（20）,-1,3,389417
 18487,|cFFFFD200商人出售：|r军需官胡森|n|cFFFFD200地区：|r欧恩哈拉平原|n|cFFFFD200阵营：|r马鲁克半人马 - 名望等级8|n|cFFFFD200价格：|r50|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,389419
 18488,|cFFFFD200商人出售：|r军需官胡森|n|cFFFFD200地区：|r欧恩哈拉平原|n|cFFFFD200阵营：|r马鲁克半人马 - 名望等级8|n|cFFFFD200价格：|r50|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,389479
-18489,|cFFFFD200商人出售：|r马格尔老板|n|cFFFFD200地区：|r觉醒海岸|n|cFFFFD200阵营：|r龙鳞探险队 - 名望等级9|n|cFFFFD200价格：|r200|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t|n|n|cFFFFD200商人出售：|r编目员杰克斯|n|cFFFFD200地区：|r觉醒海岸|n|cFFFFD200阵营：|r龙鳞探险队 - 名望等级9|n|cFFFFD200价格：|r200|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,389480
+18489,"|cFFFFD200商人出售：|r马格尔老板
+|cFFFFD200地区：|r觉醒海岸
+|cFFFFD200阵营：|r龙鳞探险队 - 名望等级9
+|cFFFFD200价格：|r50|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h
+
+|cFFFFD200商人出售：|r编目员杰克斯
+|cFFFFD200地区：|r觉醒海岸
+|cFFFFD200阵营：|r龙鳞探险队 - 名望等级9
+|cFFFFD200价格：|r50|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h",-1,2,389480
 18490,|cFFFFD200商人出售：|r多赛诺斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200阵营：|r瓦德拉肯联军 - 名望等级11|n|cFFFFD200价格：|r50|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h|n|n|cFFFFD200商人出售：|r乌纳托斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200阵营：|r瓦德拉肯联军 - 名望等级11|n|cFFFFD200价格：|r50|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,389484
 18491,|cFFFFD200商人出售：|r拉布尔|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200阵营：|r工匠商盟 - 重视|n|cFFFFD200价格：|r75|Hitem:190456|h|TInterface\ICONS\INV_10_GearCraft_ArtisansMettle_Color4.BLP:0|t|h,-1,2,389508
 18492,|cFFFFD200商人出售：|r拉布尔|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200阵营：|r工匠商盟 - 重视|n|cFFFFD200价格：|r75|Hitem:190456|h|TInterface\ICONS\INV_10_GearCraft_ArtisansMettle_Color4.BLP:0|t|h,-1,2,389513
@@ -9900,18 +9908,18 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 18711,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,-1,403155
 18712,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,-1,403156
 18713,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,-1,403157
-18714,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,-1,403158
-18715,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,-1,403159
-18716,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,-1,403160
-18717,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,-1,403161
-18718,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,-1,403162
-18719,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,-1,403163
-18720,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,-1,403164
-18721,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,-1,403165
+18714,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,403158
+18715,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,403159
+18716,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,403160
+18717,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,403161
+18718,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,403162
+18719,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,403163
+18720,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,403164
+18721,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,403165
 18722,|cFFFFD200商人出售：|r战场大师恩博拉斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:190450|h|TInterface\ICONS\INV_10_ElementalCombinedFoozles_Blood.BLP:0|t|h,-1,2,403166
 18723,|cFFFFD200商人出售：|r战场大师恩博拉斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:190450|h|TInterface\ICONS\INV_10_ElementalCombinedFoozles_Blood.BLP:0|t|h,-1,2,403167
 18724,|cFFFFD200商人出售：|r战场大师恩博拉斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:190450|h|TInterface\ICONS\INV_10_ElementalCombinedFoozles_Blood.BLP:0|t|h,-1,2,403168
-18729,|cFFFFD200发现：|r药水实验|n|cFFFFD200需要：|r专精：炼金理论 - 腐朽研究,-1,-1,405832
+18729,|cFFFFD200商人出售：|r蜜丝蒂|n|cFFFFD200地区：|r查拉雷克洞窟|n|cFFFFD200价格：|r1|Hitem:205453|h|TInterface\ICONS\INV_Inscription_Papyrus.blp:0|t|h,-1,2,405832
 18730,|cFFFFD200发现：|r食谱鼠|n|cFFFFD200地区：|r兹斯克拉宝库,-1,10,403018
 18731,|cFFFFD200掉落：|r阿梅菲斯特|n|cFFFFD200地区：|r禁忌离岛,-1,0,403483
 18732,|cFFFFD200专业技能训练师：|r大地的裂变珠宝加工（75）|n|cFFFFD200价格：|r1|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,404740
@@ -9938,7 +9946,7 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 18800,|cFFFFD200发现：|r食谱鼠|n|cFFFFD200地区：|r查拉雷克洞窟,-1,-1,407100
 18801,|cFFFFD200掉落：|r警戒管事兹斯卡恩|n|cFFFFD200地区：|r亚贝鲁斯，焰影熔炉|n|cFFFFD200配方：|r可在拍卖行购买,-1,-1,408052
 18802,|cFFFFD200钓鱼：|r瓶中的巨龙配方|n|cFFFFD200配方：|r可在拍卖行购买,-1,-1,408218
-18803,|cFFFFD200钓鱼：|r瓶中的巨龙配方|n|cFFFFD200配方：|r可在拍卖行购买,-1,1,408220
+18803,|cFFFFD200钓鱼：|r瓶中的巨龙配方|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,408220
 18804,|cFFFFD200商人出售：|r凿工斯克里多萨|n|cFFFFD200地区：|r查拉雷克洞窟|n|cFFFFD200价格：|r1|Hitem:205453|h|TInterface\ICONS\INV_Inscription_Papyrus.blp:0|t|h,-1,2,408221
 18805,|cFFFFD200钓鱼：|r瓶中的巨龙配方|n|cFFFFD200配方：|r可在拍卖行购买,-1,-1,408222
 18806,|cFFFFD200商人出售：|r凿工斯克里多萨|n|cFFFFD200地区：|r查拉雷克洞窟|n|cFFFFD200价格：|r1|Hitem:205452|h|TInterface\ICONS\inv_misc_potionsetC.blp:0|t|h,-1,2,408223
@@ -9950,22 +9958,135 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 18812,|cFFFFD200商人出售：|r凿工斯克里多萨|n|cFFFFD200地区：|r查拉雷克洞窟|n|cFFFFD200价格：|r1|Hitem:205453|h|TInterface\ICONS\INV_Inscription_Papyrus.blp:0|t|h,-1,2,408277
 18813,|cFFFFD200商人出售：|r凿工斯克里多萨|n|cFFFFD200地区：|r查拉雷克洞窟|n|cFFFFD200价格：|r1|Hitem:205453|h|TInterface\ICONS\INV_Inscription_Papyrus.blp:0|t|h,-1,2,408278
 18814,|cFFFFD200商人出售：|r掌窑者克鲁布斯|n|cFFFFD200地区：|r查拉雷克洞窟|n|cFFFFD200价格：|r1|Hitem:205452|h|TInterface\ICONS\inv_misc_potionsetC.blp:0|t|h,-1,2,408282
-18815,|cFFFFD200掉落：|r首领|n|cFFFFD200地区：|r亚贝鲁斯，焰影熔炉|n|cFFFFD200配方：|r可在拍卖行购买,-1,-1,408283
+18815,|cFFFFD200掉落：|r首领|n|cFFFFD200地区：|r亚贝鲁斯，焰影熔炉|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,408283
 18816,|cFFFFD200商人出售：|r掌窑者克鲁布斯|n|cFFFFD200地区：|r查拉雷克洞窟|n|cFFFFD200价格：|r1|Hitem:205453|h|TInterface\ICONS\INV_Inscription_Papyrus.blp:0|t|h,-1,2,408288
-18817,|cFFFFD200钓鱼：|r瓶中的巨龙配方|n|cFFFFD200配方：|r可在拍卖行购买,-1,-1,408299
+18817,|cFFFFD200钓鱼：|r瓶中的巨龙配方|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,408299
 18818,"|cFFFFD200商人出售：|r罗斯玛尔
 |cFFFFD200地区：|r查拉雷克洞窟
 |cFFFFD200价格：|r1|Hitem:205453|h|TInterface\ICONS\INV_Inscription_Papyrus.blp:0|t|h",-1,2,408304
 18819,|cFFFFD200商人出售：|r罗斯玛尔|n|cFFFFD200地区：|r查拉雷克洞窟|n|cFFFFD200价格：|r1|Hitem:205452|h|TInterface\ICONS\inv_misc_potionsetC.blp:0|t|h,-1,2,408305
 18820,|cFFFFD200掉落：|r首领|n|cFFFFD200地区：|r亚贝鲁斯，焰影熔炉|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,408318
 18821,|cFFFFD200商人出售：|r罗斯玛尔|n|cFFFFD200地区：|r查拉雷克洞窟|n|cFFFFD200价格：|r1|Hitem:205452|h|TInterface\ICONS\inv_misc_potionsetC.blp:0|t|h,-1,2,408319
-18822,|cFFFFD200掉落：|r首领|n|cFFFFD200地区：|r亚贝鲁斯，焰影熔炉|n|cFFFFD200配方：|r可在拍卖行购买,-1,-1,408326
+18822,|cFFFFD200掉落：|r首领|n|cFFFFD200地区：|r亚贝鲁斯，焰影熔炉|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,408326
 18823,|cFFFFD200商人出售：|r法妮莉|n|cFFFFD200地区：|r查拉雷克洞窟|n|cFFFFD200价格：|r1|Hitem:205452|h|TInterface\ICONS\inv_misc_potionsetC.blp:0|t|h,-1,2,408397
 18824,|cFFFFD200商人出售：|r法妮莉|n|cFFFFD200地区：|r查拉雷克洞窟|n|cFFFFD200价格：|r1|Hitem:205452|h|TInterface\ICONS\inv_misc_potionsetC.blp:0|t|h,-1,2,408398
 18825,|cFFFFD200专业技能训练师：|r巨龙群岛制皮（25）|n|cFFFFD200价格：|r130|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,409555
 18826,|cFFFFD200专业技能训练师：|r巨龙群岛制皮（25）|n|cFFFFD200价格：|r130|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,409557
 18827,|cFFFFD200商人出售：|r罗斯玛尔|n|cFFFFD200地区：|r查拉雷克洞窟|n|cFFFFD200价格：|r1|Hitem:205453|h|TInterface\ICONS\INV_Inscription_Papyrus.blp:0|t|h,-1,-1,409839
-18828,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,-1,409351
-18829,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,-1,409353
-18830,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,-1,409355
-18831,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,-1,409356
+18828,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,409351
+18829,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,409353
+18830,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,409355
+18831,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,409356
+18838,|cFFFFD200商人出售：|r埃隆努斯·冷钢|n|cFFFFD200地区：|r索德拉苏斯|n|cFFFFD200价格：|r5|Hitem:3860|h|TInterface\ICONS\INV_Ingot_06.blp:0|t|h 5|Hitem:12360|h|TInterface\ICONS\INV_Misc_StoneTablet_05.blp:0|t|h 250|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,10003
+18839,|cFFFFD200商人出售：|r埃隆努斯·冷钢|n|cFFFFD200地区：|r索德拉苏斯|n|cFFFFD200价格：|r5|Hitem:6037|h|TInterface\ICONS\INV_Ingot_08.blp:0|t|h 5|Hitem:12360|h|TInterface\ICONS\INV_Misc_StoneTablet_05.blp:0|t|h 250|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,10015
+18840,|cFFFFD200商人出售：|r大工匠奥玛里恩|n|cFFFFD200地区：|r东瘟疫之地|n|cFFFFD200价格：|r3|Hitem:12844|h|TInterface\ICONS\INV_Jewelry_Talisman_08.blp:0|t|h,-1,2,28205
+18841,|cFFFFD200商人出售：|r大工匠奥玛里恩|n|cFFFFD200地区：|r东瘟疫之地|n|cFFFFD200价格：|r3|Hitem:12844|h|TInterface\ICONS\INV_Jewelry_Talisman_08.blp:0|t|h,-1,2,28207
+18842,|cFFFFD200商人出售：|r大工匠奥玛里恩|n|cFFFFD200地区：|r东瘟疫之地|n|cFFFFD200价格：|r3|Hitem:12844|h|TInterface\ICONS\INV_Jewelry_Talisman_08.blp:0|t|h,-1,2,28208
+18843,|cFFFFD200商人出售：|r大工匠奥玛里恩|n|cFFFFD200地区：|r东瘟疫之地|n|cFFFFD200价格：|r3|Hitem:12844|h|TInterface\ICONS\INV_Jewelry_Talisman_08.blp:0|t|h,-1,2,28209
+18844,|cFFFFD200商人出售：|r大工匠奥玛里恩|n|cFFFFD200地区：|r东瘟疫之地|n|cFFFFD200价格：|r3|Hitem:12844|h|TInterface\ICONS\INV_Jewelry_Talisman_08.blp:0|t|h,-1,2,28219
+18845,|cFFFFD200商人出售：|r大工匠奥玛里恩|n|cFFFFD200地区：|r东瘟疫之地|n|cFFFFD200价格：|r3|Hitem:12844|h|TInterface\ICONS\INV_Jewelry_Talisman_08.blp:0|t|h,-1,2,28220
+18846,|cFFFFD200商人出售：|r大工匠奥玛里恩|n|cFFFFD200地区：|r东瘟疫之地|n|cFFFFD200价格：|r3|Hitem:12844|h|TInterface\ICONS\INV_Jewelry_Talisman_08.blp:0|t|h,-1,2,28221
+18847,|cFFFFD200商人出售：|r大工匠奥玛里恩|n|cFFFFD200地区：|r东瘟疫之地|n|cFFFFD200价格：|r3|Hitem:12844|h|TInterface\ICONS\INV_Jewelry_Talisman_08.blp:0|t|h,-1,2,28222
+18848,|cFFFFD200商人出售：|r大工匠奥玛里恩|n|cFFFFD200地区：|r东瘟疫之地|n|cFFFFD200价格：|r3|Hitem:12844|h|TInterface\ICONS\INV_Jewelry_Talisman_08.blp:0|t|h,-1,2,28223
+18849,|cFFFFD200商人出售：|r大工匠奥玛里恩|n|cFFFFD200地区：|r东瘟疫之地|n|cFFFFD200价格：|r3|Hitem:12844|h|TInterface\ICONS\INV_Jewelry_Talisman_08.blp:0|t|h,-1,2,28224
+18850,|cFFFFD200商人出售：|r大工匠奥玛里恩|n|cFFFFD200地区：|r东瘟疫之地|n|cFFFFD200价格：|r3|Hitem:12844|h|TInterface\ICONS\INV_Jewelry_Talisman_08.blp:0|t|h,-1,2,28242
+18851,|cFFFFD200商人出售：|r大工匠奥玛里恩|n|cFFFFD200地区：|r东瘟疫之地|n|cFFFFD200价格：|r3|Hitem:12844|h|TInterface\ICONS\INV_Jewelry_Talisman_08.blp:0|t|h,-1,2,28243
+18852,|cFFFFD200商人出售：|r大工匠奥玛里恩|n|cFFFFD200地区：|r东瘟疫之地|n|cFFFFD200价格：|r3|Hitem:12844|h|TInterface\ICONS\INV_Jewelry_Talisman_08.blp:0|t|h,-1,2,28244
+18853,,-1,-1,411178
+18854,,-1,-1,412531
+18855,,-1,-1,412533
+18856,,-1,-1,412534
+18857,,-1,-1,412535
+18858,,-1,-1,412536
+18859,,-1,-1,412537
+18860,,-1,-1,412557
+18861,|cFFFFD200商人出售：|r大工匠奥玛里恩|n|cFFFFD200地区：|r东瘟疫之地|n|cFFFFD200价格：|r3|Hitem:12844|h|TInterface\ICONS\INV_Jewelry_Talisman_08.blp:0|t|h,-1,2,413490
+18862,|cFFFFD200商人出售：|r大工匠奥玛里恩|n|cFFFFD200地区：|r东瘟疫之地|n|cFFFFD200价格：|r3|Hitem:12844|h|TInterface\ICONS\INV_Jewelry_Talisman_08.blp:0|t|h,-1,2,413491
+18863,|cFFFFD200商人出售：|r大工匠奥玛里恩|n|cFFFFD200地区：|r东瘟疫之地|n|cFFFFD200价格：|r3|Hitem:12844|h|TInterface\ICONS\INV_Jewelry_Talisman_08.blp:0|t|h,-1,2,413492
+18864,|cFFFFD200商人出售：|r大工匠奥玛里恩|n|cFFFFD200地区：|r东瘟疫之地|n|cFFFFD200价格：|r3|Hitem:12844|h|TInterface\ICONS\INV_Jewelry_Talisman_08.blp:0|t|h,-1,2,413494
+18865,|cFFFFD200商人出售：|r大工匠奥玛里恩|n|cFFFFD200地区：|r东瘟疫之地|n|cFFFFD200价格：|r3|Hitem:12844|h|TInterface\ICONS\INV_Jewelry_Talisman_08.blp:0|t|h,-1,2,413495
+18866,|cFFFFD200商人出售：|r大工匠奥玛里恩|n|cFFFFD200地区：|r东瘟疫之地|n|cFFFFD200价格：|r3|Hitem:12844|h|TInterface\ICONS\INV_Jewelry_Talisman_08.blp:0|t|h,-1,2,413496
+18867,|cFFFFD200商人出售：|r大工匠奥玛里恩|n|cFFFFD200地区：|r东瘟疫之地|n|cFFFFD200价格：|r3|Hitem:12844|h|TInterface\ICONS\INV_Jewelry_Talisman_08.blp:0|t|h,-1,2,413497
+18868,|cFFFFD200商人出售：|r大工匠奥玛里恩|n|cFFFFD200地区：|r东瘟疫之地|n|cFFFFD200价格：|r3|Hitem:12844|h|TInterface\ICONS\INV_Jewelry_Talisman_08.blp:0|t|h,-1,2,413498
+18869,|cFFFFD200商人出售：|r大工匠奥玛里恩|n|cFFFFD200地区：|r东瘟疫之地|n|cFFFFD200价格：|r3|Hitem:12844|h|TInterface\ICONS\INV_Jewelry_Talisman_08.blp:0|t|h,-1,2,413499
+18870,|cFFFFD200商人出售：|r大工匠奥玛里恩|n|cFFFFD200地区：|r东瘟疫之地|n|cFFFFD200价格：|r3|Hitem:12844|h|TInterface\ICONS\INV_Jewelry_Talisman_08.blp:0|t|h,-1,2,413500
+18871,|cFFFFD200商人出售：|r大工匠奥玛里恩|n|cFFFFD200地区：|r东瘟疫之地|n|cFFFFD200价格：|r3|Hitem:12844|h|TInterface\ICONS\INV_Jewelry_Talisman_08.blp:0|t|h,-1,2,413501
+18872,|cFFFFD200商人出售：|r大工匠奥玛里恩|n|cFFFFD200地区：|r东瘟疫之地|n|cFFFFD200价格：|r3|Hitem:12844|h|TInterface\ICONS\INV_Jewelry_Talisman_08.blp:0|t|h,-1,2,413502
+18873,|cFFFFD200商人出售：|r大工匠奥玛里恩|n|cFFFFD200地区：|r东瘟疫之地|n|cFFFFD200价格：|r3|Hitem:12844|h|TInterface\ICONS\INV_Jewelry_Talisman_08.blp:0|t|h,-1,2,413503
+18874,|cFFFFD200商人出售：|r大工匠奥玛里恩|n|cFFFFD200地区：|r东瘟疫之地|n|cFFFFD200价格：|r3|Hitem:12844|h|TInterface\ICONS\INV_Jewelry_Talisman_08.blp:0|t|h,-1,2,413504
+18875,|cFFFFD200商人出售：|r大工匠奥玛里恩|n|cFFFFD200地区：|r东瘟疫之地|n|cFFFFD200价格：|r3|Hitem:12844|h|TInterface\ICONS\INV_Jewelry_Talisman_08.blp:0|t|h,-1,2,413505
+18876,|cFFFFD200商人出售：|r大工匠奥玛里恩|n|cFFFFD200地区：|r东瘟疫之地|n|cFFFFD200价格：|r3|Hitem:12844|h|TInterface\ICONS\INV_Jewelry_Talisman_08.blp:0|t|h,-1,2,413506
+18877,|cFFFFD200商人出售：|r大工匠奥玛里恩|n|cFFFFD200地区：|r东瘟疫之地|n|cFFFFD200价格：|r3|Hitem:12844|h|TInterface\ICONS\INV_Jewelry_Talisman_08.blp:0|t|h,-1,2,413507
+18878,|cFFFFD200商人出售：|r大工匠奥玛里恩|n|cFFFFD200地区：|r东瘟疫之地|n|cFFFFD200价格：|r3|Hitem:12844|h|TInterface\ICONS\INV_Jewelry_Talisman_08.blp:0|t|h,-1,2,413508
+18879,|cFFFFD200商人出售：|r大工匠奥玛里恩|n|cFFFFD200地区：|r东瘟疫之地|n|cFFFFD200价格：|r3|Hitem:12844|h|TInterface\ICONS\INV_Jewelry_Talisman_08.blp:0|t|h,-1,2,413509
+18880,|cFFFFD200商人出售：|r大工匠奥玛里恩|n|cFFFFD200地区：|r东瘟疫之地|n|cFFFFD200价格：|r3|Hitem:12844|h|TInterface\ICONS\INV_Jewelry_Talisman_08.blp:0|t|h,-1,2,413510
+18881,|cFFFFD200发现：|r通灵学院,-1,10,413511
+18882,|cFFFFD200发现：|r通灵学院,-1,10,413512
+18883,|cFFFFD200发现：|r通灵学院,-1,10,413513
+18884,|cFFFFD200发现：|r通灵学院,-1,10,413514
+18885,|cFFFFD200发现：|r通灵学院,-1,10,413515
+18886,|cFFFFD200发现：|r通灵学院,-1,10,413516
+18887,|cFFFFD200发现：|r通灵学院,-1,10,413517
+18888,|cFFFFD200发现：|r纳克萨玛斯,-1,10,413518
+18889,|cFFFFD200发现：|r纳克萨玛斯,-1,10,413519
+18890,|cFFFFD200发现：|r纳克萨玛斯,-1,10,413520
+18891,|cFFFFD200发现：|r纳克萨玛斯,-1,10,413521
+18892,|cFFFFD200发现：|r纳克萨玛斯,-1,10,413522
+18893,|cFFFFD200发现：|r纳克萨玛斯,-1,10,413523
+18894,|cFFFFD200发现：|r纳克萨玛斯,-1,10,413524
+18895,|cFFFFD200发现：|r纳克萨玛斯,-1,10,413738
+18896,|cFFFFD200发现：|r纳克萨玛斯,-1,10,413739
+18897,|cFFFFD200发现：|r纳克萨玛斯,-1,10,413740
+18898,|cFFFFD200发现：|r纳克萨玛斯,-1,10,413741
+18899,|cFFFFD200发现：|r纳克萨玛斯,-1,10,413742
+18900,|cFFFFD200发现：|r纳克萨玛斯,-1,10,413743
+18901,|cFFFFD200发现：|r纳克萨玛斯,-1,10,413744
+18902,|cFFFFD200发现：|r纳克萨玛斯,-1,10,413745
+18903,|cFFFFD200发现：|r纳克萨玛斯,-1,10,413746
+18904,|cFFFFD200发现：|r纳克萨玛斯,-1,10,413747
+18905,|cFFFFD200发现：|r纳克萨玛斯,-1,10,413748
+18906,|cFFFFD200发现：|r纳克萨玛斯,-1,10,413749
+18907,|cFFFFD200发现：|r纳克萨玛斯,-1,10,413750
+18908,|cFFFFD200发现：|r纳克萨玛斯,-1,10,413751
+18909,|cFFFFD200发现：|r纳克萨玛斯,-1,10,413752
+18910,|cFFFFD200发现：|r纳克萨玛斯,-1,10,413753
+18911,|cFFFFD200发现：|r纳克萨玛斯,-1,10,413754
+18912,|cFFFFD200发现：|r纳克萨玛斯,-1,10,413755
+18913,|cFFFFD200发现：|r纳克萨玛斯,-1,10,413756
+18914,|cFFFFD200发现：|r纳克萨玛斯,-1,10,413757
+18915,|cFFFFD200发现：|r纳克萨玛斯,-1,10,413758
+18916,|cFFFFD200发现：|r纳克萨玛斯,-1,10,413759
+18917,|cFFFFD200发现：|r纳克萨玛斯,-1,10,413760
+18918,|cFFFFD200发现：|r通灵学院,-1,10,413761
+18919,|cFFFFD200发现：|r纳克萨玛斯,-1,10,413788
+18920,|cFFFFD200发现：|r纳克萨玛斯,-1,10,413903
+18921,|cFFFFD200发现：|r纳克萨玛斯,-1,10,414590
+18922,|cFFFFD200掉落：|r腐蚀者恩佐斯|n|cFFFFD200地区：|r尼奥罗萨，觉醒之城|n,-1,0,416137
+18923,|cFFFFD200发现：|r通灵学院,-1,10,416682
+18924,|cFFFFD200发现：|r通灵学院,-1,10,416683
+18925,|cFFFFD200发现：|r通灵学院,-1,10,416684
+18926,|cFFFFD200发现：|r通灵学院,-1,10,416685
+18927,|cFFFFD200发现：|r通灵学院,-1,10,416686
+18928,|cFFFFD200发现：|r通灵学院,-1,10,416687
+18929,|cFFFFD200发现：|r通灵学院,-1,10,416688
+18930,|cFFFFD200发现：|r通灵学院,-1,10,416689
+18931,|cFFFFD200发现：|r通灵学院,-1,10,416690
+18932,|cFFFFD200发现：|r通灵学院,-1,10,416691
+18933,|cFFFFD200发现：|r通灵学院,-1,10,416692
+18935,|cFFFFD200掉落：|r古尔丹|n|cFFFFD200地区：|r暗夜要塞,-1,0,225553
+18936,|cFFFFD200掉落：|r尖牙德鲁伊|n|cFFFFD200地区：|r哀嚎洞穴,-1,0,7953
+18937,|cFFFFD200掉落：|r尖牙德鲁伊|n|cFFFFD200地区：|r哀嚎洞穴,-1,0,7954
+18938,|cFFFFD200掉落：|r尖牙德鲁伊|n|cFFFFD200地区：|r哀嚎洞穴,-1,0,7955
+18939,|cFFFFD200掉落：|r诺特·希姆加克的储物箱|n|cFFFFD200任务:|r逃出生天！|n|cFFFFD200地区：|r厄运之槌,-1,1,22866
+18940,|cFFFFD200掉落：|r诺特·希姆加克的储物箱|n|cFFFFD200任务:|r逃出生天！|n|cFFFFD200地区：|r厄运之槌,-1,1,22921
+18941,|cFFFFD200掉落：|r诺特·希姆加克的储物箱|n|cFFFFD200任务:|r逃出生天！|n|cFFFFD200地区：|r厄运之槌,-1,1,22922
+18942,|cFFFFD200掉落：|r诺特·希姆加克的储物箱|n|cFFFFD200任务:|r逃出生天！|n|cFFFFD200地区：|r厄运之槌,-1,1,22923
+18943,|cFFFFD200掉落：|r诺特·希姆加克的储物箱|n|cFFFFD200任务:|r逃出生天！|n|cFFFFD200地区：|r厄运之槌,-1,1,22926
+18944,|cFFFFD200掉落：|r诺特·希姆加克的储物箱|n|cFFFFD200任务:|r逃出生天！|n|cFFFFD200地区：|r厄运之槌,-1,1,22927
+18945,|cFFFFD200掉落：|r诺特·希姆加克的储物箱|n|cFFFFD200任务:|r逃出生天！|n|cFFFFD200地区：|r厄运之槌,-1,1,22928
+18946,|cFFFFD200发现：|r纳克萨玛斯,-1,10,414564
+18947,|cFFFFD200发现：|r纳克萨玛斯,-1,10,414565
+18948,|cFFFFD200发现：|r纳克萨玛斯,-1,10,414566
+18949,|cFFFFD200发现：|r纳克萨玛斯,-1,-1,414567
+18950,|cFFFFD200任务:|r戈多克食人魔装|n|cFFFFD200地区：|r厄运之槌,-1,1,22815
+18951,|cFFFFD200任务:|r戈多克食人魔装|n|cFFFFD200地区：|r厄运之槌,-1,1,22813
