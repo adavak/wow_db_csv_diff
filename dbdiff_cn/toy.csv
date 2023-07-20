@@ -873,7 +873,7 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200任务：|r眨眼之间|n|cFFFFD200地区：|r破碎群岛|n|cFFFFD200地区：|r达拉然,1293,140192,0,1
 |cFFFFD200任务：|r建立你的要塞|n|cFFFFD200地区：|r霜火岭|n|cFFFFD200地区：|r霜寒晶壁|n|n|cFFFFD200任务：|r建立你的要塞|n|cFFFFD200地区：|r影月谷|n|cFFFFD200地区：|r坠落之月,1294,110560,0,1
 |cFFFFD200发现：|r祖尔格拉布|n,1295,203757,0,10
-和索莉多米的友谊等级达到“未来之友”后和她对话。,1300,208058,4,-1
+|cFFFFD200商人出售：|r卡基|n|cFFFFD200地区：|r碧蓝林海|n|cFFFFD200阵营：|r冬裘熊怪 - 崇敬|n|cFFFFD200价格：|r200|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,1300,203734,4,2
 |cFFFFD200专业技能：|r巨龙群岛工程学|n,1301,202360,0,3
 |cFFFFD200任务：|r赫拉克西安的不屈意志|n|cFFFFD200地区：|r查拉雷克洞窟|n,1302,204220,4,1
 |cFFFFD200任务：|rAka'magosh|n|cFFFFD200地区：|r杜隆塔尔|n|cFFFFD200地区：|r奥特兰克山谷,1303,204170,0,1
@@ -917,3 +917,4 @@ PH / TBD,1329,206195,2,-1
 |cFFFFD200成就：|r时光收购专员|n,1344,208186,4,5
 |cFFFFD200商栈|r|n,1345,206268,2,2
 |cFFFFD200任务：|r永恒黎明：时空领主戴欧斯|n|cFFFFD200地区：|r索德拉苏斯,1347,208415,0,1
+和索莉多米的友谊等级达到“未来之友”后和她对话。,1353,208058,4,-1
