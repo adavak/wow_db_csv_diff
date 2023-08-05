@@ -65,7 +65,7 @@ Trial of Style: Collect the Trader's Bicorne Appearance,From 3/20 - 3/24 collect
 /curtsey at an Opposite Faction Player,Emote /curtsey at an opposite faction player.,76,137811,20,0,0
 "/awe at a Player Who is ""Lookin' Good""","Emote /awe at a player with the effect of a ""lookin' good"" toy.",77,137813,50,0,0
 Earn Reputation Throughout the Dragon Isles,,79,137872,150,0,0
-Complete 15 Mythic+ Dungeons,,81,140979,200,0,5
+Complete 15 Mythic+ Dungeons,,81,140979,200,6,5
 Complete Maruuk Centaur Grand Hunts,Complete Maruuk Centaur Grand Hunts on the Dragon Isles.,82,140981,150,0,0
 Land a Lunker with a Friend,Use a harpoon to land a lunker with another player on the Dragon Isles.,83,140983,50,0,0
 Complete Tasks During the Iskaara Tuskarr Community Feast,Complete tasks during the Community Feast in Iskaara on the Dragon Isles.,84,140985,50,0,0
@@ -243,7 +243,7 @@ Complete 1 Dragonriding Rally Courses on the Dragon Isles,Speak to a Bronze Time
 Trial of Style: Earn 20 Trial of Style Tokens,From 8/01 to 8/07 earn Trial of Style Tokens by participating in the Trial of Style.,266,146545,20,0,0
 Trial of Style: Earn 300 Trial of Style Tokens,From 8/01 to 8/07 earn Trial of Style Tokens by participating in the Trial of Style.,267,146547,200,61,0
 "Trial of Style: Complete 2 ""Work It"" Quests","From 8/01 - 8/07 complete ""Work It"" quests on the Dragon Isles.",268,146549,20,0,0
-"Trial of Style: Complete 10 ""Work It"" Quests","From 8/01 - 8/07 complete ""Work It"" quests on the Dragon Isles.",269,146551,180,0,0
+"Trial of Style: Complete 10 ""Work It"" Quests","From 8/01 - 8/07 complete ""Work It"" quests on the Dragon Isles.",269,146551,180,268,0
 Trial of Style: Take First Place,From 8/01 to 8/07 take first place in a Trial of Style competition.,270,146553,150,0,0
 Trial of Style: /awe at a Winning Outfit Display,From 8/01 - 8/07 emote /awe at a Winning Outfit display at the Trading Post in Stormwind or Orgrimmar.,271,146559,20,0,0
 Darkmoon Faire: Loot a Pit Fighter Trinket,From 8/06 - 08/12 loot a Pit Fighter trinket during the Darkmoon Deathmatch on Darkmoon Faire Island.,275,146567,200,0,0
