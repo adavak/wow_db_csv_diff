@@ -2095,7 +2095,10 @@ Cosmic Gladiator's Prestigious Cloak,2335,0,0,19,0,0,0,1,8,90200,1550,0
 Weapons of Glorious Domination,2336,0,65715,3,0,0,0,1,8,90200,9050,0
 Vestments of the Nightmare Forest,2337,3592,65716,2,198,0,0,1,4,100005,10,0
 Slumbering Caldera Regalia,2338,4164,65718,2,198,0,0,1,3,100005,10,0
+Bones of the Bloodhunter,2339,0,65719,2,198,0,0,1,9,0,1640,0
 Swashbuckling Buccaneer's Slops,2340,0,65720,2,198,0,0,1,9,0,1640,0
+Wanderer's Crimson Trappings,2341,0,65721,67,0,0,0,1,8,0,1640,0
+Vagabond's Crimson Threads,2342,0,65723,67,0,0,0,1,8,0,1640,0
 Battleplate of the Honored Valarjar,2343,35,65734,2,47,13978,183,1,6,0,1640,0
 Wanderer's Snowy Trappings,2344,0,65736,67,0,0,0,1,8,0,1640,0
 Vagabond's Snowy Threads,2345,0,65737,67,0,0,0,1,8,0,1640,0
@@ -2347,6 +2350,7 @@ Raging Tempest,2665,3592,0,0,199,13979,0,1,9,100000,10200,0
 Drakebreaker,2666,3592,0,0,199,13980,2665,1,9,100000,10200,0
 Raging Tempest,2667,35,0,0,199,13979,0,1,9,100000,10200,0
 Drakebreaker,2668,35,0,0,199,13980,2667,1,9,100000,10200,0
+Solemn Watchman's Garb,2669,0,72092,2,198,0,0,1,9,100005,10,0
 Obsidian Dracthyr Battlegear,2670,4164,72112,0,200,13981,2672,1,9,100000,10050,0
 Sabellian's Battlegear,2671,0,72115,65,201,0,0,1,9,100000,10150,0
 Emerald Dracthyr Battlegear,2672,4164,0,0,200,13983,0,1,9,100000,10050,0
@@ -2754,6 +2758,13 @@ Feathered Cowl of the Guardian,3075,0,0,3,0,0,0,1,9,100100,10,0
 Rift-Mender's Vestments,3076,0,76581,0,213,14030,2912,1,9,100105,10,0
 Brown Tweed Cap,3077,0,77306,1,0,0,0,1,9,100105,10,0
 Blue Tweed Cap,3078,0,77307,1,0,0,0,1,9,100105,10,0
+Plate of the Light Avenger,3079,2,77333,67,0,0,0,1,9,100105,10,0
+Armaments of the Light Avenger,3080,2,77336,67,0,0,0,1,9,100105,10,0
+Secrets of the Unnamed Cult,3081,16,77337,67,0,0,0,1,9,100105,10,0
+Blood Onyx Blades,3082,8,77338,67,0,0,0,1,9,100105,10,0
+Silks of the Unnamed Cult,3083,16,77506,67,0,0,0,1,9,100105,10,0
+Blood Onyx Uniform,3084,8,77567,67,0,0,0,1,9,100105,10,0
+High Scholar's Arcana,3085,0,77569,2,0,0,0,1,9,100105,10,0
 Anachronistic Vestments,3087,400,0,0,215,14028,3011,1,9,100105,4020,0
 Garments of Discontinuity,3088,3592,0,0,215,14028,3015,1,9,100105,4020,0
 Paradoxical Raiment,3089,4164,0,0,215,14028,3019,1,9,100105,4020,0
