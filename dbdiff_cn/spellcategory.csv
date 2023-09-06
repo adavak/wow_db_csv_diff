@@ -453,7 +453,7 @@ ID,Name_lang,Flags,UsesPerWeek,MaxCharges,ChargeRecoveryTime,TypeMask
 1512,Class - Paladin - Cleanse,0,0,1,8000,1
 1513,Class - Shaman - Purify Spirit,0,0,1,8000,1
 1516,Toy Use Charges,0,0,30,0,0
-1517,Monk - Renewing Mist,0,0,1,9000,1
+1517,Monk - Renewing Mist,0,0,2,9000,1
 1518,Class - Monk - Rising Sun Kick,0,0,1,10000,1
 1519,6.0 Professions - Alchemy - Research,8,0,0,0,0
 1520,6.0 Professions - Blacksmithing - Research,8,0,0,0,0
@@ -832,4 +832,6 @@ ID,Name_lang,Flags,UsesPerWeek,MaxCharges,ChargeRecoveryTime,TypeMask
 2177,10.1 Underground - Treasure/Unique - Consumable/Toy - Makrura Transform,0,0,0,0,0
 2179,Class - Paladin - Holy Shock,0,0,1,8500,5
 2184,10.1.5 Quests - Boffins Re-Homed - Toy - (0) Aura,0,0,0,0,0
+2186,10.1.7 Brawl - Gun Evoker - Disengage - JZM,0,0,0,0,0
 2187,Professions - Feast Shared Cooldown,0,0,0,0,0
+2188,TDY - Professions - Prototype - Shipments,8,0,7,0,0

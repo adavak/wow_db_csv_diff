@@ -3730,3 +3730,6 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 
 持续[duration(1,1)]轮。",4050664,5,5,0,2
 2506,臣服恐惧,,132296,3,0,0,2
+2512,冰河时代,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
+
+造成[StandardDamage(1,1)]点[School()]伤害，并有25%的几率使目标昏迷。",4226156,6,5,0,0
