@@ -1057,6 +1057,7 @@ Dragon Isles Drake Model Test,|cFFFFD200成就：|r巨龙群岛幼龙|n,NYI,1605
 平原行者运载兽,|cFFFFD200世界事件：|r半人马狩猎（每周的第一次狩猎）,欧恩哈拉平原的猛犸象不习惯让人骑，因为它们的半人马邻居一般也不骑坐骑。但它们还是可以学着承载骑手。而有些猛犸象甚至对此充满了热情。,1635,230,0,6,374196,0,0,45,0,0
 莉姬，雷背践踏者,|cFFFFD200任务：|r驯服雷背兽|n|cFFFFD200地区：|r欧恩哈拉平原,没人能阻止莉姬实现吃光全世界水果的理想。,1639,230,0,1,374247,0,0,45,0,0
 狂怒的岩浆猛犸,|cFFFFD200成就：|r牢窟团队的荣耀|n|cFFFFD200分类：|r地下城与团队副本,大多数熔岩只会流动，而这片熔岩却会冲锋。,1644,230,0,5,374275,0,0,4,0,0
+复苏岩浆猛犸,|cFFFFD200掉落：|r梦涌,这头猛犸象被烈焰德鲁伊毁灭后，终于得以重铸，它随时准备好踏平前进道路上的敌人。,1645,230,0,0,374278,0,0,4,0,0
 棕色战争奥獭,|cFFFFD200阵营：|r伊斯卡拉海象人|n|cFFFFD200名望：|r30|n|cFFFFD200商人出售：|r塔托|n|cFFFFD200地区：|r伊斯卡拉|n|cFFFFD200价格：|r 5|Hitem:201403|h|TInterface\ICONS\Achievement_Reputation_Tuskarr.blp:0|t|h 5|Hitem:201400|h|TInterface\ICONS\TRADE_ARCHAEOLOGY_SHARK JAWS.BLP:0|t|h 1000|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,伊斯卡拉海象人厌恶对任何人开战，但很多海象人和他们的盟友还是义无反顾地在战争奥獭的陪伴下拿起了长矛。,1653,412,0,2,376910,0,0,4,0,0
 热忱的载人奥獭,|cFFFFD200成就：|r谢谢大佬带我！|n|cFFFFD200分类：|r坐骑|n,有些奥獭特别热衷于驮着人到处转悠。,1654,407,0,5,376912,0,0,4,0,0
 黄色战争奥獭,|cFFFFD200阵营：|r伊斯卡拉海象人|n|cFFFFD200名望：|r30|n|cFFFFD200商人出售：|r塔托|n|cFFFFD200地区：|r伊斯卡拉|n|cFFFFD200价格：|r 5|Hitem:201403|h|TInterface\ICONS\Achievement_Reputation_Tuskarr.blp:0|t|h 5|Hitem:201400|h|TInterface\ICONS\TRADE_ARCHAEOLOGY_SHARK JAWS.BLP:0|t|h 1000|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,碧蓝林海的黄色奥獭顺滑、狡黠、善于隐藏。进行了作战训练的那些更是海象人骑兵队最精良的坐骑，它们在地面和水中都非常勇猛。,1655,412,0,2,376913,0,0,4,0,0
@@ -1070,6 +1071,7 @@ Dragon Isles Drake Model Test,|cFFFFD200成就：|r巨龙群岛幼龙|n,NYI,1605
 迅捷的重装龙麒,|cFFFFD200商人出售：|r特雷什|n|cFFFFD200地区：|r禁忌离岛|n|cFFFFD200价格：|r80|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t|n|n|cFFFFD200商人出售：|r泰萨拉什|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r80|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,这些装甲龙麒经受了古代龙希尔的军事训练，是战术型地面坐骑的巅峰。,1665,230,0,2,385134,0,0,4,0,0
 重装龙麒踏魔者,|cFFFFD200商人出售：|r特雷什|n|cFFFFD200地区：|r禁忌离岛|n|cFFFFD200价格：|r80|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t|n|n|cFFFFD200商人出售：|r泰萨拉什|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r80|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,这些装甲龙麒经受了古代龙希尔的军事训练，是战术型地面坐骑的巅峰。,1667,230,0,2,385131,0,0,4,0,0
 威严的重装龙麒,|cFFFFD200商人出售：|r特雷什|n|cFFFFD200地区：|r禁忌离岛|n|cFFFFD200价格：|r80|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t|n|n|cFFFFD200商人出售：|r泰萨拉什|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r80|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,这些装甲龙麒经受了古代龙希尔的军事训练，是战术型地面坐骑的巅峰。,1668,230,0,2,385115,0,0,4,0,0
+暗翼欧胡纳,|cFFFFD200商人出售：|r丰收女巫塞莱斯廷|n|cFFFFD200地区：|r觉醒海岸|n|cFFFFD200地区：|r欧恩哈拉平原|n|cFFFFD200地区：|r碧蓝林海|n|cFFFFD200地区：|r索德拉苏斯|n|cFFFFD200价格：|r1000|Hitem:207026|h|TInterface\ICONS\INV_Enchant_DustStrange.blp:0|t|h,如果你抬头望向夜空，发现云层正在旋动，不必惊慌。可能那只是神秘莫测的暗翼欧胡纳。,1671,248,0,2,385262,0,0,4,0,0
 泽尼特幼隼,|cFFFFD200掉落：|r泽尼特之卵|n|cFFFFD200地区：|r欧恩哈拉平原,最猛烈的狂风刚刮起时也只是来自翅膀扇起的一股阵风。,1672,248,0,0,385266,0,0,4,0,0
 喜怒无常的天爪狐龙,|cFFFFD200宝藏：|r佐恩沃基|n|cFFFFD200地区：|r碧蓝林海|n|n,很少有狐龙乐意充当坐骑。只有乐意满足它们贪得无厌的胃口并时刻保持警惕的人才适合尝试将它们作为坐骑。,1674,248,0,2,385738,0,0,4,0,0
 霜巢始祖魔龙,|cFFFFD200特殊：|r“巫妖王之怒”|n,这头始祖龙的体内也同样灌注了复活霜巢之龙，并使其投入巫妖王麾下的不死法术。如今它的忠诚和勇猛将效忠于守护艾泽拉斯的英雄。,1679,424,64,7,386452,0,2,44,0,0
@@ -1120,3 +1122,4 @@ Dragon Isles Drake Model Test,|cFFFFD200成就：|r巨龙群岛幼龙|n,NYI,1605
 鲲波尔奔,|cFFFFD200游戏商城|r|n,你这辈子见过的第二大的鱼人！,1797,230,0,9,419567,0,0,45,19345,124416
 碧蓝凝世者,|cFFFFD200掉落：|r末日行者|n|cFFFFD200地区：|r塔纳利斯,在艾泽拉斯的各个角落里流传着许多这样的故事：一头恐惧之龙用折磨之雾笼罩了大地。有些版本说他喷吐的烈焰气息在世界各地造成了灾变，死亡与毁灭随处可见。而在其他版本里，他则是蓝色的。,1798,424,64,0,420097,0,0,4,0,0
 伊芙的森怖骑行扫帚,|cFFFFD200商栈|r,芬劳一家喜欢这种交通工具（尤其是在万圣节期间）。,1799,248,2112,2,419345,0,0,4,0,0
+米米尔隆的垂直起降喷气机,|cFFFFD200世界事件：|r艾泽拉斯之秘|n,米米尔隆创造的原型机。零件从他的车间被盗，出售，然后迷失在了时空中，直至现在……,1813,248,0,6,424082,0,0,4,0,0
