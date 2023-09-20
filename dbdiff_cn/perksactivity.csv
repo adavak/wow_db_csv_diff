@@ -279,27 +279,27 @@ ActivityName_lang,Description_lang,ID,CriteriaTreeID,ThresholdContributionAmount
 击败艾鱼拉斯,在巨龙群岛的索德拉苏斯的提尔要塞水库的时光裂隙出现时击败艾鱼拉斯。,302,147579,100,0,0
 对索莉多米使用表情/犹豫（/boggle）,在巨龙群岛的索德拉苏斯的提尔要塞水库对索莉多米使用表情/犹豫（/boggle）。,303,147581,50,0,0
 获得坍缩现实之箱,在巨龙群岛的索德拉苏斯的提尔要塞水库从时光裂隙获得坍缩现实之箱。,304,147583,50,0,0
-美酒节：获得100枚美酒节奖币,From {EventStartDate} - {EventEndDate} earn Brewfest Prize Tokens by participating in Brewfest.,305,147728,100,0,0
-美酒节：获得300枚美酒节奖币,From {EventStartDate} - {EventEndDate} earn Brewfest Prize Tokens by participating in Brewfest.,306,147730,100,305,0
-美酒节：获得600枚美酒节奖币,From {EventStartDate} - {EventEndDate} earn Brewfest Prize Tokens by participating in Brewfest.,307,147732,200,306,0
+美酒节：获得100枚美酒节奖币,{EventStartDate}到{EventEndDate}期间，通过参加美酒节获得美酒节奖币。,305,147728,100,0,0
+美酒节：获得300枚美酒节奖币,{EventStartDate}到{EventEndDate}期间，通过参加美酒节获得美酒节奖币。,306,147730,100,305,0
+美酒节：获得600枚美酒节奖币,{EventStartDate}到{EventEndDate}期间，通过参加美酒节获得美酒节奖币。,307,147732,200,306,0
 击败阿尔萨斯,在巨龙群岛的索德拉苏斯的提尔要塞水库的时光裂隙出现时击败阿尔萨斯。,308,147734,100,0,0
 击败伊利丹,在巨龙群岛的索德拉苏斯的提尔要塞水库的时光裂隙出现时击败伊利丹。,309,147736,100,0,0
 时空漫游：完成1个“巫妖王之怒”时空漫游地下城,在9月5日到9月12日期间，完成一个“巫妖王之怒”时空漫游地下城。,310,147759,25,0,-30
 时空漫游：完成5个“巫妖王之怒”时空漫游地下城,在9月5日到9月12日期间，完成“巫妖王之怒”时空漫游地下城。,311,147770,100,310,-30
 时空漫游：完成1个“大地的裂变”时空漫游地下城,在9月26日到10月3日期间，完成一个“大地的裂变”时空漫游地下城。,312,147780,25,0,-70
 时空漫游：完成5个“大地的裂变”时空漫游地下城,在9月26日到10月3日期间，完成“大地的裂变”时空漫游地下城。,313,147788,100,312,-70
-美酒节：消灭科林·烈酒,From {EventStartDate} - {EventEndDate} kill Coren Direbrew.,314,147798,150,0,0
-海盗日：当一天的海盗,From {EventStartDate} - {EventEndDate} speak to Dread Captain DeMeza in Booty Bay and become a member of her crew.,315,147800,80,0,0
+美酒节：消灭科林·烈酒,{EventStartDate}到{EventEndDate}期间，消灭科林·烈酒。,314,147798,150,0,0
+海盗日：当一天的海盗,{EventStartDate}到{EventEndDate}期间，与藏宝海湾的恐怖船长德梅萨谈一谈，成为她的船员。,315,147800,80,0,0
 海盗日：你需要一条大船,"From {EventStartDate} - {EventEndDate} speak to Dread Captain DeMeza in Booty Bay and complete the quest ""You're Gonna Need A Bigger Boat.""",316,147802,80,0,-40
-海盗日：有彼提的情况下击败哈兰·斯威提,"From {EventStartDate} - {EventEndDate} speak to Dread Captain DeMeza in Booty Bay to gain Petey, then defeat Harlan Sweete with Petey on your shoulder.",317,147804,80,0,0
+海盗日：有彼提的情况下击败哈兰·斯威提,{EventStartDate}到{EventEndDate}期间，与藏宝海湾的恐怖船长德梅萨谈一谈，获得彼提，然后在彼提在你肩上的情况下击败哈兰·斯威提。,317,147804,80,0,0
 收获节：缅怀英雄,"From {EventStartDate} - {EventEndDate} speak to Javnir Nashak, outside Orgrimmar, or Wagner Hammerstrike, outside Ironforge, and complete the quest ""Honoring a Hero.""",318,147806,200,0,0
-收获节：对荣耀的先祖或英雄使用表情/鞠躬（/bow）,From {EventStartDate} - {EventEndDate} emote /bow at an Honored Ancestor outside or Orgrimmar or an Honored Hero outside of Ironforge.,319,147809,100,0,0
-艾泽拉斯之秘：发现1个秘密,From {EventStartDate} - {EventEndDate} complete a Secrets of Azeroth quest or discover a related secret.,320,147811,50,0,0
+收获节：对荣耀的先祖或英雄使用表情/鞠躬（/bow）,{EventStartDate}到{EventEndDate}期间，对奥格瑞玛城外的荣耀的先祖或者铁炉堡城外的荣耀的英雄使用表情/鞠躬（/bow） 。,319,147809,100,0,0
+艾泽拉斯之秘：发现1个秘密,{EventStartDate}到{EventEndDate}期间，完成一个“艾泽拉斯之秘”任务或者发现一个相关的秘密。,320,147811,50,0,0
 被遗忘者：完成传承护甲任务线,以被遗忘者的身份完成以下传承护甲任务：,321,147832,100,0,0
 击败诺森德的驯宠师,,322,147839,150,0,-30
 击败大地的裂变的驯宠师,,323,147845,150,0,-70
-艾泽拉斯之秘：发现3个秘密,From {EventStartDate} - {EventEndDate} complete Secrets of Azeroth quests or discover related secrets.,324,147853,100,320,0
-艾泽拉斯之秘：发现7个秘密,From {EventStartDate} - {EventEndDate} complete Secrets of Azeroth quests or discover related secrets.,325,147856,150,324,0
+艾泽拉斯之秘：发现3个秘密,{EventStartDate}到{EventEndDate}期间，完成“艾泽拉斯之秘”任务或者发现相关的秘密。,324,147853,100,320,0
+艾泽拉斯之秘：发现7个秘密,{EventStartDate}到{EventEndDate}期间，完成“艾泽拉斯之秘”任务或者发现相关的秘密。,325,147856,150,324,0
 在巨龙群岛完成一个驭龙术挑战赛道,在巨龙群岛与青铜时光守护者交谈。,326,147859,25,0,0
 在巨龙群岛完成5个驭龙术挑战赛道,在巨龙群岛与青铜时光守护者交谈。,327,147861,50,326,0
 在巨龙群岛完成10个驭龙术挑战赛道,在巨龙群岛与青铜时光守护者交谈。,328,147863,50,327,0
@@ -314,8 +314,8 @@ ActivityName_lang,Description_lang,ID,CriteriaTreeID,ThresholdContributionAmount
 时空漫游：完成5个“熊猫人之谜”时空漫游地下城,在10月17日到10月24日期间，完成“熊猫人之谜”时空漫游地下城。,337,145198,100,336,-40
 收集250个梦涌凝珠,通过巨龙群岛的梦涌地区的活动收集梦涌凝珠,339,149014,150,334,0
 击败梦涌强化的稀有精英,在巨龙群岛当前的梦涌区域击败稀有精英,340,147886,100,0,0
-暗月马戏团：完成“敲打时刻”,From {EventStartDate} - {EventEndDate} complete the quest It's Hammer Time on Darkmoon Faire Island.,341,147895,50,0,0
-暗月马戏团：享受旅程,From {EventStartDate} - {EventEndDate} ride the Darkmoon Faire carousel or rollercoaster on Darkmoon Faire Island.,342,147897,50,0,0
+暗月马戏团：完成“敲打时刻”,{EventStartDate}到{EventEndDate}期间，在暗月岛上完成“敲打时刻”任务。,341,147895,50,0,0
+暗月马戏团：享受旅程,{EventStartDate}到{EventEndDate}期间，在暗月岛乘坐暗月马戏团旋转木马或过山车。,342,147897,50,0,0
 在巨龙宝藏对舞会主顾使用表情/跳舞（/dance）,在瓦德拉肯的巨龙宝藏处，对一位舞会主顾使用表情/跳舞（/dance）。,343,147900,50,0,0
 随机团队：戴着粉色聚会帽完成团队副本,戴着粉色聚会帽完成随机团队副本。,344,147905,50,0,0
 美酒节：完成2个美酒节任务,9月20日至9月30日期间，完成美酒节户外任务。,345,147937,50,0,-50
