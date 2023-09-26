@@ -1,4 +1,4 @@
-ID,Name_lang,Description_lang,BountySetID,SkillLineID,DeathTeleportSpellID,Field_9_0_2_36165_006,Field_9_0_2_36165_007,FactionID,Field_10_0_0_45141_008,Field_10_0_7_47910_009
+ID,Name_lang,Description_lang,BountySetID,SkillLineID,DeathTeleportSpellID,Field_9_0_2_36165_006,Field_9_0_2_36165_007,FactionID,CurrencyTypesID,RequiredPlayerConditionID
 1,格里恩,格里恩是冥世的坚定守护者，他们会将亡者的灵魂带入暗影界。格里恩永远忠于使命，尽心效力，只有证明自己价值的人才能跻身他们的行列。,111,2730,315066,346042,346046,2407,1829,0
 2,温西尔,温西尔是高贵的监督者，看管着因骄傲与邪恶而身负重罪的灵魂。他们为苦难的灵魂指明了严苛的赎罪之路，并用收割的心能维护他们国度的力量。,112,2731,344545,346037,346043,2413,1830,0
 3,法夜,陨落的自然之灵沉睡在宁静祥和的森林里，法夜便是他们的照看者。与自然结缘者可以加入他们的事业，确保重获新生的灵魂能再次回到永恒的循环中。,114,2732,344538,346039,346044,2465,1831,0
