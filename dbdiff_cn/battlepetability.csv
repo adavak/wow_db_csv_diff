@@ -3630,6 +3630,14 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 用利爪斩击敌方所有宠物，使每只宠物都|cFF970000流血|r，每轮造成[StandardDamage(1,1,491)]点[School(491)]伤害，持续[duration(1,2)]轮。",1508486,2,5,0,0
 2459,硬壳堡垒,"使你避开攻击的几率提高[abs(abilityStateMod( 73, 311 ))]%。使用者无法行动。",134434,8,0,1210,2
 2460,硬壳堡垒,吸取使用者的硬壳的力量，抵御本轮和下一轮的所有攻击。使用此护盾期间无法行动。,134434,8,6,0,2
+2462,手炮轰击,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
+
+用能量光束轰击敌人，造成[StandardDamage(1,1)]点[School()]伤害。
+
+每使用一次，伤害提高[FormatDamage(5*AttackBonus())]点。最多[FormatDamage(25 *AttackBonus())]点[School()]伤害。",132868,9,0,0,0
+2463,俯冲轰炸,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
+
+命令你的飞行器俯冲轰炸所有敌人，造成[StandardDamage(1,1)]点[School()]伤害，由所有目标均摊。",1141394,9,5,0,0
 2465,汹涌狂怒,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
 攻击敌人3次，每次攻击造成[StandardDamage(1,1)]点[School()]伤害。
@@ -3722,7 +3730,13 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 2499,量子打击,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
 打击敌人，造成[StandardDamage(1,1)]点[petTypeName(abilityPetType())]伤害。",1392544,5,0,0,0
+2500,致命梦境,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
+
+阿尔福斯开始打盹。它致命的梦境会萦绕目标，每回合造成[StandardDamage(1,1,653)]点[School()]伤害。
+
+阿尔福斯打盹期间，它被视作已死亡。",236798,3,4,0,0
 2502,[DNT] INSTADEAD,将一名宠物的生命值设置为0%。,133728,5,0,0,0
+2503,艾露恩的赐福,"艾露恩祝福你的队伍，为所有同伴回复[StandardHealing(1,1)]点生命值。",4640501,5,5,0,2
 2504,具现憎恨,"对目标造成的每次攻击，伤害提高[abs(abilityStateMod(71,2504))*AttackBonus()]点。",4050664,5,0,530,3
 2505,具现憎恨,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
@@ -3730,6 +3744,17 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 
 持续[duration(1,1)]轮。",4050664,5,5,0,2
 2506,臣服恐惧,,132296,3,0,0,2
+2508,风暴吐息,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
+
+对敌人喷吐闪电风暴，造成[StandardDamage(1, 1)]点[School()]伤害。
+
+天气为闪电风暴时会进行第二次攻击，造[StandardDamage(1,3)]点[School()]伤害。",236392,6,0,0,0
+2510,嚣狂,"你受到的伤害提高[abs(abilityStateMod( 24, 185 ))]%。",1390945,5,0,530,3
+2511,嚣狂,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
+
+盲目地发泄怒意，不在意防守。这些小小的凡人又能对你做什么？
+
+造成[StandardDamage(1, 1)]点[School()]伤害，但使你在[duration(1,3)]轮内受到的伤害提高[abs(abilityStateMod(24, 2510 ))]%。",1390945,5,1,0,0
 2512,冰河时代,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
 造成[StandardDamage(1,1)]点[School()]伤害，并有25%的几率使目标昏迷。",4226156,6,5,0,0

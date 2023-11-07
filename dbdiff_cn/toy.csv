@@ -854,6 +854,7 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200阵营：|r马鲁克半人马|n|cFFFFD200任务：|r翅膀与风的偕行|n|cFFFFD200地区：|r欧恩哈拉平原,1265,194885,0,1
 |cFFFFD200任务：|r解锁过去|n|cFFFFD200NPC：|r信徒伊吉斯|n|cFFFFD200地区：|r黑曜堡垒,1266,201815,0,1
 |cFFFFD200地区：|r碧蓝林海,1267,201927,0,0
+,1268,201931,2,-1
 |cFFFFD200掉落：|r失落的黑曜石宝箱,1269,201933,0,0
 |cFFFFD200地区：|r觉醒海岸,1270,202019,0,0
 |cFFFFD200商人出售：|r 布伦多米|n|cFFFFD200价格：|r 75|Hitem:202039|h|TInterface\ICONS\inv_misc_stormlordsfavor.blp:0|t|h 1200|Hcurrency:2118|h|TInterface\ICONS\INV_Misc_Powder_Thorium.blp:0|t|h,1271,202020,0,2
@@ -868,6 +869,12 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200地区：|r碧蓝林海,1280,202711,0,0
 |cFFFFD200专业技能：|r巨龙群岛工程学|n,1281,198173,0,3
 |cFFFFD200商人出售: |r阿提库斯·贝利|n|cFFFFD200地图：|r觉醒海岸|n|cFFFFD200价格：|r20|Hitem:193050|h|TInterface\ICONS\INV_10_Tailoring_ClothCommon_Color2.BLP:0|t|h100|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h|n|n|cFFFFD200商人出售: |r罗瑞娜·贝利|n|cFFFFD200地图：|r觉醒海岸|n|cFFFFD200价格：|r20|Hitem:193050|h|TInterface\ICONS\INV_10_Tailoring_ClothCommon_Color2.BLP:0|t|h100|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,1282,200707,0,2
+,1283,202261,2,-1
+,1284,202851,2,-1
+,1285,202856,2,-1
+,1286,202859,2,-1
+,1287,202862,2,-1
+,1288,202865,2,-1
 《魔兽世界》电子竞技：“巨龙时代”第1赛季,1289,203716,2,-1
 |cFFFFD200任务：|r临别赠言|n|cFFFFD200地区：|r欧恩哈拉平原,1290,203725,4,1
 |cFFFFD200任务：|r眨眼之间|n|cFFFFD200地区：|r破碎群岛|n|cFFFFD200地区：|r达拉然,1293,140192,0,1
@@ -906,6 +913,7 @@ PH / TBD,1329,206195,2,-1
 |cFFFFD200事件：|r贪婪的特使,1331,206008,2,6
 |cFFFFD200商人出售：|r峈姆的食物和饮料商,1332,205936,0,2
 |cFFFFD200成就：|r传说：“巨龙时代”第1赛季|n|cFFFFD200分类：|rPvP,1333,206343,2,5
+商栈,1334,206347,2,2
 |cFFFFD200发现：|r纳克萨玛斯|n,1335,206565,0,10
 |cFFFFD200掉落：|r时光调查鳄|n|cFFFFD200地区：|r索德拉苏斯,1336,206993,0,0
 |cFFFFD200成就：|r箱子多多，石子多多|n,1337,207099,0,5
@@ -920,8 +928,11 @@ PH / TBD,1329,206195,2,-1
 |cFFFFD200成就：|r本月畅销书|n|cFFFFD200分类：|r铭文,1348,208421,0,5
 |cFFFFD200成就：|r驭龙术挑战：巨龙群岛：青铜|n,1349,208433,0,5
 |cFFFFD200任务：|r证明与承诺|n|cFFFFD200地区：|r克罗库恩,1350,208658,0,1
+|cFFFFD200特殊|r,1351,208704,0,7
 和索莉多米的友谊等级达到“未来之友”后和她对话。,1353,208058,4,-1
 |cFFFFD200世界事件：|r美酒节,1355,208880,2,2
+|cFFFFD200特殊|r,1356,208883,0,0
 |cFFFFD200商人出售：|r美酒节商人|n|cFFFFD200价格：|r200|TINTERFACE\ICONS\INV_MISC_COIN_01.BLP:0|t|n,1357,209052,0,6
+|cFFFFD200活动：|r2023年暴雪嘉年华,1430,210042,2,7
 |cFFFFD200Vendor: |rCelestine of the Harvest|n|cFFFFD200Zone: |rThe Waking Shores|n|cFFFFD200Zone: |rOhn'ahran Plains|n|cFFFFD200Zone: |rThe Azure Span|n|cFFFFD200Zone: |rThaldraszus|n|cFFFFD200Cost: |r500|Hitem:207026|h|TInterface\ICONS\INV_Enchant_DustStrange.blp:0|t|h,1431,209944,0,2
 |cFFFFD200Vendor: |rCelestine of the Harvest|n|cFFFFD200Zone: |rThe Waking Shores|n|cFFFFD200Zone: |rOhn'ahran Plains|n|cFFFFD200Zone: |rThe Azure Span|n|cFFFFD200Zone: |rThaldraszus|n|cFFFFD200Cost: |r500|Hitem:207026|h|TInterface\ICONS\INV_Enchant_DustStrange.blp:0|t|h,1432,209858,0,2

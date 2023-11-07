@@ -16814,6 +16814,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 184277,Baroness Vashj,,Matron of Spies,,1,7,0,0,96138,0,0,0,1,1,1,1,0,0,156712
 184278,Dori'thur,,Tyrande's Companion,,1,1,46,3,90230,0,0,0,1,1,1,1,0,0,0
 184283,Scalecommander Cindrethresh,,Dark Talons,,0,7,0,0,102033,0,0,0,1,1,1,1,0,0,0
+184285,Gnomelia Gearheart,,S.A.F.E. Pilot,,0,12,0,0,105003,0,0,0,1,1,1,1,0,0,0
 184292,Heart of the Aspects,,,,0,1,0,0,40029,0,0,0,0,1,1,1,0,0,0
 184293,Sylverian Dreamer,,,,0,1,0,0,90396,0,0,0,1,1,1,1,0,0,0
 184294,Steamscale Incinerator,,,,0,1,0,0,96554,0,0,0,1,1,1,1,0,0,0
@@ -18812,6 +18813,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 203424,Drakonid Crechebound,,,,1,2,0,0,104285,104286,104287,104288,1,1,1,1,192514,0,0
 203431,Azuregos,,Mirror Image,,1,2,0,0,111947,0,0,0,0,1,1,1,0,0,0
 203460,Primalist Portal,,,,0,10,0,0,111966,0,0,0,1,1,1,1,0,0,0
+203463,Arfus,,,,0,12,0,0,111022,0,0,0,1,1,1,1,0,0,0
 203485,Primalist Portal,,,,0,10,0,0,111966,0,0,0,1,1,1,1,0,0,0
 203488,Primalist Portal,,,,0,10,0,0,111966,0,0,0,1,1,1,1,0,0,0
 203522,Archmage Khadgar,,,,1,7,0,0,64045,0,0,0,1,1,1,1,23998,0,0
@@ -19051,6 +19053,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 205428,Peeved,,,,1,9,0,0,112591,0,0,0,1,1,1,1,0,0,0
 205439,Djaradin Spirit,,,,0,7,0,0,112580,112582,112584,112583,1,1,1,1,0,0,0
 205440,Djaradin Spirit,,,,0,7,0,0,112580,112582,112584,112583,1,1,1,1,0,0,0
+205467,Ysergle,,The Dreamurk,,0,12,0,0,110866,0,0,0,1,1,1,1,0,0,0
 205494,Time Rift,,,,0,10,0,3,112235,0,0,0,1,1,1,1,0,0,0
 205612,Field Despair Bot K156,,,,1,9,0,0,92584,0,0,0,1,1,1,1,0,0,0
 205637,Baa'lial,,,,0,12,0,0,112632,0,0,0,1,1,1,1,0,0,0
@@ -19367,8 +19370,10 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 209515,Valunei,,,,0,7,0,0,113673,0,0,0,1,1,1,1,27426,208197,0
 209518,Nolaki,,Tyr's Guard,,0,7,0,0,113675,0,0,0,1,1,1,1,165595,208197,0
 209519,Talthis,,Tyr's Guard,,0,7,0,0,113672,0,0,0,1,1,1,1,105083,208197,0
+209576,Energy,,,,0,10,0,3,21955,23767,0,0,0,1,1,1,0,0,0
 209588,Forsaken Soldier,,,,0,7,0,0,88889,0,0,0,1,1,1,1,1905,0,0
 209593,Dark Ranger,,,,0,7,0,0,90536,90537,90538,90212,1,1,1,1,45085,45085,166783
+209681,Squally,,,,0,12,0,3,113934,0,0,0,1,1,1,1,0,0,0
 209744,Tyr's Guard [All],,Tyr's Guard,,0,7,0,0,113672,0,0,0,1,1,1,1,96756,208197,0
 209804,Kil'jaeden,,,,0,3,0,0,113946,0,0,0,1,1,1,1,0,0,0
 209847,Angellene,,,,0,7,0,3,90017,0,0,0,1,1,1,1,0,0,0
@@ -19383,6 +19388,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 209891,Kevo ye Shango,,,,1,7,0,0,55416,0,0,0,0,1,1,1,0,0,0
 209945,Loyal Man'ari,,,,0,7,0,0,113978,0,0,0,1,1,1,1,0,0,0
 209946,Loyal Man'ari,,,,0,7,0,0,113977,0,0,0,1,1,1,1,0,0,0
+210058,Lil' Maggz,,,,0,12,0,0,114017,0,0,0,1,1,1,1,0,0,0
 210553,Sundered Skirmisher,,Sundered Flame Loyalist,,0,7,0,0,113392,113393,0,0,1,1,1,1,0,0,0
 210554,Winglord Dezran,,,,0,7,0,0,110856,113424,0,0,0,1,1,1,0,0,0
 210555,Amythora,,The Sundered Flame,,0,7,0,0,111693,0,0,0,1,1,1,1,0,0,0

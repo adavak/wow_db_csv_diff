@@ -7021,8 +7021,19 @@ ID,Value_lang,ReqID,ParentWidgetID
 14008,,646,5070
 14009,Visit Naralex to vote for the next Dreamsurge effect.,52,5072
 14010,,394,5072
+14030,,19,5080
+14031,,273,5080
+14032,,208,5080
 14218,"|TInterface\ICONS\INV_Helm_Armor_Gnomish_C_01_Blue.blp:25|t Thinking Cap Output: (%41238e, %41239e)",52,5139
 14219,,394,5139
+14220,"Vigor recharges while grounded, whether mounted or not, and while dragonriding at high speeds.",581,5140
+14226,"Vigor recharges while grounded, whether mounted or not, and while dragonriding at high speeds.",581,5143
+14227,"Vigor recharges while grounded, whether mounted or not, and while dragonriding at high speeds.",581,5144
+14228,"Vigor recharges while grounded, whether mounted or not, and while dragonriding at high speeds.",581,5145
+14280,Next arcane disturbance in: %24982ha,52,5158
+14281,,394,5158
+14282,Empowerments remaining until forge is stable: %41298e,52,5159
+14283,,394,5159
 14295,|nWeekly Quest Reward from Hamuul Runetotem:,52,5165
 14296,,394,5165
 14297,,621,5166
