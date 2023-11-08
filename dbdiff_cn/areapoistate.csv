@@ -979,3 +979,7 @@ ID,Description_lang,WorldStateValue,IconEnumValue,UiTextureAtlasMemberID,AreaPoi
 2630,争夺中,3,213,0,6547
 2637,,0,0,0,7007
 2639,,0,0,0,7037
+3362,关闭,6,102,0,2694
+3363,关闭,6,102,0,2696
+3364,关闭,6,102,0,2693
+3365,关闭,6,102,0,2695

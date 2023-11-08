@@ -786,7 +786,7 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 3474,|cFFFFD200掉落：|r尖石军阀|n|cFFFFD200地区：|r黑石塔,-1,0,20031
 3475,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r世界掉落,0,0,20011
 3476,|cFFFFD200掉落：|r血色大法师|n|cFFFFD200地区：|r东瘟疫之地,-1,0,20034
-3477,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,20025
+3477,|cFFFFD200掉落：|r世界生物,-1,0,20025
 3479,|cFFFFD200掉落：|r世界生物,-1,0,20035
 3482,|cFFFFD200专业技能训练师：|r制皮（100）|n|cFFFFD200价格：|r5|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,20648
 3483,|cFFFFD200专业技能训练师：|r制皮（150）|n|cFFFFD200价格：|r10|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,20649
@@ -1023,13 +1023,13 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 3772,|cFFFFD200专业技能训练师：|r外域附魔（15）|n|cFFFFD200价格：|r1|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t25|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,27905
 3773,|cFFFFD200掉落：|r外域,-1,0,27906
 3774,|cFFFFD200商人出售：|r军需官乌尔格隆|n|cFFFFD200地区：|r地狱火半岛|n|cFFFFD200阵营：|r萨尔玛 - 友善|n|cFFFFD200价格：|r6|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,0,2,27911
-3775,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,27913
+3775,|cFFFFD200掉落：|r世界生物,-1,0,27913
 3776,|cFFFFD200掉落：|r盘牙先知|n|cFFFFD200地区：|r蒸汽地窟,-1,0,27914
 3777,|cFFFFD200掉落：|r血槌地卜师|n|cFFFFD200地区：|r刀锋山,-1,0,27917
 3778,|cFFFFD200专业技能训练师：|r外域附魔（10）|n|cFFFFD200价格：|r1|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t50|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,27944
 3779,|cFFFFD200商人出售：|r老迈的达拉然巫师|n|cFFFFD200地区：|r旧希尔斯布莱德丘陵|n|cFFFFD200价格：|r6|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,27945
-3780,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,27946
-3781,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,27948
+3780,|cFFFFD200掉落：|r世界生物,-1,0,27946
+3781,|cFFFFD200掉落：|r世界生物,-1,0,27948
 3782,|cFFFFD200掉落：|r虚灵牧师|n|cFFFFD200地区：|r法力陵墓,-1,0,27950
 3783,|cFFFFD200掉落：|r暴怒的骷髅|n|cFFFFD200地区：|r奥金尼地穴,-1,0,27951
 3784,|cFFFFD200掉落：|r幻影舞台工人|n|cFFFFD200地区：|r卡拉赞,-1,0,27954
@@ -1039,12 +1039,12 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 3788,|cFFFFD200专业技能训练师：|r外域附魔（10）|n|cFFFFD200价格：|r1|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t50|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,27961
 3789,|cFFFFD200商人出售：|r卡拉兹|n|cFFFFD200地区：|r虚空风暴|n|cFFFFD200阵营：|r星界财团 - 尊敬|n|cFFFFD200价格：|r6|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t|n|n|cFFFFD200商人出售：|r帕斯塔兹|n|cFFFFD200地区：|r纳格兰|n|cFFFFD200阵营：|r星界财团 - 尊敬|n|cFFFFD200价格：|r6|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,27967
 3790,|cFFFFD200掉落：|r日怒研究员|n|cFFFFD200地区：|r虚空风暴,-1,0,27968
-3791,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,27972
+3791,|cFFFFD200掉落：|r世界生物,-1,0,27972
 3792,|cFFFFD200掉落：|r碎手百夫长|n|cFFFFD200地区：|r破碎大厅,-1,0,27971
 3793,|cFFFFD200掉落：|r外域,-1,0,27975
 3794,|cFFFFD200掉落：|r艾瑞达死亡使者|n|cFFFFD200地区：|r禁魔监狱,-1,0,27977
-3795,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,28004
-3796,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,28003
+3795,|cFFFFD200掉落：|r世界生物,-1,0,28004
+3796,|cFFFFD200掉落：|r世界生物,-1,0,28003
 3797,|cFFFFD200掉落：|r莫罗斯|n|cFFFFD200地区：|r卡拉赞,-1,0,27984
 3798,|cFFFFD200掉落：|r埃兰之影|n|cFFFFD200地区：|r卡拉赞,-1,0,27981
 3799,|cFFFFD200掉落：|r特雷斯坦·邪蹄|n|cFFFFD200地区：|r卡拉赞,-1,0,27982
@@ -1067,8 +1067,8 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 3831,|cFFFFD200专业技能训练师：|r外域炼金（10）|n|cFFFFD200价格：|r2|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t50|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,28545
 3832,|cFFFFD200商人出售：|r先知亚尼迪|n|cFFFFD200地区：|r赞加沼泽|n|cFFFFD200价格：|r3|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,0,2,28546
 3833,|cFFFFD200商人出售：|r先知亚尼迪|n|cFFFFD200地区：|r赞加沼泽|n|cFFFFD200价格：|r4|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,0,2,28549
-3834,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,28550
-3835,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,28552
+3834,|cFFFFD200掉落：|r世界生物,-1,0,28550
+3835,|cFFFFD200掉落：|r世界生物,-1,0,28552
 3836,|cFFFFD200专业技能训练师：|r外域炼金（25）|n|cFFFFD200价格：|r5|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,28551
 3837,|cFFFFD200商人出售：|r军需官乌尔格隆|n|cFFFFD200地区：|r地狱火半岛|n|cFFFFD200阵营：|r萨尔玛 - 尊敬|n|cFFFFD200价格：|r5|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,0,2,28553
 3838,|cFFFFD200商人出售：|r麦卡|n|cFFFFD200地区：|r赞加沼泽|n|cFFFFD200阵营：|r孢子村 - 崇拜|n|cFFFFD200价格：|r30|Hitem:24245|h|TINTERFACE\ICONS\INV_MUSHROOM_02.BLP:0|t|h,-1,2,28554
@@ -1077,20 +1077,20 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 3841,|cFFFFD200商人出售：|r达加·拉姆巴|n|cFFFFD200地区：|r刀锋山|n|cFFFFD200价格：|r5|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,0,2,28557
 3842,|cFFFFD200商人出售：|r纳克杜|n|cFFFFD200地区：|r沙塔斯城|n|cFFFFD200阵营：|r贫民窟 - 崇敬|n|cFFFFD200价格：|r8|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,28558
 3843,|cFFFFD200商人出售：|r达加·拉姆巴|n|cFFFFD200地区：|r刀锋山|n|cFFFFD200价格：|r5|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,0,2,28562
-3844,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,28563
-3845,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,28564
-3846,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,28565
+3844,|cFFFFD200掉落：|r世界生物,-1,0,28563
+3845,|cFFFFD200掉落：|r世界生物,-1,0,28564
+3846,|cFFFFD200掉落：|r世界生物,-1,0,28565
 3847,|cFFFFD200商人出售：|r奥玛多尔|n|cFFFFD200地区：|r泰罗卡森林|n|cFFFFD200阵营：|r沙塔尔 - 崇敬|n|cFFFFD200价格：|r8|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,28566
 3848,|cFFFFD200商人出售：|r麦卡|n|cFFFFD200地区：|r赞加沼泽|n|cFFFFD200阵营：|r孢子村 - 崇敬|n|cFFFFD200价格：|r25|Hitem:24245|h|TINTERFACE\ICONS\INV_MUSHROOM_02.BLP:0|t|h,-1,2,28567
 3849,|cFFFFD200商人出售：|r补给官纳瑟拉|n|cFFFFD200地区：|r纳格兰|n|cFFFFD200阵营：|r玛格汉 - 崇敬|n|cFFFFD200价格：|r8|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,28568
 3850,|cFFFFD200商人出售：|r芬德雷·迅矛|n|cFFFFD200地区：|r赞加沼泽|n|cFFFFD200阵营：|r塞纳里奥远征队 - 崇敬|n|cFFFFD200价格：|r8|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,28569
-3851,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,28570
+3851,|cFFFFD200掉落：|r世界生物,-1,0,28570
 3852,|cFFFFD200掉落：|r维尔埃尼奥术师|n|cFFFFD200地区：|r纳格兰,-1,0,28575
 3854,|cFFFFD200掉落：|r节点亲王沙法尔|n|cFFFFD200地区：|r法力陵墓,-1,0,28572
 3855,|cFFFFD200掉落：|r深渊烈焰使者|n|cFFFFD200地区：|r刀锋山,-1,0,28577
 3856,|cFFFFD200商人出售：|r芬德雷·迅矛|n|cFFFFD200地区：|r赞加沼泽|n|cFFFFD200阵营：|r塞纳里奥远征队 - 崇拜|n|cFFFFD200价格：|r10|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,28573
 3857,|cFFFFD200掉落：|r暗影议会术士|n|cFFFFD200地区：|r影月谷,-1,0,28576
-3858,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,28578
+3858,|cFFFFD200掉落：|r世界生物,-1,0,28578
 3859,|cFFFFD200掉落：|r斯卡洛克上尉|n|cFFFFD200地区：|r旧希尔斯布莱德丘陵,-1,0,28579
 3860,|cFFFFD200专业技能：|r外域炼金|n|cFFFFD200发现：|r外域炼金转化,-1,10,28585
 3861,|cFFFFD200专业技能：|r外域炼金|n|cFFFFD200发现：|r外域炼金转化,-1,10,28583
@@ -1171,24 +1171,24 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 3944,|cFFFFD200专业技能训练师：|r外域锻造（1）|n|cFFFFD200价格：|r1|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t50|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,29654
 3945,|cFFFFD200商人出售：|r芬德雷·迅矛|n|cFFFFD200地区：|r赞加沼泽|n|cFFFFD200阵营：|r塞纳里奥远征队 - 尊敬|n|cFFFFD200价格：|r6|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,29656
 3946,|cFFFFD200商人出售：|r军需官乌尔格隆|n|cFFFFD200地区：|r地狱火半岛|n|cFFFFD200阵营：|r萨尔玛 - 崇拜|n|cFFFFD200价格：|r6|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,0,2,29657
-3947,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,29658
-3948,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,29622
-3949,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,29662
-3950,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,29663
-3951,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,29664
-3952,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,29668
-3953,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,29669
-3954,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,29671
-3955,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,29672
-3956,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,29692
-3957,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,29693
-3958,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,29694
-3959,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,29695
-3960,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,29696
-3961,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,29697
-3962,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,29698
-3963,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,29699
-3964,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,29700
+3947,|cFFFFD200掉落：|r世界生物,-1,0,29658
+3948,|cFFFFD200掉落：|r世界生物,-1,0,29622
+3949,|cFFFFD200掉落：|r世界生物,-1,0,29662
+3950,|cFFFFD200掉落：|r世界生物,-1,0,29663
+3951,|cFFFFD200掉落：|r世界生物,-1,0,29664
+3952,|cFFFFD200掉落：|r世界生物,-1,0,29668
+3953,|cFFFFD200掉落：|r世界生物,-1,0,29669
+3954,|cFFFFD200掉落：|r世界生物,-1,0,29671
+3955,|cFFFFD200掉落：|r世界生物,-1,0,29672
+3956,|cFFFFD200掉落：|r世界生物,-1,0,29692
+3957,|cFFFFD200掉落：|r世界生物,-1,0,29693
+3958,|cFFFFD200掉落：|r世界生物,-1,0,29694
+3959,|cFFFFD200掉落：|r世界生物,-1,0,29695
+3960,|cFFFFD200掉落：|r世界生物,-1,0,29696
+3961,|cFFFFD200掉落：|r世界生物,-1,0,29697
+3962,|cFFFFD200掉落：|r世界生物,-1,0,29698
+3963,|cFFFFD200掉落：|r世界生物,-1,0,29699
+3964,|cFFFFD200掉落：|r世界生物,-1,0,29700
 3965,|cFFFFD200商人出售：|r罗霍克|n|cFFFFD200地区：|r地狱火半岛|n|cFFFFD200价格：|r6|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,0,2,29728
 3966,|cFFFFD200掉落：|r日怒血卫士|n|cFFFFD200地区：|r虚空风暴,-1,0,29729
 3969,|cFFFFD200专业技能训练师：|r外域工程学（1）|n|cFFFFD200价格：|r1|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t50|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,30310
@@ -1196,15 +1196,15 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 3971,|cFFFFD200专业技能训练师：|r外域工程学（20）|n|cFFFFD200价格：|r2|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,30312
 3972,|cFFFFD200商人出售：|r世界商人|n|cFFFFD200价格：|r8|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t|n|n|cFFFFD200商人出售：|r世界商人|n|cFFFFD200价格：|r8|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,30313
 3973,|cFFFFD200掉落：|r末日熔炉技师|n|cFFFFD200地区：|r刀锋山,-1,0,30314
-3974,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,30315
+3974,|cFFFFD200掉落：|r世界生物,-1,0,30315
 3975,|cFFFFD200商人出售：|r莱布斯基|n|cFFFFD200地区：|r地狱火半岛|n|cFFFFD200价格：|r6|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t|n|n|cFFFFD200商人出售：|r米希·法索|n|cFFFFD200地区：|r地狱火半岛|n|cFFFFD200价格：|r6|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t|n|n|cFFFFD200商人出售：|r世界商人|n|cFFFFD200价格：|r6|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,30316
-3976,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,30317
+3976,|cFFFFD200掉落：|r世界生物,-1,0,30317
 3977,|cFFFFD200商人出售：|r被俘虏的侏儒|n|cFFFFD200地区：|r赞加沼泽|n|cFFFFD200价格：|r8|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t|n|n|cFFFFD200商人出售：|r莱布斯基|n|cFFFFD200地区：|r地狱火半岛|n|cFFFFD200价格：|r8|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t|n|n|cFFFFD200商人出售：|r世界商人|n|cFFFFD200价格：|r8|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,30318
 3978,|cFFFFD200掉落：|r莫尔葛武器匠|n|cFFFFD200地区：|r影月谷,-1,0,30325
 3979,|cFFFFD200商人出售：|r达格尔·塑铁|n|cFFFFD200地区：|r影月谷|n|cFFFFD200价格：|r6|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t|n|n|cFFFFD200商人出售：|r米希·法索|n|cFFFFD200地区：|r地狱火半岛|n|cFFFFD200价格：|r6|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t|n|n|cFFFFD200商人出售：|r世界商人|n|cFFFFD200价格：|r6|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,30329
 3980,|cFFFFD200掉落：|r日怒弓箭手|n|cFFFFD200地区：|r虚空风暴,-1,0,30332
 3981,|cFFFFD200掉落：|r猎手阿图门|n|cFFFFD200地区：|r卡拉赞,-1,0,30334
-3982,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,30337
+3982,|cFFFFD200掉落：|r世界生物,-1,0,30337
 3983,|cFFFFD200商人出售：|r外域世界商人|n|cFFFFD200价格：|r6|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,0,2,30341
 3986,|cFFFFD200商人出售：|r芬德雷·迅矛|n|cFFFFD200地区：|r赞加沼泽|n|cFFFFD200阵营：|r塞纳里奥远征队 - 友善|n|cFFFFD200价格：|r6|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,30344
 3987,|cFFFFD200商人出售：|r世界商人|n|cFFFFD200价格：|r4|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t|n|n|cFFFFD200商人出售：|r世界商人|n|cFFFFD200价格：|r4|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,30348
@@ -1218,8 +1218,8 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 3995,|cFFFFD200专业技能训练师：|r外域工程学（40）|n|cFFFFD200价格：|r5|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,30309
 3996,|cFFFFD200商人出售：|r卡拉兹|n|cFFFFD200地区：|r虚空风暴|n|cFFFFD200阵营：|r星界财团 - 崇敬|n|cFFFFD200价格：|r8|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t|n|n|cFFFFD200商人出售：|r帕斯塔兹|n|cFFFFD200地区：|r纳格兰|n|cFFFFD200阵营：|r星界财团 - 崇敬|n|cFFFFD200价格：|r8|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,30547
 3997,|cFFFFD200任务：|r气阀微粒提取器！|n|cFFFFD200地区：|r赞加沼泽|n|n|cFFFFD200任务：|r气阀微粒提取器！|n|cFFFFD200地区：|r赞加沼泽,-1,1,30548
-3998,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,30551
-3999,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,30552
+3998,|cFFFFD200掉落：|r世界生物,-1,0,30551
+3999,|cFFFFD200掉落：|r世界生物,-1,0,30552
 4000,|cFFFFD200掉落：|r机械师斯蒂里格|n|cFFFFD200地区：|r蒸汽地窟,-1,0,30556
 4001,|cFFFFD200专业技能训练师：|r外域工程学（25）|n|cFFFFD200价格：|r2|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t50|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,30558
 4002,|cFFFFD200专业技能训练师：|r外域工程学（40）|n|cFFFFD200价格：|r3|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t50|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,30560
@@ -1287,18 +1287,18 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 4065,|cFFFFD200商人出售：|r军需官恩达尔林|n|cFFFFD200地区：|r泰罗卡森林|n|cFFFFD200阵营：|r奥尔多 - 尊敬|n|cFFFFD200价格：|r6|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,31431
 4066,|cFFFFD200商人出售：|r军需官恩努利尔|n|cFFFFD200地区：|r沙塔斯城|n|cFFFFD200阵营：|r占星者 - 崇拜|n|cFFFFD200价格：|r36|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,31432
 4067,|cFFFFD200商人出售：|r军需官恩达尔林|n|cFFFFD200地区：|r泰罗卡森林|n|cFFFFD200阵营：|r奥尔多 - 崇拜|n|cFFFFD200价格：|r36|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,31433
-4068,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,31434
-4069,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,31435
-4070,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,31437
-4071,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,31438
-4072,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,31440
-4073,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,31441
-4074,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,31442
-4075,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,31443
-4076,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,31444
-4077,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,31448
-4078,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,31449
-4079,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,31450
+4068,|cFFFFD200掉落：|r世界生物,-1,0,31434
+4069,|cFFFFD200掉落：|r世界生物,-1,0,31435
+4070,|cFFFFD200掉落：|r世界生物,-1,0,31437
+4071,|cFFFFD200掉落：|r世界生物,-1,0,31438
+4072,|cFFFFD200掉落：|r世界生物,-1,0,31440
+4073,|cFFFFD200掉落：|r世界生物,-1,0,31441
+4074,|cFFFFD200掉落：|r世界生物,-1,0,31442
+4075,|cFFFFD200掉落：|r世界生物,-1,0,31443
+4076,|cFFFFD200掉落：|r世界生物,-1,0,31444
+4077,|cFFFFD200掉落：|r世界生物,-1,0,31448
+4078,|cFFFFD200掉落：|r世界生物,-1,0,31449
+4079,|cFFFFD200掉落：|r世界生物,-1,0,31450
 4080,|cFFFFD200掉落：|r末日预言者达尔莉安|n|cFFFFD200地区：|r禁魔监狱,-1,0,31451
 4081,|cFFFFD200掉落：|r摩摩尔|n|cFFFFD200地区：|r暗影迷宫,-1,0,31452
 4082,|cFFFFD200掉落：|r看管者索恩格林|n|cFFFFD200地区：|r生态船,-1,0,31453
@@ -1354,7 +1354,7 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 4138,|cFFFFD200商人出售：|r芬德雷·迅矛|n|cFFFFD200地区：|r赞加沼泽|n|cFFFFD200阵营：|r塞纳里奥远征队 - 尊敬|n|cFFFFD200价格：|r8|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,32765
 4139,|cFFFFD200商人出售：|r军需官乌尔格隆|n|cFFFFD200地区：|r地狱火半岛|n|cFFFFD200阵营：|r萨尔玛 - 尊敬|n|cFFFFD200价格：|r8|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,0,2,32766
 4140,|cFFFFD200专业技能训练师：|r珠宝加工（50）|n|cFFFFD200价格：|r2|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,32801
-4141,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,32814
+4141,|cFFFFD200掉落：|r世界生物,-1,0,32814
 4142,|cFFFFD200专业技能训练师：|r珠宝加工（110）|n|cFFFFD200价格：|r6|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,32807
 4143,|cFFFFD200专业技能训练师：|r珠宝加工（175）|n|cFFFFD200价格：|r20|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,32808
 4144,|cFFFFD200专业技能训练师：|r珠宝加工（225）|n|cFFFFD200价格：|r35|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,32809
@@ -1374,7 +1374,7 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 4159,|cFFFFD200专业技能训练师：|r外域炼金（15）|n|cFFFFD200价格：|r3|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,33741
 4160,|cFFFFD200专业技能训练师：|r外域附魔（20）|n|cFFFFD200价格：|r2|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,33990
 4161,|cFFFFD200专业技能训练师：|r外域附魔（1）|n|cFFFFD200价格：|r2|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,33991
-4162,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,33992
+4162,|cFFFFD200掉落：|r世界生物,-1,0,33992
 4163,|cFFFFD200专业技能训练师：|r外域附魔（5）|n|cFFFFD200价格：|r1|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t25|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,33993
 4164,|cFFFFD200商人出售：|r芬德雷·迅矛|n|cFFFFD200地区：|r赞加沼泽|n|cFFFFD200阵营：|r塞纳里奥远征队 - 崇敬|n|cFFFFD200价格：|r8|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,33994
 4165,|cFFFFD200专业技能训练师：|r外域附魔（40）|n|cFFFFD200价格：|r2|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t50|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,33995
@@ -1385,8 +1385,8 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 4170,|cFFFFD200专业技能训练师：|r外域附魔（1）|n|cFFFFD200价格：|r1|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t25|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,34002
 4171,|cFFFFD200商人出售：|r卡拉兹|n|cFFFFD200地区：|r虚空风暴|n|cFFFFD200阵营：|r星界财团 - 友善|n|cFFFFD200价格：|r4|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t|n|n|cFFFFD200商人出售：|r帕斯塔兹|n|cFFFFD200地区：|r纳格兰|n|cFFFFD200阵营：|r星界财团 - 友善|n|cFFFFD200价格：|r4|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,34003
 4172,|cFFFFD200专业技能训练师：|r外域附魔（10）|n|cFFFFD200价格：|r1|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t50|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,34004
-4173,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,34007
-4174,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,34008
+4173,|cFFFFD200掉落：|r世界生物,-1,0,34007
+4174,|cFFFFD200掉落：|r世界生物,-1,0,34008
 4175,|cFFFFD200商人出售：|r卢比夫人|n|cFFFFD200地区：|r沙塔斯城|n|cFFFFD200价格：|r4|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,34009
 4176,|cFFFFD200商人出售：|r奥玛多尔|n|cFFFFD200地区：|r泰罗卡森林|n|cFFFFD200阵营：|r沙塔尔 - 崇敬|n|cFFFFD200价格：|r6|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,34010
 4177,|cFFFFD200专业技能训练师：|r外域附魔（25）|n|cFFFFD200价格：|r4|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,28027
@@ -1420,18 +1420,18 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 4221,|cFFFFD200商人出售：|r芬德雷·迅矛|n|cFFFFD200地区：|r赞加沼泽|n|cFFFFD200阵营：|r塞纳里奥远征队 - 尊敬|n|cFFFFD200价格：|r6|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,35555
 4222,|cFFFFD200商人出售：|r军需官乌尔格隆|n|cFFFFD200地区：|r地狱火半岛|n|cFFFFD200阵营：|r萨尔玛 - 崇拜|n|cFFFFD200价格：|r12|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,0,2,35554
 4223,|cFFFFD200商人出售：|r芬德雷·迅矛|n|cFFFFD200地区：|r赞加沼泽|n|cFFFFD200阵营：|r塞纳里奥远征队 - 崇拜|n|cFFFFD200价格：|r12|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,35557
-4224,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,35559
-4225,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,35558
-4226,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,35567
-4227,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,35562
-4228,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,35561
-4229,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,35564
-4230,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,35573
-4231,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,35572
-4232,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,35574
-4233,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,35563
-4234,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,35560
-4235,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,35568
+4224,|cFFFFD200掉落：|r世界生物,-1,0,35559
+4225,|cFFFFD200掉落：|r世界生物,-1,0,35558
+4226,|cFFFFD200掉落：|r世界生物,-1,0,35567
+4227,|cFFFFD200掉落：|r世界生物,-1,0,35562
+4228,|cFFFFD200掉落：|r世界生物,-1,0,35561
+4229,|cFFFFD200掉落：|r世界生物,-1,0,35564
+4230,|cFFFFD200掉落：|r世界生物,-1,0,35573
+4231,|cFFFFD200掉落：|r世界生物,-1,0,35572
+4232,|cFFFFD200掉落：|r世界生物,-1,0,35574
+4233,|cFFFFD200掉落：|r世界生物,-1,0,35563
+4234,|cFFFFD200掉落：|r世界生物,-1,0,35560
+4235,|cFFFFD200掉落：|r世界生物,-1,0,35568
 4248,|cFFFFD200专业技能训练师：|r外域采矿（1）|n|cFFFFD200价格：|r1|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,35750
 4249,|cFFFFD200专业技能训练师：|r外域采矿（1）|n|cFFFFD200价格：|r1|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,35751
 4250,|cFFFFD200专业技能训练师：|r制皮（260）|n|cFFFFD200价格：|r26|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,36074
@@ -1569,12 +1569,12 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 4426,|cFFFFD200专业技能训练师：|r外域附魔（35）|n|cFFFFD200价格：|r4|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,42615
 4427,|cFFFFD200商人出售：|r法师达里乌斯|n|cFFFFD200地区：|r逆风小径|n|cFFFFD200阵营：|r紫罗兰之眼 - 崇拜|n|cFFFFD200价格：|r3|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,42620
 4428,|cFFFFD200掉落：|r外域,-1,0,42662
-4429,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,42688
+4429,|cFFFFD200掉落：|r世界生物,-1,0,42688
 4430,|cFFFFD200商人出售：|r法师达里乌斯|n|cFFFFD200地区：|r逆风小径|n|cFFFFD200阵营：|r紫罗兰之眼 - 崇敬|n|cFFFFD200价格：|r24|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,42731
 4431,|cFFFFD200商人出售：|r商人亚德安|n|cFFFFD200地区：|r虚空风暴|n|cFFFFD200价格：|r6|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,42974
 4432,|cFFFFD200商人出售：|r军需官亚弗雷·诺雷里克|n|cFFFFD200地区：|r纳格兰|n|cFFFFD200价格：|r4|Hitem:26044|h|TInterface\ICONS\INV_Misc_Rune_09.blp:0|t|h,0,2,43493
 4433,|cFFFFD200任务：|r前线的补给|n|cFFFFD200地区：|r丹莫罗,-1,1,43549
-4434,|cFFFFD200掉落：|r世界生物|n|n|cFFFFD200宝藏：|r库斯卡宝箱|n|cFFFFD200地区：|r影月谷,-1,0,43846
+4434,|cFFFFD200掉落：|r世界生物,-1,0,43846
 4435,|cFFFFD200专业技能训练师：|r工程学（1）|n|cFFFFD200价格：|r6|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,44155
 4436,|cFFFFD200专业技能训练师：|r外域工程学（75）|n|cFFFFD200价格：|r18|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,44157
 4437,|cFFFFD200专业技能训练师：|r外域附魔（30）|n|cFFFFD200价格：|r2|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t50|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,44383
@@ -3535,7 +3535,7 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 6747,|cFFFFD200专业技能：|r潘达利亚裁缝（5）|n|cFFFFD200训练师：|r蔡丝匠|n|cFFFFD200地区：|r四风谷|n|cFFFFD200价格：|r2|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t40|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,125552
 6748,|cFFFFD200专业技能：|r潘达利亚裁缝（15）|n|cFFFFD200训练师：|r蔡丝匠|n|cFFFFD200地区：|r四风谷|n|cFFFFD200价格：|r2|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t40|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,125553
 6749,|cFFFFD200专业技能：|r潘达利亚裁缝（10）|n|cFFFFD200训练师：|r蔡丝匠|n|cFFFFD200地区：|r四风谷|n|cFFFFD200价格：|r2|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t40|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,125524
-6750,|cFFFFD200专业技能：|r潘达利亚裁缝（25）|n|cFFFFD200训练师：|r蔡丝匠|n|cFFFFD200地区：|r四风谷|n|cFFFFD200价格：|r1|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,125557
+6750,|cFFFFD200专业技能：|r潘达利亚裁缝（25）|n|cFFFFD200训练师：|r蔡丝匠|n|cFFFFD200地区：|r四风谷|n|cFFFFD200价格：|r1|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t30|TINTERFACE\MONEYFRAME\UI-COPPERICON.BLP:0|t,-1,3,125557
 6751,|cFFFFD200专业技能：|r潘达利亚裁缝（20）|n|cFFFFD200训练师：|r蔡丝匠|n|cFFFFD200地区：|r四风谷|n|cFFFFD200价格：|r2|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t40|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,125527
 6752,|cFFFFD200专业技能：|r潘达利亚裁缝（1）|n|cFFFFD200训练师：|r蔡丝匠|n|cFFFFD200地区：|r四风谷|n|cFFFFD200价格：|r2|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t40|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,125526
 6753,|cFFFFD200专业技能：|r潘达利亚裁缝（20）|n|cFFFFD200训练师：|r蔡丝匠|n|cFFFFD200地区：|r四风谷|n|cFFFFD200价格：|r2|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t40|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,125529
@@ -3618,7 +3618,7 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 6849,|cFFFFD200专业技能训练师：|r潘达利亚工程学（45）|n|cFFFFD200价格：|r5|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,127132
 6850,|cFFFFD200任务：|r女士肖像|n|cFFFFD200地区：|r翡翠林,-1,1,128922
 6851,|cFFFFD200专业技能训练师：|r炼金（300）|n|cFFFFD200价格：|r3|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,114786
-6852,|cFFFFD200专业技能：|r潘达利亚裁缝（35）|n|cFFFFD200训练师：|r蔡丝匠|n|cFFFFD200地区：|r四风谷|n|cFFFFD200价格：|r2|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t40|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,-1,3,130325
+6852,|cFFFFD200专业技能：|r潘达利亚裁缝（35）|n|cFFFFD200训练师：|r蔡丝匠|n|cFFFFD200地区：|r四风谷|n|cFFFFD200价格：|r1|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t30|TINTERFACE\MONEYFRAME\UI-COPPERICON.BLP:0|t,-1,3,130325
 6853,|cFFFFD200专业技能：|r潘达利亚炼金|n|cFFFFD200发现：|r其他潘达利亚炼金配方|n,-1,3,130326
 6855,|cFFFFD200专业技能：|r潘达利亚珠宝加工（5）|n|cFFFFD200训练师：|r塑玉者麦逸|n|cFFFFD200地区：|r翡翠林|n|cFFFFD200价格：|r4|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,130656
 6856,|cFFFFD200专业技能：|r潘达利亚珠宝加工（45）|n|cFFFFD200训练师：|r塑玉者麦逸|n|cFFFFD200地区：|r翡翠林|n|cFFFFD200价格：|r4|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,130655
@@ -9881,44 +9881,44 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 18683,|cFFFFD200发现：|r祖尔格拉布,-1,-1,402615
 18685,,-1,-1,398625
 18686,,-1,-1,403018
-18687,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,-1,403131
-18688,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,-1,403132
-18689,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,403133
-18690,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,403134
-18691,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,403135
-18692,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,403136
-18693,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,403137
-18694,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,403138
-18695,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,403139
-18696,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,403140
-18697,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,403141
-18698,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,403142
-18699,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,403143
-18700,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,403144
-18701,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,403145
-18702,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,403146
-18703,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,403147
-18704,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,403148
-18705,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,-1,403149
-18706,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,-1,403150
-18707,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,-1,403151
-18708,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,-1,403152
-18709,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,-1,403153
-18710,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,-1,403154
-18711,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,-1,403155
-18712,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,-1,403156
-18713,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,-1,403157
-18714,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,403158
-18715,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,403159
-18716,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,403160
-18717,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,403161
-18718,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,403162
-18719,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,403163
-18720,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,403164
-18721,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,403165
-18722,|cFFFFD200商人出售：|r战场大师恩博拉斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:190450|h|TInterface\ICONS\INV_10_ElementalCombinedFoozles_Blood.BLP:0|t|h,-1,2,403166
-18723,|cFFFFD200商人出售：|r战场大师恩博拉斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:190450|h|TInterface\ICONS\INV_10_ElementalCombinedFoozles_Blood.BLP:0|t|h,-1,2,403167
-18724,|cFFFFD200商人出售：|r战场大师恩博拉斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:190450|h|TInterface\ICONS\INV_10_ElementalCombinedFoozles_Blood.BLP:0|t|h,-1,2,403168
+18687,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403131
+18688,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403132
+18689,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403133
+18690,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403134
+18691,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403135
+18692,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403136
+18693,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403137
+18694,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403138
+18695,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403139
+18696,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403140
+18697,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403141
+18698,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403142
+18699,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403143
+18700,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403144
+18701,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403145
+18702,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403146
+18703,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403147
+18704,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403148
+18705,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403149
+18706,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403150
+18707,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403151
+18708,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403152
+18709,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403153
+18710,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403154
+18711,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403155
+18712,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403156
+18713,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403157
+18714,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403158
+18715,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403159
+18716,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403160
+18717,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403161
+18718,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403162
+18719,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403163
+18720,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403164
+18721,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403165
+18722,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403166
+18723,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403167
+18724,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,403168
 18729,|cFFFFD200商人出售：|r蜜丝蒂|n|cFFFFD200地区：|r查拉雷克洞窟|n|cFFFFD200价格：|r1|Hitem:205453|h|TInterface\ICONS\INV_Inscription_Papyrus.blp:0|t|h,-1,2,405832
 18730,|cFFFFD200发现：|r食谱鼠|n|cFFFFD200地区：|r兹斯克拉宝库,-1,10,403018
 18731,|cFFFFD200掉落：|r阿梅菲斯特|n|cFFFFD200地区：|r禁忌离岛,-1,0,403483
@@ -9973,10 +9973,10 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 18825,|cFFFFD200专业技能训练师：|r巨龙群岛制皮（25）|n|cFFFFD200价格：|r130|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,409555
 18826,|cFFFFD200专业技能训练师：|r巨龙群岛制皮（25）|n|cFFFFD200价格：|r130|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,409557
 18827,|cFFFFD200商人出售：|r罗斯玛尔|n|cFFFFD200地区：|r查拉雷克洞窟|n|cFFFFD200价格：|r1|Hitem:205453|h|TInterface\ICONS\INV_Inscription_Papyrus.blp:0|t|h,-1,-1,409839
-18828,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,409351
-18829,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,409353
-18830,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,409355
-18831,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,409356
+18828,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,409351
+18829,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,409353
+18830,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,409355
+18831,|cFFFFD200商人出售：|r扎伊卡·断钢|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:137642|h|TInterface\ICONS\Ability_PVP_GladiatorMedallion.BLP:0|t|h,-1,2,409356
 18838,|cFFFFD200商人出售：|r埃隆努斯·冷钢|n|cFFFFD200地区：|r索德拉苏斯|n|cFFFFD200价格：|r5|Hitem:3860|h|TInterface\ICONS\INV_Ingot_06.blp:0|t|h 5|Hitem:12360|h|TInterface\ICONS\INV_Misc_StoneTablet_05.blp:0|t|h 250|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,10003
 18839,|cFFFFD200商人出售：|r埃隆努斯·冷钢|n|cFFFFD200地区：|r索德拉苏斯|n|cFFFFD200价格：|r5|Hitem:6037|h|TInterface\ICONS\INV_Ingot_08.blp:0|t|h 5|Hitem:12360|h|TInterface\ICONS\INV_Misc_StoneTablet_05.blp:0|t|h 250|Hcurrency:2003|h|TInterface\ICONS\INV_Faction_WarResources.BLP:0|t|h,-1,2,10015
 18840,|cFFFFD200商人出售：|r大工匠奥玛里恩|n|cFFFFD200地区：|r东瘟疫之地|n|cFFFFD200价格：|r3|Hitem:12844|h|TInterface\ICONS\INV_Jewelry_Talisman_08.blp:0|t|h,-1,2,28205
@@ -10098,3 +10098,65 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 18958,|cFFFFD200商人出售：|r迷时商人|n,-1,-1,22869
 18959,|cFFFFD200商人出售：|r迷时商人|n,-1,-1,22870
 18960,|cFFFFD200发现：|r詹迪斯·巴罗夫的日记|n|cFFFFD200地区：|r通灵学院,-1,10,26086
+18963,|cFFFFD200发现：|r见证甜食召唤,-1,10,416149
+18964,|cFFFFD200宝藏：|r翡翠奖赏 - 饱满的梦境之种,-1,0,414946
+18965,|cFFFFD200掉落：|r翡翠梦境|n|n|cFFFFD200宝藏：|r翡翠梦境,-1,0,414985
+18966,|cFFFFD200掉落：|r翡翠梦境|n|n|cFFFFD200宝藏：|r翡翠梦境,-1,0,414988
+18967,|cFFFFD200掉落：|r翡翠梦境|n|n|cFFFFD200宝藏：|r翡翠梦境,-1,0,414989
+18968,|cFFFFD200宝藏：|r翡翠奖赏 - 饱满的梦境之种,-1,0,415628
+18969,|cFFFFD200发现：|r药水实验|n|cFFFFD200需要：|r专精：炼金理论 - 腐朽研究,-1,10,415810
+18970,|cFFFFD200宝藏：|r翡翠奖赏 - 饱满的梦境之种,-1,0,416001
+18971,|cFFFFD200掉落：|r拉罗达尔，烈焰守护者|n|cFFFFD200地区：|r阿梅达希尔，梦境之愿|n|cFFFFD200配方: |r可在拍卖行购买|n,-1,0,416047
+18972,|cFFFFD200掉落：|r梦境议会|n|cFFFFD200地区：|r阿梅达希尔，梦境之愿|n|cFFFFD200配方: |r可在拍卖行购买|n,-1,0,418579
+18973,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419004
+18974,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419005
+18975,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419006
+18976,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419007
+18977,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419008
+18978,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419009
+18979,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419010
+18980,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419011
+18981,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419012
+18982,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419013
+18983,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419014
+18984,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419015
+18985,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419016
+18986,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419017
+18987,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419018
+18988,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419019
+18989,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419020
+18990,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419021
+18991,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419022
+18992,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419023
+18993,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419024
+18994,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419025
+18995,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419026
+18996,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419027
+18997,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419028
+18998,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419029
+18999,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419030
+19000,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419031
+19001,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419032
+19002,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419033
+19003,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419034
+19004,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419035
+19005,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419036
+19006,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419037
+19007,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419038
+19008,|cFFFFD200商人出售：|r战场大师恩博拉斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:190450|h|TInterface\ICONS\INV_10_ElementalCombinedFoozles_Blood.BLP:0|t|h,-1,2,419039
+19009,|cFFFFD200商人出售：|r战场大师恩博拉斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:190450|h|TInterface\ICONS\INV_10_ElementalCombinedFoozles_Blood.BLP:0|t|h,-1,2,419040
+19010,|cFFFFD200商人出售：|r战场大师恩博拉斯|n|cFFFFD200地区：|r瓦德拉肯|n|cFFFFD200价格：|r3|Hitem:190450|h|TInterface\ICONS\INV_10_ElementalCombinedFoozles_Blood.BLP:0|t|h,-1,2,419041
+19011,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419042
+19012,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419043
+19013,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419044
+19014,|cFFFFD200PvP获胜：|r竞技场、战场、战争模式|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,419045
+19015,|cFFFFD200掉落：|r瘤根|n|cFFFFD200地区：|r阿梅达希尔，梦境之愿|n|cFFFFD200配方: |r可在拍卖行购买,-1,0,420740
+19017,|cFFFFD200宝藏：|r世界梦境之种宝箱掉落,-1,0,425954
+19018,|cFFFFD200宝藏：|r世界超然盛放掉落|n,-1,0,425263
+19021,|cFFFFD200掉落：|r丁达尔·迅贤，烈焰预言者|n|cFFFFD200地区：|r阿梅达希尔，梦境之愿|n|cFFFFD200配方: |r可在拍卖行购买|n,-1,0,426332
+19022,|cFFFFD200掉落：|r尼穆威，轮回编织者|n|cFFFFD200地区：|r阿梅达希尔，梦境之愿|n|cFFFFD200配方：|r可在拍卖行购买,-1,0,426434
+19026,|cFFFFD200掉落：|r翡翠梦境,-1,0,425958
+19027,|cFFFFD200掉落：|r翡翠梦境,-1,0,425959
+19028,|cFFFFD200掉落：|r翡翠梦境,-1,0,425961
+19029,|cFFFFD200宝藏：|r世界梦境之种宝箱掉落,-1,0,427956
+19030,|cFFFFD200商人出售：|r迈斯林迪尔|n|cFFFFD200地区：|r翡翠梦境|n|cFFFFD200价格：|r35|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,2,429149

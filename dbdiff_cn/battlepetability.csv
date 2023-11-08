@@ -147,14 +147,14 @@ ID,Name_lang,Description_lang,IconFileDataID,PetTypeEnum,Cooldown,BattlePetVisua
 在灼燃大地的持续时间内，所有宠物都被视作正在|cFFFF2020燃烧|r。",237588,1,3,0,0
 173,灸灼,"回复[StandardDamage(1,1)]点生命值，外加相当于使用者从上次攻击中受到一半伤害的生命值。",236218,6,3,0,2
 174,昏迷,无法对这只宠物下达命令。,135860,-1,0,103,3
-175,火山,"在2轮后地面爆裂，持续2轮，使当前敌方宠物受到[StandardDamage(3,1,175)]点[School()]伤害，并有25%的几率使目标昏迷[duration(3,3,175)]轮。
+175,火山,"在1轮后地面爆裂，持续2轮，使当前敌方宠物受到[StandardDamage(3,1,175)]点[School()]伤害，并有25%的几率使目标昏迷[duration(3,3,175)]轮。
 
 [StandardAccuracy(3,1)] |cffffffff命中几率|r",524305,6,0,288,1
 176,火山,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
 使敌人队伍脚下的大地震颤。
 
-在2轮过后，地面爆裂，使当前敌方宠物受到[StandardDamage(3,1,175)]点[School()]伤害，持续2轮，并有25%的几率在接下来的1轮中陷入昏迷。",524305,6,5,0,0
+在1轮过后，地面爆裂，使当前敌方宠物受到[StandardDamage(3,1,175)]点[School()]伤害，持续2轮，并有25%的几率在接下来的1轮中陷入昏迷。",524305,6,5,0,0
 177,献祭,"每轮造成[StandardDamage(1,1)]点元素伤害。
 
 |cFFFF2020燃烧|r",135817,6,0,28,0
@@ -719,14 +719,14 @@ Deals [StandardDamage(getProcIndex(PROC_ON_SWAP_IN), 1)] damage when swapping in
 使敌人的队伍周围长出茂密的藤蔓。
 
 在下一轮中，对手的宠物将受到[StandardDamage(2,1,399)]点[School()]伤害，并被定身，持续[duration(2,2,399)]轮。",136100,6,3,0,0
-401,昏晕之种,"在[numTurns()]轮后爆炸，对当前敌方宠物造成[StandardDamage(3,1)]点元素伤害，并使目标昏迷1轮。
+401,昏晕之种,"在[numTurns()-1]轮后爆炸，对当前敌方宠物造成[StandardDamage(3,1)]点元素伤害，并使目标昏迷1轮。
 
 [StandardAccuracy(3,1)] |cffffffff命中几率|r",464030,6,0,0,0
 402,昏晕之种,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
 在敌人体内植入一颗种子。
 
-在3轮过后，种子生长，使当前敌方宠物受到[StandardDamage(3,1,401)]点[School()]伤害，并昏迷[duration(3,2,401)]轮。",464030,6,5,0,0
+在2轮过后，种子生长，使当前敌方宠物受到[StandardDamage(3,1,401)]点[School()]伤害，并昏迷[duration(3,2,401)]轮。",464030,6,5,0,0
 403,晴天,"使所有宠物的最大生命值提高[abs(abilityStateMod(99,403))]%。
 
 造成的治疗效果提高[abs(abilityStateMod(65,403))]%。",535593,6,0,179,2
@@ -1240,12 +1240,12 @@ Deals [StandardDamage(getProcIndex(PROC_ON_SWAP_IN), 1)] damage when swapping in
 600,时间停止,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
 使目标昏迷[duration(1,1)]轮。",136106,5,5,0,2
-601,定时炸弹,"在3轮后爆炸，造成[StandardDamage(1,1)]点魔法伤害，并使目标昏迷1轮。",237538,5,0,0,1
+601,定时炸弹,"在3轮后爆炸，造成[StandardDamage(4,1)]点魔法伤害，并使目标昏迷1轮。",237538,5,0,0,1
 602,定时炸弹,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
-在敌人的队伍下方布下短时裂隙。
+在敌人的队伍下方布下时间裂隙。
 
-在[duration(1,1)]轮之后，裂隙爆炸，使当前敌方宠物受到[StandardDamage(getProcIndex(PROC_ON_AURA_REMOVED, 601),1,601)]点[School()]伤害，并昏迷[duration(1,2,601)]轮。",237538,5,5,0,0
+在3轮之后，裂隙爆炸，使当前敌方宠物受到[StandardDamage(4,1,601)]点[School()]伤害，并昏迷[duration(4,2,601)]轮。",237538,5,5,0,0
 603,短时增效,"你队伍的攻击力加倍，持续[duration(1,1)]轮。",609811,1,20,0,2
 604,极端力量,"你队伍的攻击可造成额外[abs(abilityStateMod( STATE_Mod_DamageDealtPercent, 604 ))]%的伤害。",648206,-1,0,0,2
 605,源质箭,"在[numTurns()-1]轮后爆炸，对当前敌方宠物造成[StandardDamage(1,1,2372)]点[School()]伤害并使目标昏迷[duration(3,2)]轮。
@@ -1292,14 +1292,14 @@ Deals [StandardDamage(getProcIndex(PROC_ON_SWAP_IN), 1)] damage when swapping in
 621,巨石奔袭,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
 猛撞敌人，造成[StandardDamage(1,1)]点[School()]伤害，并对自身造成[SimpleDamage(1,3)]点[School()]伤害。",237002,6,1,0,0
-623,寒冰之墓,"在[numTurns()]轮后爆炸，对当前敌方宠物造成[StandardDamage(3,1)]点元素伤害，并使目标昏迷1轮。
+623,寒冰之墓,"在[numTurns()-1]轮后爆炸，对当前敌方宠物造成[StandardDamage(3,1)]点元素伤害，并使目标昏迷1轮。
 
 [StandardAccuracy(3,1)] |cffffffff命中几率|r",609814,6,0,0,0
 624,寒冰之墓,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
 朝目标掷出一个充满极寒能量的球体。
 
-在3轮后，寒冰会命中，使当前敌方宠物受到[StandardDamage(3,1,623)]点[School()]伤害，并昏迷[duration(3,2,623)]轮。",609814,6,5,0,0
+在2轮后，寒冰会命中，使当前敌方宠物受到[StandardDamage(3,1,623)]点[School()]伤害，并使目标昏迷[duration(3,2,623)]轮。",609814,6,5,0,0
 625,冰刺,"穿刺目标，造成[StandardDamage(1,1)]点[School()]伤害。
 
 该技能有很高的未命中几率。",135855,6,0,0,0
@@ -3748,7 +3748,7 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 
 对敌人喷吐闪电风暴，造成[StandardDamage(1, 1)]点[School()]伤害。
 
-天气为闪电风暴时会进行第二次攻击，造[StandardDamage(1,3)]点[School()]伤害。",236392,6,0,0,0
+天气为闪电风暴时会进行第二次攻击，造成[StandardDamage(1,3)]点[School()]伤害。",236392,6,0,0,0
 2510,嚣狂,"你受到的伤害提高[abs(abilityStateMod( 24, 185 ))]%。",1390945,5,0,530,3
 2511,嚣狂,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
@@ -3758,3 +3758,4 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 2512,冰河时代,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
 造成[StandardDamage(1,1)]点[School()]伤害，并有25%的几率使目标昏迷。",4226156,6,5,0,0
+2514,[DNT] TEST,,897140,5,0,0,18

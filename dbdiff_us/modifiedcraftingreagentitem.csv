@@ -91,7 +91,7 @@ ID,Description_lang,ModifiedCraftingCategoryID,ItemBonusTreeID,Flags,Field_9_1_0
 133,,103,0,0,0,0
 134,,104,0,0,0,0
 136,,106,0,0,0,0
-137,,107,0,0,0,0
+137,,492,0,0,0,0
 138,,108,0,0,0,0
 139,,109,0,0,0,0
 140,,110,0,0,0,0
@@ -272,3 +272,18 @@ ID,Description_lang,ModifiedCraftingCategoryID,ItemBonusTreeID,Flags,Field_9_1_0
 326,,488,4010,0,0,0
 327,,488,4166,0,0,0
 328,,486,0,0,0,0
+329,Set starting Item Level based on Crafting Quality (450-463) and mark as Dream Crafted.,490,4183,0,0,0
+330,Set Item Level based on Crafting Quality (463-476).,491,4184,0,0,0
+331,Set Item Level based on Crafting Quality (473-486).,491,4185,0,0,0
+332,Set Item Level based on Crafting Quality (434-447).,400,4188,0,0,0
+334,Spells and abilities sometimes provide secondary stats. Also add Unique-Equipped: Embellished (2).,493,4226,0,0,0
+335,Increases item level to 476 in Arenas and Battlegrounds.,494,4234,0,0,0
+336,Increases item level to 476 in Arenas and Battlegrounds.,496,4234,0,0,0
+337,Increases item level to 476 in Arenas and Battlegrounds.,498,4234,0,0,0
+338,Increases item level to 489 in Arenas and Battlegrounds.,495,4235,0,0,0
+339,Increases item level to 489 in Arenas and Battlegrounds.,497,4235,0,0,0
+340,Increases item level to 489 in Arenas and Battlegrounds.,499,4235,0,0,0
+341,Gain stacking Critical Strike while above 70% health. Also add Unique-Equipped: Embellished (2).,500,4237,0,0,0
+345,,505,4281,0,0,0
+346,,505,4214,0,0,0
+347,"Your healing abilities have the chance to tether you to a friendly ally, granting Versatility for both players based on distance. Also add Unique-Equipped: Embellished (2).",507,4290,0,0,0

@@ -32,8 +32,8 @@ Children's Week,163,155,4
 Arena,165,95,16
 Dungeons & Raids,168,-1,5
 Professions,169,-1,6
-Cooking,170,169,9
-Fishing,171,169,10
+Cooking,170,169,12
+Fishing,171,169,13
 Professions,172,15234,6
 Professions,173,132,2
 Secondary Skills,178,132,1
@@ -69,7 +69,7 @@ Cataclysm Dungeon,15067,168,5
 Cataclysm Raid,15068,168,6
 Cataclysm,15069,97,5
 Cataclysm,15070,96,5
-Archaeology,15071,169,11
+Archaeology,15071,169,14
 Cataclysm,15072,201,4
 Battle for Gilneas,15073,95,9
 Twin Peaks,15074,95,10
@@ -198,6 +198,6 @@ Inscription,15493,169,5
 Jewelcrafting,15494,169,6
 Leatherworking,15495,169,7
 Tailoring,15496,169,8
-Mining,15497,169,12
-Skinning,15498,169,13
-Herbalism,15499,169,14
+Mining,15497,169,10
+Skinning,15498,169,11
+Herbalism,15499,169,9
