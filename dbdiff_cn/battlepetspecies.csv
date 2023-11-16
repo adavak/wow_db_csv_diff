@@ -2564,3 +2564,4 @@ Description_lang,SourceText_lang,ID,CreatureID,SummonSpellID,IconFileDataID,PetT
 这是个蜗牛？还是个梦？还是个沉睡的蜗牛的梦？,|cFFFFD200商人出售：|r艾莉阿娜|n|cFFFFD200地区：|r翡翠梦境|n|cFFFFD200价格：|r1|Hcurrency:2777|h|TInterface\ICONS\INV_Legion_Faction_DreamWeavers.BLP:0|t|h,4309,212877,427044,1396974,5,18,2,6,7,0
 双足飞龙幼崽天生嗜睡，但它们的梦就未必了。,|cFFFFD200商人出售：|r艾莉阿娜|n|cFFFFD200地区：|r翡翠梦境|n|cFFFFD200价格：|r1|Hitem:210776|h|TInterface\ICONS\10_2_RaidAbility_Green.BLP:0|t|h,4310,212954,427104,4630421,5,18,2,6,7,0
 米特吉长大后想跟她大名鼎鼎的爸爸梅森一样引领冬天爷爷的雪橇，但在此之前，她更乐意陪你一起冒险。,|cFFFFD200商栈|r,4311,213111,427289,1339669,4,16466,7,6,7,0
+告诉他们，我是自由的。我没有受到父亲疯狂的影响，也不会成为红龙的囚徒。别来打扰我：这是我第一次也是唯一的警告。——拉希奥,|cFFFFD200特殊|r,4316,213407,427682,5210737,1,16466,7,6,7,0

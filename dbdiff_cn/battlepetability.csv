@@ -3758,4 +3758,11 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 2512,冰河时代,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
 造成[StandardDamage(1,1)]点[School()]伤害，并有25%的几率使目标昏迷。",4226156,6,5,0,0
+2513,拉文霍德突进,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
+
+小拉希奥带领2波刺客摧毁敌人。
+
+小拉希奥造成[FormatDamage(SimpleDamage(1,1))]点[School()]伤害
+
+每波刺客造成[FormatDamage(SimpleDamage(1,2))]点[School()]伤害。",458726,0,0,0,0
 2514,[DNT] TEST,,897140,5,0,0,18
