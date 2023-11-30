@@ -5240,7 +5240,7 @@ ID,Name_lang,PlayerConditionID,VisibleTrackingQuestID,QuestFeedbackEffectID,Flag
 5856,Dreamseed Chest,112411,77210,88,2,0,0,0,0,0
 5857,Dreamseed Chest,112412,77210,88,2,0,0,0,0,0
 5858,Dreamseed Soil,0,0,1047,1122,0,0,0,0,0
-5859,Emerald Frenzy,0,0,116,132198,0,0,0,0,917
+5859,Emerald Frenzy,116511,78890,116,132198,0,0,0,0,917
 5860,Power Source,0,0,1049,66626,30,-30,0,0,0
 5861,Arcane Forge,0,0,1050,66626,30,-30,0,0,0
 5862,Dreamseed Chest,113833,77517,88,0,0,0,0,0,0
@@ -5255,6 +5255,7 @@ ID,Name_lang,PlayerConditionID,VisibleTrackingQuestID,QuestFeedbackEffectID,Flag
 5871,Ristar the Rabid,0,77890,89,1056,0,0,0,0,0
 5872,Pineshrew Pile,0,78120,88,0,0,0,0,0,0
 5874,[DNT] Scenario Sample,0,0,1054,1090,0,0,0,0,0
+5875,Show Shadowflame Knowledge,0,0,0,0,0,0,0,0,894
 5876,Dreamseed Chest,114105,77543,88,2,0,0,0,0,0
 5877,Dreamseed Chest,114109,77543,88,2,0,0,0,0,0
 5878,Dreamseed Chest,114110,77543,88,2,0,0,0,0,0
