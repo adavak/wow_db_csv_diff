@@ -1109,23 +1109,41 @@ ID,Name_lang,Description_lang,CompletionPlayerConditionID,QuestID,PlayerConditio
 5459,欢迎来到奥格瑞玛,,111463,0,0
 5460,伊瑟拉之眼,,0,0,0
 5461,翡翠梦境战役,,0,0,0
-5462,菲莱拉兹，梦境之瞑,,0,0,0
 5464,和解,,0,0,0
-5465,原野与烈焰之梦,,0,0,0
+5466,艾泽拉斯档案馆 - 教程,,0,0,5703
 5467,Test Trivial Campaign Line,,0,0,0
+5468,艾泽拉斯档案馆 - 发掘场地,,0,0,5703
+5469,艾泽拉斯档案馆 - 科技占卜场地,,0,0,5703
+5470,艾泽拉斯档案馆 - 研究场地与总结,,0,0,5703
 5471,烈焰德鲁伊,,0,0,0
 5472,冰与火,,0,0,0
 5473,新的开始,,0,0,0
 5474,不合群的巨龙,,0,0,0
-5476,提尔归来,,0,0,112740
 5477,希望、关爱与耐心,,0,0,0
 5478,弥散营地,,0,0,0
-5480,11.0预购,,0,0,0
 5482,赤目红心,,0,0,113552
-5483,共生光孢握柄,,0,0,0
-5484,凝聚睿智的羊皮纸,,0,0,0
-5485,影缚符文,,0,0,0
+5488,10.2.5 Pandaria Timewalking Season - Mainline 01 - Alliance - Jade Forest,,0,0,0
+5489,10.2.5 Pandaria Timewalking Season - Mainline 02 - Everyone - Valley of the Four Winds - Chen,,0,0,0
+5490,10.2.5 Pandaria Timewalking Season - Mainline 03 - Alliance - Krasarang Wilds,,0,0,0
+5491,10.2.5 Pandaria Timewalking Season - Mainline 04 - Alliance - Kun-Lai Summit,,0,0,0
+5492,10.2.5 Pandaria Timewalking Season - Mainline 05 - Everyone - Townlong Steppes,,0,0,0
+5493,10.2.5 Pandaria Timewalking Season - Mainline 06 - Everyone - Dread Wastes,,0,0,0
+5494,10.2.5 Pandaria Timewalking Season - Mainline 01 - Horde - Jade Forest,,0,0,0
+5495,10.2.5 Pandaria Timewalking Season - Mainline 03 - Horde - Krasarang Wilds,,0,0,0
+5496,10.2.5 Pandaria Timewalking Season - Mainline 04 - Horde - Kun-Lai Summit,,0,0,0
+5497,10.2.5 Pandaria Timewalking Season - Mainline 07 - Alliance - 5.1 Storyline,,0,0,0
 5498,重铸提尔近卫,,0,0,0
+5499,10.2.5 Pandaria Timewalking Season - Mainline 07 - Horde - 5.1 Storyline,,0,0,0
+5500,10.2.5 Pandaria Timewalking Season - Mainline 08 - Horde - 5.2 Isle of Thunder,,0,0,0
+5501,10.2.5 Pandaria Timewalking Season - Mainline 08 - Alliance - 5.2 Isle of Thunder,,0,0,0
+5502,10.2.5 Pandaria Timewalking Season - Mainline 09 - Everyone - 5.3 Storyline,,0,0,0
+5503,10.2.5 Pandaria Timewalking Season - Mainline 10 - Everyone - 5.4 Storyline,,0,0,0
 5505,10.2 Upgrade System Tutorial,,0,0,0
 5508,青铜和解,,0,0,0
 5510,梦境火花,,0,0,0
+5514,艾泽拉斯档案馆 - 可重复世界任务,Container for all the WQs associated with Azerothian Archives in 10.2.5,0,0,0
+5515,科技占卜：协调观察站,简要概括了协调观察站的一次性科技占卜任务。,0,0,0
+5516,科技占卜：艾姬拉瞭望台,简要概括了艾姬拉瞭望台的一次性科技占卜任务。,0,0,0
+5517,科技占卜：龙颅岛,简要概括了龙颅岛的一次性科技占卜任务。,0,0,0
+5528,艾泽拉斯档案馆,,0,0,0
+5538,收复吉尔尼斯,帮助吉尔尼斯人赶走血色十字军并夺回城市！,0,0,0

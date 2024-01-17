@@ -433,7 +433,7 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200任务：|r我们的Grmlgrlr的Mglrgrs|n|cFFFFD200地区：|r苏拉玛,587,141879,0,1
 |cFFFFD200掉落：|r钳胫|n|cFFFFD200地区：|r苏拉玛,588,140314,0,0
 |cFFFFD200掉落：|r维维尔博士|n|cFFFFD200地区：|r尘泥沼泽,589,142265,0,0
-|cFFFFD200世界事件：|r情人节|n|n|cFFFFD200商人出售：|r可爱的商贩（联盟）|n|cFFFFD200地区：|r暴风城|n|cFFFFD200价格：|r270|TINTERFACE\ICONS\INV_VALENTINESCARD01.BLP:0|t|n|n|cFFFFD200商人出售：|r可爱的商贩（部落）|n|cFFFFD200地区：|r奥格瑞玛|n|cFFFFD200价格：|r270|TINTERFACE\ICONS\INV_VALENTINESCARD01.BLP:0|t,590,142341,0,6
+|cFFFFD200世界事件：|r情人节,590,142341,0,6
 |cFFFFD200任务：|r雪羽的羁绊|n,593,142497,0,1
 |cFFFFD200任务：|r利爪的羁绊|n,594,142496,0,1
 |cFFFFD200任务：|r恐嘴的羁绊|n,595,142495,0,1
@@ -797,7 +797,7 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200任务：|r泰瓦恩的使命|n|cFFFFD200地区：|r欧恩哈拉平原,1206,198537,0,-1
 |cFFFFD200专业技能：|r巨龙群岛工程学,1207,198227,0,-1
 |cFFFFD200商人出售：|r艾米莉亚·贝洛克|n|cFFFFD200地区：|r觉醒海岸|n|cFFFFD200价格：|r200|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,1208,198646,0,2
-|cFFFFD200阵营：|r伊斯卡拉海象人|n|cFFFFD200名望等级：|r25|n|cFFFFD200商人出售：|r基欧波|n|cFFFFD200地区：|r碧蓝林海,1209,198827,0,0
+|cFFFFD200阵营：|r伊斯卡拉海象人|n|cFFFFD200名望等级：|r26|n|cFFFFD200商人出售：|r基欧波|n|cFFFFD200地区：|r碧蓝林海,1209,198827,0,0
 |cFFFFD200专业技能：|r裁缝|n,1210,194060,0,3
 |cFFFFD200专业技能：|r巨龙群岛工程学,1211,198264,0,-1
 |cFFFFD200专业技能：|r巨龙群岛工程学,1212,198206,0,-1
@@ -833,14 +833,14 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200掉落：|r巨壳可汗|n|cFFFFD200地区：|r索德拉苏斯,1244,200999,0,0
 |cFFFFD200专业技能：|r巨龙群岛工程学|n,1245,192443,0,3
 |cFFFFD200商人出售：|r乌索多姆|n|cFFFFD200地区：|r索德拉苏斯|n|cFFFFD200价格：|r3|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t75|TINTERFACE\MONEYFRAME\UI-SILVERICON.BLP:0|t,1246,201435,0,2
-|cFFFFD200阵营：|r瓦德拉肯联军|n|cFFFFD200名望等级：|r26|n|cFFFFD200商人出售：|r乌纳托斯|n|cFFFFD200位置：|r瓦德拉肯|n|n,1247,199771,0,2
-|cFFFFD200阵营：|r瓦德拉肯联军|n|cFFFFD200名望等级：|r26|n|cFFFFD200商人出售：|r乌纳托斯|n|cFFFFD200位置：|r瓦德拉肯|n|n,1248,199770,0,2
-|cFFFFD200阵营：|r瓦德拉肯联军|n|cFFFFD200名望等级：|r26|n|cFFFFD200商人出售：|r乌纳托斯|n|cFFFFD200位置：|r瓦德拉肯|n|n,1249,199769,0,2
-|cFFFFD200阵营：|r瓦德拉肯联军|n|cFFFFD200名望等级：|r26|n|cFFFFD200商人出售：|r乌纳托斯|n|cFFFFD200位置：|r瓦德拉肯|n|n,1250,199768,0,2
-|cFFFFD200阵营：|r瓦德拉肯联军|n|cFFFFD200名望等级：|r26|n|cFFFFD200商人出售：|r乌纳托斯|n|cFFFFD200位置：|r瓦德拉肯|n|n,1251,199767,0,2
+|cFFFFD200阵营：|r瓦德拉肯联军|n|cFFFFD200名望等级：|r27|n|cFFFFD200商人出售：|r乌纳托斯|n|cFFFFD200位置：|r瓦德拉肯|n|n,1247,199771,0,2
+|cFFFFD200阵营：|r瓦德拉肯联军|n|cFFFFD200名望等级：|r27|n|cFFFFD200商人出售：|r乌纳托斯|n|cFFFFD200位置：|r瓦德拉肯|n|n,1248,199770,0,2
+|cFFFFD200阵营：|r瓦德拉肯联军|n|cFFFFD200名望等级：|r27|n|cFFFFD200商人出售：|r乌纳托斯|n|cFFFFD200位置：|r瓦德拉肯|n|n,1249,199769,0,2
+|cFFFFD200阵营：|r瓦德拉肯联军|n|cFFFFD200名望等级：|r27|n|cFFFFD200商人出售：|r乌纳托斯|n|cFFFFD200位置：|r瓦德拉肯|n|n,1250,199768,0,2
+|cFFFFD200阵营：|r瓦德拉肯联军|n|cFFFFD200名望等级：|r27|n|cFFFFD200商人出售：|r乌纳托斯|n|cFFFFD200位置：|r瓦德拉肯|n|n,1251,199767,0,2
 |cFFFFD200阵营：|r龙鳞探险队|n|cFFFFD200名望等级：|r9|n|cFFFFD200任务：|r寻路者的罗盘|n|cFFFFD200位置：|r龙鳞先遣营地,1252,199902,0,-1
-|cFFFFD200阵营：|r伊斯卡拉海象人|n|cFFFFD200名望等级：|r25|n|cFFFFD200商人出售：|r基欧波|n|cFFFFD200地区：|r碧蓝林海,1253,199899,0,0
-|cFFFFD200阵营：|r伊斯卡拉海象人|n|cFFFFD200名望等级：|r22|n|cFFFFD200商人出售：|r隆图皮特|n|cFFFFD200位置：|r伊斯卡拉,1254,199897,0,2
+|cFFFFD200阵营：|r伊斯卡拉海象人|n|cFFFFD200名望等级：|r26|n|cFFFFD200商人出售：|r基欧波|n|cFFFFD200地区：|r碧蓝林海,1253,199899,0,0
+|cFFFFD200阵营：|r伊斯卡拉海象人|n|cFFFFD200名望等级：|r23|n|cFFFFD200商人出售：|r隆图皮特|n|cFFFFD200位置：|r伊斯卡拉,1254,199897,0,2
 |cFFFFD200阵营：|r伊斯卡拉海象人|n|cFFFFD200名望等级：|r17|n|cFFFFD200商人出售：|r努恩弗克|n|cFFFFD200位置：|r伊斯卡拉,1255,199896,0,2
 |cFFFFD200阵营：|r伊斯卡拉海象人|n|cFFFFD200名望等级：|r17|n|cFFFFD200商人出售：|r努恩弗克|n|cFFFFD200位置：|r伊斯卡拉,1256,199894,0,2
 |cFFFFD200阵营：|r伊斯卡拉海象人|n|cFFFFD200名望等级：|r4|n|cFFFFD200商人出售：|r小奇|n|cFFFFD200位置：|r伊斯卡拉,1257,199892,0,2
@@ -928,12 +928,10 @@ PH / TBD,1329,206195,2,-1
 |cFFFFD200成就：|r本月畅销书|n|cFFFFD200分类：|r铭文,1348,208421,0,5
 |cFFFFD200成就：|r驭龙术挑战：巨龙群岛：青铜|n,1349,208433,0,5
 |cFFFFD200任务：|r证明与承诺|n|cFFFFD200地区：|r克罗库恩,1350,208658,0,1
-|cFFFFD200特殊|r,1351,208704,0,7
 |cFFFFD200世界事件：|r冬幕节,1352,208825,2,6
 和索莉多米的友谊等级达到“未来之友”后和她对话。,1353,208058,4,-1
 |cFFFFD200专业技能：|r巨龙群岛工程学,1354,207092,0,3
 |cFFFFD200世界事件：|r美酒节,1355,208880,2,2
-|cFFFFD200特殊|r,1356,208883,0,0
 |cFFFFD200商人出售：|r美酒节商人|n|cFFFFD200价格：|r200|TINTERFACE\ICONS\INV_MISC_COIN_01.BLP:0|t|n,1357,209052,0,6
 |cFFFFD200掉落：|r拉罗达尔，烈焰守护者|n|cFFFFD200地区：|r阿梅达希尔，梦境之愿,1427,209035,0,0
 |cFFFFD200任务：|r圆盘送达|n|cFFFFD200地区：|r索德拉苏斯,1428,208798,4,1
@@ -946,4 +944,13 @@ PH / TBD,1329,206195,2,-1
 |cFFFFD200世界事件：|r冬幕节,1435,210656,2,6
 |cFFFFD200掉落：|r隐秘的枭兽藏匿物|n|cFFFFD200地区：|r翡翠梦境,1436,210725,0,0
 |cFFFFD200任务：|r 翡翠梦境中的困倦德鲁伊|n,1437,210864,0,1
+|cFFFFD200世界事件：|r情人节|n,1439,210974,0,6
 《魔兽世界》电子竞技：“巨龙时代”第3赛季,1440,211424,2,-1
+|cFFFFD200世界事件：|r情人节|n,1445,210975,0,6
+|cFFFFD200世界事件：|r情人节,1447,211864,0,6
+,1450,211946,2,-1
+|cFFFFD200商栈|r|n,1452,212500,2,2
+|cFFFFD200商栈|r|n,1453,212523,2,2
+|cFFFFD200商栈|r|n,1454,212524,2,2
+|cFFFFD200商栈|r|n,1455,212525,2,2
+,1456,212337,2,-1
