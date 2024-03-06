@@ -156,9 +156,9 @@ ActivityName_lang,Description_lang,ID,CriteriaTreeID,ThresholdContributionAmount
 代表火刃氏族消灭生物,在拥有火刃旗帜效果的情况下，在巨龙群岛消灭可以提供经验值的生物。,175,144041,50,0,0
 使用鱼人眼镜玩具,在瓦德拉肯、伊斯卡拉、马鲁凯和龙鳞先遣营地使用鱼人眼镜玩具。,176,144043,100,0,0
 对鱼人眼镜玩家/跳舞（/dance）,对拥有鱼人眼镜效果的玩家使用表情/跳舞（/dance）,177,144048,50,0,0
-掀翻炉石传说游戏盘,在碧蓝林海的掉链旅店使用炉石游戏盘玩具或炉石传说游戏盘。,178,144050,50,0,0
+掀翻炉石传说游戏盘,在碧蓝林海的掉链旅店使用炉石游戏盘玩具。,178,144050,50,0,0
 拖拽或者骑乘伊斯卡拉牵拉雪橇,使用伊斯卡拉牵拉雪橇玩具，将其四处拖拉，或者骑乘别人的雪橇。,179,144056,50,0,0
-时空漫游：击败德拉诺的驯宠师,{EventStartDate}到{EventEndDate}期间，击败“德拉诺之王”驯宠师。,180,144059,100,0,0
+时空漫游：击败德拉诺的驯宠师,{EventStartDate}到{EventEndDate}期间，击败以下德拉诺驯宠大师中的3名：,180,144059,100,0,0
 在禁忌离岛完成反向版驭龙竞速赛道,在巨龙群岛的禁忌离岛与青铜时光守护者交谈。,181,144100,100,0,0
 在巨龙群岛钓熔岩鱼,,182,144559,100,0,0
 [DNT] Test: Noblegarden: Complete a Dragonflight Dungeon in a Spring Circlet,"[DNT]  Test: From {EventStartDate} - {EventEndDate}, complete a Dragonflight dungeon wearing any Spring Circlet.",184,144640,150,0,0
@@ -175,7 +175,7 @@ ActivityName_lang,Description_lang,ID,CriteriaTreeID,ThresholdContributionAmount
 仲夏火焰节：消灭埃霍恩,{EventStartDate}到{EventEndDate}期间，消灭冰霜之王埃霍恩。,195,145187,200,0,0
 在潘达利亚完成任务,在潘达利亚完成可提供经验值的任务。,196,145189,150,0,-40
 在潘达利亚钓鱼,,200,145221,100,0,-40
-时空漫游：击败潘达利亚的驯宠师,{EventStartDate}到{EventEndDate}期间，击败潘达利亚的驯宠大师。,201,145232,100,0,0
+时空漫游：击败潘达利亚的驯宠师,{EventStartDate}到{EventEndDate}期间，击败以下潘达利亚驯宠大师中的3名：,201,145232,100,0,0
 赛艇大会：制造一条小船,{EventStartDate}到{EventEndDate}期间，完成赛艇大会的任务，获得零件，并将其组装成一条小船。,202,145239,100,0,0
 赛艇大会：荡舟巨龙群岛,{EventStartDate}到{EventEndDate}期间，使用小船在巨龙群岛各地航行。,203,145241,150,0,0
 暗月马戏团：完成“不死鸟大挑战”,{EventStartDate}到{EventEndDate}期间，在暗月马戏团完成“不死鸟大挑战”任务。,205,145281,50,0,0
@@ -251,7 +251,7 @@ ActivityName_lang,Description_lang,ID,CriteriaTreeID,ThresholdContributionAmount
 暗月马戏团：完成4场竞速,{EventStartDate}到{EventEndDate}期间，在暗月岛的暗月滨海步道完成竞速。,278,146774,100,277,0
 时空漫游：完成1个“燃烧的远征”时空漫游地下城,{EventStartDate}到{EventEndDate}期间，完成“燃烧的远征”时空漫游地下城。,279,146779,25,0,0
 时空漫游：完成5个“燃烧的远征”时空漫游地下城,{EventStartDate}到{EventEndDate}期间，完成“燃烧的远征”时空漫游地下城。,280,146787,100,279,0
-时空漫游：击败外域的驯宠师,{EventStartDate}到{EventEndDate}期间，击败外域驯宠大师。,281,146797,100,0,0
+时空漫游：击败外域的驯宠师,{EventStartDate}到{EventEndDate}期间，击败以下外域驯宠大师中的3名：,281,146797,100,0,0
 时空漫游：在外域钓鱼,{EventStartDate}到{EventEndDate}期间，在外域钓起物品。,282,146803,100,0,0
 完成幼鳞日托所故事线,和瓦德拉肯幼鳞日托所的扎哈纳谈一谈。,283,146806,250,0,0
 术士：完成“轻盈邪影”,以术士的身份完成以下任务：,284,146821,150,0,0
@@ -292,8 +292,8 @@ ActivityName_lang,Description_lang,ID,CriteriaTreeID,ThresholdContributionAmount
 收获节：对荣耀的先祖或英雄使用表情/鞠躬（/bow）,{EventStartDate}到{EventEndDate}期间，对奥格瑞玛城外的荣耀的先祖或者铁炉堡城外的荣耀的英雄使用表情/鞠躬（/bow） 。,319,147809,100,0,0
 艾泽拉斯之秘：发现1个秘密,{EventStartDate}到{EventEndDate}期间，完成一个“艾泽拉斯之秘”任务或者发现一个相关的秘密。,320,147811,50,0,0
 被遗忘者：完成传承护甲任务线,以被遗忘者的身份完成以下传承护甲任务：,321,147832,100,0,0
-时空漫游：击败诺森德的驯宠师,{EventStartDate}到{EventEndDate}期间，击败诺森德驯宠师。,322,147839,100,0,0
-时空漫游：击败大地的裂变的驯宠师,{EventStartDate}到{EventEndDate}期间，在卡利姆多和东部王国击败驯宠大师。,323,147845,100,0,0
+时空漫游：击败诺森德的驯宠师,{EventStartDate}到{EventEndDate}期间，击败以下诺森德驯宠大师中的3名：,322,147839,100,0,0
+时空漫游：击败大地的裂变的驯宠师,{EventStartDate}到{EventEndDate}期间，击败以下卡利姆多和东部王国驯宠大师中的3名：,323,147845,100,0,0
 艾泽拉斯之秘：发现3个秘密,{EventStartDate}到{EventEndDate}期间，完成“艾泽拉斯之秘”任务或者发现相关的秘密。,324,147853,100,320,0
 艾泽拉斯之秘：发现7个秘密,{EventStartDate}到{EventEndDate}期间，完成“艾泽拉斯之秘”任务或者发现相关的秘密。,325,147856,150,324,0
 在巨龙群岛完成一个驭龙术挑战赛道,在巨龙群岛与青铜时光守护者交谈。,326,147859,25,0,0
@@ -394,7 +394,7 @@ ActivityName_lang,Description_lang,ID,CriteriaTreeID,ThresholdContributionAmount
 升到60级,将任意角色升到60级。,429,149719,25,0,0
 升到70级,将任意角色升到70级。,430,149721,25,0,0
 提升职业等级,给任意角色升级。,431,149723,50,0,0
-时空漫游：击败破碎群岛的驯宠师,{EventStartDate}到{EventEndDate}期间，击败破碎群岛驯宠师。,432,149987,100,0,0
+时空漫游：击败破碎群岛的驯宠师,{EventStartDate}到{EventEndDate}期间，击败以下破碎群岛驯宠大师中的3名：,432,149987,100,0,0
 时空漫游：击败“燃烧的远征”团队副本首领,{EventStartDate}到{EventEndDate}期间，击败“燃烧的远征”团队副本的首领。,433,149937,100,0,0
 时空漫游：击败“巫妖王之怒”团队副本首领,{EventStartDate}到{EventEndDate}期间，击败“巫妖王之怒”团队副本的首领。,434,149935,100,0,0
 时空漫游：击败“大地的裂变””团队副本首领,{EventStartDate}到{EventEndDate}期间，击败“大地的裂变”团队副本的首领。,435,149945,100,0,0
