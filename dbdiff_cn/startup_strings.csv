@@ -14,3 +14,4 @@ ID,Name,Message_lang
 17,MSG_GX_FAIL_API_VERSION,魔兽世界需要安装最新版本的DirectX Runtime。如需了解更多信息，请参考https://www.battlenet.com.cn/support/zh/article/driver-update-information。
 18,MSG_GX_FAIL_NO_DRIVER,魔兽世界无法识别出可用的显卡，请检查显卡驱动是否已经升级至最新版本，并确定您的电脑没有运行在安全模式下。如需了解更多信息，请参考https://www.battlenet.com.cn/support/zh/article/driver-update-information。
 27,MSG_COMPATIBILITY_ERROR,由于兼容模式设置问题，魔兽世界无法启动。请在关闭WoW.exe与Launcher.exe的兼容模式后再次尝试启动游戏。关于关闭兼容模式的步骤，请参见：https://www.battlenet.com.cn/support/zh/article/2085
+134,MSG_GX_SLOW_SHADER_BUILDING_WARNING,已知的GPU驱动问题可能导致首次启动游戏时速度缓慢，因为着色器需要完成第一次构建。该过程可能需要几分钟。

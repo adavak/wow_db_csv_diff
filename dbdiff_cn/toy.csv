@@ -754,7 +754,6 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200掉落：|r玛卓克萨斯使命,1161,187913,0,-1
 史诗钥石地下城全球锦标赛：“暗影国度”第3赛季,1162,187957,2,-1
 史诗钥石地下城全球锦标赛：“暗影国度”第4赛季,1163,187958,2,-1
-史诗钥石地下城全球锦标赛：“暗影国度”第2赛季,1164,187959,2,-1
 |cFFFFD200成就：|r横越诸球|n|cFFFFD200分类：|r暗影国度,1165,187860,0,5
 |cFFFFD200商人出售：|r烟林牧场商人|n|cFFFFD200价格：|r52|TINTERFACE\MONEYFRAME\UI-COPPERICON.BLP:0|t|n|n掉落：被窃的礼物,1166,188680,0,2
 |cFFFFD200商人出售：|r复活节商人|n|cFFFFD200价格：|r50|Hitem:44791|h|TInterface\ICONS\Achievement_Noblegarden_Chocolate_Egg.blp:0|t|h,1167,188694,0,2
@@ -898,7 +897,6 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200专业技能：|r巨龙群岛珠宝加工|n,1315,205045,0,3
 鼹鼠人名望,1316,205255,4,-1
 |cFFFFD200宝藏:|r炽燃的暗影烈焰宝箱|n|n|cFFFFD200地区：|r查拉雷克洞窟,1317,205418,0,-1
-|cFFFFD200掉落：|r裁缝,1319,205034,0,3
 |cFFFFD200掉落：|r狄恩|n|cFFFFD200地区：|r查拉雷克洞窟,1320,205419,0,0
 |cFFFFD200掉落：|r熔火束缚者的信徒|n|cFFFFD200地区：|r翡翠梦境,1321,205463,0,0
 |cFFFFD200世界任务：|r金光闪闪,1322,205688,0,-1
@@ -948,12 +946,15 @@ PH / TBD,1329,206195,2,-1
 《魔兽世界》电子竞技：“巨龙时代”第3赛季,1440,211424,2,-1
 |cFFFFD200世界事件：|r情人节|n,1445,210975,0,6
 |cFFFFD200世界事件：|r情人节,1447,211864,0,6
+|cFFFFD200成就：|r传说：“巨龙时代”第4赛季|n|cFFFFD200分类：|r竞技场,1448,211869,2,-1
 ,1450,211946,2,-1
 |cFFFFD200商栈|r|n,1452,212500,2,2
 |cFFFFD200商栈|r|n,1453,212523,2,2
 |cFFFFD200商栈|r|n,1454,212524,2,2
 |cFFFFD200商栈|r|n,1455,212525,2,2
 ,1456,212337,2,-1
+|cFFFFD200任务：|r大摇大摆|n|cFFFFD200地区：|r杜隆塔尔|n|n|cFFFFD200任务：|r大摇大摆|n|cFFFFD200地区：|r艾尔文森林|n,1461,216881,0,1
+|cFFFFD200阵营：|r桶腿船团|n|cFFFFD200名望等级：|r16,1464,170197,2,0
 "|cFFFFD200商人出售：|r达申德拉什
 |cFFFFD200地区：|r暴风城
 |cFFFFD200地区：|r奥格瑞玛
@@ -962,3 +963,4 @@ PH / TBD,1329,206195,2,-1
 |cFFFFD200商人出售：|r玛奇萨
 |cFFFFD200地区：|r瓦德拉肯
 |cFFFFD200价格：|r40|Hcurrency:2588|h|TInterface\ICONS\INV_10_Fishing_DragonIslesCoins_Bronze.BLP:0|t|h",1466,212518,0,2
+《魔兽世界》电子竞技：“巨龙时代”第4赛季,1472,218128,2,-1

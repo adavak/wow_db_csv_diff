@@ -2226,7 +2226,7 @@ Deals [StandardDamage(getProcIndex(PROC_ON_SWAP_IN), 1)] damage when swapping in
 召唤群犬援军，造成[FormatDamage(SimpleDamage(1,2)*3)]点[School()]伤害，并使其受到的伤害提高[abs(abilityStateMod( 24, 542 ))]%，持续[duration(1, 4)]轮。",132266,7,3,0,0
 1119,正义鼓舞,伤害和速度提高100%。,135971,-1,0,813,2
 1120,攻击降低,"在下一次攻击中造成的伤害降低 [abs(abilityStateMod( 23, 1120 ))]%。",653219,-1,0,334,3
-1121,乾坤一掷,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
+1121,贪得无厌,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
 造成[StandardDamage(1,1)]点[School()]伤害，并使目标陷入贪婪，持续3轮。
 
@@ -2817,7 +2817,7 @@ Deals [StandardDamage(getProcIndex(PROC_ON_SWAP_IN), 1)] damage when swapping in
 
 降下雪崩般的邮件，在第一轮造成[FormatDamage(SimpleDamage(1,1)+SimpleDamage(1,2)+SimpleDamage(1,3))]点[School()]伤害，在第二轮造成[FormatDamage(SimpleDamage(2,1)+SimpleDamage(2,2)+SimpleDamage(2,3))]点[School()]伤害，在第三轮造成[FormatDamage(SimpleDamage(3,1)+SimpleDamage(3,2)+SimpleDamage(3,3))]点[School()]伤害。
 
-被邮件击中的对手在[duration(1,4)] |4轮:轮;内受到的伤害提高[abs(abilityStateMod( 24, 542 ))]%。
+被邮件击中的对手在[duration(1,4)] 轮内受到的伤害提高[abs(abilityStateMod( 24, 542 ))]%。
 
 垃圾邮件会持续[numTurns()] |4轮:轮;。",133462,0,0,0,0
 2024,细嚼慢咽,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
@@ -3764,3 +3764,11 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 造成[StandardDamage(1,2)]点[School()]伤害。
 
 如果使用者的生命值低于目标的生命值，则可造成额外[StandardDamage(1,1)]点伤害。",429382,5,0,0,0
+2519,水泡爆炸,"[StandardAccuracy(1,1)]|cffffffff命中几率|r
+
+伴随着水泡的爆炸冲向敌人，造成[StandardDamage(1,1)]点[School()]伤害。
+
+这个招式总能取得先手。",132852,8,1,0,0
+2520,目眩神迷,"[StandardAccuracy(1,1)]|cffffffff命中几率|r
+
+用闪闪发亮的球体令敌人目眩，造成[StandardDamage(1,1)]点[School()]伤害并|cff9933FF致盲|r目标，使其命中几率降低[abs(abilityStateMod( 41 , 462 ))]%，持续[duration(1,2)]轮。",133836,0,4,0,0

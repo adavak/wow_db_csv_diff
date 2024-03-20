@@ -119,7 +119,7 @@ ID,Name_lang,Description_lang,CompletionPlayerConditionID,QuestID,PlayerConditio
 153,凯尔丹纳斯的遗产,,0,0,0
 154,传送师,,0,0,0
 155,供给沙尔艾兰,,0,0,0
-156,化妆舞会,,0,0,0
+156,化装舞会,,0,0,0
 158,古老的礼物,,0,0,0
 159,欺诈者的双刃,,0,0,0
 160,奥达奇战刃,,0,0,0
@@ -1146,4 +1146,5 @@ ID,Name_lang,Description_lang,CompletionPlayerConditionID,QuestID,PlayerConditio
 5516,科技占卜：艾姬拉瞭望台,简要概括了艾姬拉瞭望台的一次性科技占卜任务。,0,0,0
 5517,科技占卜：龙颅岛,简要概括了龙颅岛的一次性科技占卜任务。,0,0,0
 5528,艾泽拉斯档案馆,,0,0,0
+5537,10.2.6 Upgrade System Tutorial,,0,0,0
 5538,收复吉尔尼斯,帮助吉尔尼斯人赶走血色十字军并夺回城市！,0,0,0

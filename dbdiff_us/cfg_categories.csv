@@ -77,3 +77,4 @@ ID,Name_lang,LocaleMask,Create_charsetMask,Existing_charsetMask,Flags,Order
 182,Seasonal,0,0,0,0,0
 183,Internal Dev,0,0,0,2,0
 184,Dev 3,0,1,1,2,0
+185,PS,0,1,1,2,0
