@@ -6454,7 +6454,7 @@ ID,Value_lang,ReqID,ParentWidgetID
 12545,,200,4643
 12546,,201,4643
 12547,|cffFFD100Summoning Scallywags,428,4643
-12548,%22262w / %22266w Trios,194,4644
+12548,%22262w / %22265w Trios,194,4644
 12549,The tournament will begin once enough players have been summoned.,195,4644
 12550,,197,4644
 12551,,198,4644
@@ -7221,6 +7221,9 @@ ID,Value_lang,ReqID,ParentWidgetID
 13871,Contributions Made:,19,5024
 13872,Click Here,273,5024
 13873,Contribute supplies to craft the structure.,208,5024
+13874,Discipline,19,5025
+13875,,273,5025
+13876,Defeat enemies to build Discipline in order to damage the Echo of Fyrakk.,208,5025
 13877,Starting Soon,19,5026
 13878,,208,5026
 13879,,273,5026
@@ -7335,6 +7338,9 @@ ID,Value_lang,ReqID,ParentWidgetID
 14030,,19,5080
 14031,,273,5080
 14032,,208,5080
+14033,Shadowflame Knowledge,19,5081
+14034,,273,5081
+14035,,208,5081
 14036,Emerald Frenzy,19,5082
 14037,Kill creatures to collect Emerald Dewdrops!,208,5082
 14038,,273,5082
@@ -7500,8 +7506,12 @@ ID,Value_lang,ReqID,ParentWidgetID
 14213,,208,5136
 14218,"|TInterface\ICONS\INV_Helm_Armor_Gnomish_C_01_Blue.blp:25|t Thinking Cap Output: (%41238e, %41239e)",52,5139
 14219,,394,5139
+14220,"Vigor recharges while grounded, whether mounted or not, and while dragonriding at high speeds.",581,5140
 14224,Moruud has surfaced,52,5142
 14225,,394,5142
+14226,"Vigor recharges while grounded, whether mounted or not, and while dragonriding at high speeds.",581,5143
+14227,"Vigor recharges while grounded, whether mounted or not, and while dragonriding at high speeds.",581,5144
+14228,"Vigor recharges while grounded, whether mounted or not, and while dragonriding at high speeds.",581,5145
 14229,Dreamseed Nurturing,19,5146
 14230,Contribute to increase reward,208,5146
 14231,,273,5146
@@ -7541,7 +7551,7 @@ ID,Value_lang,ReqID,ParentWidgetID
 14296,,394,5165
 14297,,621,5166
 14298,,622,5166
-14299,Can be exchanged for a piece of|nChampion gear of your choosing.,627,5166
+14299,Can be exchanged for a piece of|nDreambound gear of your choosing.,627,5166
 14314,,621,5172
 14315,,622,5172
 14316,,627,5172
@@ -8074,6 +8084,9 @@ ID,Value_lang,ReqID,ParentWidgetID
 15113,,208,4694
 15114,,52,4695
 15115,,394,4695
+15437,,19,5482
+15438,,208,5482
+15439,Something is coming...,273,5482
 15533,,275,5513
 15542,,19,5516
 15543,,273,5516
@@ -8162,7 +8175,7 @@ ID,Value_lang,ReqID,ParentWidgetID
 15837,,19,5612
 15838,,273,5612
 15839,,208,5612
-15914,300,56,5641
+15914,250,56,5641
 15915,Plunder earned when completing a Captain's Orders quest.,57,5641
 15916,,59,5641
 15917,,60,5641
@@ -8174,7 +8187,7 @@ ID,Value_lang,ReqID,ParentWidgetID
 15923,,73,5641
 15924,,74,5641
 15925,,75,5641
-15926,150,56,5642
+15926,800,56,5642
 15927,Bonus Plunder for completing the first Captain's Orders quest of the day.,57,5642
 15928,,59,5642
 15929,,60,5642
@@ -8191,29 +8204,20 @@ ID,Value_lang,ReqID,ParentWidgetID
 15953,,208,5650
 15982,Awakened,52,5670
 15983,,394,5670
-16014,,2,5673
-16015,,3,5673
-16016,,4,5673
-16017,%3011c Plunder collected,56,5673
-16018,Total Plunder earned this match. Awarded when your crew is eliminated or victorious.,57,5673
-16019,,59,5673
-16020,,60,5673
-16021,,62,5673
-16022,,63,5673
-16023,,67,5673
-16024,,66,5673
-16025,,72,5673
-16026,,73,5673
-16027,,74,5673
-16028,,75,5673
 16029,Awakened,52,5674
 16030,,394,5674
 16031,Awakened,52,5675
 16032,,394,5675
 16061,Your health has increased|nThe damage of your abilities has increased,52,5683
 16062,,394,5683
-16063,|cff00ff00+%3011c reputation earned this match|r|nVisit Da'kash Grimledger in the waiting area to view rewards,52,5684
+16063,|cff00ff00+%3011c (x2) reputation earned this match|r|nVisit Da'kash Grimledger in the waiting area to view rewards,52,5684
 16064,,394,5684
 16081,The Storm has stopped!,19,3476
 16082,,273,3476
 16083,,208,3476
+16457,|TInterface\Icons\INV_Misc_Bone_HumanSkull_02:14:14:2:0|t  %448783as |4Kill:Kills;,584,5858
+16458,,585,5858
+16459,,598,5858
+16465,|TInterface\Icons\INV_Misc_Coin_01:14:14:2:0|t  %3011c Plunder (2x Reputation),584,5673
+16466,,585,5673
+16467,Total Plunder earned this match. Awarded when your crew is eliminated or victorious. Reputation is doubled during the Plundersurge!,598,5673

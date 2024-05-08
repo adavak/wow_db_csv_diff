@@ -3423,7 +3423,7 @@ Blasts the enemy with holy light, dealing [StandardDamage(1,1)] [School()] damag
 Damage increases by [FormatDamage(5*AttackBonus())] each time it is used. Max [FormatDamage(30 *AttackBonus())] [School()] damage.",461859,6,0,0,0
 2378,Rays of Light,"[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
-Deals [StandardDamage(1,1)] [School()] damage to the enemy's active pet and [StandardDamage(1,2)] [School()] damage to the enemy's backline pets. Restores[StandardHealing(1,1)] health to all allies.",525026,5,4,0,0
+Deals [StandardDamage(1,1)] [School()] damage to the enemy's active pet and [StandardDamage(1,2)] [School()] damage to the enemy's backline pets. Restores [StandardHealing(1,1)] health to all allies.",525026,5,4,0,0
 2379,Swirling Knowledge - aura,Blocks the next 2 attacks but the caster is locked in place researching for 1 turn.,134917,5,0,1179,2
 2380,Stay a While and Listen,"[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
@@ -3573,7 +3573,7 @@ A vengeful attack that deals [petTypeName(abilityPetType())] damage equal to the
 Barrage the enemy 1-2 times, dealing [StandardDamage(1,1)] [School()] damage per hit.
 
 Hits an additional time if the user attacks first.",236221,5,0,0,0
-2435,Mana Flare,"Deals [StandardDamage(1,1,944)] [School()] damage each time you take direct damage.
+2435,Mana Flare,"Deals [StandardDamage(1,1,2436)] [School()] damage each time you take direct damage.
 
 Lasts [duration(1,1)] |4round:rounds;.",136115,5,3,0,0
 2436,Mana Flare,"Deals [FormatDamage(SimpleDamage(1,1),nil,AURAENEMY)] [School()] damage each time you take direct damage.",136115,5,0,0,0
@@ -3752,6 +3752,16 @@ Immeasurable hatred overwhelms the target, adding [abs(abilityStateMod(71,2504))
 
 Lasts [duration(1,1)] |4round:rounds;.",4050664,5,5,0,2
 2506,Surrender in Terror,,132296,3,0,0,2
+2508,Storm Breath,"[StandardAccuracy(1,1)] |cffffffffHit Chance|r
+
+Breathes a lightning storm at the enemy, dealing [StandardDamage(1, 1)] [School()] damage.
+
+Attacks a second time for [StandardDamage(1,3)] [School()] damage when the weather is Lightning Storm.",236392,6,0,0,0
+2509,Life Sap,"[StandardAccuracy(1,1)] |cffffffffHit Chance|r
+
+Controls the power of life itself to deal [StandardDamage(1,1)] [School()] damage.
+
+The user is healed for [points(1,2)]% of the damage dealt.",136233,1,0,0,0
 2510,Hubris,"Your damage taken has been increased by [abs(abilityStateMod( 24, 185 ))]%.",1390945,5,0,530,3
 2511,Hubris,"[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
@@ -3761,6 +3771,13 @@ Deals [StandardDamage(1, 1)] [School()] damage, but increases the damage you tak
 2512,Ice Age,"[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 Deals [StandardDamage(1,1)] [School()] damage and has a 25% chance to stun the target.",4226156,6,5,0,0
+2513,Ravenholdt Rush,"[StandardAccuracy(1,1)] |cffffffffHit Chance|r
+
+Lil' Wrathion leads 2 waves of assassins to destroy his enemy.
+
+Lil' Wrathion deals [FormatDamage(SimpleDamage(1,1))] [School()] damage.
+
+Each wave of assassins deals [FormatDamage(SimpleDamage(1,2))] [School()] damage.",458726,0,0,0,0
 2514,[DNT] TEST,,897140,5,0,0,18
 2515,Windfury,"[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 

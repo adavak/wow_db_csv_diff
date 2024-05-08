@@ -501,8 +501,11 @@ ID,Name_lang,Name1_lang,Mask_ID,Flags
 782,%s the Inquisitive,%s the Inquisitive,512,0
 783,%s of the Infinite,%s of the Infinite,514,0
 784,Eastern Kingdoms Racer %s,Eastern Kingdoms Racer %s,515,0
+785,%s of the Tyr's Guard,%s of the Tyr's Guard,516,0
 786,%s the Dreaming,%s the Dreaming,517,0
+787,"%s, Honorary Historian","%s, Honorary Historian",518,0
 788,Honorary Preservationist %s,Honorary Preservationist %s,519,0
+789,%s the Storm Rider,%s the Storm Rider,520,0
 790,Outland Racer %s,Outland Racer %s,521,0
 791,Dream Racer %s,Dream Racer %s,522,0
 792,Isles Ace %s,Isles Ace %s,523,0
@@ -529,3 +532,7 @@ ID,Name_lang,Name1_lang,Mask_ID,Flags
 818,Buccaneer %s,Buccaneer %s,545,0
 819,First Mate %s,First Mate %s,546,0
 821,"%s, Champion of the Dragonflights","%s, Champion of the Dragonflights",547,0
+825,Timerunner %s,Timerunner %s,551,0
+826,"%s, Paragon of the Mists","%s, Paragon of the Mists",552,0
+827,"%s, Claw of Eternus","%s, Claw of Eternus",553,0
+832,"%s, Awakened Hero","%s, Awakened Hero",557,0

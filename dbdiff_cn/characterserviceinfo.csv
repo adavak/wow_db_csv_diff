@@ -1,4 +1,4 @@
-ID,FlowTitle_lang,PopupTitle_lang,PopupDescription_lang,Field_1_14_1_40666_003,BoostType,IconFileDataID,Priority,Flags,ProfessionLevel,BoostLevel,Expansion,PopupUITextureKitID
+ID,FlowTitle_lang,PopupTitle_lang,PopupDescription_lang,ServiceType,BoostType,IconFileDataID,Priority,Flags,ProfessionLevel,BoostLevel,Expansion,PopupUITextureKitID
 1,直升100级,免费直升100级,《魔兽世界》内容更新“军团再临”将附赠一次角色直升100级的机会。您可以选择直升现有角色，也可以在试玩新职业后再使用直升服务，或是关闭窗口稍后再使用该服务。,1,2,1033987,90,1,700,100,6,260
 5,争霸艾泽拉斯直升,免费直升110级,《魔兽世界》内容更新“争霸艾泽拉斯”将附赠一次角色直升110级的机会。在下列选项中选择一种，或是关闭窗口稍后再使用该服务。,1,3,3573824,80,1,700,48,7,265
 6,直升90级,免费直升90级,此次直升在购买“德拉诺之王”时免费赠送。,1,1,614740,100,0,625,90,5,260
@@ -9,3 +9,4 @@ ID,FlowTitle_lang,PopupTitle_lang,PopupDescription_lang,Field_1_14_1_40666_003,B
 125,阵营转换,阵营转换,变更角色阵营（部落转联盟或联盟转部落）,2,2,1126583,35,0,0,0,0,5362
 139,种族变更服务,种族变更服务,变更角色种族（只能变更为当前阵营可选的种族）。,2,3,1126585,30,0,0,0,0,5362
 140,角色更名,角色更名,变更角色名称。,2,4,1126584,25,0,0,0,0,5362
+143,70级直升,免费直升70级,,1,8,4734167,70,0,0,70,9,5468

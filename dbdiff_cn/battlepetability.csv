@@ -631,9 +631,9 @@ Deals [StandardDamage(getProcIndex(PROC_ON_SWAP_IN), 1)] damage when swapping in
 立即造成[StandardDamage(1,1)]点[School()]伤害，并使你的速度提高[abs(abilityStateMod( 25, 544 ))]%，持续[duration(1,2)]轮。",236171,7,0,0,0
 365,缭乱之舞,"队伍速度提高[abs(abilityStateMod(25,365))]%。",648208,-1,0,113,0
 366,缭乱之舞,"使你队伍的速度提高[abs(abilityStateMod(25,365))]%，持续[duration(1,1)]轮。",608954,4,0,0,2
-367,噬咬,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
+367,攻击,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
-噬咬敌人，造成[StandardDamage(1, 1)]点[School()]伤害。",132139,4,0,0,0
+攻击敌人，造成[StandardDamage(1, 1)]点[School()]伤害。",132139,4,0,0,0
 368,酸蚀粘液,"每轮造成[StandardDamage(1,1)]点[School()]伤害，且使受到的伤害提高[abs(abilityStateMod(24,368))]%。
 
 |cFF1EFF00中毒。|r",134437,4,0,25,1
@@ -2867,9 +2867,9 @@ Deals [StandardDamage(getProcIndex(PROC_ON_SWAP_IN), 1)] damage when swapping in
 用你巨大的爪子钳击敌人，造成[StandardDamage(1,1)]点[petTypeName(abilityPetType())]伤害。
 
 每次使用都会令伤害提高[FormatDamage(pointsincreaseperuse(1,1)*AttackBonus())]点。最多可造成[FormatDamage(pointsmax(1,1)*AttackBonus())]点[School()]伤害。",1508496,8,0,0,0
-2068,咬脸,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
+2068,牙击,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
-扑向目标的脸，立即造成[StandardDamage(1,1)]点[School()]伤害并使你的速度提高[abs(abilityStateMod( 25, 544 ))]%，持续[duration(1,2)]轮。",538039,7,0,0,0
+攻击目标，立即造成[StandardDamage(1,1)]点[School()]伤害并使你的速度提高[abs(abilityStateMod( 25, 544 ))]%，持续[duration(1,2)]轮。",538039,7,0,0,0
 2069,贡克光环,"每当你造成伤害，都可以获得[StandardHealing(1,1)]点治疗。生命值低于[threshold(1,1)]%时受到的治疗加倍。",797327,7,0,0,18
 2070,贡克光环,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
@@ -3569,7 +3569,7 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 用弹幕攻击敌人1到2次，每次造成[StandardDamage(1,1)]点[School()]伤害。
 
 如果使用者率先攻击，则可额外攻击1次。",236221,5,0,0,0
-2435,法力闪耀,"每当你受到直接伤害时，即可造成[StandardDamage(1,1,944)]点[School()]伤害。
+2435,法力闪耀,"每当你受到直接伤害时，即可造成[StandardDamage(1,1,2436)]点[School()]伤害。
 
 持续[duration(1,1)]轮。",136115,5,3,0,0
 2436,法力闪耀,"每当你受到直接伤害时造成[FormatDamage(SimpleDamage(1,1),nil,AURAENEMY)]点[School()]伤害。",136115,5,0,0,0
@@ -3744,6 +3744,16 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 
 持续[duration(1,1)]轮。",4050664,5,5,0,2
 2506,臣服恐惧,,132296,3,0,0,2
+2508,风暴吐息,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
+
+对敌人喷吐闪电风暴，造成[StandardDamage(1, 1)]点[School()]伤害。
+
+天气为闪电风暴时会进行第二次攻击，造成[StandardDamage(1,3)]点[School()]伤害。",236392,6,0,0,0
+2509,生命侵蚀,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
+
+控制生命之力，造成[StandardDamage(1,1)]点[School()]伤害。
+
+使用者回复生命值，数值相当于造成伤害的[points(1,2)]%。",136233,1,0,0,0
 2510,嚣狂,"你受到的伤害提高[abs(abilityStateMod( 24, 185 ))]%。",1390945,5,0,530,3
 2511,嚣狂,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
@@ -3753,6 +3763,13 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 2512,冰河时代,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
 造成[StandardDamage(1,1)]点[School()]伤害，并有25%的几率使目标昏迷。",4226156,6,5,0,0
+2513,拉文霍德突进,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
+
+小拉希奥带领2波刺客摧毁敌人。
+
+小拉希奥造成[FormatDamage(SimpleDamage(1,1))]点[School()]伤害。
+
+每波刺客造成[FormatDamage(SimpleDamage(1,2))]点[School()]伤害。",458726,0,0,0,0
 2514,[DNT] TEST,,897140,5,0,0,18
 2515,风怒,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
