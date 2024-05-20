@@ -82621,15 +82621,15 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 143997,,143996,0,0,58684,0,0
 143998,Lunkers landed,0,1,5,0,0,8193
 143999,,143998,0,0,58685,0,0
-144000,Children's Week quests completed,0,4,5,0,0,1
-144001,A Warden of the Alliance,144000,1,0,58663,0,1
-144002,A Warden of the Horde,144000,1,0,58664,1,1
-144003,Back to the Orphanage with Dornaa,144000,1,0,58665,2,1
-144004,Back to the Orphanage with Salandria,144000,1,0,58666,3,1
+144000,Children's Week quests completed,0,4,8,0,0,1
+144001,A Warden of the Alliance,144000,0,0,58663,0,1
+144002,A Warden of the Horde,144000,0,0,58664,1,1
+144003,Back to the Orphanage with Dornaa,144000,0,0,58665,2,1
+144004,Back to the Orphanage with Salandria,144000,0,0,58666,3,1
 144005,Back to the Orphanage with Roo,144000,1,8,0,7,8193
 144006,Back to the Orphanage with Kekek,144000,1,8,0,6,8193
-144007,Return to the Orphanage with Liam,144000,1,0,58669,4,1
-144008,Return to the Hall of Castes with Azala,144000,1,0,58670,5,1
+144007,Return to the Orphanage with Liam,144000,0,0,58669,4,1
+144008,Return to the Hall of Castes with Azala,144000,0,0,58670,5,1
 144009,10.1 Underground - Campaign - Ch 1 - Q05 - The Throughway - S4,0,0,4,0,0,0
 144010,Portalkeeper Cimbra slain,144009,1,0,58372,1,0
 144011,Paera Finebreeze cheered at,0,1,4,0,0,8193
@@ -85177,14 +85177,14 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 146844,,143873,5,0,58592,10,0
 146845,10.1 Niffen Cave Dive,0,1,5,0,0,4096
 146846,,146845,0,0,60257,0,0
-146847,Back to the Orphanage with Kekek,144006,1,0,58668,1,0
-146848,,144006,1,0,60259,0,3
+146847,Back to the Orphanage with Kekek,144006,0,0,58668,1,0
+146848,,144006,0,0,60259,0,3
 146849,,146852,1,0,60258,1,3
 146850,,146851,1,0,60259,0,3
 146851,Back to the Orphanage with Kekek,143968,1,8,0,6,8192
 146852,Back to the Orphanage with Roo,143968,1,8,0,7,8192
-146853,Back to the Orphanage with Roo,144005,1,0,58667,0,0
-146854,,144005,1,0,60258,1,3
+146853,Back to the Orphanage with Roo,144005,0,0,58667,0,0
+146854,,144005,0,0,60258,1,3
 146855,Scourge - Base Spawn 01,0,0,4,0,0,0
 146856,Scourge - Base Spawn 02,0,0,4,0,0,0
 146857,Scourge - Base Spawn 03,0,0,4,0,0,0
@@ -85889,7 +85889,7 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 147768,,147760,0,0,53931,4,0
 147769,,147760,0,0,53924,2,0
 147770,Trading Post - Timewalking Dungeons (Wrath) - 5,0,1,4,0,0,0
-147771,Timewalking dungeons completed,147770,5,8,0,0,8193
+147771,Timewalking dungeons completed,147770,5,5,0,0,8193
 147772,,147771,0,0,53916,0,0
 147773,,147771,0,0,53930,1,0
 147774,,147771,0,0,53924,2,0
@@ -85905,7 +85905,7 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 147786,,147781,0,0,60796,4,0
 147787,,147781,0,0,60797,5,0
 147788,Trading Post - Timewalking Dungeons (Cata) - 5,0,1,4,0,0,0
-147789,Timewalking dungeons completed,147788,5,8,0,0,8193
+147789,Timewalking dungeons completed,147788,5,5,0,0,8193
 147790,,147789,0,0,60792,0,0
 147791,,147789,0,0,60793,1,0
 147792,,147789,0,0,60794,2,0
@@ -90383,10 +90383,10 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 154900,,149808,0,0,65441,22,0
 154901,,149808,0,0,65442,23,0
 154909,10.2.7 Timewalking Season - Pandaria - Journey - Meta - 01 - Jade Forest,0,2,8,0,0,0
-154911,Order of the Cloud Serpent exalted,154909,1,0,65501,1,0
-154912,Complete the Jade Forest campaign,154909,1,0,65467,0,0
-154914,Tour Jade Forest,154909,1,0,65500,2,0
-154916,Jade Forest group content completed,154909,1,0,65465,3,0
+154911,Order of the Cloud Serpent exalted,154909,1,0,65501,2,0
+154912,Complete the Jade Forest campaign,154909,1,0,65467,0,512
+154914,Tour Jade Forest,154909,1,0,65500,3,0
+154916,Jade Forest group content completed,154909,1,0,65465,4,0
 154930,10.2.7 Timewalking Season - Pandaria - Journey - Meta - 02 - Valley of the Four Winds,0,2,8,0,0,0
 154931,10.2.7 Timewalking Season - Pandaria - Journey - Meta - 03 - Krasarang Wilds,0,1,8,0,0,0
 154932,10.2.7 Timewalking Season - Pandaria - Journey - Meta - 04 - Kun-Lai Summit,0,2,8,0,0,0
@@ -91016,9 +91016,9 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 155695,Defeat Timeless Isle rare enemies,155070,1,0,65857,2,0
 155696,,154931,1,0,65860,0,32
 155697,,154931,1,0,65862,2,32
-155698,,154932,1,0,65863,0,32
-155699,,154932,1,0,65864,1,32
-155700,,154932,1,0,65865,2,32
+155698,,154932,1,0,65863,0,544
+155699,,154932,1,0,65864,2,32
+155700,,154932,1,0,65865,3,32
 155702,,154933,1,0,65867,0,32
 155703,,154933,1,0,65868,1,32
 155704,,154934,1,0,65869,0,32
@@ -91572,7 +91572,7 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 157341,Flameweaver Koegler,157316,0,0,66819,24,2
 157342,High Inquisitor Whitemane,157316,0,0,66820,25,2
 157343,Darkmaster Gandling,157316,0,0,66821,26,2
-157344,Raids,157316,0,0,66792,27,0
+157344,10.2.7 Timewalking Season - Pandaria - Journey - Raid - 01 - Mogu'shan Vaults - 02 - N,157316,0,4,0,27,8194
 157385,"Get a score of at least 30,000",0,0,4,0,0,0
 157386,"Get a score of at least 30,000",157385,30000,0,23873,0,2048
 157387,"Get a score of at least 25,000",0,0,4,0,0,0
@@ -91847,3 +91847,55 @@ ID,Description_lang,Parent,Amount,Operator,CriteriaID,OrderIndex,Flags
 162970,,155676,0,0,68044,0,0
 162971,High Seas Scenario - Bonus Objectives (Horde),0,0,4,0,0,0
 162972,Defeat Admiral Hodgson (Timed),162971,1,0,68046,0,0
+162977,Achievement - Hunt the Harbinger,0,0,4,0,0,0
+162978,,162977,0,0,68050,0,0
+162979,Stone Guard,157344,0,0,68056,0,0
+162980,Feng the Accursed,157344,0,0,68057,1,0
+162981,Gara'jal the Spiritbinder,157344,0,0,68058,2,0
+162982,Four Kings,157344,0,0,68059,3,0
+162983,Elegon,157344,0,0,68060,4,0
+162984,Will of the Emperor,157344,0,0,68061,5,0
+162985,10.2.7 Timewalking Season - Pandaria - Journey - Raid - 02 - Heart of Fear - 02 - N,157316,0,4,0,28,8194
+162986,Blade Lord Ta'yak,162985,0,0,68062,0,0
+162987,Imperial Vizier Zor'lok,162985,0,0,68063,1,0
+162988,Garalon,162985,0,0,68064,2,0
+162989,Wind Lord Mel'jarak,162985,0,0,68065,3,0
+162990,Amber-Shaper Un'sok,162985,0,0,68066,4,0
+162991,Grand Empress Shek'zeer,162985,0,0,68067,5,0
+162992,10.2.7 Timewalking Season - Pandaria - Journey - Raid - 03 - Terrace of Endless Spring - 02 - N,157316,0,4,0,29,8194
+162993,Protectors of the Endless,162992,0,0,68068,0,0
+162994,Tsulong,162992,0,0,68069,1,0
+162995,Lei Shi,162992,0,0,68070,2,0
+162996,Sha of Fear,162992,0,0,68071,3,0
+162997,10.2.7 Timewalking Season - Pandaria - Journey - Raid - 04 - Throne of Thunder - 02 - N,157316,0,4,0,30,0
+162998,Jin'rokh the Breaker,162997,0,0,68072,0,0
+162999,Horridon,162997,0,0,68073,1,0
+163000,Council of Elders,162997,0,0,68074,2,0
+163001,Tortos,162997,0,0,68075,3,0
+163002,Megaera,162997,0,0,68076,4,0
+163003,Ji-Kun,162997,1,0,68077,5,0
+163004,Durumu the Forgotten,162997,0,0,68078,6,0
+163005,Primordius,162997,0,0,68079,7,0
+163006,Dark Animus,162997,0,0,68080,8,0
+163007,Iron Qon,162997,0,0,68081,9,0
+163008,Twin Consorts,162997,0,0,68082,10,0
+163009,Lei Shen,162997,0,0,68083,11,0
+163010,10.2.7 Timewalking Season - Pandaria - Journey - Raid - 05 - Siege of Orgrimmar - 02 - N,157316,0,4,0,31,0
+163011,Immerseus,163010,0,0,68084,0,0
+163012,Fallen Protectors,163010,0,0,68085,1,0
+163013,Norushen,163010,0,0,68086,2,0
+163014,Sha of Pride,163010,0,0,68087,3,0
+163015,Galakras,163010,0,0,68088,4,0
+163016,Iron Juggernaut,163010,0,0,68089,5,0
+163017,Kor'kron Dark Shaman,163010,0,0,68090,6,0
+163018,General Nazgrim,163010,0,0,68091,7,0
+163019,Malkorok,163010,0,0,68092,8,0
+163020,Spoils of Pandaria,163010,0,0,68093,9,0
+163021,Thok the Bloodthirsty,163010,0,0,68094,10,0
+163022,Siegecrafter Blackfuse,163010,0,0,68095,11,0
+163023,Paragons of the Klaxxi,163010,0,0,68096,12,0
+163024,Garrosh Hellscream,163010,0,0,68097,13,0
+163957,,154909,1,0,68693,1,1024
+163959,,154932,1,0,68694,1,1024
+164209,10.2.7 - Troll Heritage - Bestow Weapon Transmog if Quest Complete on non-2H Sword Class,0,0,4,0,0,0
+164210,,164209,0,0,68835,0,0

@@ -22059,7 +22059,7 @@ And spread his flame to all Azeroth.",1
 51721,LFG_LIST_BEST_RUN,Best Run,1
 51723,SPELL_FAILED_CUSTOMERROR_1011,Already at max.,1
 51724,ITEM_ALREADY_MAX_QUALITY,Item is already at maximum quality.,1
-51725,KEY_RANGE_GROUP_FINDER_HELPTIP,"Enter a key range for precise results, like 14-16 or 15-15.",1
+51725,KEY_RANGE_GROUP_FINDER_HELPTIP,"Enter a key range for precise results, like 5-8 or 7-7",1
 51726,MEMBERS_COLON,Members:,1
 51727,WOW_ERROR_337,Access to this realm requires an account with a valid access license.,2
 51730,MOUNT_ABILITY_TYPE_FORMAT,%s %s,1
@@ -22174,7 +22174,7 @@ And spread his flame to all Azeroth.",1
 51911,TIMERUNNING_POPUP_ITEMS_HEADER,New Items & Mechanics,2
 51912,TIMERUNNING_POPUP_ITEMS_DESCRIPTION,Completely new itemization and unique spell gems give players access to a new gameplay experience.,2
 51913,TIMERUNNING_POPUP_REWARDS_HEADER,Unique Rewards,2
-51914,TIMERUNNING_POPUP_REWARDS_DESCRIPTION,"By completing event achievements, you'll unlock new mounts, battle pets, transmog, and more for your account.",2
+51914,TIMERUNNING_POPUP_REWARDS_DESCRIPTION,"By completing event achievements, you'll unlock new mounts, battle pets, appearances, and more for your account.",2
 51915,TIMERUNNING_POPUP_CREATE,Create Timerunner,2
 51916,COUNTDOWN_CLEAR,|Hplayer:%s|h[%s]|h canceled the countdown timer.,1
 51917,WOWLABS_CURRENCY_PICKUP,+%s Plunder,3
