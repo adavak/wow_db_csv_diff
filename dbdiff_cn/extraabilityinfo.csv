@@ -57,7 +57,10 @@ ID,TutorialText_lang,SpellID,ActionBarOverrideSpellID,SpellLabel,UiTextureKitID,
 60,重置位置|n|n你可以将该技能拖曳到动作条上。,409349,409350,0,5471,101
 61,用弗林的手枪朝木桶射击,248082,0,2797,5299,100
 62,地下城辅助|n|n你可以将该技能拖曳到动作条上。,426756,426758,0,5428,100
+65,[PH] This is the ability you use for companion extra actions. |n |nYou can drag this to your action bar.,433878,0,0,5299,0
+66,[PH] This is the ability you use for scenario extra actions. |n |nYou can drag this to your action bar.,434240,0,0,5299,0
 67,时空奔行技能解锁！|n|n你可以将该技能拖曳到动作条上。,436521,0,3174,5556,103
 68,时空奔行技能解锁！|n|n你可以将该技能拖曳到动作条上。,436524,0,3175,5556,104
 69,时空奔行技能解锁！|n|n你可以将该技能拖曳到动作条上。,439053,0,3233,5556,101
 70,时空奔行技能解锁！|n|n你可以将该技能拖曳到动作条上。,439052,0,3234,5556,100
+71,契约技能解锁！|n|n你可以将该技能拖曳到动作条上。,441963,0,3337,5556,103

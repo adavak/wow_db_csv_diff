@@ -158,10 +158,10 @@ ID,Name_lang,Description_lang,ButtonText_lang,RewardDescription_lang,ContinueDes
 177,Iron Docks,The naval fleet of the Iron Horde is mustering at the Iron Docks in Gorgrond and must be stopped.,Join Group,,,6,33941,0,1,1003154,821,0,0,7,8,0,0,0,33942,34024,0,0
 178,Auchindoun,A hero is needed to repel the Shadow Council forces from the ancient draenei crypts at Auchindoun before they can turn the power there to evil.,Join Group,,,6,33943,0,1,1002597,820,0,0,7,8,0,0,0,33944,34025,0,0
 179,Skyreach,Assault the Skyreach and the vile arakkoa there who are using the power of the sun against their enemies.,Join Group,,,6,33945,0,1,1002596,779,0,0,7,8,0,0,0,33946,34026,0,0
-186,Bonus Event: Skirmishes,Fight other players in Skirmishes for the duration of this Bonus Event!,Start Quest,,,4,34058,0,3,975743,0,72720,0,91,91,0,0,0,0,0,0,0
-187,Bonus Event: Battlegrounds,Fight other players in Battlegrounds for the duration of this Bonus Event!,Start Quest,,,4,34059,0,3,132269,0,72723,0,91,91,0,0,0,0,0,0,0
-191,Bonus Event: Pet Battles,Engage in Pet Battles for the duration of this Bonus Event!,Start Quest,,,4,34116,0,3,132269,0,72721,0,91,91,0,0,0,0,0,0,0
-195,Bonus Event: World Quests,Complete World Quests in the Dragon Isles for increased rewards for the duration of this Bonus Event!,Start Quest,Completing this quest will grant you renown with the Dragonflight faction of your choice!,,4,44601,0,3,136349,0,72728,0,91,91,0,0,0,0,0,0,0
+186,Bonus Event: Skirmishes,Fight other players in Skirmishes for the duration of this Bonus Event!,Start Quest,,,4,34058,0,3,975743,0,83358,0,91,91,0,0,0,0,0,0,0
+187,Bonus Event: Battlegrounds,Fight other players in Battlegrounds for the duration of this Bonus Event!,Start Quest,,,4,34059,0,3,132269,0,83345,0,91,91,0,0,0,0,0,0,0
+191,Bonus Event: Pet Battles,Engage in Pet Battles for the duration of this Bonus Event!,Start Quest,,,4,34116,0,3,132269,0,83357,0,91,91,0,0,0,0,0,0,0
+195,Bonus Event: World Quests,Complete World Quests in Khaz Algar for increased rewards for the duration of this Bonus Event!,Start Quest,Completing this quest will grant you renown with the War Within faction of your choice!,,4,44601,0,3,136349,0,83366,0,91,91,0,0,0,0,0,0,0
 196,Skirmishes,Battle other players in 2v2 and 3v3 Skirmishes!,Join Skirmishes,,,5,34197,0,5,236326,0,0,32,3,5,0,0,0,33559,0,2,0
 197,Warsong Gulch,Claim Warsong Gulch for the Alliance in this capture-the-flag battleground.,Join the Fight!,,,5,34277,1,4,236350,0,0,2,1,7,0,0,0,34691,0,1,0
 198,Kun-Lai Summit,Survivors of the battle in Jade Forest have made their way to Kun-Lai Summit and are in dire need of your aid.,Start Quest,,,0,34950,0,3,617832,0,38936,0,9,10,0,0,379,33737,34300,0,0
@@ -267,11 +267,11 @@ ID,Name_lang,Description_lang,ButtonText_lang,RewardDescription_lang,ContinueDes
 361,Raid Finder: Hope's End,Lead the Army of the Light into battle against the Burning Legion in their hallowed capital to destroy them once and for all!,Join Raid,,,6,52875,2,2,1711341,1612,0,0,8,10,0,0,0,0,0,0,0
 362,Raid Finder: Light's Breach,Lead the Army of the Light into battle against the Burning Legion in their hallowed capital to destroy them once and for all!,Join Raid,,,6,52876,2,2,1711341,1610,0,0,8,10,0,0,0,0,0,0,0
 363,Black Temple Timewalking,Return to the classic Outland raid to defeat Illidan Stormrage.,Find Group,,,6,52878,0,6,236415,1533,0,0,91,91,0,0,0,0,0,0,0
-365,Bonus Event: Dungeons,Complete Dragonflight Mythic dungeons for the duration of this bonus event!,Start Quest,,,4,53785,0,3,132269,0,72722,0,91,91,0,0,0,0,0,0,0
-366,Bonus Event: Timewalking,Timewalk through Wrath of the Lich King dungeons for the duration of this Bonus Event!,Start Quest,,,4,53786,0,3,341221,0,72726,0,91,91,0,0,0,0,0,0,0
-367,Bonus Event: Timewalking,Timewalk through Cataclysm dungeons for the duration of this Bonus Event!,Start Quest,,,4,53787,0,3,574788,0,72810,0,91,91,0,0,0,0,0,0,0
-368,Bonus Event: Timewalking,Timewalk through Burning Crusade dungeons for the duration of this Bonus Event!,Start Quest,,,4,53788,0,3,250117,0,72727,0,91,91,0,0,0,0,0,0,0
-369,Bonus Event: Timewalking,Timewalk through Mists of Pandaria dungeons for the duration of this Bonus Event!,Start Quest,,,4,53789,0,3,630786,0,72725,0,91,91,0,0,0,0,0,0,0
+365,Bonus Event: Dungeons,Complete War Within Heroic or Mythic dungeons for the duration of this bonus event!,Start Quest,,,4,53785,0,3,132269,0,83347,0,91,91,0,0,0,0,0,0,0
+366,Bonus Event: Timewalking,Timewalk through Wrath of the Lich King dungeons for the duration of this Bonus Event!,Start Quest,,,4,53786,0,3,341221,0,83365,0,91,91,0,0,0,0,0,0,0
+367,Bonus Event: Timewalking,Timewalk through Cataclysm dungeons for the duration of this Bonus Event!,Start Quest,,,4,53787,0,3,574788,0,83359,0,91,91,0,0,0,0,0,0,0
+368,Bonus Event: Timewalking,Timewalk through Burning Crusade dungeons for the duration of this Bonus Event!,Start Quest,,,4,53788,0,3,250117,0,83363,0,91,91,0,0,0,0,0,0,0
+369,Bonus Event: Timewalking,Timewalk through Mists of Pandaria dungeons for the duration of this Bonus Event!,Start Quest,,,4,53789,0,3,630786,0,83362,0,91,91,0,0,0,0,0,0,0
 370,Ulduar Timewalking,Return to the classic Wrath of the Lich King raid to defeat Yogg-Saron.,Find Group,,,6,54963,0,6,254106,1677,0,0,91,91,0,0,0,0,0,0,0
 371,The Seething Shore,Participate in the battle for the Seething Shore.,Start Quest,,,5,55547,0,3,236396,0,50048,0,9,10,0,0,0,0,0,0,0
 372,The Seething Shore,Participate in the battle for the Seething Shore.,Start Quest,,,5,55548,0,3,236396,0,50054,0,9,10,0,0,0,0,0,0,0
@@ -305,7 +305,7 @@ ID,Name_lang,Description_lang,ButtonText_lang,RewardDescription_lang,ContinueDes
 501,Dwarf Heritage Armor,Go to the Stormwind Embassy and delve into the history of the Bronzebeard clan!,,,,7,67015,0,0,2429768,0,0,0,9,12,0,0,0,0,0,0,0
 502,Blood Elf Heritage Armor,Go to the Orgrimmar Embassy to take part in a historical sin'dorei ceremony.,,,,7,67017,0,0,2459461,0,0,0,9,12,0,0,0,0,0,0,0
 503,Bonus Event: Timewalking,Timewalk through Warlords of Draenor dungeons for the duration of this Bonus Event!,Join Group,,,4,69105,0,1,2838050,1971,0,0,91,91,0,0,0,0,0,0,0
-504,Bonus Event: Timewalking,Timewalk through Warlords of Draenor dungeons for the duration of this Bonus Event!,Start Quest,,,4,69106,0,3,2838050,0,72724,0,91,91,0,0,0,0,0,0,0
+504,Bonus Event: Timewalking,Timewalk through Warlords of Draenor dungeons for the duration of this Bonus Event!,Start Quest,,,4,69106,0,3,2838050,0,83364,0,91,91,0,0,0,0,0,0,0
 505,Raid Finder: Crucible of Storms,A dark power has awakened beneath the Shrine of the Storm that and seeks to engulf all of Zandalar and Kul Tiras.,Join Raid,,,6,69370,2,2,2498195,1951,0,0,8,10,0,0,0,0,0,0,0
 506,Crucible of Storms,A dark power has awakened beneath the Shrine of the Storm that and seeks to engulf all of Zandalar and Kul Tiras.,Find Group,,,6,69371,2,6,2498195,1952,0,0,8,10,0,0,0,0,0,0,0
 507,Wanderer's Festival,Join our Pandaren allies on the shores of Krasarang Wilds as they honor those that led them to adventure!,,,,4,69374,0,0,2869704,0,0,0,11,12,0,0,0,0,0,0,0
@@ -352,7 +352,7 @@ ID,Name_lang,Description_lang,ButtonText_lang,RewardDescription_lang,ContinueDes
 559,Raid Finder: The Reckoning,"Atop the Tower, Sylvanas Windrunner awaits. Here, the final confrontation for the fate of the cosmos will take place.",Join Raid,,,6,91601,2,2,4062765,2224,0,0,8,10,0,0,0,0,0,0,0
 560,"Tazavesh, the Veiled Market","The ruthless cartel boss So'leah launches a heist to claim forbidden Progenitor knowledge. Racing against time, Al'dalil and his ragtag crew form a plan to ensure these secrets remain undiscovered.",Join Group,,,6,91603,2,6,4062727,2225,0,0,7,8,0,0,0,0,0,0,0
 561,Bonus Event: Timewalking,Timewalk through Legion dungeons for the duration of this Bonus Event!,Join Group,,,4,93592,0,1,1536895,2274,0,0,91,91,0,0,0,0,0,0,0
-562,Bonus Event: Timewalking,Timewalk through Legion dungeons for the duration of this Bonus Event!,Start Quest,,,4,93593,0,3,1536895,0,72719,0,91,91,0,0,0,0,0,0,0
+562,Bonus Event: Timewalking,Timewalk through Legion dungeons for the duration of this Bonus Event!,Start Quest,,,4,93593,0,3,1536895,0,83360,0,91,91,0,0,0,0,0,0,0
 563,Raid Finder: Cornerstone of Creation,"Lihuvim fights a losing battle against domination. Unless saved, the keeper's power will become the Jailer's.",Join Raid,,,6,95456,2,2,4254074,2291,0,0,8,10,0,0,0,0,0,0,0
 564,Raid Finder: Ephemeral Plains,"The essence of creation is being devoured. If left unchecked, reality will collapse.",Join Raid,,,6,95457,2,2,4254074,2292,0,0,8,10,0,0,0,0,0,0,0
 565,Raid Finder: Domination's Grasp,Zovaal's greatest followers have destroyed millions of civilations. Will they now unmake the universe?,Join Raid,,,6,95458,2,2,4254074,2293,0,0,8,10,0,0,0,0,0,0,0
@@ -492,7 +492,7 @@ ID,Name_lang,Description_lang,ButtonText_lang,RewardDescription_lang,ContinueDes
 706,Raid Finder: Fate of Amirdrassil,Fyrakk has reached the heart of Amirdrassil and threatens to consume its power for his own.,Join Raid,,,6,114929,6,2,5342925,2469,0,0,96,96,0,0,0,0,0,0,0
 707,Raid Finder: The Viridian Weave,"Nymue weaves the mesmerizing patterns of the Emerald Dream. Our intrusion has distrupted the weave, and we will be dealt with.",Join Raid,,,6,114928,6,2,5342920,2467,0,0,95,95,0,0,0,0,0,0,0
 708,Raid Finder: Incarnate's Wake,"Smolderon has forced his way into the Emerald Dream. If left unchecked, his forces will burn everything in their path.",Join Raid,,,6,114931,6,2,5342930,2466,0,0,93,93,0,0,0,0,0,0,0
-709,Battleground Blitz,Embark on a mission alongside members of both factions to prove yourself in battlegrounds. Matches are sped up!,Start Quest,,,5,114958,0,3,1713483,0,78128,1101,97,97,1602,110,0,0,0,0,0
+709,Battleground Blitz,Embark on a mission alongside members of both factions to prove yourself in battlegrounds. Matches are sped up!,Start Quest,,,5,114958,1,3,1713483,0,78128,1101,97,97,1602,110,0,0,0,0,0
 710,Guardians of the Dream: Chapter 1,Speak with Merithra to venture into the Emerald Dream.,Accept Quest,,,7,115434,0,3,5244643,0,76317,0,7,7,0,0,0,0,0,0,0
 711,Tyr's Return,"Go with the Tyr's Guard to the Nighthold to recover the Disc of Tyr, and return it to Nozdormu to restore the titan keeper to function.",Accept Quest,,,7,115433,0,3,5245774,0,77339,0,9,12,0,0,0,0,0,0,0
 712,Guardians of the Dream: Chapter 4,The Emerald Dream remains under attack by Fyrakk and his army. Regroup with Merithra and Ysera in Amirdrassil.,,,,7,115446,0,0,5244643,0,0,0,7,7,0,0,0,0,0,0,0
@@ -503,6 +503,8 @@ ID,Name_lang,Description_lang,ButtonText_lang,RewardDescription_lang,ContinueDes
 717,Gilneas Reclamation,The Alliance has been called to aid Genn Greymane in reclaiming Gilneas and returning the kingdom to his people.,Accept Quest,,,7,116386,0,3,462338,0,78596,0,9,12,0,0,0,0,0,0,0
 718,Gilneas Reclamation,Lilian Voss and Calia Menethil have requested the aid of Horde champions for a secret mission in the heart of Gilneas.,Accept Quest,,,7,116387,0,3,462338,0,78597,0,9,12,0,0,0,0,0,0,0
 719,The Crown Chemical Co.,Apothecary Hummel and his cronies have been cooking up a batch of poisonous perfumes! Group up and take them out.,Find Group,,,4,116635,0,1,135447,288,0,0,6,12,0,0,0,0,0,0,0
+720,Draenei Heritage Armor,An ancient celebration has been revived to celebrate a new era for the draenei. Romuul has left a parcel at the Stormwind Embassy asking for your help.,Accept Quest,,,7,116822,0,3,4912586,0,78068,0,9,12,0,0,0,0,0,0,0
+721,Darkspear Troll Heritage Armor,The Darkspear's connection with their loa is tenuous. Bwonsamdi has arrived in the Echo Isles to make a request of the trolls.,Accept Quest,,,7,116824,0,3,5212672,0,77869,0,9,12,0,0,0,0,0,0,0
 722,The Big Dig: Traitor's Rest,Get your hands dirty with other Archivists and discover the truth behind Traitor's Rest! Keep an eye on your map - The Big Dig appears periodically in the Azure Span.,Accept Quest,,,7,117824,0,3,5221397,0,79226,0,3,7,0,0,0,0,0,0,0
 723,The Archives Needs You!,Lead Archivist Eadweard Dalyngrigge needs someone like you to help the Azerothian Archives uncover the mysteries of the Dragon Isles!,Accept Quest,,,7,117825,0,3,5221397,0,77325,0,3,7,0,0,0,0,0,0,0
 724,Superbloom,Keep Sprucecrown safe - and awake - as he rejuvenates the Emerald Dream! This public event happens periodically near the base of Amirdrassil.,Accept Quest,,,7,117857,0,3,306845,0,78319,0,2,6,0,0,0,0,0,0,0
@@ -513,4 +515,45 @@ ID,Name_lang,Description_lang,ButtonText_lang,RewardDescription_lang,ContinueDes
 729,Noblegarden,"Grab your baskets, it's time for Noblegarden! Head to your capital city for more details.",,,,4,117911,0,0,236570,0,0,0,6,12,0,0,0,0,0,0,0
 730,Noblegarden,"Grab your baskets, it's time for Noblegarden! Head to your capital city for more details.",,,,4,117912,0,0,236570,0,0,0,6,12,0,0,0,0,0,0,0
 731,Hunt for the Harbinger,Meet with Khadgar and Alleria Windrunner in Dalaran to begin investigating the mysterious Harbinger and her Dark Heart.,Accept Quest,,,7,120155,0,3,4913234,0,79009,0,10,11,0,0,0,120155,0,0,0
+732,Nerub-ar Palace,The members of the conspiratorial Severed Threads launch their final gambit against Queen Ansurek's rule.,Find Group,,,6,122358,2,6,5779391,0,0,0,92,92,0,0,0,0,0,0,0
 736,Sins of the Sister,"A night elf seeks permission to bury her family at Amirdrassil, but her sister's traitorous past causes a dilemma. Speak to Malfurion Stormrage in Bel'ameth to learn more.",,,,7,122641,0,0,236449,0,0,0,2,5,0,0,0,0,0,0,0
+737,The War Within,Journey to Silithus to investigate the mystery of the visions being experienced across Azeroth.,Accept Quest,,,7,122640,0,3,2967100,0,78713,0,9,12,0,0,0,0,0,0,0
+738,The War Within,Journey to Silithus to investigate the mystery of the visions being experienced across Azeroth.,Accept Quest,,,7,122638,0,3,2967100,0,81930,0,9,12,0,0,0,0,0,0,0
+739,Battleground Blitz,Embark on a mission alongside members of both factions to prove yourself in battlegrounds. Matches are sped up!,Join the Fight!,,,5,123331,0,8,1713483,0,0,1101,97,97,0,0,0,33559,0,4,0
+740,Deephaul Ravine,Participate in the battle in Deephaul Ravine.,Start Quest,,,5,123365,0,3,236396,0,82748,0,9,10,0,0,0,0,0,0,0
+741,The Severed Threads,"Journey to the Weaver's Lair and choose a Pact, unlocking various activities in Azj-Kahet.",,,,7,124433,0,0,5770809,0,0,0,9,10,0,0,0,0,0,0,0
+742,Spreading the Light,Light the sacred flames in Hallowfall to drive back the forces of darkness.,,,,7,124435,0,0,5770810,0,0,0,9,10,0,0,0,0,0,0,0
+743,Awakening the Machine,Travel to Gundargaz to assist the Machine Speakers with awakening the ancient machines.,,,,7,124436,0,0,5770812,0,0,0,9,10,0,0,0,0,0,0,0
+744,Theater Troupe,Travel to the Proscenium to help the earthen tell a story from their history.,Accept Quest,,,7,124437,0,3,5770811,0,83240,0,9,10,0,0,0,0,0,0,0
+745,Heroic Dungeon,Run The War Within Heroic dungeons to test your skill and receive improved rewards!,Join Group,,,6,124816,0,1,5899333,2517,0,0,7,8,0,0,0,0,0,0,0
+746,Random Dungeon,Run a random The War Within dungeon to upgrade your character's gear!,Join Group,,,6,124817,0,1,5899331,2516,0,0,7,8,0,0,0,0,0,0,0
+747,Mythic Keystones,Use a Mythic Keystone at the entrance to a Mythic Dungeon for even greater challenges and rewards!,Find Group,,,6,124818,0,6,4352494,0,0,0,7,8,0,0,0,0,0,0,0
+748,Mythic Dungeon,Run a The War Within dungeon on Mythic difficulty to test your skill and receive improved rewards!,Find Group,,,6,124819,0,6,5899328,0,0,0,7,8,0,0,0,0,0,0,0
+749,Catalyst,Speak with Custodian Khubon in the Forgegrounds of Dornogal to unlock the Catalyst. The Catalyst can imbue your armor with additional power!,,,,7,124820,0,0,5770811,0,0,0,8,10,0,0,0,0,0,0,0
+750,Worldsoul Activities,"Speak to Faerin in Dornogal to choose how you wish to aid Khaz Algar, and you shall be rewarded.",,,,7,125237,0,0,5891368,0,0,0,9,10,3028,1,0,0,0,0,0
+751,The Archives: The First Disk,"Speak to Brinthe in Dornogal to help repair the Archives, and you shall be rewarded.",Accept Quest,,,7,125238,0,3,4631317,0,82678,0,9,10,3028,1,0,0,0,0,0
+752,Delves: Nerubian Menace,"Speak to Brann Bronzebeard in Dornogal to venture into the delves of Khaz Algar, and you shall be rewarded.",Accept Quest,,,7,125239,0,3,5315246,0,82708,0,9,10,3028,1,0,0,0,0,0
+753,"Ara-Kara, City of Echoes","Biergoth in Dornogal has asked you to infiltrate the Ara-Kara, City of Echoes dungeon.",Accept Quest,Success will grant you renown with the War Within faction of your choice!,,7,125240,0,3,5899326,0,83465,0,6,6,0,0,0,0,0,0,0
+754,Cinderbrew Meadery,Biergoth in Dornogal wants you to eliminate the Venture Co. in Cinderbrew Meadery dungeon.,Accept Quest,Success will grant you renown with the War Within faction of your choice!,,7,125241,0,3,5899327,0,83436,0,6,6,0,0,0,0,0,0,0
+755,City of Threads,Biergoth in Dornogal wants you to eliminate the Vizier's enemies within the City of Threads dungeon.,Accept Quest,Success will grant you renown with the War Within faction of your choice!,,7,125242,0,3,5899328,0,83469,0,6,6,0,0,0,0,0,0,0
+756,Darkflame Cleft,Biergoth in Dornogal wants you to confront The Darkness within the Darkflame Cleft dungeon.,Accept Quest,Success will grant you renown with the War Within faction of your choice!,,7,125243,0,3,5899329,0,83443,0,6,6,0,0,0,0,0,0,0
+757,Priory of the Sacred Flame,Biergoth in Dornogal wants you to help Sister Etna Blayze at the Priory of the Sacred Flame dungeon.,Accept Quest,Success will grant you renown with the War Within faction of your choice!,,7,125244,0,3,5899331,0,83458,0,6,6,0,0,0,0,0,0,0
+758,The Dawnbreaker,Biergoth in Dornogal wants you to secure the ceremony held in The Dawnbreaker dungeon.,Accept Quest,Success will grant you renown with the War Within faction of your choice!,,7,125245,0,3,5899330,0,83459,0,6,6,0,0,0,0,0,0,0
+759,The Rookery,Biergoth in Dornogal wants you to end the skardyn threat in The Rookery dungeon.,Accept Quest,Success will grant you renown with the War Within faction of your choice!,,7,125246,0,3,5899332,0,83432,0,6,6,0,0,0,0,0,0,0
+760,The Stonevault,Biergoth in Dornogal wants you to end the skardyn corruption in The Stonevault dungeon.,Accept Quest,Success will grant you renown with the War Within faction of your choice!,,7,125247,0,3,5899333,0,83457,0,6,6,0,0,0,0,0,0,0
+761,The Archives: Seeking History,"Speak to Brinthe in Dornogal to help repair the Archives, and you shall be rewarded.",Accept Quest,,,7,125249,0,3,4631317,0,82679,0,9,10,3028,1,0,0,0,0,0
+762,Delves: Earthen Defense,"Speak to Brann Bronzebeard in Dornogal to venture into the delves of Khaz Algar, and you shall be rewarded.",Accept Quest,,,7,125251,0,3,5315246,0,82707,0,9,10,3028,1,0,0,0,0,0
+763,Delves: Khaz Algar Research,"Speak to Brann Bronzebeard in Dornogal to venture into the delves of Khaz Algar, and you shall be rewarded.",Accept Quest,,,7,125252,0,3,5315246,0,82706,0,9,10,3028,1,0,0,0,0,0
+764,Delves: Percussive Archaeology,"Speak to Brann Bronzebeard in Dornogal to venture into the delves of Khaz Algar, and you shall be rewarded.",Accept Quest,,,7,125253,0,3,5315246,0,82709,0,9,10,3028,1,0,0,0,0,0
+765,Delves: Empire-ical Exploration,"Speak to Brann Bronzebeard in Dornogal to venture into the delves of Khaz Algar, and you shall be rewarded.",Accept Quest,,,7,125254,0,3,5315246,0,82710,0,9,10,3028,1,0,0,0,0,0
+766,Delves: Lost and Found,"Speak to Brann Bronzebeard in Dornogal to venture into the delves of Khaz Algar, and you shall be rewarded.",Accept Quest,,,7,125255,0,3,5315246,0,82711,0,9,10,3028,1,0,0,0,0,0
+767,Delves: Trouble Up and Down Khaz Algar,"Speak to Brann Bronzebeard in Dornogal to venture into the delves of Khaz Algar, and you shall be rewarded.",Accept Quest,,,7,125256,0,3,5315246,0,82712,0,9,10,3028,1,0,0,0,0,0
+768,Delves: Breaking Tough to Loot Stuff,"Speak to Brann Bronzebeard in Dornogal to venture into the delves of Khaz Algar, and you shall be rewarded.",Accept Quest,,,7,125257,0,3,5315246,0,82746,0,9,10,3028,1,0,0,0,0,0
+769,Sparks of War: Isle of Dorn,Ruffious in Dornogal has challenged you to defeat your foes in PvP combat.,Accept Quest,,,7,125273,0,3,5770811,0,81793,0,6,6,0,0,0,0,0,0,0
+770,Sparks of War: The Ringing Deeps,Ruffious in Dornogal has challenged you to defeat your foes in PvP combat.,Accept Quest,,,7,125274,0,3,5770812,0,81794,0,6,6,0,0,0,0,0,0,0
+771,Sparks of War: Hallowfall,Ruffious in Dornogal has challenged you to defeat your foes in PvP combat.,Accept Quest,,,7,125275,0,3,5770810,0,81795,0,6,6,0,0,0,0,0,0,0
+772,Sparks of War: Azj-Kahet,Ruffious in Dornogal has challenged you to defeat your foes in PvP combat.,Accept Quest,,,7,125276,0,3,5770809,0,81796,0,6,6,0,0,0,0,0,0,0
+773,Something on the Horizon,Brann Bronzebeard calls for seasoned adventurers to join him in Dornogal as reinforcements approach Khaz Algar.,Accept Quest,Unlocks the option for this character to skip the level-up campaign and begin the max-level campaign.,,7,126936,0,3,252175,0,84365,0,10,11,0,0,0,126936,0,0,0
+774,Raid Finder: The Skittering Battlements,Guardians both monstrous and noble guard the festering pits and hanging battlements surrounding Nerub-ar Palace.,Join Raid,,,6,127235,6,2,5779391,2649,0,0,8,10,0,0,0,0,0,0,0
+775,Raid Finder: Secrets of Nerub-ar Palace,"Sikron leads the nerubian forces with tactical cunning and precision, dispatching any interlopers that would usurp the queen.",Join Raid,,,6,127236,6,2,5779391,2650,0,0,8,10,0,0,0,0,0,0,0
+776,Raid Finder: A Queen's Fall,Queen Ansurek succumbs to her vicious paranoia and delves deeper into dark power to retain control of her empire.,Join Raid,,,6,127237,6,2,5779391,2651,0,0,8,10,0,0,0,0,0,0,0

@@ -17,3 +17,4 @@ CalloutText_lang,CalloutFrame,ID,Type,Direction,Field_10_1_0_48480_005,UiWidgetS
 等待足够的玩家受到群英会的召唤后，即可开始！,UIWidgetBelowMinimapContainerFrame,29,3,3,0,0,0,0
 ,MultiBarBottomLeft,31,4,0,21439,772,-50000,16
 ,MultiBarBottomRight,32,4,0,21439,772,-50000,16
+Test,ScenarioStageBlock,34,1,3,0,0,0,0

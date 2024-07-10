@@ -3088,7 +3088,7 @@ ID,BaseTag,TagText_lang,Flags
 13219,STABLED_PETS,已存放的宠物：,1
 13220,ERR_QUEST_PUSH_SUCCESS_S,已与%s共享任务,1
 13221,ERR_QUEST_PUSH_INVALID_S,无法与%s共享任务。,1
-13223,PETTAME_DEAD,你的宠物已经死亡。请使用复活宠物。,1
+13223,PETTAME_DEAD,你的宠物已经死亡。请使用复活宠物,1
 13224,VOICEMACRO_LABEL_THANKYOU3,thank,1
 13225,VOICEMACRO_LABEL_THANKYOU1,thankyou,1
 13226,VOICEMACRO_LABEL_THANKYOU2,thanks,1
@@ -3501,7 +3501,7 @@ ID,BaseTag,TagText_lang,Flags
 13654,VOICEMACRO_14_Dw_1,当然。,1
 13655,VOICEMACRO_14_Dw_2,是的。,1
 13656,VOICEMACRO_20_Hu_5,搞笑语音,1
-13657,OPTION_TOOLTIP_USE_UISCALE,选择则可以使用用户界面比例调节，不选择的话就使用系统默认比例。,1
+13657,OPTION_TOOLTIP_USE_UISCALE,选择则可以使用用户界面比例调节，不选择的话就使用系统默认比例。,3
 13658,VOICEMACRO_19_Or_4_FEMALE,不要说话，只要跟着我。,1
 13659,VOICEMACRO_20_Or_1_FEMALE,搞笑语音,1
 13660,VOICEMACRO_20_Or_5_FEMALE,搞笑语音,1
@@ -3690,8 +3690,8 @@ ID,BaseTag,TagText_lang,Flags
 13861,OPTION_TOOLTIP_PET_NAMEPLATES,打开/关闭你的宠物、图腾和守护者的名字显示。,1
 13863,ERR_ATTACK_CHARMED,当被魅惑的时候无法攻击。,1
 13864,SPELL_FAILED_NOT_ON_TAXI,你正在飞行,1
-13865,UI_SCALE,UI缩放,1
-13866,OPTION_TOOLTIP_UI_SCALE,改变用户游戏界面尺寸。,1
+13865,UI_SCALE,UI缩放,3
+13866,OPTION_TOOLTIP_UI_SCALE,改变用户游戏界面尺寸。,3
 13867,WORLD_APPEARANCE,世界外观,3
 13868,OPTION_TOOLTIP_ENVIRONMENT_DETAIL,控制你所能看见物体的远近。降低这个数值可以提高运行速度。,3
 13869,CINEMATIC_SUBTITLES,动画字幕,3
@@ -3766,7 +3766,7 @@ ID,BaseTag,TagText_lang,Flags
 13957,REMOVE_CHAT_DELAY_TEXT,移除聊天标签弹出延迟,1
 13958,OPTION_TOOLTIP_REMOVE_CHAT_DELAY,选择后当鼠标移动到聊天窗口之后窗口立即显示。,1
 13959,INSTANCE_BOOT_TIMER,你现在不在这个副本的队伍里。你将在%d%s内被传送到最近的墓地中。,1
-13962,USE_UISCALE,使用UI缩放,1
+13962,USE_UISCALE,使用UI缩放,3
 13963,WINDOWED_MODE,窗口模式,3
 13964,OPTION_TOOLTIP_WINDOWED_MODE,钩选此框，在非全屏幕的窗口模式下游戏。\n\n在窗口模式下，游戏将使用桌面伽马值，并无法通过下面的滑杆调节。,3
 13967,PVP_RANK_8_1,军士长,1
@@ -5663,7 +5663,7 @@ ID,BaseTag,TagText_lang,Flags
 17218,MOVIE_RECORDING_COMPRESSING,正在压缩,1
 17219,MOVIE_RECORDING_COMPRESSING_CANCEL_NEWBIE_TOOLTIP,提前结束压缩。你会失去未被压缩的部分，而已经压缩的部分则会保存在你的硬盘上。,1
 17220,MOVIE_RECORDING_COMPRESSING_CANCEL_TOOLTIP,取消压缩,1
-17221,MAC_OPTIONS,Mac设置,1
+17221,MAC_OPTIONS,Mac设置,3
 17223,MOVIE_RECORDING_ENABLE_GUI,录制用户界面,1
 17224,MOVIE_RECORDING_ENABLE_GUI_TOOLTIP,钩选此项之后，你将在自己录制的视频中看到用户界面。（无论是否钩选此项，游戏中都会正常显示你的用户界面。）,1
 17225,MOVIE_RECORDING_ENABLE_SOUND,录制声音,1
@@ -6557,7 +6557,7 @@ ID,BaseTag,TagText_lang,Flags
 18163,SHOW_RAID_RANGE_TEXT,团队界面中的距离,1
 18164,OPTION_TOOLTIP_SHOW_RAID_RANGE,当团队成员距离太远时，通过使他们的生命条变淡来标示距离。,1
 18165,SLASH_GUILD_LEADER_REPLACE1,/greplace,1
-18166,ERR_NOT_SAME_ACCOUNT,账号绑定物品只能邮寄给你自己账号中的角色。,1
+18166,ERR_NOT_SAME_ACCOUNT,战团绑定物品只能交给你战团中的其他角色。,1
 18167,INTERFACE_OPTIONS,界面选项,1
 18168,ADDONS,插件,3
 18169,STATUSTEXT_LABEL,状态文字,1
@@ -7309,7 +7309,7 @@ ID,BaseTag,TagText_lang,Flags
 19037,FUEL,燃料,1
 19038,RURU,俄语,5
 19039,LINK_TRADESKILL_TOOLTIP,点击这里以创建一个链接到你的专业的快捷方式。,1
-19040,ACHIEVEMENT_TITLE,成就点数,1
+19040,ACHIEVEMENT_TITLE,战团成就点数,1
 19041,ITEM_LEVEL_RANGE_CURRENT,需要等级 %d到%d （%d）,1
 19042,STRING_SCHOOL_FLAMESTRIKE,烈焰打击,5
 19043,STRING_SCHOOL_FROSTSTRIKE,冰霜打击,5
@@ -7627,7 +7627,7 @@ ID,BaseTag,TagText_lang,Flags
 19376,STATISTICS,统计,1
 19377,SPELL_FAILED_TARGET_NO_RANGED_WEAPONS,目标没有装备远程武器,1
 19378,ERR_INVITED_ALREADY_IN_GROUP_SS,|Hplayer:%s|h[%s]|h邀请你加入队伍，但是你无法接受，因为你已经在一个队伍中了。,1
-19379,ITEM_ACCOUNTBOUND,账号绑定,5
+19379,ITEM_ACCOUNTBOUND,战团绑定,5
 19380,CALENDAR_EVENT_REMOVED_MAIL_SUBJECT,%s 取消,1
 19381,CALENDAR_EVENT_REMOVED_MAIL_BODY,%s取消了%s。（%s）,1
 19382,ACTION_SPELL_AURA_APPLIED_BUFF_FULL_TEXT_NO_SOURCE,%4$s获得了%2$s。,1
@@ -7698,7 +7698,7 @@ ID,BaseTag,TagText_lang,Flags
 19449,SHOW_NUMERIC_THREAT,显示威胁百分比,1
 19450,ERR_QUEST_PUSH_TIMER_EXPIRED_S,任务共享已过期。,1
 19451,ERR_QUEST_PUSH_NOT_IN_PARTY_S,你不在一个小队中。,1
-19452,ITEM_BIND_TO_ACCOUNT,账号绑定,5
+19452,ITEM_BIND_TO_ACCOUNT,绑定至战团,5
 19453,SPELL_FAILED_CUSTOM_ERROR_45,需要附近的目标。,1
 19454,SHADOW_QUALITY,阴影质量,3
 19455,OPTION_TOOLTIP_SHADOW_QUALITY,控制阴影渲染的方式和质量。降低此项可以大幅提高游戏运行速度。,3
@@ -7884,7 +7884,7 @@ ID,BaseTag,TagText_lang,Flags
 19650,WATCHFRAME_LOCK,锁定目标框体,1
 19651,OPTION_TOOLTIP_OBJECTIVES_IGNORE_CURSOR,锁定目标框体，鼠标悬停在框体上时不会显示出框体来。,1
 19652,OBJECTIVES_VIEW_IN_QUESTLOG,打开任务细节,1
-19653,OBJECTIVES_STOP_TRACKING,停止追踪,1
+19653,OBJECTIVES_STOP_TRACKING,取消追踪,1
 19654,OBJECTIVES_VIEW_IN_ACHIEVEMENTS,打开成就,1
 19655,CALENDAR_ERROR_INVALID_SIGNUP,你无法报名参加该活动。,5
 19656,OBJECTIVES_VIEW_ACHIEVEMENT,打开成就,1
@@ -7896,7 +7896,7 @@ ID,BaseTag,TagText_lang,Flags
 19664,CHANGE_OPACITY,改变透明度,1
 19665,TRANSFER_ABORT_NEED_GROUP,传送中断：你必须在一个团队中才能进入此副本。,1
 19666,IGNORE_DIALOG,忽略,1
-19667,OBJECTIVES_WATCH_TOO_MANY,你没有足够的空间追踪更多目标了。请先取消对一些目标的追踪。,1
+19667,OBJECTIVES_WATCH_TOO_MANY,无法追踪更多任务。,1
 19668,ACTIVATE,启用,5
 19669,POWER_DISPLAY_COST,%s %s,1
 19670,POWER_DISPLAY_COST_PER_TIME,%s %s，再加上每秒%s,1
@@ -8266,7 +8266,7 @@ ID,BaseTag,TagText_lang,Flags
 20070,BATTLEFIELD_IN_QUEUE_SIMPLE,你在%s的队列中,1
 20071,BATTLEFIELD_QUEUE_CONFIRM_SIMPLE,你可以进入%s,1
 20072,QUEST_INTERMEDIATE_ITEMS_NEEDED,%s：(%d),1
-20073,OBJECTIVES_SHOW_QUEST_MAP,显示任务地图,1
+20073,OBJECTIVES_SHOW_QUEST_MAP,打开任务地图,1
 20074,ERR_MAIL_LIMITED_DURATION_ITEM,你不能邮递带有时限的物品,1
 20075,TRANSFER_ABORT_MAP_NOT_ALLOWED,现在无法进入地图。,1
 20076,SLASH_SET_TITLE1,/settitle,1
@@ -9542,7 +9542,7 @@ ID,BaseTag,TagText_lang,Flags
 21449,HELPFRAME_ACCOUNTSECURITY_FOOTER,访问|cffffd200http://www.battlenet.com.cn/|r以获取更多账号安全相关的信息。,1
 21450,HELPFRAME_OPENTICKETINSTRUCTIONS_TITLE,填写申请,1
 21451,HELPFRAME_OPENTICKETINSTRUCTIONS_TEXT1,客户支持能够24小时为您提供协助。为了保证反馈速度，请不要重复发送求助表单。,1
-21452,HELPFRAME_OPENTICKETINSTRUCTIONS_TEXT2,联系客户支持，请访问|cffffd200https://www.battlenet.com.cn/support/zh/help/,1
+21452,HELPFRAME_OPENTICKETINSTRUCTIONS_TEXT2,联系客户支持，请访问|cffffd200https://support-api.battlenet.com.cn/auth/home/index,1
 21453,HELPFRAME_OPENTICKETINSTRUCTIONS_TEXT3,你可以在魔兽世界论坛|cffffd200http://forums.warcraftchina.com/index.html?sid=1|r上找到更多的相关信息。,1
 21454,TUTORIAL5_HUNTER,要与你的敌人战斗，点击|cffffd200动作条|r上的|cffffd200奥术射击|r。,1
 21455,TUTORIAL5_DRUID,要与你的敌人战斗，点击|cffffd200动作条|r上的|cffffd200愤怒|r。,1
@@ -9937,8 +9937,8 @@ ID,BaseTag,TagText_lang,Flags
 21882,MINIMAP_TRACKING_NONE,无,1
 21883,GUILDCONTROL_OPTION19,修改银行标签,1
 21884,CONFIRM_SAVE_EQUIPMENT_SET,"你想要保存装备方案\""%s\""吗？",1
-21885,ITEM_BNETACCOUNTBOUND,暴雪游戏通行证绑定,5
-21886,ITEM_BIND_TO_BNETACCOUNT,绑定至暴雪游戏通行证,5
+21885,ITEM_BNETACCOUNTBOUND,战团绑定,5
+21886,ITEM_BIND_TO_BNETACCOUNT,绑定至战团,5
 21887,AUCTION_MAIL_ITEM_STACK,%s (%d),1
 21888,OPTION_TOOLTIP_PICKUP_ACTION_ALT_KEY,使用“ALT”键从锁定的动作条中提取/拖动法术。,1
 21889,OPTION_TOOLTIP_PICKUP_ACTION_CTRL_KEY,使用“CTRL”键从锁定的动作条中提取/拖动法术。,1
@@ -10247,7 +10247,7 @@ ID,BaseTag,TagText_lang,Flags
 22210,GUILD_MOVE_STARTING,你的公会正在转移中。在此期间，公会银行会暂时冻结，直到转移完成。,1
 22211,GUILD_MOVE_COMPLETE,公会转移已经完成。,1
 22212,GUILD_RENAMED,你的公会领袖更改了公会名称。,1
-22213,TALENT_SPEC_AND_CLASS,%1$s %2$s,1
+22213,TALENT_SPEC_AND_CLASS,%1$s %2$s,3
 22214,BINDING_NAME_TOGGLEENCOUNTERJOURNAL,打开/关闭冒险指南,1
 22215,ENCOUNTER_JOURNAL,地下城手册,1
 22216,ENCOUNTER_JOURNAL_SEARCH_RESULTS,"搜索结果\""%s\""(%d)",1
@@ -10359,8 +10359,8 @@ ID,BaseTag,TagText_lang,Flags
 22343,MAC_DISABLE_OS_SHORTCUTS,禁用操作系统快捷键,3
 22344,MAC_DISABLE_OS_SHORTCUTS_TOOLTIP,禁用操作系统快捷键。如果你不想在游戏中意外触发操作系统快捷键可使用该功能。,3
 22345,REQ_LEVEL_ABBR,Lv,1
-22346,MAC_OPTIONS_MISC,杂项,1
-22348,MAC_SWAP_CONTROL_AND_COMMAND_TOOLTIP,如果你想使用命令按键修改器代替控制按键来进行快捷键设置，请使用此功能。,1
+22346,MAC_OPTIONS_MISC,杂项,3
+22348,MAC_SWAP_CONTROL_AND_COMMAND_TOOLTIP,如果你想使用命令按键修改器代替控制按键来进行快捷键设置，请使用此功能。,3
 22349,SCROLL_OF_RESURRECTION,复活卷轴,1
 22350,ENTER_EMAIL_OR_CHARACTER,输入邮件或角色服务器名,1
 22351,SEND_SCROLL_OF_RESURRECTION,发送复活卷轴,1
@@ -10477,7 +10477,7 @@ ID,BaseTag,TagText_lang,Flags
 22465,IN_LFG_QUEUE_BUT_SUSPENDED,你在队列中的排位将不再前进。你将保持在队列中的位置。,1
 22466,RF_REWARD_EXPLANATION2,当你完成每周的首次副本之后，每次胜利都可为你赢得：,1
 22467,RF_REWARD_EXPLANATION1,每周第一次完成可获得：,1
-22468,MAC_OPEN_UNIVERSAL_ACCESS,必须先开启权限才能使用此选项。请检查通用接入系统预设面板下的\“允许使用辅助设备\”选项。是否立刻开启系统预设？,1
+22468,MAC_OPEN_UNIVERSAL_ACCESS,必须先开启权限才能使用此选项。请检查通用接入系统预设面板下的\“允许使用辅助设备\”选项。是否立刻开启系统预设？,3
 22469,ERR_PARTY_ROLE_NOT_AVAILABLE,不能胜任你队伍中的任何空缺位置,1
 22470,ERR_JOIN_LFG_OBJECT_FAILED,加入正在进行中的副本失败,1
 22471,SPELL_FAILED_CUSTOM_ERROR_148,目标已受到星尘2号的影响。,1
@@ -10809,8 +10809,8 @@ ID,BaseTag,TagText_lang,Flags
 22811,BONUS_ROLL_CURRENT_COUNT,%d |T%s:14|t,1
 22812,BONUS_ROLL_TOOLTIP_TITLE,额外战利品,1
 22813,BONUS_ROLL_TOOLTIP_TEXT,使用一枚特殊货币就有机会获得额外的战利品！,1
-22818,STARTUP_STRINGSENUM_MSG_GX_FAIL_API_VERSION,魔兽世界需要安装最新版本的DirectX Runtime才能运行。可通过Windows系统自动更新或直接从微软官网下载的方式，来获取最新版本的DirectX runtime。若要了解更多详情，请访问https://www.battlenet.com.cn/support/zh/article/driverupdates。,1
-22822,STARTUP_STRINGSENUM_MSG_GX_FAIL_NO_DRIVER,魔兽世界无法找到适用显卡，请检查并确认你已安装了最新版本的显卡驱动程序，且并非在安全（VGA）模式下运行。若要了解更多详情，请访问http://us.battle.net/support/en/article/driver-update-information。,1
+22818,STARTUP_STRINGSENUM_MSG_GX_FAIL_API_VERSION,魔兽世界需要安装最新版本的DirectX Runtime才能运行。可通过Windows系统自动更新或直接从微软官网下载的方式，来获取最新版本的DirectX runtime。若要了解更多详情，请访问http://support.battlenet.com.cn/help/article/031024,1
+22822,STARTUP_STRINGSENUM_MSG_GX_FAIL_NO_DRIVER,魔兽世界无法找到适用显卡，请检查并确认你已安装了最新版本的显卡驱动程序，且并非在安全（VGA）模式下运行。若要了解更多详情，请访问http://support.battlenet.com.cn/help/article/031024,1
 22826,GUILD_CHALLENGE_LABEL4,公会场景战役挑战,1
 22827,GUILD_CHALLENGE_LABEL5,公会史诗钥石挑战,1
 22831,POWER_TYPE_WILLPOWER,意志力,1
@@ -10854,7 +10854,7 @@ ID,BaseTag,TagText_lang,Flags
 22869,INCLUDED_SCENARIOS_EMPTY,你队伍成员的等级不足以进入任何随机场景战役。,1
 22870,LFG_TYPE_RANDOM_SCENARIO,随机场景战役,1
 22871,SCENARIO_RANDOM_EXPLANATION,使用随机场景战役排队，会获得额外奖励哦！,1
-22872,ACHIEVEMENT_EARNED_BY,已完成：|cffffffff%s|r,1
+22872,ACHIEVEMENT_EARNED_BY,由你的战团获得。|n完成者：|cffffffff%s|r,1
 22873,ACHIEVEMENT_PROGRESSED,成就进度,1
 22874,ENTER_SCENARIO,进入场景战役,1
 22875,RANDOM_SCENARIO,随机场景战役,1
@@ -11291,7 +11291,7 @@ ID,BaseTag,TagText_lang,Flags
 23368,INVITATION_XREALM,%s邀请你加入队伍。\n\n接受邀请可能会将你传送到另外一个服务器区域。,1
 23369,GUILD_CHALLENGE_TYPE4,场景战役,1
 23370,GUILD_CHALLENGE_TYPE5,史诗钥石地下城,1
-23372,ACCOUNT_WIDE_ACHIEVEMENT,在你任何角色上的成就\n进度都将被计入本成就。,1
+23372,ACCOUNT_WIDE_ACHIEVEMENT,在你战团里的任何角色上的成就\n进度都将被计入本成就。,1
 23373,AUCTION_TIME_LEFT0,完成！,1
 23374,AUCTION_TIME_LEFT0_DETAIL,拍卖已结束。,1
 23375,WOW_FRIEND,《魔兽世界》好友,1
@@ -11326,7 +11326,7 @@ ID,BaseTag,TagText_lang,Flags
 23418,REPORT_BATTLEPET_NAME_CONFIRMATION,你确定要举报%s 使用不当战斗宠物名吗？,1
 23419,BATTLENET_ADD_FRIEND_INFO,使用邮箱地址添加好友时，将向对方显示你的真实名字（你将成为实名好友）。\n\n使用战网昵称添加好友时，则只向对方显示你的战网昵称。添加战网昵称好友时，你必须完整填写#号及其后面的数字。,3
 23420,REPORT_PET_NAME_CONFIRMATION,你确定要举报%s 使用不当宠物名吗？,1
-23422,ACCOUNT_LEVEL_MOUNT,暴雪游戏通行证通用坐骑,1
+23422,ACCOUNT_LEVEL_MOUNT,战团通用坐骑,1
 23423,PARTY_IN_PUBLIC_GROUP_MESSAGE,该玩家正在副本队伍中。,1
 23425,GUILD_CHALLENGE_TOOLTIP4,在公会队伍中完成任意与等级相符的场景战役。,1
 23426,GUILD_CHALLENGE_TOOLTIP5,在公会队伍中激活史诗钥石并完成当前内容更新的任意地下城。,1
@@ -11350,7 +11350,7 @@ ID,BaseTag,TagText_lang,Flags
 23445,MAIN_HELP_BUTTON_TOOLTIP,点击这里打开/关闭本窗口的帮助系统。,3
 23446,CR_RANGED_EXPERTISE_TOOLTIP,被躲闪的几率降低%s\n%s点精准(+%.2F%% 精准),1
 23447,ADD_CHARACTER_FRIEND,添加角色好友,1
-23448,ACCOUNT_WIDE_ACHIEVEMENT_COMPLETED,你所有的角色都将获得本成就。\n,1
+23448,ACCOUNT_WIDE_ACHIEVEMENT_COMPLETED,由你的战团获得。,1
 23449,ERR_PETBATTLE_NO_ACCOUNT_LOCK,宠物手册已被该账号的其他用户锁定。,1
 23450,CATCH_PET_CONDITION,你必须拥有一只3级战斗宠物。,1
 23451,SLASH_WHISPER1,/cw,1
@@ -11423,12 +11423,12 @@ ID,BaseTag,TagText_lang,Flags
 23523,BATTLE_PET_ABILITY_TEXT_OBJECT_BOOMBOT,321爆破机器人,1
 23524,PET_BATTLE_TRAP_UPGRADE,解锁了一个新陷阱！,1
 23525,ACHIEVEMENT_FILTER_ALL_EXPLANATION,显示所有成就,1
-23526,ACHIEVEMENT_FILTER_COMPLETE_EXPLANATION,显示在你的账号上已完成的成就,1
+23526,ACHIEVEMENT_FILTER_COMPLETE_EXPLANATION,显示在你的战团上已完成的成就,1
 23527,ACHIEVEMENT_FILTER_INCOMPLETE_EXPLANATION,显示该角色可完成的成就,1
 23528,ACHIEVEMENT_FILTER_TITLE,成就过滤器,1
 23529,PET_BATTLE_ANOTHER_PET_JOINED,又一只宠物加入了战斗！,1
 23530,ACHIEVEMENT_COMPLETED_BY,完成：|cffffffff%s|r,1
-23531,ACHIEVEMENT_NOT_COMPLETED_BY,|cffff2020未完成：|r |cffffffff%s|r,1
+23531,ACHIEVEMENT_NOT_COMPLETED_BY,|cnHIGHLIGHT_FONT_COLOR:%s依然可以完成此成就。|r,1
 23532,ERR_PETBATTLE_QUEUE_QUEUED,你现在处于宠物对战队列中。,1
 23533,ERR_PETBATTLE_QUEUE_ALREADY_QUEUED,你已在宠物对战队列中,1
 23534,ERR_PETBATTLE_QUEUE_JOIN_FAILED,无法加入宠物对战队列。,1
@@ -11559,8 +11559,8 @@ ID,BaseTag,TagText_lang,Flags
 23661,BATTLE_PET_PUT_IN_CAGE_SLOTTED,放入笼中（战斗栏位）,1
 23662,BATTLE_PET_PUT_IN_CAGE_HEALTH,放入笼中（生命值）,1
 23663,PET_JOURNAL_CARD_NAME_DEFAULT,从左侧的列表中选择一个宠物,1
-23664,MAC_USE_COMMAND_AS_CONTROL,使用命令按键作为控制按键,1
-23665,MAC_USE_COMMAND_AS_CONTROL_TOOLTIP,交替使用命令按键和控制按键。,1
+23664,MAC_USE_COMMAND_AS_CONTROL,使用命令按键作为控制按键,3
+23665,MAC_USE_COMMAND_AS_CONTROL_TOOLTIP,交替使用命令按键和控制按键。,3
 23666,MAC_USE_COMMAND_LEFT_CLICK_AS_RIGHT_CLICK,命令按键加左键点击等于右键点击,3
 23667,MAC_USE_COMMAND_LEFT_CLICK_AS_RIGHT_CLICK_TOOLTIP,按下命令按键并左键点击可模拟右键点击。,3
 23668,SPELL_FAILED_CANT_ADD_BATTLE_PET,无法将小伙伴加入你的账号,1
@@ -12234,7 +12234,7 @@ ID,BaseTag,TagText_lang,Flags
 24437,BLIZZARD_CHALLENGE_CANCEL,取消,3
 24438,ADVANCED_COMBAT_LOGGING,高级战斗日志,3
 24439,OPTION_TOOLTIP_ADVANCED_COMBAT_LOGGING,在生成战斗日志的文本文档时加入额外的日志数据。启用该功能可能导致你在使用“战斗日志”聊天指令时出现额外的网络延迟。,3
-24440,MAC_OPEN_UNIVERSAL_ACCESS1090,要想启用该选项，你必须在系统偏好设置下的安全性与隐私中授予%s相关权限。是否现在打开系统偏好设置？,1
+24440,MAC_OPEN_UNIVERSAL_ACCESS1090,要想启用该选项，你必须在系统偏好设置下的安全性与隐私中授予%s相关权限。是否现在打开系统偏好设置？,3
 24441,BLIZZARD_STORE_ERROR_TITLE_ALREADY_OWNED,已拥有,3
 24442,BLIZZARD_STORE_ERROR_MESSAGE_ALREADY_OWNED,你已经拥有了该物品！,3
 24443,ITEM_SET_BONUS_NO_VALID_SPEC,套装奖励将根据玩家专精变化。,1
@@ -12423,7 +12423,7 @@ ID,BaseTag,TagText_lang,Flags
 24632,BAG_FILTER_CLEANUP,清理,1
 24633,BAG_FILTER_EQUIPMENT,装备,5
 24634,BAG_FILTER_CONSUMABLES,消耗品,5
-24635,BAG_FILTER_TRADE_GOODS,杂货,5
+24635,BAG_FILTER_PROFESSION_GOODS,专业技能货物,5
 24636,BAG_FILTER_JUNK,垃圾,1
 24637,BAG_FILTER_IGNORE,忽略此背包,1
 24638,REWARD_FOR_SPECFIC_PVP_WIN,获胜奖励：战利品掷骰,1
@@ -12467,7 +12467,7 @@ ID,BaseTag,TagText_lang,Flags
 24676,TOY_PROGRESS_FORMAT,%d/%d,1
 24677,STAT_TOOLTIP_BONUS_AP_SP,提高你的攻击和技能强度,1
 24678,COLLECTION_PAGE_NUMBER,%d/%d页,1
-24679,COLLECTIONS,藏品,1
+24679,COLLECTIONS,战团藏品,1
 24681,GARRISON_BUILDING_IN_PROGRESS,正在进行的建造,1
 24682,GARRISON_UPGRADE_IN_PROGRESS,正在进行的升级,1
 24683,GARRISON_BUILDING_LOCKED,未解锁的建筑,1
@@ -13367,7 +13367,7 @@ ID,BaseTag,TagText_lang,Flags
 25625,ERR_YELL_RESTRICTED_TRIAL,免费试玩账号不能进行呼喊（/y）。|cffffd000|Hstorecategory:gametime|h[点击此处升级账号]|h|r,1
 25626,ERR_PETITION_RESTRICTED_ACCOUNT_TRIAL,免费试玩账号无法签署公会登记表。|cffffd000|Hstorecategory:gametime|h[点击此处升级账号]|h|r,1
 25627,ERR_CHAT_RESTRICTED_TRIAL,免费试玩账号不能频繁发送信息，你必须稍作等待才能再次发言。|cffffd000|Hstorecategory:gametime|h[点击此处升级账号]|h|r,1
-25628,CAP_REACHED_TRIAL,已达免费试玩上限。,1
+25628,CAP_REACHED_TRIAL,已达免费试玩上限。,3
 25629,CAPPED_MONEY_TRIAL,已达免费试玩账号金币上限。,1
 25630,CAPPED_LEVEL_TRIAL,已达免费试玩等级上限。,1
 25631,LEVEL_CAP_REACHED_TRIAL,你已经达到了免费试玩账号的最高角色等级。|cffffd000|Hstorecategory:gametime|h[点击此处]|h|r升级你的账号！,1
@@ -13896,16 +13896,16 @@ ID,BaseTag,TagText_lang,Flags
 32224,BOOST2_MAGEFROST_REMIND_FROSTBOLT,使用|cFFFFFFFF寒冰箭|r。,1
 32225,ERR_TALENT_FAILED_CANT_REMOVE_TALENT,你不能在%s冷却期间更改天赋。,1
 32226,BOOST2_MAGEFROST_FROZENORB,使用|cFFFFFFFF寒冰宝珠|r。,1
-32227,SELF_HIGHLIGHT_OPTION,团队中自身高亮,1
+32227,SELF_HIGHLIGHT_OPTION,自身高亮,1
 32228,SELF_HIGHLIGHT_MODE_CIRCLE,圆环,1
-32229,SELF_HIGHLIGHT_MODE_CIRCLE_AND_OUTLINE,圆环&轮廓线,1
+32229,SELF_HIGHLIGHT_MODE_CIRCLE_AND_OUTLINE,圆环和轮廓线,1
 32230,SELF_HIGHLIGHT_ON,开启自身高亮,1
 32231,SELF_HIGHLIGHT_OFF,关闭自身高亮,1
 32236,OPTION_TOOLTIP_SELF_HIGHLIGHT_IN_RAID,在团队副本中高亮显示你的角色。,1
 32237,OPTION_TOOLTIP_SELF_HIGHLIGHT_IN_RAID_COMBAT,仅在战斗中高亮显示你的角色。,1
 32238,OPTION_TOOLTIP_SELF_HIGHLIGHT_IN_BG,在战场中高亮显示你的角色。,1
 32239,OPTION_TOOLTIP_SELF_HIGHLIGHT_IN_BG_COMBAT,仅在战斗中高亮显示你的角色。,1
-32240,OPTION_TOOLTIP_SELF_HIGHLIGHT,在团队副本和战场中高亮显示你的角色。,1
+32240,OPTION_TOOLTIP_SELF_HIGHLIGHT,为你的角色添加高亮，便于看清。,1
 32241,LFG_LIST_TOOLTIP_HONOR_LEVEL,需要荣誉等级：|cffffffff%d|r,1
 32242,CONFIRM_LEARN_SPEC_COST,激活此专精需要花费%s。确定要学习此专精吗？,1
 32243,PRIMARY_SPEC_CHANGE_AT_CLASS_TRAINER,你可以在职业训练师处更改你的主要专精,1
@@ -13930,7 +13930,7 @@ ID,BaseTag,TagText_lang,Flags
 32268,AUCTION_CATEGORY_ITEM_ENHANCEMENT,物品强化,1
 32269,AUCTION_CATEGORY_CONSUMABLES,消耗品,1
 32270,AUCTION_CATEGORY_GLYPHS,雕文,1
-32271,AUCTION_CATEGORY_TRADE_GOODS,杂货,1
+32271,AUCTION_CATEGORY_TRADE_GOODS,材料,1
 32272,AUCTION_CATEGORY_RECIPES,配方,1
 32273,AUCTION_CATEGORY_BATTLE_PETS,战斗宠物,1
 32274,AUCTION_CATEGORY_QUEST_ITEMS,任务物品,1
@@ -14340,7 +14340,7 @@ ID,BaseTag,TagText_lang,Flags
 33778,ACCOUNT_CREATE_FAILED,账号创建失败,2
 33779,ACCOUNT_CREATE_IN_PROGRESS,创建账号,2
 33780,ACCOUNT_CREATE_SUCCESS,账号创建成功,2
-33781,ACCOUNT_CREATE_URL,http://zhCN.nydus.battle.net/WOW/zhCN/client/manage_account,2
+33781,ACCOUNT_CREATE_URL,https://account.battlenet.com.cn,2
 33782,ACCOUNT_MESSAGE_BODY_NO_READ_URL,http://www.warcraftchina.com/accountmessaging/getMessageBodyUnread.xml,2
 33783,ACCOUNT_MESSAGE_BODY_URL,http://www.warcraftchina.com/accountmessaging/getMessageBody.xml,2
 33784,ACCOUNT_MESSAGE_BUTTON_READ,标记为已读,2
@@ -14380,8 +14380,7 @@ ID,BaseTag,TagText_lang,Flags
 33821,AUTH_ALREADY_LOGGING_IN,已经登录,2
 33822,AUTH_ALREADY_ONLINE,该角色仍在登录状态。若该角色无法登录且该状况持续超过15分钟，请发送邮件至tech@battlenet.com.cn联系我们的技术支持部门。 ,2
 33823,AUTH_BAD_SERVER_PROOF,无效的服务器,2
-33824,AUTH_BANNED,"该账号因违反用户协议条款－https://oribos.blizzard.cn/legal/eula
-而被封停。请发送电子邮件至wowaccountadmin@battlenet.com.cn联系我们的GM部门获取更多信息。",2
+33824,AUTH_BANNED,该魔兽世界账号已被封停。请点击http://support.battlenet.com.cn/help/article/101010 查看相关说明。,2
 33825,AUTH_BANNED_URL,https://oribos.blizzard.cn/legal/eula,2
 33826,AUTH_BILLING_ERROR,支付系统错误,2
 33827,AUTH_BILLING_EXPIRED,账号支付过期,2
@@ -14393,14 +14392,14 @@ ID,BaseTag,TagText_lang,Flags
 33833,AUTH_LOCKED_ENFORCED,您已经锁定了自己的账号。您可以通过官方网站的相应功能改变锁定状态。,2
 33834,AUTH_LOGIN_SERVER_NOT_FOUND,无效的登录服务器,2
 33835,AUTH_NO_TIME,您的魔兽世界缴费已到期。您需要重新激活您的账号。要重新激活账号，请访问www.warcraftchina.com获取更多信息。,2
-33836,AUTH_NO_TIME_URL,http://zhCN.nydus.battle.net/WOW/zhCN/client/manage_account,2
+33836,AUTH_NO_TIME_URL,https://account.battlenet.com.cn,2
 33837,AUTH_OK,验证成功,2
 33838,AUTH_PARENTAL_CONTROL,"<html><body><p>根据相关法律法规对未成年人游戏时间的要求，您目前无法登录游戏。请合理安排游戏时间，劳逸结合。了解详情：<a href=""https://www.battlenet.com.cn/support/zh/article/210633"">https://www.battlenet.com.cn/support/zh/article/210633</a></p></body></html>",2
 33839,AUTH_PARENTAL_CONTROL_URL,https://www.battlenet.com.cn/account/,2
 33840,AUTH_REJECT,访问被拒绝 - 请通过WoWTech@battlenet.com.cn联系我们的客户支持人员,2
 33841,AUTH_SERVER_SHUTTING_DOWN,服务器正在关闭,2
 33842,AUTH_SESSION_EXPIRED,通话超时,2
-33843,AUTH_SUSPENDED,该账号由于违反用户协议（https://oribos.blizzard.cn/legal/eula）已被暂时封停。请发送电子邮件至wowaccountadmin@battlenet.com.cn联系我们的GM部门获取更多信息。,2
+33843,AUTH_SUSPENDED,该魔兽世界账号已被封停。请点击http://support.battlenet.com.cn/help/article/101010 查看相关说明。,2
 33844,AUTH_SUSPENDED_URL,https://oribos.blizzard.cn/legal/eula,2
 33845,AUTH_SYSTEM_ERROR,系统错误,2
 33846,AUTH_UNAVAILABLE,系统无法接入 - 请稍候再试,2
@@ -14436,7 +14435,7 @@ ID,BaseTag,TagText_lang,Flags
 33876,BLIZZARD_STORE_VAS_PRODUCT_READY,你的%s已经准备就绪！,2
 33877,BLIZZ_DISCLAIMER,( c ) 2004-2021暴雪娱乐有限公司版权所有。,2
 33878,BLOODELF_DISABLED,需要“燃烧的远征”,2
-33879,BNET_ERROR_1001_HTML,"<html><body><p align=""CENTER"">无法连接。请稍后再试。如果问题仍然存在，请访问以下链接<a href=""https://www.battlenet.com.cn/support/index.xml?locale=zh_CN&amp;gameId=11&amp;rootCategoryId=1763"">https://www.battlenet.com.cn/support/index.xml?locale=zh_CN&amp;gameId=11&amp;rootCategoryId=1763</a>以获取更多信息。</p></body></html>",2
+33879,BNET_ERROR_1001_HTML,"<html><body><p align=""CENTER"">无法连接。请稍后再试。如果问题仍然存在，请访问以下链接<a href=""http://support.battlenet.com.cn/help/article/116093"">http://support.battlenet.com.cn/help/article/116093</a>以获取更多信息。</p></body></html>",2
 33880,BNET_ERROR_1002_HTML,"<html><body><p align=""CENTER"">无法连接。请稍后再试。如果问题仍然存在，请访问以下链接<a href=""https://www.battlenet.com.cn/support/index.xml?locale=zh_CN&amp;gameId=11&amp;rootCategoryId=1763"">https://www.battlenet.com.cn/support/index.xml?locale=zh_CN&amp;gameId=11&amp;rootCategoryId=1763</a>以获取更多信息。</p></body></html>",2
 33881,BNET_ERROR_11,"<html><body><p>根据相关法律法规对未成年人游戏时间的要求，您目前无法登录游戏。请合理安排游戏时间，劳逸结合。了解详情：<a href=""https://www.battlenet.com.cn/support/zh/article/210633"">https://www.battlenet.com.cn/support/zh/article/210633</a></p></body></html>",2
 33882,BNET_ERROR_28_HTML,"<html><body><p align=""CENTER"">无法验证游戏版本，这可能是由于文件已被破坏或其它程序干扰所致。请访问<a href=""https://www.battlenet.com.cn/support/zh/article/351"">https://www.battlenet.com.cn/support/zh/article/351</a>以获取更多信息。</p></body></html>",2
@@ -14450,8 +14449,8 @@ ID,BaseTag,TagText_lang,Flags
 33890,BNET_ERROR_42003,出于安全原因，您的账号已被锁定。,2
 33891,BNET_ERROR_50_HTML,"<html><body><p align=""CENTER"">您的预付时间已经用尽，请访问<a href=""http://www.battlenet.com.cn"">http://www.battlenet.com.cn</a>充值之后继续游戏。</p></body></html>",2
 33892,BNET_ERROR_52_HTML,"<html><body><p align=""CENTER"">该魔兽世界账号已被冻结，无法继续使用！请访问<a href=""http://www.battlenet.com.cn/support/zh/article/188"">http://www.battlenet.com.cn/support/zh/article/188</a>获取相关信息，或前往<a href=""https://security.blizzard.cn/usercenter"">https://security.blizzard.cn/usercenter</a>了解详情。</p></body></html>",2
-33893,BNET_ERROR_53_HTML,"<html><body><p align=""CENTER"">该魔兽世界账号已被暂时冻结，目前无法使用！%s请访问<a href=""http://www.battlenet.com.cn/support/zh/article/188"">http://www.battlenet.com.cn/support/zh/article/188</a>以获取更多信息。</p></body></html>",2
-33894,BNET_ERROR_57_HTML,"<html><body><p align=\""CENTER\"">您的账号已被暂时禁用。请联系技术支持<a href=\""https://www.battlenet.com.cn/support/zh/article/187"">https://www.battlenet.com.cn/support/zh/article/187</a>以获取更多信息。</p></body></html>",2
+33893,BNET_ERROR_53_HTML,该魔兽世界账号已被暂时冻结，目前无法使用！请访问https://support.battlenet.com.cn/w/article/101010,2
+33894,BNET_ERROR_57_HTML,"<html><body><p align=\""CENTER\"">您的账号已被暂时禁用。请联系技术支持<a href=\""http://support.battlenet.com.cn/help/article/020182"">http://support.battlenet.com.cn/help/article/020182</a>以获取更多信息。</p></body></html>",2
 33895,BNET_ERROR_58,您已经锁定了自己的账号。您可以通过官方网站的相应功能改变锁定状态。,2
 33896,BNET_ERROR_59_HTML,"<html><body><p align=""CENTER"">该《魔兽世界》账号因费用问题而被暂时停用。请致电客服中心了解更多信息。</p></body></html>",2
 33897,BNET_ERROR_60,您的账号已在别处登录。如果这不是您本人所为，您应该更换密码并检查您的账号安全设定。,2
@@ -14461,7 +14460,7 @@ ID,BaseTag,TagText_lang,Flags
 33901,BNET_ERROR_86,您的暴雪游戏通行证存在问题。请联系客户支持。,2
 33902,BNET_ERROR_90,您的网络不允许与暴雪游戏服务的连接。如果您认为这有问题请联系客户支持。,2
 33903,BNET_ERROR_CODE_TITLE,暴雪游戏服务错误#%d,2
-33904,BNET_ERROR_GENERIC_URL,https://www.battlenet.com.cn/support/zh/games/wow,2
+33904,BNET_ERROR_GENERIC_URL,https://support-api.battlenet.com.cn/auth/home/index,2
 33905,BNET_ERROR_OTHER,你已断开连接。,2
 33906,BNET_LOGIN_QUEUE_TIME_LEFT,服务器已满\n队列位置：%d\n预计时间：%d分钟,2
 33907,BNET_LOGIN_QUEUE_TIME_LEFT_SECONDS,服务器已满\n队列位置：%d\n预计时间：< 1分钟,2
@@ -14512,13 +14511,13 @@ ID,BaseTag,TagText_lang,Flags
 33952,CHARACTER_UPGRADE_CHARACTER_LIST_CHANGED_ERROR,发生错误。请重新开始角色直升步骤。,2
 33953,CHARACTER_UPGRADE_CHARACTER_LIST_LABEL,角色直升,2
 33954,CHARACTER_UPGRADE_COMPLETE_LABEL,角色直升完成！,2
-33955,CHARACTER_UPGRADE_FINISH_BUTTON_POPUP_TEXT,确定要升级这个角色吗？完成此步骤之后，你将无法更改自己的选择。,3
+33955,CHARACTER_UPGRADE_FINISH_BUTTON_POPUP_TEXT,|cnHIGHLIGHT_FONT_COLOR:确定要|r升级|cnHIGHLIGHT_FONT_COLOR:这个角色吗？完成此步骤之后，你将无法更改自己的选择。|r,3
 33956,CHARACTER_UPGRADE_FINISH_LABEL,升级！,6
 33957,CHARACTER_UPGRADE_FREE_100_POPUP_DESCRIPTION,《魔兽世界》内容更新“军团再临”将附赠一次角色直升100级的机会。您可以选择直升现有角色，也可以在试玩新职业后再使用直升服务，或是关闭窗口稍后再使用该服务。,2
 33958,CHARACTER_UPGRADE_FREE_100_POPUP_TITLE,欢迎体验“军团再临”！,2
 33959,CHARACTER_UPGRADE_FREE_90_POPUP_DESCRIPTION,感谢您加入我们的游戏！|n这是购买“德拉诺之王”附赠的角色升级服务。,2
 33960,CHARACTER_UPGRADE_FREE_90_POPUP_TITLE,角色直升90级,2
-33961,CHARACTER_UPGRADE_KRW_FINISH_BUTTON_POPUP_TEXT,确定要升级该角色吗？点击“升级”按钮后，将无法退款。 ,2
+33961,CHARACTER_UPGRADE_KRW_FINISH_BUTTON_POPUP_TEXT,|cnHIGHLIGHT_FONT_COLOR:确定要|r升级|cnHIGHLIGHT_FONT_COLOR:该角色吗？点击“升级”按钮后，将无法退款。|r,2
 33962,CHARACTER_UPGRADE_KRW_STATIC_WARNING,您可在购买后7天之内取消本次购买。但在完成角色升级的所有步骤后，本次购买将无法在购买后7天内取消。,2
 33963,CHARACTER_UPGRADE_NO_VETERAN_BONUS,无老玩家奖励,2
 33964,CHARACTER_UPGRADE_POPUP_GET_STARTED,现在开始,2
@@ -14564,7 +14563,7 @@ ID,BaseTag,TagText_lang,Flags
 34004,CHAR_DECLINE_IN_PROGRESS,正在升级角色……,2
 34005,CHAR_DELETE_FAILED,角色删除失败,2
 34006,CHAR_DELETE_FAILED_ARENA_CAPTAIN,这个角色是某个竞技场战队的队长，在转移队长权限之前无法删除。,2
-34007,CHAR_DELETE_FAILED_GUILD_LEADER,该角色为公会领袖，在将会长权限转移给其他角色之前无法删除此角色。,2
+34007,CHAR_DELETE_FAILED_GUILD_LEADER,该角色为公会领袖，在将会长权限转移给其他角色之前或者该公会解散之前无法删除此角色。,2
 34008,CHAR_DELETE_FAILED_HAS_HEIRLOOM_OR_MAIL,这个角色的邮箱里存有邮件，因此无法删除。,2
 34009,CHAR_DELETE_FAILED_HAS_WOW_TOKEN,该角色的背包、邮箱或拍卖行中有未使用/售出的魔兽世界时光徽章，无法删除。,2
 34010,CHAR_DELETE_FAILED_CHARACTER_SERVICE_PENDING,该角色无法被删除，因为有一项角色服务正在进行中。,2
@@ -14588,7 +14587,7 @@ ID,BaseTag,TagText_lang,Flags
 34028,CHAR_LOGIN_DUPLICATE_CHARACTER,您所选择的角色名称已经存在,2
 34029,CHAR_LOGIN_FAILED,登录失败,2
 34030,CHAR_LOGIN_IN_PROGRESS,正在进入魔兽世界,2
-34031,CHAR_LOGIN_LOCKED_BY_BILLING,"<html><body><p align=\""CENTER\"">角色已被锁定。\n更多详情，请点击<a href=\""https://www.battlenet.com.cn/support/zh/article/character-lock"">https://www.battlenet.com.cn/support/zh/article/character-lock</a>。</p></body></html>",2
+34031,CHAR_LOGIN_LOCKED_BY_BILLING,"<html><body><p align=\""CENTER\"">角色已被锁定。\n更多详情，请点击<a href=\""http://support.battlenet.com.cn/help/article/010669"">http://support.battlenet.com.cn/help/article/010669</a>。</p></body></html>",2
 34032,CHAR_LOGIN_LOCKED_BY_CHARACTER_UPGRADE,在最近启动的角色直升完成之前，你将无法登录该角色。,2
 34033,CHAR_LOGIN_LOCKED_BY_MOBILE_AH,你无法在使用《魔兽世界》移动拍卖行时进行登录。,2
 34034,CHAR_LOGIN_LOCKED_BY_REVOKED_CHARACTER_UPGRADE,由于付费问题，该直升角色已被锁定。,2
@@ -14801,10 +14800,10 @@ ID,BaseTag,TagText_lang,Flags
 34241,CLIENT_CONVERTED_TITLE,欢迎来到魔兽世界。,2
 34242,CLIENT_TRIAL,<html><body><p>您的账号是功能完全的普通账号，无法与试玩版的《魔兽世界》客户端兼容。请安装完全版的《魔兽世界》。如果您需要更多帮助，请访问<a href='https://www.battlenet.com.cn/account/management/wow/dashboard.html?accountName=WoW1&region=CN'>https://www.battlenet.com.cn/account/management/wow/dashboard.html?accountName=WoW1&region=CN</a></p></body></html>,2
 34243,COMMUNITY_SITE,官方网站,2
-34244,COMMUNITY_URL,http://www.warcraftchina.com,2
+34244,COMMUNITY_URL,https://wow.blizzard.cn/home.html,2
 34245,CONFIRM_CHAR_DELETE,您确认要删除\n|cffffffff%s 等级%d %s|r？,2
 34246,CONFIRM_CHAR_DELETE_INSTRUCTIONS,请在框中输入“DELETE”来确认删除。,2
-34247,CONFIRM_DISABLE_ADDONS,如果您安装了新版本的插件，就必须重新允许加载这些插件。您确定要禁止所有插件吗？\n\n|cffffffff您可以使用左下角的“插件”按钮来选择加载哪些插件。|r,2
+34247,CONFIRM_DISABLE_ADDONS,如果您安装了新版本的插件，就必须重新允许加载这些插件。您确定要禁止所有插件吗？\n\n|cffffffff您可以使用屏幕顶部的“选项菜单 > 插件”按钮来选择重新加载哪些插件。|r,2
 34248,CONFIRM_LAUNCH_ADDON_URL,点击“确定”将切换出游戏画面，并在您的浏览器中打开以下链接：\n%s,2
 34249,CONFIRM_LOAD_ADDONS,如果您不升级插件版本的话，游戏可能无法正常运行。您确定要加载所有插件吗？\n\n|cffffffff您可以使用左下角的“插件”按钮来选择加载哪些插件。|r,2
 34250,CONFIRM_PAID_SERVICE,你确定要进行更换吗？,2
@@ -14846,18 +14845,18 @@ ID,BaseTag,TagText_lang,Flags
 34286,DEMONHUNTER_DISABLED,需要拥有一个70级的角色。,2
 34287,DEMON_HUNTER_RESTRICTED_HAS_DEMON_HUNTER,你在每个服务器上只能创建一个恶魔猎手。,2
 34288,DEMON_HUNTER_RESTRICTED_NEED_LEVEL_70,你在此服务器上的最高等级角色不能低于70级。,2
-34289,DEVICE_BLACKLISTED,"<html><body><p align=""CENTER"">您的显卡不兼容或者效果不佳。请访问<a href="": https://www.battlenet.com.cn/support/zh/article/126 "">https://www.battlenet.com.cn/support/zh/article/126 </a>了解更多信息。</p></body></html>",2
+34289,DEVICE_BLACKLISTED,"<html><body><p align=""CENTER"">游戏不支持您使用的显卡设备。请访问<a href="": https://support.battlenet.com.cn/article/76459 "">https://support.battlenet.com.cn/article/76459 </a>了解更多信息。</p></body></html>",2
 34290,DIALOG_HELP_MORE_INFO,更多信息,2
 34291,DISCONNECTED,已从服务器断开。,6
-34292,DISCONNECT_REASON_BAN,该账号由于违反用户协议（https://oribos.blizzard.cn/legal/eula）已被暂时封停。封停将于%d天%d小时%d分钟后结束。如您对上述处理措施有异议，可以访问网站“在线客服”页面https://www.battlenet.com.cn/support/zh/help/了解更多详情！,2
-34293,DISCONNECT_STREAMING_ERROR_URL,https://www.battlenet.com.cn/support/zh/article/570,2
+34292,DISCONNECT_REASON_BAN,该账号由于违反用户协议（https://oribos.blizzard.cn/legal/eula）已被暂时封停。封停将于%d天%d小时%d分钟后结束。如您对上述处理措施有异议，可以访问网站“在线客服”页面http://support.battlenet.com.cn/help/article/101010 了解更多详情！,2
+34293,DISCONNECT_STREAMING_ERROR_URL,http://support.battlenet.com.cn/help/article/034791,2
 34294,DOWNLOADING_UPDATE,正在下载更新,2
 34295,DOWNLOAD_SUCCESSFUL,需要升级补丁,2
 34296,DOWNLOAD_SUCCESSFUL_TEXT,请按下重新启动按钮以退出魔兽世界\n并下载升级文件。,2
 34297,DPS,DPS,2
 34298,DRAENEI_DISABLED,需要“燃烧的远征”,2
-34299,DRIVER_BLACKLISTED,"<html><body><p align=""CENTER"">您的显示设备驱动不兼容。请访问<a href=""https://www.battlenet.com.cn/support/zh/article/206"">https://www.battlenet.com.cn/support/zh/article/206</a>了解更多详情。</p></body></html>",2
-34300,DRIVER_OUTOFDATE,"<html><body><p align=""CENTER"">您的显卡驱动已过期。请访问<a href=""https://www.battlenet.com.cn/support/zh/article/driverupdates"">https://www.battlenet.com.cn/support/zh/article/driverupdates</a>了解更多信息。</p></body></html>",2
+34299,DRIVER_BLACKLISTED,"<html><body><p align=""CENTER"">您的设备驱动不兼容。请访问<a href=""https://support.battlenet.com.cn/w/article/101016"">https://support.battlenet.com.cn/w/article/101016</a>了解更多详情。</p></body></html>",2
+34300,DRIVER_OUTOFDATE,"<html><body><p align=""CENTER"">您的设备驱动已过期。请访问<a href=""https://support.battlenet.com.cn/w/article/101016"">https://support.battlenet.com.cn/w/article/101016</a>了解更多信息。</p></body></html>",2
 34301,DRUID_DISABLED,要选择该职业，你必须更换一个种族。,2
 34302,EMAIL_ADDRESS,账号名称,2
 34303,ENABLED_FOR_SOME,该插件只对某些角色启用。,3
@@ -14877,7 +14876,7 @@ ID,BaseTag,TagText_lang,Flags
 34317,FACTION_INFO_ALLIANCE,       联盟由五个种族组成：高贵的人类，勇敢的矮人，神秘的暗夜精灵，机灵的侏儒，以及荣耀的德莱尼。由于都对世界上的各种邪恶势力深恶痛绝，他们就联合起来，为了重建这个饱受战争创伤的世界而努力。,2
 34318,FACTION_INFO_HORDE,       部落由五个种族组成：野蛮的兽人，阴暗的亡灵，高尚的牛头人，敏捷的巨魔，以及急躁的血精灵。这些种族都有着为数众多的敌人，为了让自己能在这个世界上继续生存，他们结成了一个强大的同盟。,2
 34319,FINISH,完成,2
-34320,FIXEDFUNCTION_UNSUPPORTED,"<html><body><p align=""CENTER"">魔兽世界不支持此显卡。请访问<a href=""https://www.battlenet.com.cn/support/zh/article/126"">https://www.battlenet.com.cn/support/zh/article/126</a>了解更多信息。</p></body></html>",2
+34320,FIXEDFUNCTION_UNSUPPORTED,"<html><body><p align=""CENTER"">魔兽世界不支持此显卡。请访问<a href=""https://support.blizzard.com/article/76459"">https://www.battlenet.com.cn/support/zh/article/126</a>了解更多信息。</p></body></html>",2
 34321,GAMETYPE_NORMAL,普通,2
 34322,GAMETYPE_PVE,普通,2
 34323,GAMETYPE_PVE_TEXT,这些服务器的重点内容在于探索以及与怪物作战，你可以选择是否与敌对阵营的玩家交战。,2
@@ -14921,7 +14920,8 @@ ID,BaseTag,TagText_lang,Flags
 34361,LOAD_RECOMMENDED,推荐,2
 34362,LOGIN,登录,6
 34363,LOGIN_ACCOUNT_CONVERTED,该账号已与一个暴雪游戏通行证关联。请使用您的暴雪游戏通行证的电子邮件地址和密码登录。,2
-34364,LOGIN_ACCOUNT_LOCKED,"<html><body><p align=\""CENTER\"">我们的登录系统侦测到您的访问模式发生了变化。为保护账号安全，我们需要您进行身份验证并通过我们的网站来重新设置密码。|n如需获取更多信息，请访问|n<a href=""https://www.battlenet.com.cn/account/support/identify-account.html?requestType=PASSWORD_RESET"">https://www.battlenet.com.cn/account/support/identify-account.html?requestType=PASSWORD_RESET</a></p></body></html>",2
+34364,LOGIN_ACCOUNT_LOCKED,"<html><body><p align=\""CENTER\"">我们的登录系统侦测到您的访问模式发生了变化。为保护账号安全，我们需要您进行身份验证并通过我们的网站来重新设置密码。|n如需获取更多信息，请访问|n<a href=""http://support.battlenet.com.cn/help/article/024371
+"">http://support.battlenet.com.cn/help/article/024371</a></p></body></html>",2
 34365,LOGIN_ALREADYONLINE,您的账号已经在线。请确认没有其他人正在使用这个账号，然后再次尝试连接。,2
 34366,LOGIN_ANTI_INDULGENCE,您的游戏账号已被防沉迷系统锁定。,2
 34370,LOGIN_BAD_SERVER_RECODE_PROOF,重编码验证失败,2
@@ -14933,7 +14933,7 @@ ID,BaseTag,TagText_lang,Flags
 34376,LOGIN_ENTER_PASSWORD,请输入您的密码。,2
 34377,LOGIN_ERROR,错误,2
 34378,LOGIN_EXPIRED,"<html><body><p align=""CENTER"">您的游戏账号因未付费被暂时冻结。</p></body></html>",2
-34380,LOGIN_GAME_ACCOUNT_LOCKED,"<html><body><p align=\""CENTER\"">您的账号已被暂时禁用。请联系技术支持<a href=\""https://www.battlenet.com.cn/support/zh/article/187"">https://www.battlenet.com.cn/support/zh/article/187</a>以获取更多信息。</p></body></html>",2
+34380,LOGIN_GAME_ACCOUNT_LOCKED,"<html><body><p align=\""CENTER\"">您的账号已被暂时禁用。请联系技术支持<a href=\""http://support.battlenet.com.cn/help/article/020182"">http://support.battlenet.com.cn/help/article/020182</a>以获取更多信息。</p></body></html>",2
 34381,LOGIN_IGR_WITHOUT_BNET,"<html><body><p align=""CENTER"">如要使用网吧游戏时间登录《魔兽世界》，该《魔兽世界》账号必须要先与暴雪游戏通行证合并。请访问<a href=""http://www.battlenet.com.cn"">http://www.battlenet.com.cn</a> 来合并账号。</p></body></html>",2
 34382,LOGIN_INCORRECT_PASSWORD,密码错误,2
 34383,LOGIN_INIT_DATA,初始化游戏数据……%d%%,2
@@ -14942,7 +14942,7 @@ ID,BaseTag,TagText_lang,Flags
 34386,LOGIN_INVALID_RECODE_MESSAGE,无效的重编码信息,2
 34387,LOGIN_LOCALE_MISMATCH,客户端语言类型错误,2
 34388,LOGIN_LOCKED_ENFORCED,您已经锁定了自己的账号。您可以通过官方网站的相应功能改变锁定状态。,2
-34389,LOGIN_MALFORMED_ACCOUNT_NAME,"<html><body><p align=""CENTER"">您输入的账号或密码错误！如果您发现账号被盗，请访问<a href=""https://www.battlenet.com.cn/account/support/identify-account.html?requestType=PASSWORD_RESET"">https://www.battlenet.com.cn/account/support/identify-account.html?requestType=PASSWORD_RESET</a>以重置你的密码。同时推荐您使用安全令保护您的账号。</p></body></html>",2
+34389,LOGIN_MALFORMED_ACCOUNT_NAME,"<html><body><p align=""CENTER"">您输入的账号或密码错误！如果您发现账号被盗，请访问<a href=""http://support.battlenet.com.cn/help/article/009852"">http://support.battlenet.com.cn/help/article/009852</a>以重置你的密码。同时推荐您使用安全令保护您的账号。</p></body></html>",2
 34390,LOGIN_NOTIME,"<html><body><p align=""CENTER"">您的预付时间已经用尽，请访问<a href=""http://www.battlenet.com.cn"">http://www.battlenet.com.cn</a>充值之后继续游戏。</p></body></html>",2
 34393,LOGIN_NO_GAME_ACCOUNT,在使用该账号登录时出现了问题。|n您可能并未将魔兽世界添加到该账号，或是没有选择您注册账号时所填写地区的服务器。如果您持续遇到这一问题，请联系客服支持人员。,2
 34394,LOGIN_NO_GAME_ACCOUNTS_IN_REGION_NONE,"<html><body><p align=\""CENTER\"">您在该区域尚未创建过账号。</p></body></html>",2
@@ -14957,12 +14957,12 @@ ID,BaseTag,TagText_lang,Flags
 34403,LOGIN_STATE_HANDSHAKING,正在与服务器交换数据,2
 34404,LOGIN_STATE_INITIALIZED,初始化完成,2
 34405,LOGIN_STATE_SURVEY,正在提交非隐私系统信息,2
-34406,LOGIN_SUSPENDED,"<html><body><p align=""CENTER"">该魔兽世界账号已被暂时冻结，目前无法使用！请访问<a href=""http://www.battlenet.com.cn/support/zh/article/188"">http://www.battlenet.com.cn/support/zh/article/188</a>以获取更多信息。</p></body></html>",2
+34406,LOGIN_SUSPENDED,该魔兽世界账号已被暂时冻结，目前无法使用！请访问https://support.battlenet.com.cn/w/article/101010,2
 34407,LOGIN_TOO_FAST,您尝试登录的次数过多。请稍后再重试。,2
 34408,LOGIN_TRIAL_EXPIRED,"<html><body><p align=""CENTER"">您的试玩账号已过期。请访问<a href=""http://www.battlenet.com.cn"">http://www.battlenet.com.cn</a> 来升级你的账号。</p></body></html>",2
-34409,LOGIN_UNKNOWN_ACCOUNT,"<html><body><p align=""CENTER"">您输入的账号或密码错误！如果您发现账号被盗，请访问<a href=""https://www.battlenet.com.cn/account/support/identify-account.html?requestType=PASSWORD_RESET"">https://www.battlenet.com.cn/account/support/identify-account.html?requestType=PASSWORD_RESET</a>以重置你的密码。同时推荐您使用安全令保护您的账号。</p></body></html>",2
+34409,LOGIN_UNKNOWN_ACCOUNT,"<html><body><p align=""CENTER"">您输入的账号或密码错误！如果您发现账号被盗，请访问<a href=""http://support.battlenet.com.cn/help/article/009852"">http://support.battlenet.com.cn/help/article/009852</a>以重置你的密码。同时推荐您使用安全令保护您的账号。</p></body></html>",2
 34410,LOGIN_UNKNOWN_ACCOUNT_CALL,请联系客服服务,2
-34411,LOGIN_UNKNOWN_ACCOUNT_PIN,"<html><body><p align=""CENTER"">您输入的账号名、账号密码错误！请访问<a href=""https://www.battlenet.com.cn/account/support/identify-account.html?requestType=PASSWORD_RESET"">https://www.battlenet.com.cn/account/support/identify-account.html?requestType=PASSWORD_RESET</a>以重置你的密码。</p></body></html>",2
+34411,LOGIN_UNKNOWN_ACCOUNT_PIN,"<html><body><p align=""CENTER"">您输入的账号名、账号密码错误！请访问<a href=""http://support.battlenet.com.cn/help/article/101009"">http://support.battlenet.com.cn/help/article/101009</a>以重置你的密码。</p></body></html>",2
 34412,LOGIN_UNLOCKABLE_LOCK,此账号已被锁定，但可以解锁。,2
 34413,LOGIN_USE_GRUNT,请使用您的《魔兽世界》账号和密码，而不是暴雪游戏通行证。,2
 34414,MAGE_DISABLED,要选择该职业，你必须更换一个种族。,2
@@ -15050,9 +15050,9 @@ ID,BaseTag,TagText_lang,Flags
 34496,RANDOMIZE,随机选择,2
 34497,REACTIVATE_ACCOUNT_NOW,立即激活,2
 34498,REALMLIST_NOT_CONNECTED_TO_BATTLENET,你已经从暴雪游戏服务断开。请重新登录后再更换服务器。,2
-34499,REALMLIST_NUMCHARACTERS_TOOLTIP,您在这个服务器上\n创建的角色数量。,2
+34499,REALMLIST_NUMCHARACTERS_TOOLTIP,所有角色都会显示在你的\n角色列表中，不管处于哪个服务器。,2
 34500,REALMLIST_POPULATION_TOOLTIP,标有“推荐”的服务器可以使您获得最佳的游戏体验。\n标有“满”的服务器玩家人数偏多，您可能经常\n需要排队等待进入服务器。,2
-34501,REALMLIST_REALMNAME_TOOLTIP,请确认您的朋友们在哪个服务器上玩！,2
+34501,REALMLIST_REALMNAME_TOOLTIP,你选择的服务器会影响一些功能，\n如交易、公会和史诗团队副本。,2
 34502,REALMLIST_TYPE_TOOLTIP,普通 = 该服务器无特殊规则。\nRP = 角色扮演服务器。,2
 34503,REALM_CHARACTERS,角色,6
 34504,REALM_DESCRIPTION,请选择一个服务器,2
@@ -15086,7 +15086,7 @@ ID,BaseTag,TagText_lang,Flags
 34532,RESPONSE_CANCELLED,已取消,6
 34533,RESPONSE_CONNECTED,已经连接,2
 34534,RESPONSE_DISCONNECTED,已从服务器断开,2
-34535,RESPONSE_FAILED_TO_CONNECT,无法连接。请确保您的计算机已经连接到互联网，且没有使用拦截数据传输的防火墙程序。请参考https://www.battlenet.com.cn/support/zh/以获取更多信息。,2
+34535,RESPONSE_FAILED_TO_CONNECT,无法连接。请确保您的计算机已经连接到互联网，且没有使用拦截数据传输的防火墙程序。请参考https://support-api.battlenet.com.cn/auth/home/index 以获取更多信息。,2
 34536,RESPONSE_FAILURE,失败,2
 34537,RESPONSE_SUCCESS,成功,2
 34538,RESPONSE_VERSION_MISMATCH,错误的客户端版本,2
@@ -15117,7 +15117,7 @@ ID,BaseTag,TagText_lang,Flags
 34565,SELECT_ACCOUNT,选择一个账号,2
 34566,SELECT_CHARACTER,选择角色,2
 34567,SELECT_CHARACTER_ACTIVE_LABEL,在右边选取角色,2
-34568,SELECT_CHARACTER_RESULTS_FORMAT,|c%s%s (等级 %d %s)|r,2
+34568,SELECT_CHARACTER_RESULTS_FORMAT,%s\n等级 %d %s,2
 34569,SELECT_CHARACTER_RESULTS_LABEL,角色：,2
 34570,SELECT_FACTION_ACTIVE_LABEL,选择阵营,2
 34571,SELECT_FACTION_RESULTS_FORMAT,|c%s%s|r,2
@@ -15153,10 +15153,10 @@ ID,BaseTag,TagText_lang,Flags
 34601,STREAMING_BUILD,流格式,2
 34602,SUGGESTED_REALM_TEXT,|cffffffff您被分配到了|r %s |cffffffff服务器。|r,2
 34603,SUGGEST_REALM,推荐服务器,2
-34604,SYSTEM_INCOMPATIBLE_SSE,"<html><body><p align=""CENTER"">今后的魔兽世界版本将不再支持此系统。请访问<a href=""https://www.battlenet.com.cn/support/zh/article/126"">https://www.battlenet.com.cn/support/zh/article/126</a>了解更多信息。</p></body></html>",2
+34604,SYSTEM_INCOMPATIBLE_SSE,"<html><body><p align=""CENTER"">今后的魔兽世界版本将不再支持此系统。请访问<a href=""https://support.battlenet.com.cn/article/76459"">https://support.battlenet.com.cn/article/76459</a>了解更多信息。</p></body></html>",2
 34605,TAIWAN,中国台湾,7
 34606,TECH_SUPPORT,技术支持,2
-34607,TECH_SUPPORT_URL,https://www.battlenet.com.cn/support/zh/games/wow,2
+34607,TECH_SUPPORT_URL,https://support-api.battlenet.com.cn/auth/home/index,2
 34608,TEMPLATE_CHARACTER,模板角色,2
 34609,TEMPLATE_CHARACTER_CHOOSE_FACTION,选择角色的阵营,2
 34610,TEMPLATE_CHARACTER_LABEL,选择一个模板,2
@@ -15181,7 +15181,7 @@ ID,BaseTag,TagText_lang,Flags
 34629,UNDELETE_SUCCESS_NAME_CHANGE_REQUIRED,角色恢复成功。\n你的旧角色名已被使用，当你登录游戏时需要选择一个新角色名。,2
 34630,UNDELETE_TOOLTIP,恢复删除的角色,2
 34631,UNDELETE_TOOLTIP_COOLDOWN,在恢复其他被删除角色前，你必须等待%s。,2
-34632,UNDELETE_TOOLTIP_DISABLED,恢复被删除角色功能暂时不可用。请稍后再试。,2
+34632,UNDELETE_TOOLTIP_DISABLED,恢复被删除角色功能暂时不可用。我们正在努力解决此问题，感谢您的耐心。,2
 34633,UNKNOWN_ZONE,未知地区,2
 34634,UNLOCK_TEXT,全面玩转魔兽世界！,2
 34635,UPGRADE_ACCOUNT,升级至完整版。,2
@@ -15220,39 +15220,39 @@ ID,BaseTag,TagText_lang,Flags
 34666,VIDEO_OPTIONS_RESET,你的视频设置已经改变。,2
 34667,VIEW_ALL_REALMS,显示服务器列表,2
 34668,VIRTUAL_KEYPAD_OKAY,确定,2
-34669,VISITABLE_URL1,http://zhCN.nydus.battle.net/WOW/zhCN/client/in_game_mail_link_1?r=CN&l=%s&sr=%u&c=%x%x,2
-34670,VISITABLE_URL10,http://nydus.battle.net/WoW/%s/client/legal/terms-of-sale?targetRegion=TW,2
-34671,VISITABLE_URL11,https://nydus.battle.net/WoW/zhCN/client/add-payment?targetRegion=CN,2
-34672,VISITABLE_URL12,https://www.battlenet.com.cn/support/zh/article/recruit-a-friend-basics,2
-34673,VISITABLE_URL13,http://nydus.battle.net/WoW/%s/client/legal/privacy-policy?targetRegion=KR,2
-34674,VISITABLE_URL14,http://nydus.battle.net/WoW/%s/client/legal/terms-of-sale?targetRegion=US,2
-34675,VISITABLE_URL15,http://nydus.battle.net/WoW/%s/client/legal/privacy-policy?targetRegion=US,2
-34676,VISITABLE_URL16,http://nydus.battle.net/WoW/%s/client/legal/terms-of-sale?targetRegion=EU,2
-34677,VISITABLE_URL17,http://nydus.battle.net/WoW/%s/client/legal/privacy-policy?targetRegion=EU,2
-34678,VISITABLE_URL18,http://nydus.battle.net/WoW/%s/client/legal/terms-of-sale?targetRegion=CN,2
-34679,VISITABLE_URL19,http://nydus.battle.net/WoW/%s/client/legal/privacy-policy?targetRegion=CN,2
-34680,VISITABLE_URL2,http://zhCN.nydus.battle.net/WOW/zhCN/client/trial_restriction_error_1?region=CN&accountName=%s,2
-34681,VISITABLE_URL20,http://nydus.battle.net/WoW/%s/client/legal/privacy-policy?targetRegion=TW,2
-34682,VISITABLE_URL21,https://nydus.battle.net/WoW/%s/client/choose-payment-method?targetRegion=EU,2
-34683,VISITABLE_URL22,https://www.battlenet.com.cn/shop/zh/product/world-of-warcraft-game-time-cn,2
-34684,VISITABLE_URL23,https://www.battlenet.com.cn/support/zh/article/478,3
-34685,VISITABLE_URL24,https://www.battlenet.com.cn/support/zh/article/476,3
-34686,VISITABLE_URL25,https://www.battlenet.com.cn/support/zh/article/477,3
-34687,VISITABLE_URL26,https://www.battlenet.com.cn/support/zh/article/494,3
-34688,VISITABLE_URL27,https://www.battlenet.com.cn/support/zh/article/478,3
-34689,VISITABLE_URL28,https://www.battlenet.com.cn/support/zh/article/476,3
-34690,VISITABLE_URL29,https://www.battlenet.com.cn/support/zh/article/477,3
-34691,VISITABLE_URL3,http://zhCN.nydus.battle.net/wow/zhCN/client/item-restoration,2
-34692,VISITABLE_URL30,https://www.battlenet.com.cn/support/zh/article/494,3
-34693,VISITABLE_URL31,https://www.battlenet.com.cn/support/zh/article/215,3
-34694,VISITABLE_URL32,https://www.battlenet.com.cn/support/zh/article/215,3
-34695,VISITABLE_URL4,http://zhCN.nydus.battle.net/wow/zhCN/client/challenge/%d/%d,2
-34696,VISITABLE_URL5,https://www.battlenet.com.cn/support/zh/games/wow?loc,2
-34697,VISITABLE_URL6,https://%s.battle.net/support/%s/ticket/submit?loc,2
-34698,VISITABLE_URL7,https://%s.battle.net/support/%s/ticket/status?loc,2
-34699,VISITABLE_URL8,http://nydus.battle.net/WoW/%s/client/support/blizzard-games-refund?targetRegion=KR,2
-34700,VISITABLE_URL9,http://nydus.battle.net/WoW/%s/client/legal/terms-of-sale?targetRegion=KR,2
-34701,VISITABLE_URL_GENERIC,http://zhCN.nydus.battle.net/WOW/zhCN/client/in_game_mail_link_%d,2
+34669,VISITABLE_URL1,https://shop.battlenet.com.cn/product/world-of-warcraft-service-guild-services,2
+34670,VISITABLE_URL10,https://blizzard.com/tos,2
+34671,VISITABLE_URL11,https://shop.battlenet.com.cn/product/balance,2
+34672,VISITABLE_URL12,https://support.battlenet.com.cn/article/11009,2
+34673,VISITABLE_URL13,https://blizzard.com/privacy,2
+34674,VISITABLE_URL14,https://blizzard.com/tos,2
+34675,VISITABLE_URL15,https://blizzard.com/privacy,2
+34676,VISITABLE_URL16,https://blizzard.com/tos,2
+34677,VISITABLE_URL17,https://blizzard.com/privacy,2
+34678,VISITABLE_URL18,https://legal.battlenet.com.cn/tos,2
+34679,VISITABLE_URL19,https://legal.battlenet.com.cn/privacy,2
+34680,VISITABLE_URL2,https://shop.battlenet.com.cn/family/world-of-warcraft#games,2
+34681,VISITABLE_URL20,https://blizzard.com/privacy,2
+34682,VISITABLE_URL21,https://account.battle.net/payment,2
+34683,VISITABLE_URL22,https://shop.battlenet.com.cn/product/world-of-warcraft-game-time-cn,2
+34684,VISITABLE_URL23,http://support.battlenet.com.cn/help/article/281027,3
+34685,VISITABLE_URL24,http://support.battlenet.com.cn/help/article/211130,3
+34686,VISITABLE_URL25,http://support.battlenet.com.cn/help/article/244059,3
+34687,VISITABLE_URL26,http://support.battlenet.com.cn/help/article/012005,3
+34688,VISITABLE_URL27,http://support.battlenet.com.cn/help/article/281027,3
+34689,VISITABLE_URL28,http://support.battlenet.com.cn/help/article/211130,3
+34690,VISITABLE_URL29,http://support.battlenet.com.cn/help/article/244059,3
+34691,VISITABLE_URL3,https://support.battlenet.com.cn/restoration,2
+34692,VISITABLE_URL30,http://support.battlenet.com.cn/help/article/012005,3
+34693,VISITABLE_URL31,http://support.battlenet.com.cn/help/article/083440,3
+34694,VISITABLE_URL32,http://support.battlenet.com.cn/help/article/083440,3
+34695,VISITABLE_URL4,https://shop.battlenet.com.cn,2
+34696,VISITABLE_URL5,https://support-api.battlenet.com.cn/auth/home/index,2
+34697,VISITABLE_URL6,https://support-api.battlenet.com.cn/auth/home/question,2
+34698,VISITABLE_URL7,https://support-api.battlenet.com.cn/auth/home/service,2
+34699,VISITABLE_URL8,https://support.blizzard.com/article/75828,2
+34700,VISITABLE_URL9,https://blizzard.com/tos,2
+34701,VISITABLE_URL_GENERIC,https://shop.battlenet.com.cn,2
 34702,WARLOCK_DISABLED,要选择该职业，你必须更换一个种族。,2
 34703,WARLORDS_OF_DRAENOR,德拉诺之王,2
 34704,WARRIOR_DISABLED,要选择该职业，你必须更换一个种族。,2
@@ -15269,8 +15269,8 @@ ID,BaseTag,TagText_lang,Flags
 34715,WOW_ERROR_309,当前没有可用的服务器。,2
 34716,WOW_ERROR_319,已从服务器断开。,2
 34717,WOW_ERROR_322,发生数据流错误。,2
-34718,WOW_ERROR_322_URL,http://www.battlenet.com.cn/support/article.xml?locale=zh_CN&articleId=31159,2
-34719,WOW_ERROR_324_HTML,"<html><body><p align=""CENTER"">无法连接。请稍后再试。如果问题仍然存在，请访问以下链接<a href=""https://www.battlenet.com.cn/support/index.xml?locale=zh_CN&amp;gameId=11&amp;rootCategoryId=1763"">https://www.battlenet.com.cn/support/index.xml?locale=zh_CN&amp;gameId=11&amp;rootCategoryId=1763</a>以获取更多信息。</p></body></html>",2
+34718,WOW_ERROR_322_URL,http://support.battlenet.com.cn/help/article/034791,2
+34719,WOW_ERROR_324_HTML,"<html><body><p align=""CENTER"">无法连接。请稍后再试。如果问题仍然存在，请访问以下链接<a href=""http://support.battlenet.com.cn/help/article/116093"">http://support.battlenet.com.cn/help/article/116093</a>以获取更多信息。</p></body></html>",2
 34720,WOW_ERROR_326_HTML,"<html><body><p align=""CENTER"">您的预付时间已经用尽，请访问<a href=""http://www.battlenet.com.cn"">http://www.battlenet.com.cn</a>充值之后继续游戏。</p></body></html>",2
 34721,WOW_ERROR_327,您的魔兽世界缴费已到期。您需要重新激活您的账号。要重新激活账号，请访问www.warcraftchina.com获取更多信息。,2
 34722,WOW_ERROR_OTHER,你已断开连接。,2
@@ -15327,7 +15327,7 @@ ID,BaseTag,TagText_lang,Flags
 34813,BOSS_INFO_STRING_TWO,首领：%s，%s,1
 34814,BOSS_INFO_STRING_MANY,首领：%s及其他,1
 34815,SPELL_FAILED_CUSTOM_ERROR_292,需要附近有一个灵魂残片。,1
-34817,VISITABLE_URL33,https://nydus.battle.net/WoW/zhCN/client/support/faq-101?targetRegion=CN,2
+34817,VISITABLE_URL33,https://support.battlenet.com.cn/games/wow,2
 34828,CHARACTER_UPGRADE_POPUP_BOOST_EXISTING_CHARACTER,直升现有角色,2
 34829,CHARACTER_UPGRADE_POPUP_TRY_NEW_CLASS,体验职业试玩,2
 34830,LOOT_JOURNAL_LEGENDARIES,传说物品,1
@@ -15823,7 +15823,7 @@ ID,BaseTag,TagText_lang,Flags
 35356,DUNGEON_FLOOR_LEGIONKARAZHANDUNGEON4,会客间,1
 35357,DUNGEON_FLOOR_LEGIONKARAZHANDUNGEON5,歌剧院楼座,1
 35358,ERR_VOID_STORAGE_INVALID_ITEM,你不能在虚空仓库中存放该物品。,1
-35359,WORLD_QUEST_REWARD_FILTERS_TITLE,世界任务奖励,1
+35359,WORLD_QUEST_REWARD_FILTERS_TITLE,奖励：,1
 35360,WORLD_QUEST_REWARD_FILTERS_PROFESSION_MATERIALS,专业技能材料,5
 35361,WORLD_QUEST_REWARD_FILTERS_ORDER_RESOURCES,职业大厅资源,5
 35362,WORLD_QUEST_REWARD_FILTERS_GOLD,金币,1
@@ -15966,7 +15966,7 @@ ID,BaseTag,TagText_lang,Flags
 35512,LFG_LIST_PRIVATE,个人,1
 35513,LFG_LIST_PRIVATE_TOOLTIP,仅对已在队伍中的好友和公会成员可见。,1
 35514,SPELL_FAILED_CUSTOM_ERROR_327,土地精沾水就不好了！,1
-35515,VISITABLE_URL34,https://battle.net/support/article/76461,2
+35515,VISITABLE_URL34,http://support.battlenet.com.cn/help/article/258796,2
 35517,ERR_QUEST_TURN_IN_FAIL_REASON,%s,1
 35518,TOKEN_REDEEM_BALANCE_DESCRIPTION,为你的暴雪游戏通行证添加%s。,1
 35519,INVITE_CONFIRMATION_REQUEST_QUICKJOIN,%s通过快速加入请求加入你的队伍。,1
@@ -16052,14 +16052,14 @@ ID,BaseTag,TagText_lang,Flags
 35610,SURRENDER_ARENA,放弃比赛,1
 35611,CONTRIBUTION_REWARD_TOOLTIP_TITLE,奖励,1
 35612,CONTRIBUTION_REWARD_TOOLTIP_TEXT,为该建筑捐献物资会奖励你：,1
-35613,VISITABLE_URL35,https://nydus.battle.net/WoW/enUS/client/character-unlock?targetRegion=US,2
-35614,VISITABLE_URL36,https://nydus.battle.net/WoW/zhCN/client/character-unlock?targetRegion=CN,2
+35613,VISITABLE_URL35,https://support.battlenet.com.cn/games/wow,2
+35614,VISITABLE_URL36,https://support.battlenet.com.cn/games/wow,2
 35615,TRANSMOG_SETS_TAB_TUTORIAL,在此查看你的职业能够收集的所有外观套装。,1
 35616,TRANSMOG_SETS_VENDOR_TUTORIAL,在此查看并使用收集到的外观套装。,1
 35617,EXALTED_PLUS_REPUTATION_TUTORIAL,在达到崇拜的阵营中继续获取声望以赢得奖励。,1
 35618,CHARACTER_UPGRADE_UNLOCK_TRIAL_CHARACTER_FINISH_LABEL,解锁！,2
-35619,CHARACTER_UPGRADE_KRW_FINISH_TRIAL_BOOST_BUTTON_POPUP_TEXT,确定要解锁这个试玩角色吗？一旦点击了“解锁！”按钮，你将不能再申请退款。,2
-35620,CHARACTER_UPGRADE_FINISH_TRIAL_BOOST_BUTTON_POPUP_TEXT,确定要解锁这个试玩角色吗？完成此步骤后，你将无法更改选择。,2
+35619,CHARACTER_UPGRADE_KRW_FINISH_TRIAL_BOOST_BUTTON_POPUP_TEXT,|cnHIGHLIGHT_FONT_COLOR:确定要|r解锁|cnHIGHLIGHT_FONT_COLOR:这个试玩角色吗？一旦点击了“解锁！”按钮，你将不能再申请退款。|r,2
+35620,CHARACTER_UPGRADE_FINISH_TRIAL_BOOST_BUTTON_POPUP_TEXT,|cnHIGHLIGHT_FONT_COLOR:确定要|r解锁|cnHIGHLIGHT_FONT_COLOR:这个试玩角色吗？完成此步骤后，你将无法更改选择。|r,2
 35621,SPELL_FAILED_CUSTOM_ERROR_331,森提纳克斯号未在本地区巡航。,1
 35622,GARRISON_FOLLOWER_QUALITY6_DESC,传说,1
 35623,SPELL_FAILED_CUSTOM_ERROR_332,森提纳克斯号目前无法开启新的传送门。,1
@@ -16092,7 +16092,7 @@ ID,BaseTag,TagText_lang,Flags
 35652,FOURTH_NUMBER,兆,1
 35653,SPELL_FAILED_CUSTOM_ERROR_333,你无法再使用此物品获得额外的声望。,1
 35654,SPELL_FAILED_CUSTOM_ERROR_334,不能在幽魂之狼形态下那么做。,1
-35655,PLAYER_V_PLAYER_SEASON,玩家VS玩家（“巨龙时代”第%d赛季）,1
+35655,PLAYER_V_PLAYER_SEASON,玩家VS玩家（“地心之战”第%d赛季）,1
 35656,DUNGEON_FLOOR_TOMBOFSARGERASDUNGEON1,月之圣殿,1
 35657,DUNGEON_FLOOR_TOMBOFSARGERASDUNGEON2,黎明森林,1
 35658,DUNGEON_FLOOR_TOMBOFSARGERASDUNGEON3,翡翠档案室,1
@@ -16132,8 +16132,8 @@ ID,BaseTag,TagText_lang,Flags
 35694,CONTRIBUTION_RESULT_ERROR_UNABLE_TO_COMPLETE_QUEST,目前无法捐献,1
 35695,CALENDAR_HOLIDAYFRAME_BEGINSENDS,%1$s|n|n开始：%2$s %3$s|n结束：%4$s %5$s,1
 35696,CALENDAR_TOOLTIP_ONGOING,进行中,1
-35697,VISITABLE_URL37,https://us.battle.net/support/en/article/000345591,3
-35698,VISITABLE_URL38,https://www.battlenet.com.cn/support/zh/article/000251513,3
+35697,VISITABLE_URL37,http://support.battlenet.com.cn/help/article/345591,3
+35698,VISITABLE_URL38,http://support.battlenet.com.cn/help/article/345591,3
 35699,BLIZZARD_STORE_DISCLAIMER_BOOST_TOKEN_100,|HurlIndex:37|h|cff006995角色直升的常见问题|r|h,3
 35700,BLIZZARD_STORE_DISCLAIMER_BOOST_TOKEN_100_CN,|HurlIndex:38|h|cff006995角色直升的常见问题|r|h,3
 35701,UNITNAME_SUMMON_TITLE31,%s的爆发的映像,1
@@ -16443,8 +16443,8 @@ ID,BaseTag,TagText_lang,Flags
 36041,SPELL_FAILED_CUSTOM_ERROR_353,头顶的建筑遮挡了你的视线。,1
 36042,STORE_CATEGORY_TRIAL_DISABLED_TOOLTIP,免费试玩账号无法使用,3
 36043,SPELL_FAILED_CUSTOM_ERROR_354,需要100份小鬼的肉。,1
-36044,VISITABLE_URL39,https://www.battlenet.com.cn/shop/zh/product/world-of-warcraft-game-time-cn,3
-36045,VISITABLE_URL40,https://www.battlenet.com.cn/shop/zh/product/world-of-warcraft-game-time-cn,3
+36044,VISITABLE_URL39,https://shop.battlenet.com.cn/product/world-of-warcraft-game-time-cn#techspecs,3
+36045,VISITABLE_URL40,https://shop.battlenet.com.cn/product/world-of-warcraft-game-time-cn#techspecs,3
 36046,TRIAL_UPGRADE_LOGOUT_WARNING,为了完成交易，你将在%d秒后登出游戏。,3
 36047,GXAPI_D3D12,DirectX 12,3
 36048,BLIZZARD_STORE_BUNDLE_DISCOUNT_BANNER,节省%d%%,3
@@ -16508,7 +16508,7 @@ ID,BaseTag,TagText_lang,Flags
 36107,BACKPACK_AUTHENTICATOR_DIALOG_DESCRIPTION,为您的《魔兽世界》账号添加安全令和短信安全保护功能，即可获得4格额外的背包空间。|n|n战网安全令完全免费，而且使用方便，可以有效地保护您的账号。短信安全保护功能可以在账号有重要改动时为您通知提醒。|n|n点击“启用”以打开账号安全设置页面。,1
 36108,BACKPACK_AUTHENTICATOR_EXTRA_SLOTS_ADDED,因为您的账号添加了安全令和短信安全保护功能，您的背包增加了4格空间。,1
 36109,BACKPACK_AUTHENTICATOR_FULL_INVENTORY,你的背包满了。给背包腾出空间才能获得遗漏的物品。,1
-36110,VISITABLE_URL41,https://www.battlenet.com.cn/support/zh/article/24520,3
+36110,VISITABLE_URL41,https://support.battlenet.com.cn/article/battle-net-authenticator-faq,3
 36111,ITEM_LEGACY_INACTIVE_EFFECTS,传承物品：效果未激活,1
 36112,POWER_TYPE_FUNGAL_SKELETON_POWER,真菌之力,1
 36113,COMMUNITIES_CREATE_CHANNEL,创建频道,1
@@ -16525,7 +16525,7 @@ ID,BaseTag,TagText_lang,Flags
 36125,BLIZZARD_STORE_VAS_RACE_CHANGE_TOOLTIP_LINE,- %s,2
 36126,BLIZZARD_STORE_VAS_RACE_CHANGE_TOOLTIP_LINE_ALLIED_RACE,- %s*,2
 36127,BLIZZARD_STORE_VAS_RACE_CHANGE_VIEW_AVAILABLE_RACES,（显示可选种族）,2
-36128,BOOST_ALLIED_RACE_HERITAGE_ARMOR_WARNING,"<html><body><p align=""CENTER"">直升这个角色会使其无法获得%s传承护甲套装。<a href=""https://www.battlenet.com.cn/support/zh/article/2905"">点击此处</a>了解更多信息。 |n|n你确定要直升这个角色吗？|n</p></body></html>",2
+36128,BOOST_ALLIED_RACE_HERITAGE_ARMOR_WARNING,"<html><body><p align=""CENTER"">直升这个角色会使其无法获得%s传承护甲套装。<a href=""http://support.battlenet.com.cn/help/article/137384"">点击此处</a>了解更多信息。 |n|n你确定要直升这个角色吗？|n</p></body></html>",2
 36129,SPELL_FAILED_CUSTOM_ERROR_358,尤娜不见了。,1
 36130,BLIZZARD_STORE_BUNDLE_TOOLTIP_HEADER,\n\n|cffffffff包括：|r\n,3
 36131,BLIZZARD_STORE_BUNDLE_TOOLTIP_OWNED_DELIVERABLE,|cff777777-%s （已拥有）|r\n,3
@@ -16711,8 +16711,8 @@ ID,BaseTag,TagText_lang,Flags
 36320,ABILITY_INFO_LIGHTFORGEDDRAENEI5,- 死亡时爆发出神圣能量。,2
 36321,CLASS_TRIAL_CHOOSE_BOOST_LOGOUT_PROMPT_TEXT,要使用此角色直升服务，请登出游戏，返回角色选择界面。,1
 36322,CHARACTER_UPGRADE_UNREVOKE_CHARACTER_FINISH_LABEL,解锁,2
-36323,VISITABLE_URL42,https://www.battlenet.com.cn/shop/zh/product/world-of-warcraft-game-time-cn,3
-36325,BOOST_ALLIED_RACE_HERITAGE_ARMOR_WARNING_CN,"<html><body><p align=""CENTER"">直升这个角色会使其无法获得%s传承护甲套装。<a href=""https://www.battlenet.com.cn/support/zh/article/2905"">点击此处</a>了解更多信息。 |n|n你确定要直升这个角色吗？|n</p></body></html>",2
+36323,VISITABLE_URL42,https://shop.battlenet.com.cn/product/world-of-warcraft-game-time-cn#techspecs,3
+36325,BOOST_ALLIED_RACE_HERITAGE_ARMOR_WARNING_CN,"<html><body><p align=""CENTER"">直升这个角色会使其无法获得%s传承护甲套装。<a href=""http://support.battlenet.com.cn/help/article/137384"">点击此处</a>了解更多信息。 |n|n你确定要直升这个角色吗？|n</p></body></html>",2
 36326,ITEM_AZERITE_EMPOWERED_VIEWABLE,<Shift+右键点击查看艾泽里特之力>,1
 36327,AZERITE_ITEM_LEVELED_UP_TOAST,能量达到%d级,1
 36330,COMMUNITIES_ALL_MEMBERS,所有成员,1
@@ -16753,8 +16753,8 @@ ID,BaseTag,TagText_lang,Flags
 36367,PVP_LABEL_WAR_MODE,战争模式,1
 36368,PVP_LABEL_PVP_TALENTS,PvP天赋,1
 36369,PVP_WAR_MODE_DESCRIPTION,加入战争模式即可激活世界PvP，使任务的奖励和经验值最多提高10%，并可以在野外使用PvP天赋。,1
-36370,PVP_WAR_MODE_NOT_NOW_ALLIANCE,只能在暴风城或瓦德拉肯进入战争模式。,1
-36371,PVP_WAR_MODE_NOT_NOW_HORDE,只能在奥格瑞玛或瓦德拉肯进入战争模式。,1
+36370,PVP_WAR_MODE_NOT_NOW_ALLIANCE,只能在暴风城、瓦德拉肯或多恩诺嘉尔进入战争模式。,1
+36371,PVP_WAR_MODE_NOT_NOW_HORDE,只能在奥格瑞玛、瓦德拉肯或多恩诺嘉尔进入战争模式。,1
 36372,ERR_VOICE_CHAT_TOO_MANY_REQUESTS,正在等待语音聊天服务器回应，请稍后再试。,1
 36373,COMMUNITIES_LIST_TRANSFER_OWNERSHIP_FIRST,您必须在离开之前将所有权转移,5
 36374,CONFIRM_LEAVE_AND_DESTROY_COMMUNITY,确定要退出并删除群组吗？,1
@@ -17346,7 +17346,7 @@ ID,BaseTag,TagText_lang,Flags
 40885,PVP_RANK_2_NEXT_RANK_DESC,达到1400或以上的评级等级后即可获得:|n- 挑战者头衔|n- 精英PvP物品套装外观：手套|n- 精英PvP物品套装外观：鞋子,1
 40886,PVP_RANK_7_NEXT_RANK_DESC,达到1600或以上的评级等级后即可获得：|n- 精英PvP物品套装外观：胸部|n- 精英PvP物品套装外观：腰带,1
 40887,PVP_RANK_3_NEXT_RANK_DESC,达到1800或以上的评级等级后即可获得:|n- 竞争者头衔|n- 精英PvP物品套装外观：头盔|n- 精英PvP物品套装外观：肩膀,1
-40888,VISITABLE_URL43,https://shop.battlenet.com.cn/zh-cn/product/world-of-warcraft-battle-for-azeroth-apac,3
+40888,VISITABLE_URL43,https://support.battlenet.com.cn,3
 40889,GUILD_VIEW_RECIPES_LINK,[查看],1
 40890,COMMUNITIES_LIST_DROP_DOWN_COMMUNITIES_SETTINGS,群组设置,1
 40891,COMMUNITIES_LIST_DROP_DOWN_COMMUNITIES_NOTIFICATION_SETTINGS,通知设置,1
@@ -17391,7 +17391,7 @@ ID,BaseTag,TagText_lang,Flags
 40948,COMMUNITIES_CALENDAR_EVENT_FORMAT,%2$s的%1$s,1
 40949,COMMUNITIES_CALENDAR_TODAY,今日,1
 40950,COMMUNITIES_CALENDAR_CLICK_TO_ADD_INSTRUCTIONS,<点击添加社区活动>,1
-40952,VISITABLE_URL44,https://nydus.battle.net/WoW/%s/client/support/gvas?targetRegion=%s,3
+40952,VISITABLE_URL44,http://support.battlenet.com.cn/help/article/032543,2
 40955,BLIZZARD_STORE_DISCLAIMER_GUILD_FACTION_CHANGE,本次处理将在%s后完成。|n|HurlIndex:44|h|cff006995常见问题|r|h,3
 40957,RACIAL_TRAITS,种族特长：,3
 40959,BLIZZARD_STORE_DISCLAIMER_GUILD_NAME_CHANGE,本次处理将在%s后完成。|HurlIndex:44|h|cff006995常见问题|r|h,3
@@ -17446,8 +17446,8 @@ ID,BaseTag,TagText_lang,Flags
 41016,NEW_SEASON_YAY,全新赛季！,1
 41017,PVP_GEAR_REWARD_CHANCE,有几率获得物品等级为%d的装备。,1
 41018,PVP_GEAR_REWARD_CHANCE_LONG,获胜有几率获得物品等级为%d的装备。,1
-41019,VISITABLE_URL45,https://nydus.battle.net/WoW/%s/client/gametime?targetRegion=%s,3
-41020,VISITABLE_URL46,https://nydus.battle.net/WoW/%s/client/product-requirements-complete?targetRegion=%s,3
+41019,VISITABLE_URL45,https://shop.battlenet.com.cn/product/world-of-warcraft-game-time-cn,3
+41020,VISITABLE_URL46,https://support.battlenet.com.cn/article/76459,3
 41021,SPELL_FAILED_CUSTOM_ERROR_381,你必须指定一个悚然角斗士物品才能进行升级。,1
 41022,AZERITE_EMPOWERED_ITEM_FULLY_UPGRADED,升级完成,1
 41023,NEW_PVP_SEASON_REWARD_PREVIEW,新赛季坐骑！,1
@@ -17509,8 +17509,8 @@ ID,BaseTag,TagText_lang,Flags
 41081,SOCIAL_ITEM_REMOVE_BUTTON,移除物品,1
 41082,MYTHIC_PLUS_OVERTIME_SEASON_BEST,最佳超时记录,1
 41083,PVP_WAR_MODE_DESCRIPTION_FORMAT,加入战争模式即可激活世界PvP，使任务的奖励和经验值提高%1$d%%，并可以在野外使用PvP天赋。,1
-41084,PVP_WAR_MODE_NOT_NOW_ALLIANCE_RESTAREA,战争模式可以在任何休息区域关闭，但只能在暴风城或瓦德拉肯开启。,1
-41085,PVP_WAR_MODE_NOT_NOW_HORDE_RESTAREA,战争模式可以在任何休息区域关闭，但只能在奥格瑞玛或瓦德拉肯开启。,1
+41084,PVP_WAR_MODE_NOT_NOW_ALLIANCE_RESTAREA,战争模式可以在任何休息区域关闭，但只能在暴风城、瓦德拉肯或多恩诺嘉尔开启。,1
+41085,PVP_WAR_MODE_NOT_NOW_HORDE_RESTAREA,战争模式可以在任何休息区域关闭，但只能在奥格瑞玛、瓦德拉肯或多恩诺嘉尔开启。,1
 41086,PVP_MATCH_READY_ERROR,你不能离开队列，因为你的匹配已经准备完成。,1
 41087,GARRISON_MISSION_ENVIRONMENT_COUNTERED,应对,1
 41089,COMBAT_TEXT_BLOCK_REDUCED,%s （格挡）,1
@@ -17620,8 +17620,8 @@ ID,BaseTag,TagText_lang,Flags
 41208,WAYPOINT_OBJECTIVE_FORMAT_OPTIONAL,0/1 %s （可选）,1
 41209,SPELL_FAILED_CUSTOM_ERROR_399,你必须处于一个神龛处才能为洛阿神灵献上供品。,1
 41210,SPELL_FAILED_CUSTOM_ERROR_400,需要翡翠强化。,1
-41211,VISITABLE_URL47,https://nydus.battle.net/WoW/%s/client/support/gvas-cannot-start?targetRegion=%s,3
-41212,VISITABLE_URL48,https://nydus.battle.net/WoW/%s/client/transactions?targetRegion=%s,3
+41211,VISITABLE_URL47,http://support.battlenet.com.cn/help/article/101319,3
+41212,VISITABLE_URL48,https://account.battlenet.com.cn/transactions,3
 41213,ERR_AZERITE_ESSENCE_SELECTION_FAILED_NOT_AT_FORGE,你必须处于心之熔炉才能这样做,1
 41215,PVP_RATING_PREVIOUS,前次等级：%s,1
 41216,PVP_RATING_GAINED,获得等级： %s,1
@@ -18487,7 +18487,7 @@ ID,BaseTag,TagText_lang,Flags
 42250,SPELL_FAILED_CUSTOM_ERROR_462,驯犬者洛克希很忙。,1
 42251,CHROMIE_TIME_TITLE_TEXT,既然时间站在我们这边，我们就能随心所欲了！选择一个你想体验的战役吧。,1
 42252,CHROMIE_TIME_PREVIEW_CARD_DEFAULT_TITLE,时空漫游战役,1
-42253,CHROMIE_TIME_PREVIEW_CARD_DEFAULT_DESCRIPTION,重温你最钟爱的故事，直面来自过去的挑战。内容等级会按角色等级（10级到60级）进行浮动。 |n|n选择一个战役，开始冒险吧！,1
+42253,CHROMIE_TIME_PREVIEW_CARD_DEFAULT_DESCRIPTION,重温你最钟爱的故事，直面来自过去的挑战。内容等级会按角色等级（10级到70级）进行浮动。 |n|n选择一个战役，开始冒险吧！,1
 42254,SOULBIND_ACTIVATE_BUTTON,激活,1
 42255,VIDEO_OPTIONS_DYNAMIC,动态,3
 42256,VIDEO_OPTIONS_EVERYTHING,所有,3
@@ -18571,7 +18571,7 @@ ID,BaseTag,TagText_lang,Flags
 42338,NPEV2_MONK_BUILDER,按下|cFF00FFFF%s|r使用%s,1
 42339,NPEV2_DRUID_SPENDER,按|cFF00FFFF%s|r刷新你的目标身上的%s。,1
 42340,NPEV2_DRUID_BUILDER,月火术对你的敌人生效时，按|cFF00FFFF%s|r使用%s,1
-42341,POWER_TYPE_SHADOW_ENERGY,能量,1
+42341,POWER_TYPE_SHADOW_ENERGY,暗影能量,1
 42342,NPEV2_INTRO_MOVE_ALLIANCE,|cFFFFD200四处走走|r,1
 42343,NPEV2_INTRO_MOVE_HORDE,使用|cFF00FFFF移动控制|r来接近|cFF00FFFF布雷卡·恐斧|r。,1
 42344,NPEV2_INTRO_QUESTGIVER_INTERACT_HORDE,与督军布雷卡·恐斧|cFFFFD200交谈|r,1
@@ -18951,7 +18951,7 @@ ID,BaseTag,TagText_lang,Flags
 42748,GAMEMENU_SUPPORT,支持,1
 42749,JAILERS_TOWER_REWARD_LOCKED,锁定,1
 42750,SPELL_FAILED_CUSTOM_ERROR_498,特拉玛尼克的遗产的诅咒使你的坐骑不听从你的召唤。,1
-42751,PAGED_LIST_PAGING_FORMAT,第 %s/%s 页,1
+42751,PAGED_LIST_PAGING_FORMAT,第 %s/%s 页,3
 42752,MOTION_SICKNESS_CHARACTER_CENTERED,保持角色处于正中,1
 42753,RUNEFORGE_LEGENDARY_ERROR_INSUFFICIENT_NO_UPGRADE_ITEM_AVAILABLE,你没有比你的传说物品的物品等级更高的基础物品,1
 42754,RUNEFORGE_LEGENDARY_ERROR_NO_LEGENDARY_AVAILABLE,你没有可以升级的传说物品,1
@@ -19052,7 +19052,7 @@ ID,BaseTag,TagText_lang,Flags
 42849,GREAT_VAULT_REWARDS_MYTHIC_IMPROVE,完成%1$d个%2$d级或更高的史诗地下城可以提升你的奖励。,1
 42850,GREAT_VAULT_REWARDS_WAITING,宏伟宝库里有奖励在等待着你。,1
 42853,JAILERS_TOWER_LEVEL_PICKER_PARTY_LOCK,你或者一个小队成员必须击败之前的难度,1
-42854,CONQUEST_PVP_WEEK_NO_CONQUEST,获取征服点数，在瓦德拉肯购买评级PvP物品。,1
+42854,CONQUEST_PVP_WEEK_NO_CONQUEST,获取征服点数，购买评级PvP物品。,1
 42855,GAIN_MAW_POWER,%s获得了心能之力：%s,1
 42856,MAW_POWER_DESCRIPTION,心能之力,1
 42857,CHROMIE_TIME_CAMPAIGN_COMPLETE,已完成战役,1
@@ -19067,7 +19067,7 @@ ID,BaseTag,TagText_lang,Flags
 42866,COVENANT_MISSIONS_MISSION_PROGRESS,你可以在此查看你的冒险进度。,1
 42867,COVENANT_MISSIONS_ADVENTURER_GAINED,获得伙伴,1
 42868,LIFETIME_HONOR,生涯荣誉,1
-42869,LIFETIME_HONOR_DESC,所有角色获得的荣誉。,1
+42869,LIFETIME_HONOR_DESC,你的战团获得的荣誉。,1
 42870,COVENANT_MISSIONS_FOLLOWER_ADDED_UPGRADED_TOAST,获得升级后的伙伴,1
 42871,JAILERS_TOWER_LEVEL_TOAST_TWISTING_CORRIDORS,扭曲回廊,1
 42872,JAILERS_TOWER_LEVEL_TOAST_SKOLDUS_HALLS,斯科杜斯之厅,1
@@ -19078,8 +19078,8 @@ ID,BaseTag,TagText_lang,Flags
 42877,JAILERS_TOWER_LEVEL_TOAST_UPPER_REACHES,上层区域,1
 42878,COVENANT_MISSIONS_COVENANT_ADVENTURE,盟约冒险,1
 42879,CHAT_LEAVE_CHANNEL_PREVENTED,无法手动离开聊天频道： %s,1
-42880,VISITABLE_URL50,https://%s.battle.net/support/%s/help/home,2
-42881,VISITABLE_URL51,https://support-qa-%s.stech.blizzard.net/%s/help/home,2
+42880,VISITABLE_URL50,https://support-api.battlenet.com.cn/auth/home/index,2
+42881,VISITABLE_URL51,https://support-api.battlenet.com.cn/auth/home/index,2
 42882,MAC_INPUT_MONITORING1014,要想在《魔兽世界》不处于焦点窗口时启用按键发言，你必须在系统偏好设置下的安全性与隐私中授予%s“辅助功能”权限。是否现在打开系统偏好设置？,3
 42883,MAC_INPUT_MONITORING1015,要想在《魔兽世界》不处于焦点窗口时启用按键发言，你必须在系统偏好设置下的安全性与隐私中授予%s“输入监视”权限。是否现在打开系统偏好设置？,3
 42884,BINDING_NAME_CENTERCAMERA,镜头居中,1
@@ -19198,8 +19198,8 @@ ID,BaseTag,TagText_lang,Flags
 42998,JAILERS_TOWER_ITEM_REWARD_TOOLTIP_WITH_COUNT_FORMAT,|T%1$s:30:30|t %3$s×%2$s,1
 42999,JAILERS_TOWER_ITEM_REWARD_TOOLTIP_FORMAT,|T%1$s:30:30|t %2$s,1
 43000,SPELL_FAILED_CUSTOM_ERROR_512,你的管家正在灰烬王庭的某个地方。,1
-43001,MAC_MIC_PREMISSIONS_NOTIFICATION,必须在系统偏好设置下的安全性与隐私中授予%s“麦克风”权限才能使用语音聊天。,1
-43002,MAC_MIC_PERMISSIONS_OPEN_BUTTON,系统偏好设置,1
+43001,MAC_MIC_PREMISSIONS_NOTIFICATION,必须在系统偏好设置下的安全性与隐私中授予%s“麦克风”权限才能使用语音聊天。,3
+43002,MAC_MIC_PERMISSIONS_OPEN_BUTTON,系统偏好设置,3
 43003,COVENANT_SANCTUM_TALENT_REQUIRES_PREVIOUS_TIER,需要上一级,1
 43004,NPEV2_CHAT_GUIDE_FRAME_ERROR_ACCOUNT_MUTED,因为家长控制的相关设定，你无法成为向导。,1
 43005,COVENANT_SANCTUM_RENOWN_REWARD_TITLE_COMPLETE,名望完成,1
@@ -19732,7 +19732,7 @@ ID,BaseTag,TagText_lang,Flags
 44150,DDD_STREAK_01,良好,1
 44151,DDD_STREAK_02,优秀,1
 44152,DDD_STREAK_03,传奇,1
-44154,ITEM_COSMETIC_LEARN,使用：将此外观添加到你的收藏中。,1
+44154,ITEM_COSMETIC_LEARN,使用：将此外观添加到你的战团收藏中。,1
 44155,ERR_COSMETIC_KNOWN,已经学会,1
 44156,SPELL_FAILED_CUSTOM_ERROR_613,你没有处于对应的队伍里，无法给石头汤提供材料！,1
 44157,GRAPHICS_SUBTEXT,Graphics description placeholder,3
@@ -19750,8 +19750,8 @@ ID,BaseTag,TagText_lang,Flags
 44169,PVP_RANK_8_NAME,竞争者 II,1
 44170,PVP_RANK_4_NAME,决斗者,1
 44171,PVP_RANK_5_NAME,精锐,1
-44172,PVP_RANK_8_NEXT_RANK_DESC,达到1950或以上的评级等级后即可获得：|n- PvP物品升级等级,1
-44173,PVP_RANK_4_NEXT_RANK_DESC,达到2100或以上的评级等级后即可获得:|n- 决斗者头衔|n- 精锐PVP物品套装外观：威望披风|n- 精锐PvP武器附魔,1
+44172,PVP_RANK_8_NEXT_RANK_DESC,达到1950或以上的评级等级后即可获得：|n- 精锐PvP武器附魔,1
+44173,PVP_RANK_4_NEXT_RANK_DESC,达到2100或以上的评级等级后即可获得:|n- 决斗者头衔|n- 精锐PvP物品套装外观：威望披风,1
 44174,PVP_RANK_5_NEXT_RANK_DESC,达到2400或以上的评级等级后即可获得:|n- 精锐头衔|n- 精锐PVP物品套装外观：战袍,1
 44175,PVP_RATING_LINK_FORMAT_STRING,|cffffffff%s (%d)|r,1
 44176,VOICE_CHAT_TRANSCRIPTION,语音识别,1
@@ -20027,7 +20027,7 @@ ID,BaseTag,TagText_lang,Flags
 44492,EMOTE626_CMD2,/赞许,1
 44493,PROFESSIONS_CRAFTING,制造,1
 44494,PCT_FLOW_CANCEL_LABEL,取消,2
-44495,PCT_FLOW_FINISH_BODY_TEXT,确定吗？一旦做出决定，你将无法更改自己的选择。,2
+44495,PCT_FLOW_FINISH_BODY_TEXT,|cnHIGHLIGHT_FONT_COLOR:确定要进行|r角色转移|cnHIGHLIGHT_FONT_COLOR:吗？完成此步骤之后，你将无法更改自己的选择。|r,2
 44496,SPELL_FAILED_CUSTOM_ERROR_629,需要额外的宇宙能量。,1
 44497,ITEM_UPGRADE_PVP_ITEM_LEVEL_STAT_FORMAT,PvP物品等级 %d,1
 44498,ITEM_UPGRADE_PVP_ITEM_LEVEL_BONUS_STAT_FORMAT,PvP物品等级 |cff20ff20%1$d(+%2$d)|r,1
@@ -20263,7 +20263,7 @@ ID,BaseTag,TagText_lang,Flags
 48877,HUD_EDIT_MODE_RENAME_OR_COPY_LAYOUT,重命名/复制布局,1
 48878,PFC_FLOW_WILL_BE_CHANGED_TO,将转换为：,2
 48879,PFC_FLOW_CUSTOMIZE_CHARACTER_STEP,你可以在下一步中定制你的角色。,2
-48880,PFC_CUSTOMIZE_DIALOG_TEXT,你现在可以选择新的种族并定制你的角色。完成这一步后你的阵营变更将永久生效。,2
+48880,PFC_CUSTOMIZE_DIALOG_TEXT,|cnHIGHLIGHT_FONT_COLOR:你现在可以选择新的种族并自定义你的角色。完成这一步后你的|r阵营转换|cnHIGHLIGHT_FONT_COLOR:将永久生效。|r,2
 48881,HUD_EDIT_MODE_RENAME_LAYOUT,更改名称,1
 48882,HUD_EDIT_MODE_NAME_LAYOUT_DIALOG_TITLE,给新布局起名,1
 48883,PFC_FLOW_FINISH_LABEL,接受,2
@@ -20447,7 +20447,7 @@ ID,BaseTag,TagText_lang,Flags
 49115,POWER_TYPE_WINDENERGY,能量,1
 49117,SPELL_FAILED_CUSTOM_ERROR_794,你不能把一只隐秘生物引向城镇。,1
 49118,SPELL_FAILED_CUSTOM_ERROR_795,此区域没有值得引诱的生物。,1
-49119,MOUNT_JOURNAL_FILTER_DRAGONRIDING,驭龙术,1
+49119,MOUNT_JOURNAL_FILTER_DRAGONRIDING,驭空术,1
 49122,MYTHIC_DUNGEON_SEASON,史诗钥石地下城（%s 赛季 %d）,1
 49123,FINISHING_REAGENT_TOOLTIP_TITLE,成品材料：%s,1
 49124,FINISHING_REAGENT_TOOLTIP_CLICK_TO_ADD,左键点击添加一个成品材料,1
@@ -20565,7 +20565,7 @@ ID,BaseTag,TagText_lang,Flags
 49238,PROFESSIONS_FAVORITES_SEARCH_TOOLTIP_TITLE,偏好,1
 49239,PROFESSIONS_CRAFTING_FORM_OUTPUT_LOG_RESOURCES_RETURNED,重新获得材料！,1
 49240,PROFESSIONS_TRACKING_VIEW_RECIPE,查看配方,1
-49241,PROFESSIONS_UNTRACK_RECIPE,停止追踪,1
+49241,PROFESSIONS_UNTRACK_RECIPE,取消追踪,1
 49242,PROFESSIONS_TRACKER_HEADER_PROFESSION,专业技能,1
 49243,PROFESSIONS_TRACKER_REAGENT_FORMAT,%s %s,1
 49244,PROFESSIONS_TRACKER_REAGENT_COUNT_FORMAT,%s/%d,1
@@ -20634,7 +20634,7 @@ ID,BaseTag,TagText_lang,Flags
 49328,ICON_SELECTION_CLICK,点击在列表中浏览,1
 49329,ICON_SELECTION_TITLE_CUSTOM,自定图标,1
 49330,ICON_SELECTION_NOTINLIST,此图标不在列表中,1
-49331,MOUNT_JOURNAL_DRAGONRIDING_HELPTIP,驭龙术坐骑在你的列表顶端.|n|n将一头坐骑设置为偏好后即可通过随机召唤偏好的坐骑进行使用。,1
+49331,MOUNT_JOURNAL_DRAGONRIDING_HELPTIP,驭空术坐骑在你的列表顶端。|n|n将一头坐骑设置为偏好后即可通过随机召唤偏好的坐骑进行使用。,1
 49334,ERR_INVITE_PARTY_BUSY_PENDING_REQUEST,你已经有了一个待决定的邀请,1
 49335,ERR_INVITE_PARTY_BUSY_PENDING_SUGGEST,你已经有了一个待决定的队伍推荐,1
 49336,SPELL_FAILED_CUSTOM_ERROR_799,不能对非玩家角色施放。,1
@@ -20646,7 +20646,7 @@ ID,BaseTag,TagText_lang,Flags
 49344,HUD_EDIT_MODE_EXPAND_OPTIONS,展开选项 |A:editmode-down-arrow:16:11:0:-7|a,1
 49345,HUD_EDIT_MODE_TARGET_AND_FOCUS,目标和焦点,1
 49346,UNITNAME_SUMMON_TITLE51,%s的奥术克隆体,1
-49347,INSTANCE_UNAVAILABLE_SELF_PVP_GEAR_TOO_LOW,你需要更高的PvP装备物品平均等级才能加入队列。|n（需要 %2$d，当前%3$d。）,1
+49347,INSTANCE_UNAVAILABLE_SELF_PVP_GEAR_TOO_LOW,你需要更高的PvP装备物品平均等级才能加入队列。|n（需要 %1$d，当前%2$d。）,1
 49348,RECRAFT_REAGENT_TOOLTIP_CLICK_TO_REPLACE,|cnDISABLED_FONT_COLOR:左键点击替换此装备|r,1
 49349,ERR_SOLO_MIN_ITEM_LEVEL,你需要更高的平均PvP物品等级。,1
 49350,HUD_EDIT_MODE_CAST_BAR_LABEL,施法条,1
@@ -20656,8 +20656,8 @@ ID,BaseTag,TagText_lang,Flags
 49354,SPELL_FAILED_CUSTOM_ERROR_801,此匠械对你来说太复杂了。,1
 49355,DRAGONFLIGHT_LANDING_PAGE_TITLE,巨龙群岛概要,1
 49356,DRAGONFLIGHT_LANDING_PAGE_TOOLTIP,点击显示巨龙群岛概要,1
-49357,DRAGONFLIGHT_LANDING_PAGE_ALERT_DRAGONRIDING_UNLOCKED,驭龙术技能路线已解锁,1
-49358,LANDING_DRAGONRIDING_PANEL_TITLE,驭龙术,1
+49357,DRAGONFLIGHT_LANDING_PAGE_ALERT_DRAGONRIDING_UNLOCKED,驭空术技能路线已解锁,1
+49358,LANDING_DRAGONRIDING_PANEL_TITLE,驭空术,1
 49359,LANDING_DRAGONRIDING_TREE_BUTTON,查看,1
 49360,ERR_TAXIINCOMBAT,你无法使用飞行路线，因为你处于战斗中。,1
 49361,PROFESSION_EQUIPMENT_LOCATION_HELPTIP,你的专业工具和配饰在此装备。,1
@@ -20716,7 +20716,7 @@ ID,BaseTag,TagText_lang,Flags
 49434,HUD_EDIT_MODE_EXIT,退出,1
 49435,HUD_EDIT_MODE_SAVE_AND_SWITCH,保存并切换,1
 49436,HUD_EDIT_MODE_SWITCH,切换,1
-49437,LANDING_DRAGONRIDING_TREE_BUTTON_DISABLED,驭龙术技能还未解锁,1
+49437,LANDING_DRAGONRIDING_TREE_BUTTON_DISABLED,驭空术技能还未解锁,1
 49438,DRAGONFLIGHT_LANDING_PAGE_ALERT_SUMMARY_UNLOCKED,巨龙群岛概要已解锁,1
 49439,DRAGONFLIGHT_LANDING_PAGE_ALERT_MAJOR_FACTION_UNLOCKED,主要阵营已解锁,1
 49440,RENOWN_LEVEL_UP_SKIP_BUTTON,跳过,5
@@ -20955,7 +20955,7 @@ ID,BaseTag,TagText_lang,Flags
 49698,GENERIC_TRAIT_FRAME_CONFIRM_PURCHASE_FORMAT,你确定要花费%s来解锁此天赋吗？,1
 49699,GENERIC_TRAIT_FRAME_EDGE_REQUIREMENTS_BUTTON_TOOLTIP,需要所有前置天赋,1
 49700,TALENTS_INSPECT_FORMAT,天赋 - %s,1
-49701,GENERIC_TRAIT_FRAME_DRAGONRIDING_TITLE,驭龙术,1
+49701,GENERIC_TRAIT_FRAME_DRAGONRIDING_TITLE,驭空术,1
 49702,GENERIC_TRAIT_FRAME_INTERNAL_ERROR,内部错误，请稍后重试。,1
 49703,ENABLE_INTERACT_TEXT,开启交互按键,1
 49704,OPTION_TOOLTIP_ENABLE_INTERACT,使你可以通过按键与NPC和物体进行交互,1
@@ -21090,7 +21090,7 @@ ID,BaseTag,TagText_lang,Flags
 49835,CHAR_CREATE_DEATHKNIGHT_LEVEL_REQUIREMENT,你必须在任意服务器上有一个至少55级的角色，才能创建死亡骑士。,2
 49836,SPELL_FAILED_CUSTOM_ERROR_815,你无法在水下时那么做。,1
 49837,EQUIP_CONTAINER_REAGENT,装备材料包,1
-49838,GREAT_VAULT_RETIRE_WARNING,本周后就不能获得新的奖励了。|n|n%s上线后，所有未领取的奖励都会丢失。,1
+49838,GREAT_VAULT_RETIRE_WARNING,本周后就不能获得新的奖励了。|n%s上线后，所有未领取的奖励都会丢失。,1
 49839,TUTORIAL_REAGENT_BAG_STEP_1,你获得了一个材料包！|n|n打开你的背包。,1
 49840,TUTORIAL_REAGENT_BAG_STEP_2,装备你新到手的材料包！|n|n你拾取的所有制作材料都会进入这个包。,1
 49841,TALENT_FRAME_APPLY_LOADOUT_BUTTON_TEXT,应用配置,1
@@ -21214,6 +21214,7 @@ ID,BaseTag,TagText_lang,Flags
 49963,ERR_OUT_OF_ESSENCE,精华不足,1
 49964,ERR_SPELL_FAILED_CANT_FLY_HERE,你不能在此飞行。,1
 49965,PROFESSIONS_UNSPENT_SPEC_POINTS_REMINDER,你有未使用的专业专精知识。,1
+49966,EXPANSION_NAME10,地心之战,3
 49967,PROFESSIONS_OUTPUT_INSPIRED_CREATION,获得灵感！,1
 49968,WORLD_MAP_ACTIVITY_TRACKER_LIST_INTRO,在列表中选择主要阵营活动来对可用的活动进行追踪。,1
 49969,WORLD_MAP_ACTIVITY_TRACKER_RING_TOOLTIP,<左键点击在可用活动间轮换>|n<右键点击取消追踪阵营>,1
@@ -21221,7 +21222,7 @@ ID,BaseTag,TagText_lang,Flags
 49971,SPELL_FAILED_CUSTOM_ERROR_819,你不知道如何修理此物品。,1
 49972,ERR_CRAFTING_HOUSE_DISABLED,工匠商盟目前不接受制造订单。|n请稍后再来看看！,1
 49973,CRAFTING_ORDER_RECIPE_PROFESSION_FMT,%s配方,1
-49974,DRAGON_RIDING_CURRENCY_TUTORIAL,发现巨龙魔符并飞过它们，即可获得点数，可以花费在技能路线中。,1
+49974,DRAGON_RIDING_CURRENCY_TUTORIAL,你升级的过程中会获得更多驭空之力。,1
 49975,PROFESSIONS_ORDER_RECRAFT_TITLE_FMT,再造：%s,1
 49976,ERR_TALENT_FAILED_IN_COMBAT,你不能在战斗中改变天赋,1
 49977,ERR_TALENT_FAILED_IN_PVP_MATCH,你不能在比赛开始后改变天赋,1
@@ -21231,7 +21232,7 @@ ID,BaseTag,TagText_lang,Flags
 49981,CRAFTING_ORDER_NOT_YET_CLAIMED,尚未被认领,1
 49982,PROFESSIONS_CRAFTER_CANT_CLAIM_OWN,你不能认领你自己的订单。,1
 49983,DRAGON_RIDING_SKILLS_TUTORIAL,通过完成巨龙群岛战役任务解锁新技能。,1
-49984,DRAGON_RIDING_ACTIONBAR_TUTORIAL,你可以给你的驭龙术动作条添加普通技能，从而更快地下坐骑并进入战斗。,1
+49984,DRAGON_RIDING_ACTIONBAR_TUTORIAL,你可以给你的驭空术动作条添加普通技能，从而更快地下坐骑并进入战斗。,1
 49985,PROFESSIONS_CRAFTING_ORDER_MAIL_REPORT_WARNING,这名玩家有你还未认领的物品。如果你在认领前举报这名玩家，你会失去所有这些物品。,1
 49986,INTERACT_KEY_TUTORIAL,|cnNORMAL_FONT_COLOR:交互按键|n|r|cnHIGHLIGHT_FONT_COLOR:按下|r|cnNORMAL_FONT_COLOR:%s|r|cnHIGHLIGHT_FONT_COLOR:与附近的NPC和物体互动|r|n|n|cnNORMAL_FONT_COLOR:%d/2 - 与一名NPC或物体互动|r,1
 49987,INTERACT_KEY_TUTORIAL_NO_INTERACT_KEY_ASSIGNED,|cnHIGHLIGHT_FONT_COLOR:|r|cnNORMAL_FONT_COLOR:交互按键|r|cnHIGHLIGHT_FONT_COLOR:让你可以使用一个按键与NPC和物体进行交互|n|n|r|cnRED_FONT_COLOR:在控制选项中分配一个交互按键的快捷键|r,1
@@ -21313,7 +21314,7 @@ ID,BaseTag,TagText_lang,Flags
 50049,CRAFTING_ORDERS_NUM_PERSONAL_FMT,你有%d个可用的个人订单。,1
 50050,MONTHLY_ACTIVITIES_THRESHOLD_TOOLTIP_REWARDS,"奖励：
 |cnHIGHLIGHT_FONT_COLOR:%d|r %s",1
-50051,MONTHLY_ACTIVITIES_PENDING_REWARDS,拜访%s的商栈，获取你的奖励！,1
+50051,MONTHLY_ACTIVITIES_PENDING_REWARDS,拜访%s或多恩诺嘉尔的商栈，获取你的奖励！,1
 50052,MONTHLY_ACTIVITIES_UPDATED,旅行者日志已更新,1
 50054,TALENT_BUTTON_TOOLTIP_PVP_TALENT_REQUIREMENT_ERROR,此PVP天赋没有激活，因为你缺少所需的天赋。,1
 50055,TALENT_FRAME_CONFIRM_LEAVE_DEFAULT_LOADOUT,你如果不先将你当前的天赋配置储存下来，就会永远失去此配置。|n|n你确定要继续吗？,1
@@ -21429,15 +21430,15 @@ ID,BaseTag,TagText_lang,Flags
 50197,HUD_EDIT_MODE_DURABILITY_FRAME_LABEL,装备耐久度,1
 50198,HUD_EDIT_MODE_SETTING_DURABILITY_FRAME_SIZE,尺寸,1
 50199,MONTHLY_ACTIVITIES_PROGRESSED,旅行者日志进度,1
-50200,MONTHLY_ACTIVITIES_UNAVAILABLE_TOOLTIP,拜访%s的商栈，查看旅行者日志。,1
+50200,MONTHLY_ACTIVITIES_UNAVAILABLE_TOOLTIP,拜访%s或多恩诺嘉尔的商栈，查看旅行者日志。,1
 50201,BATTLEGROUND_MATCHMAKING_VALUE,初始|n匹配值,1
 50202,MONTHLY_ACTIVITIES_HELP_1,"完成每月的旅者活动，获取收集者的宝箱中的标币和特殊奖励。
 
-进度是账号通用的。",1
+进度是战团共享的。",1
 50203,MONTHLY_ACTIVITIES_HELP_2,按住Shift键并点击活动进行追踪,1
 50204,MONTHLY_ACTIVITIES_HELP_3,"完成每月的旅者活动，获取收集者的宝箱中的标币和特殊奖励。
 
-进度是账号通用的。",1
+进度是战团共享的。",1
 50205,PROFESSIONS_UNIQUE_EQUIP_LIMITATION_DISC,你尝试再造的物品有装备唯一限制。需要先脱下该装备后进行再造。,1
 50206,TRADESKILL_CHARGES_REMAINING_NEXT_USE,可用制造次数：%i/%i，距离获得下个制造次数还有%s。,1
 50208,MOTION_SICKNESS_DRAGONRIDING,晕动症,1
@@ -21446,11 +21447,11 @@ ID,BaseTag,TagText_lang,Flags
 50212,MOTION_SICKNESS_DRAGONRIDING_FOCAL_CIRCLE,聚焦圆环,1
 50213,MOTION_SICKNESS_DRAGONRIDING_BOTH,变暗和圆环,1
 50214,MOTION_SICKNESS_DRAGONRIDING_LANDSCAPE_DARKENING,地表变暗,1
-50217,OPTION_TOOLTIP_MOTION_SICKNESS_DRAGONRIDING,"在巨龙群岛使用驭龙术时，可以帮助降低晕动症。
+50217,OPTION_TOOLTIP_MOTION_SICKNESS_DRAGONRIDING,"可以帮助降低驭空术时的晕动症症状。
 
-|cffffffff地表变暗：|r玩家使用驭龙术时，屏幕外围变暗
+|cffffffff地表变暗：|r添加屏幕外围变暗的效果。
 
-|cffffffff聚焦圆环：|r在屏幕中心添加聚焦圆环十字",1
+|cffffffff聚焦圆环：|r在屏幕中心添加聚焦圆环十字。",1
 50229,PERSONAL_CRAFTING_ORDERS_AVAIL_FMT,你有%d个%s个人订单。,1
 50230,PROFESSIONS_ORDER_CANCELLED,订单取消,1
 50231,PROFESSIONS_ORDER_EXPIRED,订单过期,1
@@ -21478,8 +21479,8 @@ ID,BaseTag,TagText_lang,Flags
 50254,CONFIRM_LEAVE_RATED_MATCH_WITH_PENALTY,现在离开比赛会使你失去至少|cnORANGE_FONT_COLOR:%1$d|r点评级分数，而且你会受到%3$s的影响，持续%2$s。|n|n如果你现在离开，你将无法获得你完成的回合的荣誉或征服点数。|n|n你确定要离开比赛吗？,1
 50255,SPELL_FAILED_CUSTOM_ERROR_826,该配方当前已禁用。请稍后再试。,1
 50258,CENSORED_MESSAGE_HIDDEN,|cffff7f3f来自%s的信息可能含有违规内容。|h|cffffff00|Hcensoredmessage:%d|h |W[显示信息]|w|h|r,1
-50263,MOTION_SICKNESS_DRAGONRIDING_SPEED_EFFECTS,动态飞行速度效果,1
-50264,MOTION_SICKNESS_DRAGONRIDING_SPEED_EFFECTS_TOOLTIP,关闭速度视觉效果有可能缓解驭龙术期间晕动症的症状。,1
+50263,MOTION_SICKNESS_DRAGONRIDING_SPEED_EFFECTS,驭空术速度效果,1
+50264,MOTION_SICKNESS_DRAGONRIDING_SPEED_EFFECTS_TOOLTIP,关闭速度视觉效果有可能缓解驭空术期间晕动症的症状。,1
 50266,ACCOUNT_SAVE_FILE_BUTTON,打开文件夹,2
 50267,ACCOUNT_SAVE_CLOSE_BUTTON,关闭,2
 50268,ACCOUNT_SAVE_SUCCESS_DETAILS,请复制此文件到一个安全的位置，以便将来使用：,2
@@ -21531,7 +21532,7 @@ ID,BaseTag,TagText_lang,Flags
 50333,101_CutsceneName_Ref,纳兹乌罗,1
 50334,TALENTS_LINK_FORMAT,天赋链接 (%s %s),1
 50335,WOW_LABS_PRESENCE_GAME_STATE_INGAME_IN_QUEUE,正在队列中,3
-50336,PRC_CUSTOMIZE_DIALOG_TEXT,你现在可以选择新的种族并定制你的角色。完成这一步后你的种族变更将永久生效。,2
+50336,PRC_CUSTOMIZE_DIALOG_TEXT,|cnHIGHLIGHT_FONT_COLOR:你现在可以选择新的种族并自定义你的角色。完成这一步后你的|r种族变更|cnHIGHLIGHT_FONT_COLOR:将永久生效。|r,2
 50337,TALENT_FRAME_DROP_DOWN_EXPORT_CHAT_LINK,在聊天栏中发布,1
 50338,TALENT_FRAME_DROP_DOWN_EXPORT_CLIPBOARD,复制到剪贴板 |cnNORMAL_FONT_COLOR:（可以在网上分享）|r,1
 50339,ITEM_UPGRADE_TOOLTIP_FORMAT_STRING,升级：%s %d/%d,1
@@ -21584,8 +21585,8 @@ ID,BaseTag,TagText_lang,Flags
 50403,EXPANSION_TRIAL_GAINED_LEVEL_TEXT,%d级,1
 50404,EXPANSION_TRIAL_THANKS_TEXT_GAINED_BANKED_LEVEL,在试玩阶段你不能升到超过60级，但你获得的所有经验值都会被储存起来。|n|n购买“巨龙时代”即可将储存的经验值应用到你的角色身上，还能继续升到70级！,1
 50405,SPELL_FAILED_CUSTOM_ERROR_831,需要贾拉丁石柱碎片。,1
-50409,VISITABLE_URL58,https://www.battlenet.com.cn/support/zh/help/home,2
-50410,VISITABLE_URL59,https://www.battlenet.com.cn/support/zh/ticket/status?loc,2
+50409,VISITABLE_URL58,https://support-api.battlenet.com.cn/auth/home/index,2
+50410,VISITABLE_URL59,https://support-api.battlenet.com.cn/auth/home/service,2
 50411,VISITABLE_URL60,https://www.battlenet.com.cn/support/zh/ticket/submit?loc,2
 50422,HUD_EDIT_MODE_ENABLE_ADVANCED_OPTIONS,高级选项,1
 50425,HUD_EDIT_MODE_SETTINGS_CATEGORY_TITLE_FRAMES,框体,1
@@ -21594,6 +21595,8 @@ ID,BaseTag,TagText_lang,Flags
 50428,SPELL_FAILED_CUSTOM_ERROR_832,需要韧性顽石。 ,1
 50429,EDIT_MODE_HELPTIPS_ADVANCED_OPTIONS,使用高级选项来查看更多用户界面元素,1
 50430,HUD_EDIT_MODE_BUFFS_AND_DEBUFFS_LABEL,增益效果和负面效果,1
+50431,SPELL_FAILED_CUSTOM_ERROR_833,你在滚动坐骑上不能骑乘坐骑。,1
+50433,SPELL_FAILED_CUSTOM_ERROR_834,你没有滚动。,1
 50434,10_1_5_TIME_RIFTS_MINIGAME_01_WRONG_ELEMENT,找出来自错误时间线的生物！,1
 50435,HUD_EDIT_MODE_PET_FRAME_LABEL,宠物框体,1
 50436,SELF_CAST,自我施法,1
@@ -21672,13 +21675,13 @@ ID,BaseTag,TagText_lang,Flags
 50512,HUD_EDIT_MODE_SETTING_UNIT_FRAME_VIEW_ARENA_SIZE_THREE,3v3,1
 50513,HUD_EDIT_MODE_SETTING_UNIT_FRAME_VIEW_ARENA_SIZE_FIVE,5v5,1
 50516,ITEM_UPGRADE_DISCOUNT_TOOLTIP_CURRENT_CHARACTER,这次升级花费较少的%s，因为你已经在此栏位获得了更高物品等级（%d）的物品。,1
-50517,ITEM_UPGRADE_DISCOUNT_TOOLTIP_OTHER_CHARACTER,这次升级花费较少的%s，因为你账号上的一名角色已经在此栏位获得了更高物品等级（%d）的物品。,1
+50517,ITEM_UPGRADE_DISCOUNT_TOOLTIP_OTHER_CHARACTER,这次升级花费较少的%s，因为你战团里的一名角色已经在此栏位获得了更高物品等级（%d）的物品。,1
 50518,ITEM_UPGRADE_DISCOUNT_TOOLTIP_TWO_SLOT_CURRENT_CHARACTER,这次升级花费较少的%1$s，因为你已经获得了两个更高物品等级（%3$d）的%2$s。,1
-50519,ITEM_UPGRADE_DISCOUNT_TOOLTIP_TWO_SLOT_OTHER_CHARACTER,这次升级花费较少的%1$s，因为你账号上的一名角色已经获得了两个更高物品等级（%3$d）的%2$s。,1
+50519,ITEM_UPGRADE_DISCOUNT_TOOLTIP_TWO_SLOT_OTHER_CHARACTER,这次升级花费较少的%1$s，因为你战团里的一名角色已经获得了两个更高物品等级（%3$d）的%2$s。,1
 50520,ITEM_UPGRADE_DISCOUNT_TOOLTIP_PARTIAL_TWO_HAND_CURRENT_CHARACTER,这次升级花费较少的%s，因为你已经拥有了一套更高物品等级（%d）的武器。,1
-50521,ITEM_UPGRADE_DISCOUNT_TOOLTIP_PARTIAL_TWO_HAND_OTHER_CHARACTER,这次升级花费较少的%s，因为你账号上的一名角色已经获得了一套更高物品等级（%d）的武器。,1
+50521,ITEM_UPGRADE_DISCOUNT_TOOLTIP_PARTIAL_TWO_HAND_OTHER_CHARACTER,这次升级花费较少的%s，因为你战团里的一名角色已经获得了一套更高物品等级（%d）的武器。,1
 50522,ITEM_UPGRADE_DISCOUNT_TOOLTIP_TITLE,%s折扣,1
-50523,ITEM_UPGRADE_DISCOUNT_TOOLTIP_ACCOUNT_WIDE,账号通用,1
+50523,ITEM_UPGRADE_DISCOUNT_TOOLTIP_ACCOUNT_WIDE,战团通用,1
 50524,ITEM_UPGRADE_DISCOUNT_ITEM_TYPE_TRINKET,饰品,1
 50525,ITEM_UPGRADE_DISCOUNT_ITEM_TYPE_FINGER,戒指,1
 50526,ITEM_UPGRADE_DISCOUNT_ITEM_TYPE_ONE_HANDED_WEAPON,单手武器,1
@@ -21732,8 +21735,9 @@ ID,BaseTag,TagText_lang,Flags
 51197,ICON_FILTER_ALL,所有图标,1
 51198,ICON_FILTER_SPELL,法术,1
 51199,ICON_FILTER_ITEM,物品,1
+51200,SPELL_FAILED_CUSTOM_ERROR_853,你需要Shadowrooted Gripper。,1
 51201,RPE_TOOLTIP_LINE1,有可用的装备更新！,3
-51202,RPE_TOOLTIP_LINE2,- 需要等级10-60,3
+51202,RPE_TOOLTIP_LINE2,- 需要等级10-70,3
 51203,RPE_TOOLTIP_LINE3,- %s过期,3
 51204,RPE_GEAR_UPDATE_GREEN,|cffaaffaa装备更新|r,3
 51205,BATTLE_PET_SOURCE_12,商栈,1
@@ -21746,7 +21750,7 @@ ID,BaseTag,TagText_lang,Flags
 51213,RPE_INFO_TEXT2,清理任务日志,3
 51214,RPE_INFO_TEXT3,传送到你的主城,3
 51215,RPE_INFO_TEXT4,随时都可以重置你的天赋！,3
-51216,RPE_CHARACTER_LVL,等级%d |cFFFFA500%s|r,3
+51216,RPE_CHARACTER_LVL,等级%d %s,3
 51217,LOOT_TTS_LABEL,物品拾取,1
 51218,MONEY_TTS_LABEL,金钱拾取,1
 51219,SLASH_TEXTTOSPEECH_HELP_LOOT,开启或关闭成就物品拾取信息,1
@@ -21788,9 +21792,9 @@ ID,BaseTag,TagText_lang,Flags
 51256,WARDROBE_SHORTCUTS_TUTORIAL_3,追踪或取消追踪物品|n,1
 51257,WARDROBE_TRACKING_TUTORIAL,你尚未收集到此外观！按住Shift点击即可开始追踪此外观。,1
 51259,TRAINER_CANNOT_EXCEED_MAX_PROFESSIONS,你只能学习两种主要专业技能,1
-51260,RPE_UPGRADE_CONFIRMATION,你确定要更新这个角色吗？,3
+51260,RPE_UPGRADE_CONFIRMATION,|cnHIGHLIGHT_FONT_COLOR:你确定要|r更新|cnHIGHLIGHT_FONT_COLOR:这个角色的专精为：%s吗？|r,3
 51261,PROF_ORDER_CANT_REPORT_IN_PROGRESS,要在该订单被取消或完成后才能举报该玩家。,1
-51263,SPELL_FAILED_DRAGONRIDING_RIDING_REQUIREMENT,需要驭龙术飞行技能。,1
+51263,SPELL_FAILED_DRAGONRIDING_RIDING_REQUIREMENT,需要驭空术技能,1
 51264,ADVENTURES_COMBAT_LOG_SPELL_RANGE_DAMAGE,{caster}对{target}施放了{spellName}，造成了{damage}点{element}伤害。,5
 51265,RPE_SKIP_UPGRADE_CONFIRMATION,你确定要进入魔兽世界吗？你将无法获得免费的装备更新。,3
 51266,SPELL_FAILED_CUSTOM_ERROR_1002,该玩家不属于对立阵营。,1
@@ -21829,9 +21833,9 @@ ID,BaseTag,TagText_lang,Flags
 51317,PING_SUBJECT_TYPE_WARNING_UNIT,%s|Hplayer:%s|h[%s]: |h|A:ping_chat_warning:0:0:0:0|a警告：%s,1
 51318,PING_SUBJECT_TYPE_ALERT_THREAT_UNIT,%s|Hplayer:%s|h[%s]: |h|A:ping_chat_threat:0:0:0:0|a威胁提示：%s,1
 51319,PING_SUBJECT_TYPE_ALERT_NOT_THREAT_UNIT,%s|Hplayer:%s|h[%s]: |h|A:ping_chat_nonthreat:0:0:0:0|a%s,1
-51320,DRAGONFLIGHT_LANDING_PAGE_UNSPENT_GLYPHS,你有未使用的巨龙魔符,1
+51320,DRAGONFLIGHT_LANDING_PAGE_UNSPENT_GLYPHS,你有未使用的驭空术效能点数,1
 51321,SPELL_FAILED_CUSTOM_ERROR_857,只有被遗忘者才能展示这份荣耀。,1
-51322,RPE_UPGRADE_QUEST_CLEAR_CONFIRMATION,是否清除你在任务日志里的任务\n展开全新的开始？,3
+51322,RPE_UPGRADE_QUEST_CLEAR_CONFIRMATION,|cnHIGHLIGHT_FONT_COLOR:你是否想清除你|r在任务日志里的任务|cnHIGHLIGHT_FONT_COLOR:\n展开全新的开始？|r,3
 51323,RPE_CLEAR_QUESTS,清除任务,3
 51324,RPE_KEEP_QUESTS,保留任务,3
 51326,CONFIRM_AZEROTHIANARCHIVES_PUBLICEVENT_CONTRIBUTION,这样做会消耗你所选择的资源。确定继续吗？,1
@@ -21839,6 +21843,7 @@ ID,BaseTag,TagText_lang,Flags
 51332,RAID_MANAGER_RESTRICT_PINGS,只限助手发送信号,1
 51337,PING,信号,1
 51338,ERR_PERKS_PROGRAM_COMMUNICATION_ERROR,商栈在与服务器进行信息交互时遇到了困难。|n进行中的购买项目可以在连接恢复后从收集者的宝箱中拾取。,1
+51339,REPUTATION_BUTTON_TOOLTIP_CLICK_INSTRUCTION,<点击查看选项>,1
 51340,BINDING_NAME_TOGGLEPINGLISTENER,信号,1
 51341,PING_TYPE_ASSIST,协助,1
 51342,PING_TYPE_ATTACK,攻击,1
@@ -21852,10 +21857,11 @@ ID,BaseTag,TagText_lang,Flags
 51350,SPELL_FAILED_CUSTOM_ERROR_1005,重置冷却时间,1
 51351,PNC_FLOW_CUSTOMIZE_CHARACTER_STEP,你可以在下一步中定制你的角色。,2
 51352,PNC_FLOW_FINISH_LABEL,接受,2
+51353,GENERIC_TRAIT_FRAME_TITLE_DELVES,Explorers' League Supplies (PH UI),1
 51354,SLASH_PING1,/ping,1
 51355,SLASH_PING2,/信号,1
-51356,PNC_CUSTOMIZE_DIALOG_TEXT,你接受后，你修改的角色名将一直生效。,2
-51357,PNC_FLOW_NEW_NAME_LABEL,新角色名,2
+51356,PNC_CUSTOMIZE_DIALOG_TEXT,|cnHIGHLIGHT_FONT_COLOR:你接受后，你的|r角色更名|cnHIGHLIGHT_FONT_COLOR:将一直生效。|r,2
+51357,PNC_FLOW_NEW_NAME_LABEL,新角色名：,2
 51359,PNC_FLOW_SLECT_NAME_ACTIVE,选择新角色名,2
 51360,PNC_FLOW_SLECT_NAME_RESULTS,新角色名：,2
 51361,PNC_NEW_NAME_LABEL_COMPLETE,|cffffd200角色名：%s,2
@@ -21866,6 +21872,7 @@ ID,BaseTag,TagText_lang,Flags
 51366,PING_SUBJECT_TYPE_ASSIST_POINT,%s|Hplayer:%s|h[%s]: |h|A:ping_chat_assist:0:0:0:0|a协助,1
 51367,PING_SUBJECT_TYPE_ATTACK_POINT,%s|Hplayer:%s|h[%s]: |h|A:ping_chat_attack:0:0:0:0|a攻击,1
 51368,PING_SUBJECT_TYPE_ON_MY_WAY_POINT,%s|Hplayer:%s|h[%s]: |h|A:ping_chat_onmyway:0:0:0:0|a正在赶来,1
+51369,CURRENCY_BUTTON_TOOLTIP_CLICK_INSTRUCTION,<点击查看选项>,1
 51373,SPELL_FAILED_CUSTOM_ERROR_1010,你不知道如何采集它。,1
 51374,ENABLE_PING_SOUNDS,信号音效,1
 51375,OPTION_TOOLTIP_ENABLE_PING_SOUNDS,打开/关闭信号指令的音效,1
@@ -21889,6 +21896,7 @@ ID,BaseTag,TagText_lang,Flags
 51393,SLASH_TEXTTOSPEECH_HELP_PING,开启或关闭信号信息,1
 51394,PING_FAILED_DISABLED_BY_SETTINGS,无法发送信号：信号在设置里被关闭了。,1
 51395,PING_SYSTEM_SETTINGS,信号系统设置,1
+51396,TALENT_FRAME_TAB_LABEL_SPELLBOOK,法术书,1
 51398,BLIZZARD_STORE_CLICK_TO_OPEN_FAQ,|cnPURE_GREEN_COLOR:<Shift点击在浏览器中查看常见问题>|r,3
 51399,BLIZZARD_STORE_DISCLAIMER_GUILD_TRANSFER,本次处理将在%s后完成。|n|HurlIndex:44|h|cff006995常见问题|r|h,3
 51408,SELL_ALL_JUNK_ITEMS_EXCLUDE_FLAG,出售垃圾,1
@@ -21901,6 +21909,13 @@ ID,BaseTag,TagText_lang,Flags
 51419,OPTION_TOOLTIP_PING_MODE_CLICK_DRAG,按下信号快捷键时，点击以根据情境发送信号，或点击并拖拽以触发信号盘目录。,1
 51420,OPTION_TOOLTIP_PING_MODE_KEY_DOWN,按下并放开信号快捷键以根据情境发送信号，或者按下并按住以触发信号盘目录。,1
 51421,SPELL_FAILED_CUSTOM_ERROR_840,如果你还想受邀参加下一场聚会，就别吃太多点心。,1
+51422,11_0_0_DELVES_MINIGAME_01,小游戏,1
+51423,CHARACTER_SELECT_ALL_CHARACTERS,战团角色列表,2
+51424,CHARACTER_SELECT_NAV_BAR_CREATE_CHARACTER,创建角色,2
+51425,CHARACTER_SELECT_NAV_BAR_SHOP,商城,2
+51426,CHARACTER_SELECT_NAV_BAR_MENU,选项菜单,2
+51427,CHARACTER_SELECT_TESTING_CONTROLS,测试,2
+51428,CHARACTER_SELECT_BACK,后退,2
 51429,SPELL_FAILED_TARGETS_NOT_PROFESSION,目标没有合适的专业。,1
 51433,PING_FAILED_SQUELCHED,无法发送信号：暂时禁止聊天。,1
 51434,PING_SYSTEM_TUTORIAL_CONTEXTUAL,|cnTUTORIAL_BLUE_FONT_COLOR:按下|r信号键，在世界上放置快速信号。,1
@@ -21922,31 +21937,50 @@ ID,BaseTag,TagText_lang,Flags
 51452,PERKS_PROGRAM_FROZEN,"|cffffffff冻结|r
 ",1
 51455,SPELL_FAILED_CUSTOM_ERROR_841,只能在情人节期间使用。,1
+51456,POWER_TYPE_WAX,蜡油,1
 51457,MAP_FILTER,地图筛选,1
+51458,LFG_TYPE_FOLLOWER_DUNGEON,追随者地下城,1
+51459,LFD_FOLLOWER_EXPLANATION,与NPC队友一起完成地下城,1
+51460,REPUTATION_STATUS_BAR_LABEL_ACCOUNT_WIDE,（战团）,1
+51461,REPUTATION_TOOLTIP_ACCOUNT_WIDE_LABEL,战团声望,1
+51463,FACTION_STANDING_INCREASED_ACCOUNT_WIDE,你的战团在%s中的声望值提高了%d点。,1
 51465,SPELL_FAILED_CUSTOM_ERROR_842,附近没有气味！,1
+51466,FRIENDSHIP_STANDING_CHANGED_ACCOUNT_WIDE,你的战团现在和%s的关系是%s。,1
+51467,FACTION_STANDING_CHANGED_ACCOUNT_WIDE,你的战团在%2$s中的声望达到了%1$s。,1
+51468,FACTION_STANDING_INCREASED_GENERIC_ACCOUNT_WIDE,你的战团在%s中的声望提升了。,1
+51469,FACTION_STANDING_DECREASED_GENERIC_ACCOUNT_WIDE,你的战团在%s中的声望降低了。,1
+51470,FACTION_STANDING_DECREASED_ACCOUNT_WIDE,你的战团在%s中的声望降低了%d点。,1
+51471,FACTION_STANDING_INCREASED_ACH_BONUS_ACCOUNT_WIDE,你的战团在%s中的声望值提高了点%d。（+%.1f点加成）,1
 51472,SPELL_FAILED_CUSTOM_ERROR_891,你的精力已满,1
 51473,SPELL_FAILED_CUSTOM_ERROR_1006,这片土壤必须补充营养才能继续栽培。,1
+51475,CONFIRM_BUY_ACCOUNT_BANK_TAB,你是否想要购买一个战团银行标签？,1
+51476,BAG_CLEANUP_ACCOUNT_BANK,清理战团银行,1
+51477,ACCOUNT_BANK_PANEL_TITLE,战团银行,1
+51478,ACCOUNT_BANK_TAB_PURCHASE_PROMPT,战团银行为你的战团里的所有成员提供储存功能。|n|n你想购买此标签吗？,1
+51479,ACCOUNT_BANK_DEPOSIT_BUTTON_LABEL,存放所有战团绑定物品,1
 51480,PERSONALTABARDVENDORGREETING,你好！请为你的个人战袍选择标志和颜色。,1
 51484,RAID_MANAGER_RESTRICT_PINGS_PARTY,只限领袖发送信号,1
-51493,LFG_TYPE_FOLLOWER_DUNGEON,追随者地下城,1
-51494,LFD_FOLLOWER_EXPLANATION,与NPC队友一起完成地下城,1
+51490,REPUTATION_SORT_TYPE_SHOW_ALL,全部,1
+51491,REPUTATION_SORT_TYPE_ACCOUNT,战团,1
+51492,REPUTATION_CHECKBOX_SHOW_LEGACY_REPUTATIONS,显示经典声望,1
 51495,SPELL_FAILED_CUSTOM_ERROR_1007,目标的羽毛已经被拔了一些，再拔就太不礼貌了。,1
 51496,WEEKLY_REWARDS_THRESHOLD_DUNGEONS,完成%d个英雄、史诗或时空漫游地下城,1
 51498,SPELL_FAILED_CUSTOM_ERROR_859,你只能在你的梦里打开这箱子。,1
 51499,PING_CHAT_SETTINGS,聊天设置,1
+51500,DELVES_DIFFICULTY_PICKER_ENTER,进入,1
 51503,ADV_FLY_PITCH_CONTROL,倾角控制,1
 51504,ADV_FLY_PITCH_CONTROL_FORWARD_UP,前/上,1
 51505,ADV_FLY_PITCH_CONTROL_BACKWARD_UP,后/上,1
-51506,OPTION_TOOLTIP_ADV_FLY_PITCH_CONTROL,"使用驭龙术时，辅助进行手部运动控制。
+51506,OPTION_TOOLTIP_ADV_FLY_PITCH_CONTROL,"使用驭空术时，辅助进行手部运动控制。
 
-|cffffffff后/上：|r使用驭龙术期间，向后移动的输入也会使倾角变高，向前移动的输入也会使倾角变低。
+|cffffffff后/上：|r驭空术期间，向后移动的输入也会使倾角变高，向前移动的输入也会使倾角变低。
 
-|cffffffff前/上：|r使用驭龙术期间，向前移动的输入也会使倾角变高，向后移动的输入也会使倾角变低。",1
+|cffffffff前/上：|r驭空术期间，向前移动的输入也会使倾角变高，向后移动的输入也会使倾角变低。",1
 51507,SPELL_FAILED_CUSTOM_ERROR_1008,这个生物最近刚刚进行了调谐。,1
 51508,SPELL_FAILED_CUSTOM_ERROR_646,你目前不能持有更多这类纹章。,1
 51514,PERKS_PROGRAM_PURCHASED_TIME_REMAINING,|cff808080--|r,1
 51515,ERR_FOLLOWER_DUNGEON_LIMIT_REACHED,你在短时间内进入追随者地下城的次数过多。,1
-51516,ACCESSIBILITY_ADV_FLY_LABEL,动态飞行,1
+51516,ACCESSIBILITY_ADV_FLY_LABEL,驭空术,1
 51517,ADV_FLY_MINIMUM_PITCH_TEXT,最低键盘倾斜速度,1
 51518,ADV_FLY_MAXIMUM_PITCH_TEXT,最高键盘倾斜速度,1
 51519,ADV_FLY_MINIMUM_TURN_TEXT,最低键盘转向速度,1
@@ -21959,8 +21993,9 @@ ID,BaseTag,TagText_lang,Flags
 51526,ADV_FLY_CAMERA_PITCH_CHASE_TEXT,键盘倾斜镜头跟随,1
 51527,OPTION_TOOLTIP_ADV_FLY_CAMERA_PITCH_CHASE,使用向前移动和向后移动输入来控制倾角时，调整镜头倾斜的速度来跟随玩家。,1
 51528,ADV_FLY_PITCH_CONTROL_GROUND_DEBOUNCE,防抖倾角输入,1
-51529,OPTION_TOOLTIP_ADV_FLY_PITCH_CONTROL_GROUND_DEBOUNCE,开启后，使用向前移动和向后移动来控制倾角时，此设置会要求在地面和使用驭龙术之间进行转换时，重新输入这些指令。 ,1
+51529,OPTION_TOOLTIP_ADV_FLY_PITCH_CONTROL_GROUND_DEBOUNCE,开启后，使用向前移动和向后移动来控制倾角时，此设置会要求在地面和驭空术之间进行转换时，重新输入这些指令。 ,1
 51530,ACCESSIBILITY_MOUNT_LABEL,坐骑,1
+51534,RENOWN_REWARD_ACCOUNT_UNLOCK_LABEL,战团奖励,1
 51535,PERKS_PROGRAM_ERROR_INDICATOR,商栈与服务器交换数据时出现困难，请稍后再试。,1
 51536,PERKS_PROGRAM_PURCHASING_UNAVAILABLE,购买不可用,1
 51537,PERKS_PROGRAM_REFUND_UNAVAILABLE,退款不可用,1
@@ -21973,6 +22008,9 @@ ID,BaseTag,TagText_lang,Flags
 并将他的烈焰散播到整个艾泽拉斯。",1
 51542,KIOSK_SESSION_EXPIRED_SUBTITLE,梦境守护者,1
 51543,KIOSK_ENTER,进入魔兽世界,2
+51544,ERR_NO_SOULBOUND_ITEM_IN_ACCOUNT_BANK,灵魂绑定物品无法存放在战团银行。,1
+51545,NO_ACCOUNT_INVENTORY_LOCK,你的角色无法完成此行动。,1
+51546,TOO_MANY_ACCOUNT_BANK_TABS,你已经购买了最大数量的标签。,1
 51547,PERKS_PROGRAM_PENDING,等待确认中,1
 51548,PERKS_PROGRAM_PURCHASE_IN_PROGRESS,处理您的本次购买所花费的时间比正常情况更长。处理一旦完成，此物品会马上递送。,1
 51549,PERKS_PROGRAM_PURCHASE_PENDING,购买确认中,1
@@ -21991,30 +22029,71 @@ ID,BaseTag,TagText_lang,Flags
 51566,GREAT_VAULT_REWARDS_HEROIC_IMPROVE,完成%1$d次史诗难度的地下城，提升你的奖励。,1
 51567,AUCTION_HOUSE_ITEM_QUANTITY_FORMAT,|cff808080x%s|r,1
 51568,SPELL_FAILED_CUSTOM_ERROR_860,你还没有向这个灵魂证明自己。,1
+51569,BANK_WITHDRAW_MONEY_BUTTON_LABEL,提取,1
+51570,BANK_DEPOSIT_MONEY_BUTTON_LABEL,存放,1
+51571,BANK_MONEY_WITHDRAW_PROMPT,提取数量：,1
+51572,BANK_MONEY_DEPOSIT_PROMPT,存放数量：,1
 51573,CANNOT_UNEQUIP_ERR,当前不能更换装备,1
+51574,ACCOUNT_BANK_ERROR_NO_LOCK,你无法和另一名角色一起同时使用战团银行。,1
 51575,SPELL_FAILED_RADIANT_ASH_MAX,你拥有足够的夺目灰烬之斑。,1
 51576,ERR_ITEM_INTERACTION_NO_CONVERSION_OUTPUT,此物品不能由你的角色进行变更。,1
+51577,ACCOUNT_BANK_TAB_NAME_PROMPT,输入战团银行标签名：,1
 51579,COLOR_PICKER_HEX,颜色码,1
 51582,ERR_GUILD_NEW_LEADER_NOT_ALLIED,对立阵营的玩家无法被提拔为公会会长。,1
 51583,FRONT_END_LOBBY_SOLO,单人,2
 51584,FRONT_END_LOBBY_DUO,双人,2
 51585,FRONT_END_LOBBY_TRIOS,三人,2
+51588,BANK_DEPOSIT_INCLUDE_REAGENTS_CHECKBOX_LABEL,包括可交易的材料,1
+51589,ACCOUNT_BANK_LOCKED_PROMPT,银行正在被你的战团的另一名成员使用。,1
 51590,WOWLABS_CUSTOMIZE_CHARACTER,自定义角色,3
 51591,WOWLABS_JOIN_GAME,加入比赛,3
 51592,WOWLABS_MAINLINE,正式服,3
+51595,ACCOUNT_BANK_TAB_NOT_UNLOCKED,银行标签被锁定。,1
+51596,BANK_TAB_INVALID_NAME,无效的银行标签名。,1
+51597,BANK_TAB_INVALID_TEXT,无效的银行标签描述。,1
 51598,FRONT_END_LOBBY_QUEUE_TIME,在队列中的时间：%s,2
-51602,MOTION_SICKNESS_DRAGONRIDING_SCREEN_EFFECTS,动态飞行屏幕效果,1
+51601,ACCOUNT_PARAGON_REWARD_ERR_MISSING_LOCK,此奖励只能由你的战团里第一个登录的角色获取。,1
+51602,MOTION_SICKNESS_DRAGONRIDING_SCREEN_EFFECTS,驭空术屏幕效果,1
 51603,MOTION_SICKNESS_DRAGONRIDING_SCREEN_EFFECTS_TOOLTIP,关闭屏幕效果有可能缓解晕动症的症状。,1
 51604,OPTION_TOOLTIP_MOTION_SICKNESS_CHECKBOX,开启晕动症设置会减少镜头运动，并保持角色居中。,1
+51605,BAG_FILTER_REAGENTS,材料,1
+51606,BANK_TAB_DEPOSIT_SETTINGS_HEADER,分配到标签：,1
+51607,BANK_TAB_ASSIGN_EQUIPMENT_CHECKBOX,装备,1
+51608,BANK_TAB_ASSIGN_CONSUMABLES_CHECKBOX,消耗品,1
+51609,BANK_TAB_ASSIGN_PROFESSION_GOODS_CHECKBOX,专业技能货物,1
+51610,BANK_TAB_ASSIGN_JUNK_CHECKBOX,垃圾,1
+51611,BANK_TAB_ASSIGN_EXPANSION_HEADER,内容更新：,1
+51612,BANK_TAB_CLEANUP_SETTINGS_HEADER,清理：,1
+51613,BANK_TAB_IGNORE_IN_CLEANUP_CHECKBOX,忽略此标签,1
+51614,BANK_TAB_EXPANSION_FILTER_ALL,全部,1
+51615,BANK_TAB_EXPANSION_FILTER_CURRENT,仅限当前内容,1
+51616,BANK_TAB_EXPANSION_FILTER_LEGACY,仅限旧版内容,1
+51617,ACCOUNT_BANK_CONFIRM_CLEANUP_PROMPT,你确定要自动整理你的物品吗？|n该操作会影响所有的战团标签。,1
+51618,BANK_TAB_ASSIGN_REAGENTS_CHECKBOX,材料,1
+51619,BAG_FILTER_CURRENT_EXPANSION,仅限当前内容,5
+51620,BAG_FILTER_LEGACY_EXPANSION,仅限旧版内容,5
 51621,TUTORIAL_PERKS_PROGRAM_OVERWRITE_FROZEN_ITEM,你随时可以拖拽另一个物品到这里来替换你冻结的物品,1
+51622,SPELL_FAILED_CUSTOM_1100,附近已经出现了一个泡泡。,1
+51623,SPELL_FAILED_CUSTOM_ERROR,,1
+51624,SPELL_FAILED_CUSTOM_ERROR_861,地下堡强化不足。,1
 51628,NPE_UNBOUND_KEYBIND,[解除绑定],1
 51631,TOAST_NEW_FRIEND_INVITE_WOWLABS,你有一个新的好友邀请。,3
 51632,TOAST_NEW_PARTY_INVITE_WOWLABS,你有一个新的队伍邀请。,3
+51633,SPELL_FAILED_CUSTOM_ERROR_1012,你没有足够的光耀残渣。,1
 51634,WOWLABS_FRIENDS_GLUE,好友,2
+51635,UNDISCOVERED_FACTION_FLIGHTPOINT,尚未发现的%s飞行点,1
+51636,UNDISCOVERED_NEUTRAL_FLIGHTPOINT,尚未发现的飞行点,1
+51637,DISCOVERED_HORDE_FLIGHTPOINT,部落飞行点已解锁,1
+51638,DISCOVERED_NEUTRAL_FLIGHTPOINT,飞行点已解锁,1
+51639,DISCOVERED_ALLIANCE_FLIGHTPOINT,联盟飞行点已解锁,1
 51642,MONTHLY_ACTIVITIES_EVENT_DURATION,(%s - %s),1
 51643,TRANSMOG_ITEM_SET_FAVORITE,设置为偏好,3
 51644,TRANSMOG_ITEM_UNSET_FAVORITE,从偏好中移除,3
 51645,MONTHLY_ACTIVITIES_EVENT_TIME_LEFT,剩余时间：%s,1
+51646,SELF_HIGHLIGHT_UNIT_FRAME,自身高亮,1
+51647,SELF_HIGHLIGHT_CIRCLE,圆环,1
+51648,SELF_HIGHLIGHT_OUTLINE,轮廓线,1
+51649,SELF_HIGHLIGHT_ICON,图标,1
 51650,BN_BLOCK_FRIEND,屏蔽,3
 51651,MONTHLY_ACTIVITIES_EVENT_NOT_BEGUN,此活动尚未开始,1
 51652,MONTHLY_ACTIVITIES_EVENT_EXPIRED,此活动已过期,1
@@ -22028,6 +22107,8 @@ ID,BaseTag,TagText_lang,Flags
 51660,BINDING_NAME_WOWLABS_MULTIACTIONBAR1BUTTON2,进攻法术2,1
 51661,BINDING_NAME_WOWLABS_MULTIACTIONBAR2BUTTON1,效能法术1,1
 51662,BINDING_NAME_WOWLABS_MULTIACTIONBAR2BUTTON2,效能法术2,1
+51663,SPELL_FAILED_CUSTOM_ERROR_892,你已经拥有至少一瓶魔法制造的合剂。,1
+51664,SPELL_FAILED_CUSTOM_ERROR_893,激活的合剂只能在战斗外进行变更。,1
 51665,RELEASE_PET_BUTTON_LABEL,释放,1
 51666,RELEASE_PET,你确定要永久释放你的宠物吗？你将永远无法再召唤此宠物。,1
 51667,SPELL_FAILED_CUSTOM_ERROR_870,此物品无法在当前赛季使用。,1
@@ -22056,14 +22137,24 @@ ID,BaseTag,TagText_lang,Flags
 51698,DUNGEON_DIFFICULTY_BANNER_TOOLTIP,%s难度,1
 51699,LEVEL_UP_NO_LINK,恭喜你，你已经升至|cffFF4E00%d级|r！,1
 51700,SPECTATE,观战,1
+51701,SPELL_FAILED_CUSTOM_ERROR_871,你不能在团队中进入地下堡。,1
+51702,SPELL_FAILED_CUSTOM_ERROR_845,你已经拥有一瓶魔法制造的合剂。,1
 51703,PERKS_PROGRAM_SET_SELECTION_DESC,你将获得下列物品：,1
+51706,SPELL_FAILED_CUSTOM_ERROR_900,不能在提前游玩阶段制造此物品。,1
 51707,DUNGEON_DIFFICULTY_BANNER_TOOLTIP_PLAYER_COUNT,%d/%d 名玩家,1
+51708,CHARACTER_SELECT_NAV_BAR_REALMS,服务器,2
+51709,CHARACTER_SELECT_NAV_BAR_CREATE_CHARACTER_TOOLTIP,%s 服务器,2
+51710,SPELL_FAILED_CUSTOM_ERROR_846,你已经拥有几瓶魔法制造的药水。,1
+51711,SPELL_FAILED_CUSTOM_ERROR_837,伙伴目前不省人事！,1
+51712,SPELL_FAILED_CUSTOM_ERROR_838,需要伙伴。,1
 51713,STABLE_EXOTIC_TYPE_LABEL,特殊,1
 51714,STABLE_FILTER_LABEL_TYPE,类型,1
 51715,STABLE_FILTER_SORT_BY_LABEL,排序方式,1
+51718,SPELL_FAILED_CUSTOM_ERROR_839,,1
 51719,WOW_LABS_REMATCH,离开比赛,3
 51720,LFG_LIST_BEST_FOR_DUNGEON,地下城最佳,1
 51721,LFG_LIST_BEST_RUN,最佳成绩,1
+51722,CHARACTER_SELECT_LIST_HEADER,战团成员,2
 51723,SPELL_FAILED_CUSTOMERROR_1011,已经达到最大值。,1
 51724,ITEM_ALREADY_MAX_QUALITY,物品已经达到最高品质。,1
 51725,KEY_RANGE_GROUP_FINDER_HELPTIP,输入钥石范围获得精确结果，比如5-8，或7-7。,1
@@ -22071,13 +22162,22 @@ ID,BaseTag,TagText_lang,Flags
 51727,WOW_ERROR_337,有可用的准入凭证的账号才能登录此服务器。,2
 51730,MOUNT_ABILITY_TYPE_FORMAT,%s %s,1
 51733,GROUPFINDER_PLUS,+,1
+51734,SPELL_FAILED_CUSTOM_ERROR_872,你的伙伴目前在战斗中。,1
 51735,ADD_BATTLENET_FRIEND_LABEL,输入你的好友的战网昵称（包括数字）：,3
 51738,GLUE_LEAVE_PARTY,离开队伍,3
 51739,GLUE_REMOVE_FROM_PARTY,从队伍中移除,3
-51740,LFG_LIST_NEEDS_TANK,需要坦克,1
+51740,LFG_LIST_NEEDS_TANK,坦克职责可用,1
+51741,SPELL_FAILED_CUSTOM_ERROR_1013,你目标的戒指已经与另一名玩家绑定。,1
+51743,SPELL_FAILED_CUSTOM_ERROR_1014,你的目标没有和你一样佩戴此戒指。,1
 51744,TRANSMOG_SOURCE_7,商栈,1
+51745,SPELL_FAILED_CUSTOM_ERROR_1015,只能用于“地心之战”内容更新的可镶孔的PvP物品。,1
 51746,STABLE_PET_UNCATEGORIZED,其他,1
+51748,UNITNAME_SUMMON_TITLE53,%s的传送门,1
 51749,LFG_LIST_CLASS_AVAILABLE,队伍中尚无%s,1
+51750,SELF_HIGHLIGHT_MODE_CIRCLE_AND_ICON,圆环和图标,1
+51751,SELF_HIGHLIGHT_MODE_OUTLINE_AND_ICON,轮廓线和图标,1
+51752,SELF_HIGHLIGHT_MODE_CIRCLE_OUTLINE_AND_ICON,圆环、轮廓线和图标,1
+51753,SELF_HIGHLIGHT_MODE_ICON,图标,1
 51754,ERR_QUEST_PUSH_HIGH_FACTION_S,%s的声望太高，无法接受该任务。,1
 51755,ERR_QUEST_PUSH_HIGH_FACTION_TO_RECIPIENT_S,%s尝试与你共享任务“%s”，但失败了。你的声望太高，无法接到此任务。,1
 51756,ADDON_DEP_NOT_AVAILABLE,依赖功能不可用,3
@@ -22093,13 +22193,16 @@ ID,BaseTag,TagText_lang,Flags
 51766,ADDON_DEP_WRONG_LOAD_PHASE,依赖功能具有错误的读取阶段,3
 51767,ADDON_USER_ADDONS_DISABLED,用户插件已关闭,3
 51768,ADDON_DEP_USER_ADDONS_DISABLED,依赖功能用户插件已关闭,3
-51771,LFG_LIST_NEEDS_HEALER,需要治疗者,1
-51772,LFG_LIST_NEEDS_DAMAGE,需要伤害输出,1
+51769,SPELL_FAILED_CUSTOM_ERROR_1016,收割机器人已激活。,1
+51771,LFG_LIST_NEEDS_HEALER,治疗者职责可用,1
+51772,LFG_LIST_NEEDS_DAMAGE,伤害输出职责可用,1
 51773,LFG_LIST_HAS_TANK,已有坦克,1
 51774,LFG_LIST_HAS_HEALER,已有治疗者,1
 51775,LFG_LIST_DIFFICULTY,难度,1
 51776,LFG_LIST_REQUIRE,需要,1
-51780,DRAGONRIDING_RACES_MAP_TOGGLE,驭龙竞速,1
+51778,SPELL_FAILED_CUSTOM_ERROR_1017,果敢号飞艇已经激活。,1
+51780,DRAGONRIDING_RACES_MAP_TOGGLE,驭空术竞速,1
+51781,ERR_COSMETIC_CLASS_RESTRICTED,你的职业无法收集此外观。,1
 51784,WOW_LABS_ATTACK_TOOLTIP,攻击,1
 51785,WOW_LABS_HEAL_TOOLTIP,治疗,1
 51786,WOW_LABS_UTILITY_TOOLTIP,效能,1
@@ -22119,11 +22222,21 @@ ID,BaseTag,TagText_lang,Flags
 51808,WOW_LABS_CONFIRM_LEAVE_MATCH,你现在还能被你的队友复活。|n|n确定要离开比赛吗？,1
 51809,FRONT_END_LOBBY_SOLOS,单人,2
 51810,FRONT_END_LOBBY_DUOS,双人,2
+51811,INSIGNIFICANT_QUEST_DISPLAY,%s（%s）,1
+51812,ACCOUNT_COMPLETED_QUEST_LABEL,战团完成,1
+51813,TRIVIAL_QUEST_LABEL,低等级,1
 51814,LFG_LIST_MINIMUM_RATING,最低史诗钥石评分,1
 51815,WOWLABS_INVITE_FRIEND,邀请好友,3
+51818,ERR_TRANSMOGRIFY_INVALID_RACE,你的种族无法使用此外观。,1
+51819,ERR_TRANSMOGRIFY_INVALID_FACTION,你的阵营无法使用此外观。,1
+51820,ERR_TRANSMOGRIFY_INVALID_CLASS,你的职业无法使用此外观。,1
+51821,TRANSMOG_SHOW_ALL_RACES,全部种族,1
+51822,TRANSMOG_SHOW_ALL_FACTIONS,全部阵营,1
 51823,WOWLABS_WORLD_LOOT_OBJECT_FULLY_UPGRADED,已完全升级,1
 51824,WOWLABS_WORLD_LOOT_OBJECT_UPGRADE_HEADER,升级：,1
 51825,WOWLABS_WORLD_LOOT_OBJECT_UPGRADE_EXPLANATION,缩短冷却时间，并提高攻击力（如果可能）。,1
+51826,CONVERT_TO_BIND_TO_ACCOUNT_CONFIRM,|cnRED_FONT_COLOR:你无法装备此物品。|r|n|n此物品的外观会添加到你的收藏中，而且此物品会变为装备前战团绑定。,1
+51827,ACCOUNT_LEVEL_PET,战团通用宠物,1
 51828,SPELL_FAILED_CUSTOM_ERROR_1028,你没有足够的青铜，无法进行本轮交易。,1
 51829,STABLE_PET_SPEC_CUNNING,狡诈,1
 51830,STABLE_PET_SPEC_FEROCITY,狂野,1
@@ -22136,29 +22249,39 @@ ID,BaseTag,TagText_lang,Flags
 |cffffffff3.|r 拾取重复的法术可以将其升级。
 
 |cffffffff4.|r 生命值不足时要记得使用治疗技能。",3
-51834,SPELL_FAILED_CUSTOM_ERROR_1029,需要驭龙术。,1
+51834,SPELL_FAILED_CUSTOM_ERROR_1029,需要驭空术,1
+51835,CHARACTER_SELECT_PROFESSIONS,%1$s，%2$s,2
 51836,WOWLABS_RENOWN_PREVIEW_BODY_FORMAT,完成任务、收集珍宝即可解锁奖励，到等候区域寻找达卡什·暗账吧。|n|n|cff00ff00下一个奖励将在%d级获得：|r,3
 51837,WOWLABS_RENOWN_PREVIEW_TITLE,名望,3
 51838,WOWLABS_READY_GAME,就绪,3
+51839,SPELL_FAILED_CUSTOM_ERROR_1030,你已经过载了该采集点。,1
 51840,WOWLABS_SUB_REQUIRED,有剩余游戏时间的账号才能体验此内容。,3
 51841,WOWLABS_SUBSCRIBE_NOW,立即订阅,2
 51842,WOWLABS_WAITING_ON_OTHER_PLAYERS,正在等待其他玩家……,2
 51843,STABLE_PET_COUNTER,%1d/%2d,1
+51844,SPELL_FAILED_CUSTOM_ERROR_1031,你不知道如何过载该采集点。,1
 51845,PLUNDERSTORM_CHAT_INSTANCE_CHAT_GET,|Hchannel:INSTANCE_CHAT|h[大厅队伍]|h %s：\32,3
 51846,PLUNDERSTORM_CHAT_INSTANCE_CHAT_LEADER_GET,|Hchannel:INSTANCE_CHAT|h[大厅队伍]|h %s：\32,3
 51847,PLUNDERSTORM_CHAT_INSTANCE_CHAT_SEND,大厅队伍：\32,3
 51848,PLUNDERSTORM_CHAT_MSG_INSTANCE_CHAT,大厅队伍,3
 51849,WOW_LABS_VIEW_REWARDS,查看奖励,1
 51850,EXPANSION_SEASON_NAME,%s第%d赛季,1
+51851,ACCOUNT_LEVEL_TOY,战团玩具,1
+51854,SPELL_FAILED_CUSTOM_ERROR_873,该地下堡目前无法测试。请稍后再来！,1
+51855,ITEM_BIND_TO_ACCOUNT_UNTIL_EQUIP,装备前战团绑定,1
 51856,WOW_LABS_PARTY_RESURRECTABLE_INDICATOR,可以复活,1
+51857,ITEM_ACCOUNTBOUND_UNTIL_EQUIP,装备前战团绑定,1
 51858,WOW_LABS_PARTY_RESURRECTABLE_INDICATOR_TOOLTIP,站在倒下的船团成员附近以将其复活。,1
 51859,QUEST_SESSION_ABANDON_WARNING,"加入小队同步后，下列任务可能会被放弃：
 %s",1
+51864,CHARACTER_SELECT_LIST_GROUP_HEADER,偏好,2
+51865,SPELL_FAILED_CUSTOM_ERROR_1009,你已经准备好了一些护土。请先使用当前的护土。,1
 51866,PLUNDERSTORM_LIFETIME_PLUNDER_TOOLTIP,总计收集珍宝,3
 51867,LIMITED_TIME_EVENT,限时|n活动,3
 51868,WOW_LABS_PRESENCE_GAME_MODE_BATTLE_ROYAL,霸业风暴,1
 51870,PLUNDERSTORM_INTERACT_REMINDER_TEXT,交互,1
 51878,SPELL_FAILED_CUSTOM_ERROR_1026,你不能在战斗中切换冷却中的法术。,1
+51880,TRACKER_ALL_OBJECTIVES,所有目标,1
 51881,GROUPMANAGER_GROUND_MARKER,地面,1
 51882,GROUPMANAGER_UNIT_MARKER,单位,1
 51885,WOW_LABS_CONFIRM_LEAVE_MATCH_PLUNDER,如果你在自己的队伍被消灭前离开，你会失去本场比赛中获得的所有珍宝。|n|n你确定要离开吗？,1
@@ -22186,10 +22309,25 @@ ID,BaseTag,TagText_lang,Flags
 51917,WOWLABS_CURRENCY_PICKUP,+%s份珍宝,3
 51918,ERROR_CONNECT_TO_PLUNDERSTORM_FAILED_DIALOG,无法连接到“霸业风暴”。请稍后再试。,2
 51919,AUCTION_HOUSE_FILTER_CURRENTEXPANSION_ONLY,仅限当前内容更新,1
-51926,TIMERUNNING_BANNER_PANDARIA_HEADER,《魔兽世界》幻境新生：熊猫人之谜！,2
+51921,UNITNAME_SUMMON_TITLE54,%s的先祖,1
+51924,TALENT_TUTORIAL_HERO_CLASS_FIRST_CHOICE,不用担心选错。你到80级后会学会所有这些天赋。,1
+51926,TIMERUNNING_BANNER_PANDARIA_HEADER,《魔兽世界》|n幻境新生：熊猫人之谜！,2
 51927,TIMERUNNING_BANNER_TIME_LEFT,剩余时间：|cnNORMAL_FONT_COLOR:%s|r,2
+51928,ACCOUNT_COMPLETED_QUEST_NOTICE,你的战团此前已经完成了这个任务。,1
+51929,WORLD_MAP_FILTER_LABEL_SHOW,显示:,1
+51930,WORLD_MAP_FILTER_LABEL_WORLD_QUESTS_SUBMENU,世界任务,1
+51931,WORLD_MAP_FILTER_LABEL_WORLD_QUESTS_SUBMENU_TYPE,类型：,1
+51932,SHOW_WORLD_QUESTS_ON_MAP_TEXT,世界任务,1
+51933,HERO_TALENTS_CHOOSE_1,选择你的,1
+51934,HERO_TALENTS_CHOOSE_2,英雄天赋,1
+51935,HERO_TALENTS_LOCKED_1,英雄天赋,1
+51936,HERO_TALENTS_LOCKED_2,达到%d级后解锁,1
+51937,HERO_TALENTS_POINTS_LABEL,可用点数,1
 51941,TIMERUNNING_CHARACTER_TOOLTIP_TITLE,时空奔行角色,2
 51942,TIMERUNNING_CHARACTER_TOOLTIP_PANDARIA_DESCRIPTION,本角色正在参与“《魔兽世界》幻境新生：熊猫人之谜”活动，只能与其他时空奔行角色组队。,2
+51943,HERO_TALENTS_POINTS_AMOUNT,%d,1
+51944,PROFESSIONS_BUTTON,专业,1
+51945,PLAYERSPELLS_BUTTON,天赋和法术书,1
 51946,KEY_OEM1,;,1
 51947,KEY_OEM2,/,1
 51948,KEY_OEM3,`,1
@@ -22199,10 +22337,16 @@ ID,BaseTag,TagText_lang,Flags
 51952,KEY_OEM7,',1
 51953,KEY_OEMCOMMA,、,1
 51954,KEY_OEMPERIOD,.,1
+51955,ERR_SOCKETING_REQUIRES_FRAGRANCE_GEM,该插槽需要芬芳宝石。,1
+51956,ERR_SOCKETING_FRAGRANCE_GEM_ONLY_IN_FRAGRANCESLOT,芬芳宝石只能镶嵌在芬芳插槽中。,1
 51957,SPECTATING,观战,1
 51958,TIMERUNNING_AUCTION_HOUSE_DISABLED,时空奔行者不能使用拍卖行。,5
+51959,EMPTY_SOCKET_FRAGRANCE,芬芳镶孔,1
+51960,TALENT_FRAME_CURRENCY_DISPLAY_FORMAT_NAME_ONLY,%s,1
 51961,TIMERUNNING_CHOICE_WARNING,这是一种进阶玩法。你确定要创建一个时空奔行角色吗？,2
 51962,TIMERUNNING_POPUP_PANDARIA_TOP_DESCRIPTION,创建时空奔行者角色，体验“熊猫人之谜”的狂野新变化！,2
+51963,ACCOUNT_FIRST_TIME_QUEST_BONUS_TOOLTIP,这是一次性的战团奖励。,1
+51964,ACCOUNT_PREVIOUSLY_COMPLETED_QUEST_BONUS_TOOLTIP,这是给之前完成过此任务的账号提供的战团奖励。,1
 51965,TIMERUNNING_SUBSCRIPTION_REQUIRED,需要订阅才能参与,2
 51966,SPELL_FAILED_CUSTOM_ERROR_1032,时空奔行者不能传送到潘达利亚之外。,1
 51967,OPTION_TOOLTIP_ANTIALIASING_IB,只使用现存的全屏渲染的抗锯齿技术,3
@@ -22212,16 +22356,364 @@ ID,BaseTag,TagText_lang,Flags
 51971,OPTION_TOOLTIP_ANTIALIASING_CMAA2,保守形态抗锯齿2：更加先进的CMAA版本。（如果同时使用“多重采样技术”的话，则更建议此方式）。,3
 51972,OPTION_TOOLTIP_WINDOW_SIZE,调整游戏分辨率,3
 51973,OPTIONAL_REAGENT_INSUFFICIENT_AVAILABLE,没有足够的材料可用,1
+51974,INSTANCE_WALK_IN_LEAVE,离开地下堡,1
+51976,SPELL_FAILED_CUSTOM_ERROR_1033,进一步强化专精，或提高你速记的能力，这样才能理解这些笔记。,1
+51977,SPELL_FAILED_CUSTOM_ERROR_1034,已经没有别的东西可以发明了，而且其他人无法说服你放弃这个观点。,1
 51978,ERR_PARTY_LFG_BOOT_DISALLOWED_BY_MAP,玩家无法在此副本内被踢出。,1
+51979,BANK_TAB_TOOLTIP_CLICK_INSTRUCTION,<右键点击进行设置>,1
 51980,OPTION_TOOLTIP_NAMEPLATE_HIDE_HEALTH_AND_POWER,隐藏你的角色下方的生命条和资源条,1
 51981,OPTION_TOOLTIP_DISPLAY_PERSONAL_COOLDOWNS,在你的角色下方显示重要法术的冷却时间,1
 51982,OPTION_TOOLTIP_DISPLAY_PERSONAL_FRIENDLY_BUFFS,在你的角色下方显示友方增益效果,1
+51983,BANK_TAB_DEPOSIT_ASSIGNMENTS,指定到：|cnHIGHLIGHT_FONT_COLOR:%s|r,1
+51984,BANK_TAB_EXPANSION_ASSIGNMENT,内容更新：|cnHIGHLIGHT_FONT_COLOR:%s|r,1
+51985,SPELL_FAILED_CUSTOM_ERROR_1035,你的小队中有一名玩家没有解锁此难度。,1
 51986,PERKS_PROGRAM_DOES_NOT_EXPIRE_TIME_REMAINING,|cff808080--|r,1
+51987,ARACHNOPHOBIA_MODE_CHECKBOX,蜘蛛恐惧症模式,1
+51988,ARACHNOPHOBIA_MODE_CHECKBOX_TOOLTIP,把蜘蛛替换为其他生物。此设置不影响游戏玩法和难度。,1
 51989,ERR_GUILD_BANK_NOT_AVAILABLE,此角色无法使用公会银行。,1
+51990,CHARACTER_SELECT_HEADER_INFO,%d级,2
 51992,COUNTDOWN_CANCEL_ENCOUNTER_START,战斗已开始，倒计时取消。,1
+51993,VISITABLE_URL61,https://support.blizzard.com/article/000358199,2
+51994,ARACHNOPHOBIA_MODE_SUBTEXT,更多信息请查阅|cff00aaff|HurlIndex:61|h蜘蛛恐惧症页面|h|r,1
+52023,11_0_Z_1_WQ_MINIGAME_01_ARCANE_LOCK,打开奥术之锁！,1
+52024,ITEM_MOD_INGENUITY_SHORT,奇思,1
+52025,FLIGHT_MODE_TOGGLE_TOOLTIP_SUBTEXT,你可以将该技能拖曳到动作条上。,1
+52027,POWER_DISPLAY_LABEL_ANGER,愤怒,1
+52028,SPELL_FAILED_CUSTOM_ERROR_1036,你没有任何的光耀回响。,1
 52029,ERR_PARTY_TIME_RUNNING_SEASON_ID_MUST_MATCH,标准角色和时空奔行角色不能一起组队。,1
+52031,QUEST_HUB_TOOLTIP_AVAILABLE_QUESTS_HEADER,可用任务：,1
+52032,QUEST_HUB_TOOLTIP_MORE_QUESTS_REMAINING,+%d个,1
+52033,ERR_SOLO_RBG_WARGAME_GROUP_COMP,每个8人队伍都必须要有刚好2名治疗者和最多1名坦克才能开始战场闪电战战争游戏。,1
+52034,ERR_SOLO_RBG_WARGAME_GROUP_SIZE,必须要有刚好16名非观众玩家，才能开始进行战场闪电战战争游戏。,1
+52035,SPELL_FAILED_CUSTOM_ERROR_648,你已经使用过这种蛛魔训练物品。,1
+52036,SLASH_SOLORBG_WARGAME1,/battlegroundblitzwargame,1
+52037,SLASH_SOLORBG_WARGAME2,/bgbwg,1
+52038,SLASH_SPECTATOR_SOLORBG_WARGAME1,/invitespectatorbattlegroundblitzmatch,1
+52039,SHOW_SILHOUETTE_OPTION,被遮蔽时显示轮廓,1
+52040,OPTION_TOOLTIP_SHOW_SILHOUETTE,被游戏中的物体遮蔽时，高亮你的角色的轮廓,1
+52049,TUTORIAL_HERO_TALENT_NONE_SPENT,不用担心，80级时你会习得所有这些天赋。,1
+52050,PROFESSIONS_CRAFTING_CONCENTRATION_HEADER,专注：,1
+52054,HUD_EDIT_MODE_SETTING_OBJECTIVE_TRACKER_TEXT_SIZE,文本大小,1
+52056,SPELL_FAILED_CUSTOM_ERROR_1037,需要解锁地心之战探路者才能在此区域使用。,1
 52057,TIMERUNNING_TIMERUNNERS_ADVANTAGE_TUTORIAL,永恒潜能披风提供的效果会展示在这里。,1
+52058,MINIMAP_TRACKING_ACCOUNT_COMPLETED_QUESTS,战团已完成的任务,1
 52059,TIMERUNNING_DISABLED_TOOLTIP,时光奔行者暂时不可用。,2
+52060,ACCOUNT_QUEST_LABEL,战团,1
+52061,SHOW_ACCOUNT_COMPLETED_QUESTS_BUTTON_LABEL,战团已完成的任务,1
 52062,PERKS_PROGRAM_PLAY_ATTACK_ANIM,战斗动画,1
 52063,PERKS_PROGRAM_MOUNT_SPECIAL_ANIM,坐骑动画特效,1
+52064,PREFIX_SOLO_RBG,战场闪电战：%s,1
 52066,PERSONALTABARDVENDORUNOWNEDGREETING,你必须拥有一件个人战袍才能进行自定义，但你可以随意浏览。,7
+52067,ACCOUNT_CURRENCY_GAINED_MULTIPLE,你的战团获得了货币：%sx%d,1
+52068,ACCOUNT_CURRENCY_GAINED_MULTIPLE_BONUS,你的战团获得了货币：%sx%d（奖励目标）,1
+52069,ACCOUNT_CURRENCY_GAINED_MULTIPLE_OVERFLOW,你的战团获得了货币：%sx%d（你的战团拥有的%s已经达到最大值）,1
+52070,ACCOUNT_LEVEL_CURRENCY,战团货币,1
+52071,ACCOUNT_TRANSFERRABLE_CURRENCY,战团可转移货币,1
+52072,CURRENCY_TRANSFER_LOSS,|cnNORMAL_FONT_COLOR:转移中损失量：|r |cnHIGHLIGHT_FONT_COLOR:%d%%|r ,1
+52073,UNITNAME_SUMMON_TITLE55,%s的发明,1
+52074,ERR_NO_ACCOUNT_BANK_HERE,你距离战团银行太远。,1
+52075,DELVES_LEVEL_PICKER_LEADER_ERROR,你现在不是队长。,1
+52076,DELVES_ENTRANCE_LEVEL_REQUIREMENT_ERROR,需要达到至少%d级才能进入地下堡。,1
+52077,DELVES_COMPANION_VIEW_ABILITIES,查看技能,1
+52078,DELVES_CURIO_LOCKED,锁定,1
+52079,DELVES_CURIO_SLOT_EMPTY,空置,1
+52080,DELVES_CONFIG_SLOT_LABEL_COMBAT_ROLE,战斗职责,1
+52081,DELVES_CONFIG_SLOT_UTILITY_CURIO,效能珍玩,1
+52082,DELVES_CONFIG_SLOT_COMBAT_CURIO,战斗珍玩,1
+52083,DELVES_COMPANION_ABILITY_LIST_TITLE,伙伴技能,1
+52084,DELVES_ABILITY_RANK_LABEL,等级 %d,1
+52085,DELVES_ABILITY_LIST_DROPDOWN_OPTION_LABEL,%s %s,1
+52086,DELVES_ABILITY_LIST_CURRENT_PAGE,%d/%d页,1
+52087,PROFESSIONS_CRAFTING_CONCENTRATION_TOGGLE_ON,使用%s,1
+52088,PROFESSIONS_CRAFTING_CONCENTRATION_TOGGLE_OFF,取消%s,1
+52089,PROFESSIONS_CRAFTING_CONCENTRATION_TOGGLE_DISABLED,%s不足,1
+52090,PROFESSIONS_CRAFTING_CONCENTRATION_TOGGLE_ON_DESC,使用%d专注来确保获得此配方的下一级品质。,1
+52092,PROFESSIONS_CRAFTING_CONCENTRATION_TOGGLE_OFF_DESC,在此配方里移除%d专注。,1
+52093,PROFESSIONS_CRAFTING_CONCENTRATION_CURRENCY_TOOLTIP,专注可以用来确保制造时获得较高品质。专注会缓慢回复，在制造时如果触发了你的奇思效果，也会部分返还。,1
+52094,PROFESSIONS_CRAFTING_CONCENTRATION_CURRENCY_TOOLTIP_WARNING,专注值已满。,1
+52095,SPELL_FAILED_CUSTOM_ERROR_1039,只能在战斗中使用。,1
+52096,SPELL_FAILED_CUSTOM_ERROR_1040,你的角色等级不够，无法进入地下堡。,1
+52097,PROFESSIONS_CRAFTING_CURRENCY_LABEL_FORMAT,|cnHIGHLIGHT_FONT_COLOR:%d/%d|r,1
+52098,PROFESSIONS_CRAFTING_CURRENCY_TOOLTIP_FORMAT,%d/%d,1
+52099,PROFESSIONS_CRAFTING_STAT_CONCENTRATION,专注,1
+52100,PROFESSIONS_CRAFTING_STAT_CONCENTRATION_DESCRIPTION,此配方所需的专注值。,1
+52101,PROFESSIONS_CRAFTING_EXPECTED_QUALITY_WITH_CONCENTRATION,|cnHIGHLIGHT_FONT_COLOR:预期品质：|r %s|n|n以目前的方式应用专注的话，可以确保你获得下一级品质：%s,1
+52102,RATED_BG_BLITZ_SIZE,单人,1
+52103,PVP_RATED_BG_BLITZ,评级战场闪电战,1
+52104,RATED_BG_BLITZ_MODE_DESCRIPTION,更快节奏的8v8战场。限单排，治疗者可以双排。,1
+52105,PROFESSIONS_CRAFTING_CONCENTRATION_TOGGLE_UNAVAILABLE,无法使用%s,1
+52106,PROFESSIONS_CRAFTING_CONCENTRATION_TOGGLE_UNAVAILABLE_DESC,此配方已达到最高品质。,1
+52107,PROFESSIONS_CRAFTER_ORDER_TAB_NPC,客人,1
+52108,POWER_TYPE_BLACK_BLOOD,黑血,1
+52109,CURRENCY_TRANSFER_TOGGLE_BUTTON_LABEL,转移,1
+52110,CURRENCY_TRANSFER_MENU_TITLE,转移货币 - %s,1
+52111,CURRENCY_TRANSFER_CONFIRM_BUTTON_LABEL,确认,1
+52112,CURRENCY_TRANSFER_CANCEL_BUTTON_LABEL,取消,1
+52113,CURRENCY_TRANSFER_AMOUNT_LABEL,转移量,1
+52114,CURRENCY_TRANSFER_SOURCE,寄送人,1
+52115,CURRENCY_TRANSFER_DESTINATION,收取人 %s,1
+52116,CURRENCY_TRANSFER_NEW_BALANCE_PREVIEW,%s的新余额,1
+52117,CURRENCY_TRANSFER_COST_TOOLTIP,转移将损失%d份货币。,1
+52118,CURRENCY_TRANSFER_DISABLED_MAX_QUANTITY,你无法再携带更多这类货币,1
+52120,SPELL_FAILED_CUSTOM_ERROR_1041,不知为何，神奇的智慧之球没有反应。,1
+52121,ERR_REMIX_INVALID_TRANSFER_REQUEST,你不能去那里,1
+52124,CRF_EDIT_MODE,编辑模式,1
+52125,CRF_SETTINGS,设置,1
+52126,CRF_HIDE_GROUPS,隐藏队伍,1
+52127,CRF_DIFFICULTY,难度,1
+52128,CRF_READY_CHECK,就位确认,1
+52129,CRF_ROLE_POLL,职责选定,1
+52130,CRF_COUNTDOWN,倒计时,1
+52131,CRF_ALL_ASSIST,所有人都是助理,1
+52132,CHINA_RELEASE_BUILD,中国正式版本,2
+52133,REPORTING_MAJOR_CATEGORY_CHINA_HARMFUL_MINORS,对未成年人有害的信息,3
+52134,DELVES_INSTANCE_RESET_WARNING,这个地下堡副本将在%s后重置。,1
+52135,DAILY_RESET_INSTANCE_WELCOME,欢迎来到%s。每日重置将于%s后发生，届时此副本会被重置。,1
+52136,CURRENCY_TRANSFER_SUCCESS_MESSAGE,|cnNORMAL_FONT_COLOR:%s|r|cnHIGHLIGHT_FONT_COLOR:转移了%sx%d到|r|cnNORMAL_FONT_COLOR:%s处。|r,1
+52137,CHINA_GM_BUILD,中国GM,2
+52138,WAR_WITHIN_LANDING_PAGE_TITLE,卡兹阿加概要,1
+52139,WAR_WITHIN_LANDING_PAGE_TOOLTIP,点击这里显示卡兹阿加概要,1
+52140,DELVES_LABEL,地下堡,1
+52141,DELVES_DASHBOARD_SEASON_TITLE,%s（%s第%s赛季）,1
+52142,CURRENCY_TRANSFER_LOG_TITLE,转移记录,1
+52143,CURRENCY_TRANSFER_LOG_CURRENCY_FORMAT,%s %s,1
+52144,CURRENCY_TRANSFER_LOG_TIME_FORMAT,%s前,1
+52146,DELVES_REPUTATION_BAR_TITLE,地下堡旅程（%s第%s赛季）,1
+52147,DELVES_COMPANION_LABEL,地下堡伙伴,1
+52148,DELVES_CONFIGURE_BUTTON,设置,1
+52149,DELVES_GREAT_VAULT_DESCRIPTION_SEASON_STARTED,完成地下堡获取每周奖励,1
+52150,DELVES_GREAT_VAULT_LABEL,宏伟宝库,1
+52151,DYNAMIC_FLIGHT,驭空术,1
+52152,DELVES_GREAT_VAULT_TOOLTIP,完成地下堡获取每周奖励。\n\n%s/%s奖励已解锁。 ,1
+52153,DELVES_GREAT_VAULT_REQUIRES_ACTIVE_SEASON,宏伟宝库只在赛季期间开放。,1
+52154,OPEN_DYNAMIC_FLIGHT_TREE_TOOLTIP,技能和解锁,1
+52155,DELVES_GREAT_VAULT_UNAVAILABLE_LABEL,赛季期间可用,1
+52156,DELVES_COMPANION_NOT_ENABLED_TOOLTIP,和多恩岛战役的任务“探地寻堡”一起解锁。,1
+52157,SEARCH_QUEST_LOG,搜索任务日志,1
+52158,QUEST_LOG_NO_QUESTS,没有可用的任务|n|n与头顶有|TInterface\\GossipFrame\\AvailableQuestIcon:16:16|t标志的角色对话可以接受任务。,1
+52159,QUEST_LOG_NO_RESULTS,没有找到相关结果,1
+52162,DELVES_REPUTATION_BAR_TITLE_NO_SEASON,地下堡旅程（赛季期间可用）,1
+52164,CURRENCY_TRANSFER_DISABLED_NO_VALID_SOURCES,你的战团没有足够的此类货币，无法转移给你。,1
+52165,TIMERUNNING_WARBAND_BANK_DISABLED,时空奔行者无法使用战团银行。,1
+52166,RACE_INFO_EARTHENDWARF,卡兹阿加的土灵在最近终于摆脱了律令的束缚，开始在艾泽拉斯展开冒险。他们怀着无穷的好奇心，希望可以把所有的奖励都带回档案馆。,3
+52167,REWARD_QUESTLINE_UNLOCK,此任务线会解锁：,1
+52168,REWARD_QUESTLINE_REWARD,完成此任务线时会奖励：,1
+52169,REWARD_QUESTLINE_UNLOCK_PART,此任务线是解锁此内容所需的一部分：,1
+52170,UNITNAME_SUMMON_TITLE56,%s之友,1
+52171,SPELL_FAILED_CUSTOM_ERROR_2001,纹章里没有储存魔法。,1
+52172,QUEST_LOG_SHOW_OBJECTIVES,显示任务目标,1
+52173,QUEST_LOG_TRACK_ALL,追踪所有,1
+52174,QUEST_LOG_UNTRACK_ALL,取消追踪所有,1
+52175,SUPER_TRACK_QUEST,焦点,1
+52176,SPELLBOOK_SEARCH_INSTRUCTIONS,搜索技能、关键词,1
+52177,SPELLBOOK_SEARCH_NOT_ON_ACTIONBAR,不在动作条上,1
+52178,SPELLBOOK_FILTER_PASSIVES,隐藏被动技能,1
+52179,11_0_Z_1_MAX_CAMPAIGN_MINIGAME_REWIRE,给大型机线路板重新接线,1
+52180,SPELLBOOK_SEARCH_HEADER_EXACT,精确匹配,1
+52181,SPELLBOOK_SEARCH_HEADER_RELATED,相关匹配,1
+52182,SPELLBOOK_SEARCH_HEADER_NAME,名称匹配,1
+52183,SPELLBOOK_SEARCH_HEADER_DESCRIPTION,描述匹配,1
+52184,SPELLBOOK_SEARCH_HEADER_GENERIC,匹配,1
+52185,SPELLBOOK_SEARCH_HIDE_PASSIVES_DISABLED,搜索时，隐藏被动技能选项会被关闭,1
+52186,WAR_WITHIN_LANDING_PAGE_ALERT_SUMMARY_UNLOCKED,卡兹阿加概要已解锁,1
+52187,WAR_WITHIN_LANDING_PAGE_ALERT_MAJOR_FACTION_UNLOCKED,主要阵营已解锁,1
+52188,DELVES_GREAT_VAULT_ERR_AVAIL_AT_MAX_LEVEL,在%d级解锁,1
+52189,DELVES_ERR_MUST_USE_SUPPLIES,You must be near an Explorers' League supply crate to change this.,1
+52190,ACCOUNT_FIRST_TIME_QUEST_BONUS_REP_TOOLTIP,包括一次性的战团奖励（%d|cnGREEN_FONT_COLOR:+%d|r点声望）,1
+52191,ACCOUNT_FIRST_TIME_QUEST_BONUS_CURRENCY_TOOLTIP,包括一次性的战团奖励（%d|cnGREEN_FONT_COLOR:+%d|r份货币）,1
+52192,ACCOUNT_PREVIOUSLY_COMPLETED_QUEST_REP_BONUS_TOOLTIP,这是给之前完成过此任务的账号提供的战团奖励（%d|cnGREEN_FONT_COLOR:+%d|r点声望）,1
+52193,ACCOUNT_PREVIOUSLY_COMPLETED_QUEST_CURRENCY_BONUS_TOOLTIP,这是给之前完成过此任务的账号提供的战团奖励（%d|cnGREEN_FONT_COLOR:+%d|r份货币）,1
+52194,RACE_INFO_EARTHENDWARF_FEMALE,卡兹阿加的土灵在最近终于摆脱了律令的束缚，开始在艾泽拉斯展开冒险。他们怀着无穷的好奇心，希望可以把所有的奖励都带回档案馆。,3
+52195,GREAT_VAULT_REWARDS_WORLD_INCOMPLETE,再完成%1$d个地下堡或者世界活动可以解锁一个宏伟宝库奖励。世界活动被算作难度0。|n|n此奖励的物品等级会以你本周最高的成绩为依据。,1
+52196,GREAT_VAULT_REWARDS_WORLD_COMPLETED_FIRST,再完成%1$d个地下堡或者世界活动就可以解锁第二个宏伟宝库奖励。世界活动算作难度0。,1
+52197,GREAT_VAULT_REWARDS_WORLD_COMPLETED_SECOND,再完成%1$d个地下堡或者世界活动就可以解锁第三个宏伟宝库奖励。世界活动算作难度0。,1
+52198,WEEKLY_REWARDS_THRESHOLD_WORLD,完成%d个地下堡或者世界活动。,1
+52200,ACCOUNT_WIDE_REPUTATION_TUTORIAL,|cnHIGHLIGHT_FONT_COLOR:这是个|r |cnNORMAL_FONT_COLOR:战团|r |cnHIGHLIGHT_FONT_COLOR:阵营。在此阵营获取的声望会由你的所有角色分享。|r,1
+52201,ACCOUNT_TRANSFERABLE_CURRENCIES_TUTORIAL,|cnHIGHLIGHT_FONT_COLOR:某些货币是|r|n|cnNORMAL_FONT_COLOR:战团可转移货币。|r|n|cnHIGHLIGHT_FONT_COLOR:点击一种货币，从另一名角色处发起转移。|r,1
+52202,BIND_TO_ACCOUNT_UNTIL_EQUIP_TUTORIAL,|cnNORMAL_FONT_COLOR:战团绑定|r |cnHIGHLIGHT_FONT_COLOR:装备可与你的其他角色共享。|n|n一旦装备，此装备会变为|r |cnNORMAL_FONT_COLOR:灵魂绑定。|r,1
+52203,ACCOUNT_COMPLETED_QUESTS_FILTER_TUTORIAL,|cnHIGHLIGHT_FONT_COLOR:你已使用另一名角色完成的任务会在地图上隐藏。它们的NPC任务指示器会在世界上变为暗色。|n|n你可以在这里对此设置进行修改。|r,1
+52204,GREAT_VAULT_WORLD_TIER,难度 %s,1
+52205,WEEKLY_REWARDS_ITEM_LEVEL_WORLD,物品等级 %1$d - （难度 %2$d）,1
+52206,WEEKLY_REWARDS_COMPLETE_WORLD,完成难度为%1$d或更高的地下堡即可提升此奖励的物品等级。,1
+52207,SPELL_FAILED_CUSTOM_ERROR_1042,你的收藏中已经有了这个珍玩。,1
+52218,POWER_TYPE_ACID,酸性之力,1
+52219,PROF_CRAFTING_ORDER_TYPE_NPC,NPC,1
+52220,DELVE_LABEL,地下堡,1
+52221,UNITNAME_SUMMON_TITLE57,由%s放置,1
+52228,PHOTOSENSITIVITY_WARNING_TITLE,光敏性警告,2
+52229,PHOTOSENSITIVITY_WARNING_DESCRIPTION,少数人暴露于特定光线、图案或图像时会产生癫痫，即使没有癫痫史也有可能出现。|n|n如果你或者你的家族中有人出现过癫痫，请在游戏前咨询医生。|n|n如果你在游戏期间出现眩晕、视觉异常、抽搐、失去意识、失去方向感、不自觉运动、惊厥，请停止游戏并寻求医学建议。,2
+52235,PHOTOSENSITIVITY_WARNING_CONTINUE,按任意键继续,2
+52256,CHARACTER_ACHIEVEMENT_DESCRIPTION,此成就的进度是按角色进行追踪的。,1
+52258,VRN_DX12_NEEDS_WIN10_19H2,DirectX 12需要Windows 10的2019年十一月或之后的更新,3
+52259,SPELL_FAILED_CUSTOM_1101,附近已经建造了一个充能站。,1
+52260,SPELL_FAILED_CUSTOM_1102,附近已经建造了一个导风站。,1
+52261,SPELL_FAILED_CUSTOM_1103,附近已经建造了一个恢复站。,1
+52262,SPELL_FAILED_CUSTOM_1104,距离另一个站点太近。,1
+52263,REPORTING_MINOR_CATEGORY_HARMFUL_INFO_FOR_MINORS,对未成年人有害的信息,5
+52264,CHARACTER_CREATE_REALM_TOOLTIP,将在选择的服务器创建角色,2
+52265,CHARACTER_CREATE_REALM,%s 服务器,2
+52266,CHARACTER_SELECT_REALM_TOOLTIP,%s 服务器,2
+52267,REPORTING_MINOR_CATEGORY_HARMFUL_TO_MINORS,对未成年人有害的信息,1
+52268,ACCOUNT_COMPLETED_QUESTS_FILTER_DESCRIPTION,切换是否显示地图上你之前用其他角色完成过的任务和是否显示暗色NPC任务指示器。|n|n目前支持“巨龙时代”和“地心之战”。,1
+52269,DELVES_NEW_CURIO,新,1
+52271,STOP_SUPER_TRACK_QUEST,移除焦点,1
+52272,HERO_TALENTS_COLLAPSE,最小化,1
+52273,HERO_TALENTS_EXPAND,最大化,1
+52274,SPELL_FAILED_CUSTOM_ERROR_1051,你已经揭示或找到了今天的所有契约地点。,1
+52275,CURRENCY_TRANSFER_LOG_EMPTY,没有发现转移记录。,1
+52276,ERR_CURRENCY_TRANSFER_INVALID_CHARACTER,货币不能从此角色处转移。,1
+52277,ERR_CURRENCY_TRANSFER_CHARACTER_LOGGED_IN,货币不能从此角色处转移，因为此角色处于登录状态。,1
+52278,ERR_CURRENCY_TRANSFER_INSUFFICIENT_CURRENCY,此角色没有足够的货币转移给你。,1
+52279,ERR_CURRENCY_TRANSFER_MAX_QUANTITY,你无法再携带更多此类货币。,1
+52280,ERR_CURRENCY_TRANSFER_INVALID_CURRENCY,此货币不可以在战团内转移。,1
+52281,ERR_CURRENCY_TRANSFER_NO_VALID_SOURCE,你的战团没有足够的此类货币，无法转移给你。,1
+52282,ERR_CURRENCY_TRANSFER_SERVER_ERROR,发生错误，请稍后再试。,1
+52285,RPE_GEAR_UPDATE_CHARACTER,角色：,2
+52286,RPE_GEAR_UPDATE_SELECT_SPEC,选择你的专精：,2
+52287,PLAYER_CHOICE_NOTORIETYPACT_CONFIRMATION,此选择会影响你的战团里的所有角色。|n|n|cffffd200确定要继续吗？|r,1
+52288,CURRENCY_TRANSFER_DISABLED_UNMET_REQUIREMENTS,你没有达到要求，无法使用此货币。,1
+52289,INSPECT_GUILD_REALM,服务器：%s,1
+52290,CLUB_FINDER_REALM_NAME,服务器：|cffffffff%s|r,1
+52296,MAP_LEGEND_CAMPAIGN,战役,1
+52297,MAP_LEGEND_CAMPAIGN_TOOLTIP,这类任务可以继续发展主线剧情,1
+52298,MAP_LEGEND_IMPORTANT,重要,1
+52299,MAP_LEGEND_IMPORTANT_TOOLTIP,这类任务可以解锁重要功能和奖励，或教你掌握主要游戏机制,1
+52300,MAP_LEGEND_LEGENDARY,传说,1
+52301,MAP_LEGEND_LEGENDARY_TOOLTIP,这类任务可以提供传说奖励,1
+52302,MAP_LEGEND_META,统合,1
+52303,MAP_LEGEND_META_TOOLTIP,这类任务有时间限制，会提供宝贵的终局游戏奖励,1
+52304,MAP_LEGEND_LOCALSTORY,当地剧情,1
+52305,MAP_LEGEND_LOCALSTORY_TOOLTIP,这类任务会探索当地文化，以及进行支线冒险,1
+52306,MAP_LEGEND_INPROGRESS,进行中,1
+52307,MAP_LEGEND_INPROGRESS_TOOLTIP,这类任务目前正在进行中,1
+52308,MAP_LEGEND_TURNIN,可完成,1
+52309,MAP_LEGEND_TURNIN_TOOLTIP,这类任务已经可以交还,1
+52310,MAP_LEGEND_WORLDQUEST,世界任务,1
+52312,MAP_LEGEND_WORLDQUEST_TOOLTIP,开放世界活动，提供各种不同的奖励 ,1
+52313,MAP_LEGEND_WORLDBOSS,世界首领,1
+52314,MAP_LEGEND_WORLDBOSS_TOOLTIP,难度较高的开放世界首领，会掉落宝贵的战利品，适合由多个队伍组成的玩家一起挑战,1
+52315,MAP_LEGEND_BONUSOBJECTIVE,奖励目标,1
+52316,MAP_LEGEND_BONUSOBJECTIVE_TOOLTIP,奖励性质的开放世界活动，提供经验值以及各种数量的奖励,1
+52317,MAP_LEGEND_EVENT,事件,1
+52318,MAP_LEGEND_EVENT_TOOLTIP,特定版本专属的各种活动，提供宝贵的奖励,1
+52319,MAP_LEGEND_RARE,稀有,1
+52320,MAP_LEGEND_RARE_TOOLTIP,特殊生物，提供各种奖励,1
+52321,MAP_LEGEND_RAREELITE,稀有精英,1
+52322,MAP_LEGEND_RAREELITE_TOOLTIP,稀有的特殊生物，有几率掉落宝贵的战利品,1
+52323,MAP_LEGEND_DUNGEON,地下城,1
+52324,MAP_LEGEND_DUNGEON_TOOLTIP,此内容是按五人小队的规模设计的，可以提供战利品,1
+52325,MAP_LEGEND_RAID,团队,1
+52326,MAP_LEGEND_RAID_TOOLTIP,极其有挑战性的内容，适合多个队伍组成的玩家群体，提供宝贵的战利品,1
+52327,MAP_LEGEND_HUB,枢纽,1
+52328,MAP_LEGEND_HUB_TOOLTIP,中心区域，有NPC、活动和可接的任务,1
+52329,MAP_LEGEND_DIGSITE,挖掘场,1
+52330,MAP_LEGEND_DIGSITE_TOOLTIP,考古地点，你可以在此挖掘神器,1
+52331,MAP_LEGEND_PETBATTLE,宠物对战,1
+52332,MAP_LEGEND_PETBATTLE_TOOLTIP,向NPC发起挑战，进行宠物对战,1
+52334,MAP_LEGEND_FRAME_LABEL,地图图例,1
+52335,MAP_LEGEND_CATEGORY_QUESTS,任务,1
+52336,MAP_LEGEND_CATEGORY_LTA,限时活动,1
+52337,MAP_LEGEND_CATEGORY_ACTIVITIES,活动,1
+52338,MAP_LEGEND_CATEGORY_MOVEMENT,移动,1
+52339,MAP_LEGEND_TELEPORT,传送点,1
+52340,MAP_LEGEND_TELEPORT_TOOLTIP,将你传送到另一个地区,1
+52341,MAP_LEGEND_CAVE,洞穴入口,1
+52342,MAP_LEGEND_CAVE_TOOLTIP,洞穴入口或另一地图的入口,1
+52343,MAP_LEGEND_FLIGHTPOINT,飞行点,1
+52344,MAP_LEGEND_FLIGHTPOINT_TOOLTIP,将你转移到同一地区的不同位置,1
+52346,VRN_COMPAT_MODE,由于兼容性设置而被关闭,3
+52347,COMPATIBILITY_SETTINGS,兼容性设置,3
+52348,OPTION_TOOLTIP_COMPATIBILITY_SETTINGS,兼容性设置可以帮助分析和绕过各种游戏崩溃、图像错误和性能问题。在绝大多数情况下，关闭这些功能会降低性能，造成画面卡顿，和/或降低画面质量。只适合在出现特定问题的情况下关闭这些功能。,3
+52349,COMPAT_SETTING_OPTIONAL_GPU_FEATURES,可选的GPU功能,3
+52350,COMPAT_SETTING_DEVICE_MULTITHREADING,异步资源生成,3
+52351,COMPAT_SETTING_FRAME_OVERLAP,画帧重叠,3
+52352,COMPAT_SETTING_CMDLIST_MULTITHREADING,多线程渲染,3
+52353,OPTION_TOOLTIP_COMPAT_SETTING_OPTIONAL_GPU_FEATURES,允许使用较新的GPU功能，关闭后，游戏运行时，GPU只支持最少的可支持功能。各种图形功能都会关闭，游戏的画面质量很可能会下降。此选项可能有助于绕过驱动错误或其他较新的GPU功能产生的问题。,3
+52354,OPTION_TOOLTIP_COMPAT_SETTING_DEVICE_MULTITHREADING,允许异步创建GPU资源，如材质和着色器。关闭此选项很可能造成画面卡顿，但有助于绕过非常陈旧的驱动或硬件造成的游戏崩溃或画面问题。,3
+52355,OPTION_TOOLTIP_COMPAT_SETTING_FRAME_OVERLAP,允许GPU同时计算2帧。关闭此选项可能会使帧率稳定性下降，或降低帧率，但有助于避免特定硬件、驱动和操作系统组合中的某些种类的游戏崩溃。 ,3
+52356,OPTION_TOOLTIP_COMPAT_SETTING_CMDLIST_MULTITHREADING,允许游戏使用多CPU线程来渲染游戏。关闭此选项很可能会大幅降低帧率，但可以绕过一些情况下出现的游戏崩溃或画面问题。 ,3
+52358,QUEST_CLASSIFICATION_CALLING,使命,1
+52360,QUEST_CLASSIFICATION_IMPORTANT,重要,1
+52361,QUEST_CLASSIFICATION_CAMPAIGN,战役,1
+52362,QUEST_CLASSIFICATION_LEGENDARY,传说,1
+52363,QUEST_CLASSIFICATION_META,统合,1
+52364,QUEST_CLASSIFICATION_RECURRING,可重复,1
+52365,QUEST_CLASSIFICATION_QUESTLINE,故事线,1
+52366,QUEST_CLASSIFICATION_QUESTLINE_WITH_NAME,故事线（%s）,1
+52367,DELVES_ERR_SELECT_TIER,你必须选择一个难度。,1
+52368,ERR_NOT_ENOUGH_PURCHASED_GAME_TIME,此账号必须至少购买过一次游戏时间才有资格用金币购买魔兽世界时光徽章。,1
+52373,ERR_CURRENCY_TRANSFER_UNMET_REQUIREMENTS,你没有达到要求，无法使用此货币。,1
+52374,CHARACTER_SELECT_UNDELETE_REALM_LABEL,%s 服务器,2
+52375,CHARACTER_SELECT_UNDELETE_REALM_HELPTIP,只显示当前服务器中被删除的角色。切换服务器查看其它被删除的角色。,2
+52376,ERR_NO_REFUNDABLE_ITEM_IN_ACCOUNT_BANK,可退还的物品无法存放在战团银行。,1
+52377,NPEV2_SELECT_SPEC_TAB,选择|cFF00FFFF专精|r标签,1
+52379,TALENT_MICRO_BUTTON_NO_HERO_SPEC,选择你的英雄天赋,1
+52380,ERR_DELVE_IN_PROGRESS,一个%s的地下堡正在进行中,1
+52381,ACCOUNT_CONVERSION_IN_PROGRESS,你的账号正在升级战团功能。请稍等。,2
+52382,ERR_BANK_NOT_ACCESSIBLE,此角色没有使用此银行的权限。,1
+52383,WOW_ERROR_338,该《魔兽世界》账号已在Beta测试中被封停。,2
+52385,DELVES_ERR_TIER_INELIGIBLE,你还未达到进入此难度的前提条件,1
+52386,HARMFUL_TO_MINORS_DISABLED_TOOLTIP,必须从可用的名字选项里选择一个或更多选项,1
+52387,SPELL_FAILED_CUSTOM_ERROR_1053,时空奔行者无法施放此法术。,1
+52388,MOUNT_JOURNAL_FILTER_RIDEALONG,一起骑乘,1
+52389,RPE_UPGRADE_COMPLETE_WARNING,你必须登录才能完成角色直升。,3
+52390,DELVES_SHOW_ENTRACES_ON_MAP_TEXT,地下堡入口,1
+52391,SPELL_FAILED_CUSTOM_ERROR_1043,你必须先选择要对你当前的原型进行什么行动，才能识别新的原型。,1
+52392,CHINA_AGE_APPROPRIATENESS_TEXT,"1、本游戏是一款多人在线角色扮演类游戏，适用于年满16周岁及以上的用户，建议未成年人在家长监护下使用游戏产品。我们鼓励家长根据未成年人的实际情况管理其游戏行为，家长可以拨打官方客服电话95163808或者通过暴雪游戏未成年人家长监护服务页面（|H57|h|cffffffffhttps://jiazhang.gm.163.com/blizzard/|r|h）查看具体指引。
+2、本游戏的故事为架空的幻想世界，含有宏大的故事背景和丰富的人物关系，存在合理的想象和虚构，但不会与现实生活相混淆。游戏玩法基于一定难度的思维判断和肢体操作，有需要多人配合进行的团队玩法，鼓励玩家提升和挑战自我，并通过沟通、思考和合作达成目标。游戏中有基于文字和语音的陌生人社交系统，但社交系统的管理遵循相关法律法规。
+3、游戏中有用户实名认证系统，认证为未成年人的用户将接受以下管理：
+游戏中部分服务和道具需要付费。未满8周岁的用户不能付费；8周岁以上未满16周岁的未成年人用户，单次充值金额不得超过50元人民币，同一战网账号下所有游戏每月充值金额累计不得超过200元人民币；16周岁以上的未成年人用户，单次充值金额不得超过100元人民币，同一战网账号下所有游戏每月充值金额累计不得超过400元人民币。
+未成年人用户可以在周五、周六、周日和法定节假日每日晚20时至21时期间登录游戏，其他时间内无法登录游戏。
+4、本游戏背景、情节、角色等设计丰富多彩且富有个性。游戏玩法具有策略性，有助于锻炼玩家的思维能力。游戏设有组队功能，并设有大型团队任务和比赛，需要玩家互相配合，有助于培养玩家的团队协作能力。",2
+52393,CHINA_AGE_APPROPRIATENESS_TEXT_TITLE,《魔兽世界》适龄提示,2
+52394,VISITABLE_URL57,https://jiazhang.gm.163.com/blizzard/,2
+52395,COMPAT_SETTING_ADV_WORK_SUBMIT,进阶工作提交,3
+52396,OPTION_TOOLTIP_COMPAT_SETTING_ADV_WORK_SUBMIT,允许较复杂的代码路径向GPU提交工作。关闭此选项可能会使帧率稳定性下降，或降低帧率，但有助于避免特定硬件、驱动和操作系统组合的某些种类的游戏崩溃。 ,3
+52397,CHINA_HEALTHY_GAMING_TEXT,"抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防受骗上当。
+适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。",2
+52398,CHINA_HEALTHY_GAMING_TEXT_TITLE,健康游戏忠告,2
+52399,PROFESSIONS_CRAFTING_CONCENTRATION_HELPTIP,|cnNORMAL_FONT_COLOR:专注|r|n保证下次制造获得较高品质。随时间缓慢回复。,1
+52400,PREFIX_RATED_SOLO_RGB,评级%s,1
+52401,ERR_NO_OPEN_IMMEDIATE_CONTAINER_IN_ACCOUNT_BANK,你不能在它被放置于战团银行期间打开它。,1
+52402,ERR_NO_IMMEDIATE_CONTAINER_IN_ACCOUNT_BANK,你不能把它放置在战团银行。,1
+52403,NOT_BEST_ARMOR_TYPE_WARNING,|cnRED_FONT_COLOR:这不是你偏好的护甲类型。|r,1
+52404,BLIZZARD_STORE_VAS_ERROR_CHARACTER_ON_DIFFERENT_REALM_1,- 此角色位于另一个服务器。,2
+52405,BLIZZARD_STORE_VAS_ERROR_CHARACTER_ON_DIFFERENT_REALM_2,- 切换服务器才能使用某项服务或升级此角色。,2
+52406,BLIZZARD_STORE_VAS_ERROR_SINGULAR_LABEL,发生错误。您解决这个问题：,2
+52407,REMIX_END_OF_EVENT_NOTICE,"时空奔行活动已结束。你被传送回了你自己的时间线。
+
+活动物品已被移除。
+",1
+52408,QUEST_CLASSIFICATION_RECURRING_WITH_TIME,可重复（还剩%s）,1
+52409,CHARACTER_SELECT_WARBAND_INTRO_HELPTIP,你所有的角色都会出现在你的战团角色列表中，包括所有的服务器。,2
+52410,SHOW_LOCAL_STORY_OFFERS_ON_MAP_TEXT,当地剧情,1
+52411,SPELL_FAILED_CUSTOM_ERROR_1044,你本周已经使用过一次卡兹阿加合约了。,1
+52412,DUNGEON_MAP_PIN_FALLBACK_NAME,地下城,1
+52413,DUNGEON_POI_TOOLTIP_INSTRUCTION_LINE,<右键点击打开冒险指南>,1
+52414,CREATE_CHARACTER_REALM_CONFIRM_DIALOG_TEXT,|cnHIGHLIGHT_FONT_COLOR:你的角色会被创建于|r%s 服务器|cnHIGHLIGHT_FONT_COLOR:。如果想切换服务器，请点击“服务器”按钮。|r,2
+52415,MOUNT_JOURNAL_STEADY_FLIGHT_ONLY,只限稳定飞行,1
+52416,PROFESSIONS_OUTPUT_INGENUITY,奇思突破！,1
+52417,PROFESSIONS_OUTPUT_INGENUITY_TITLE,奇思,1
+52418,PROFESSIONS_OUTPUT_INGENUITY_DESC,你获得了一次奇思突破，此次制造返还了%d点专注。,1
+52419,ERR_CANT_DELETE_IN_ACCOUNT_BANK,物品必须从战团银行取出后才能被删除。,1
+52420,MAP_LINK_POI_TOOLTIP_INSTRUCTION_LINE,<右键点击显示地图>,1
+52421,OBJECTIVES_HIDE_VIEW_IN_QUESTLOG,关闭任务细节,1
+52424,PLAYER_SPELLS_FRAME_MINIMIZE_TIP,你可以点击这里将法术书最小化,1
+52425,RPE_TOOLTIP_CHARACTER_ON_DIFFERENT_REALM,切换到此角色的服务器进行装备升级。,2
+52426,DELVES_TIER_SELECT_HELPTIP,Select a tier of difficulty,1
+52427,MAP_LEGEND_REPEATABLE,可重复,1
+52428,MAP_LEGEND_REPEATABLE_TOOLTIP,有时间限制的任务,1
+52429,SPELL_FAILED_CUSTOM_ERROR_2223,附近正在进行试炼。,1
+52430,CRAFTING_ORDERS_BROWSE_HEADER_NPC_NAME,客人名字,1
+52431,PROFESSIONS_CRAFTING_ORDERS_NPC_HELPTIP,|cnNORMAL_FONT_COLOR:客人订单|r|n你在旅途中遇见的角色现在可能会给你发出制造订单。完成这些订单可以提升专业技能，获得知识，等等！,1
+52432,CRAFTING_ORDERS_FIRST_NPC_ORDER_HELPTIP,满足所有要求后，你就可以制造此订单了。有些订单可能需要由你自己提供材料。,1
+52433,SETTINGS_ACCOUNT_COMPLETED_QUEST_FILTER,隐藏战团已完成的任务,1
+52434,SETTINGS_TRIVIAL_QUEST_FILTER,隐藏琐碎任务,1
+52435,QUEST_SETTINGS_LABEL,任务,1
+52436,ERR_VOID_STORAGE_ACCOUNT_ITEM,你无法将物品从战团银行储存进虚空仓库。,1
+52438,WOW_ERROR_500,你的战团的数据转化失败。请重新登录你的账号，再次尝试。,2
+52439,ERR_GUILD_NEW_LEADER_WRONG_REALM,其他服务器的玩家无法被提拔为公会会长。,1
+52440,PROFESSIONS_CRAFTING_ORDER_REWARDS,奖励：,1
+52441,GENERIC_TRAIT_FRAME_THE_WEAVER_TITLE,Pact: The Weaver,1
+52442,GENERIC_TRAIT_FRAME_THE_GENERAL_TITLE,Pact: The General,1
+52443,GENERIC_TRAIT_FRAME_THE_VIZIER_TITLE,Pact: The Vizier,1

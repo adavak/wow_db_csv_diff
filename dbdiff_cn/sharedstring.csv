@@ -1,8 +1,8 @@
 String_lang,ID,Flags
-需要成就“碧蓝盟友”。,740,1
+"Requires achievement ""An Azure Ally.""",740,1
 需要成就“崖际伙伴”。,741,1
-需要成就“天际作伴”。,742,1
-需要成就“新朋友”。,743,1
+"Requires achievement ""Together in the Skies.""",742,1
+"Requires achievement ""A New Friend.""",743,1
 |cff808080此天赋是免费提供给你的专精的，不能忘却|r,910,1
 再花费%d点才能解锁此天赋,911,1
 经典旧世,953,1
@@ -25,7 +25,39 @@ String_lang,ID,Flags
 再花费%d点才能解锁此天赋,976,1
 |cff808080此天赋是免费提供给你的专精的，不能忘却|r,977,1
 神话,978,1
+卡兹阿加,989,1
 冒险者,990,1
 用更高物品等级的火花再造此物品会永久移除用火岩凿器添加的插槽。|n|n你确定要继续吗？,991,1
+分栏1,992,0
+分栏2,993,0
+分栏3,994,0
+分栏4,995,0
+分栏5,996,0
 用更高物品等级的火花再造此物品会永久移除用自然摇篮添加的插槽。|n|n你确定要继续吗？,997,1
 觉醒,998,1
+%s,999,0
+,1000,1
+"The General must consider you a ""Accessory.""",1001,1
+"The Weaver must consider you an ""Acquaintance.""",1002,1
+"The Weaver must consider you a ""Crony.""",1003,1
+"The Weaver must consider you an ""Accomplice.""",1004,1
+"The General must consider you a ""Collaborator.""",1005,1
+"The General must consider you an ""Abettor.""",1006,1
+"The General must consider you a ""Conspirator.""",1007,1
+"The Weaver must consider you a ""Mastermind.""",1008,1
+"The General must consider you an ""Acquaintance.""",1009,1
+"The General must consider you a ""Crony.""",1010,1
+"The General must consider you an ""Accomplice.""",1011,1
+"The Weaver must consider you a ""Collaborator.""",1012,1
+"The Weaver must consider you a ""Accessory.""",1013,1
+"The Weaver must consider you an ""Abettor.""",1014,1
+"The Weaver must consider you a ""Conspirator.""",1015,1
+"The Vizier must consider you an ""Acquaintance.""",1016,1
+"The Vizier must consider you a ""Crony.""",1017,1
+"The Vizier must consider you an ""Accomplice.""",1018,1
+"The Vizier must consider you a ""Collaborator.""",1019,1
+"The Vizier must consider you a ""Accessory.""",1020,1
+"The Vizier must consider you an ""Abettor.""",1021,1
+"The Vizier must consider you a ""Conspirator.""",1022,1
+"The Vizier must consider you a ""Mastermind.""",1023,1
+"The General must consider you a ""Mastermind.""",1024,1

@@ -25,7 +25,39 @@ Recrafting this item with a higher item level Spark will permanently remove the 
 Spend %d more |4point:points; to unlock this talent,976,1
 |cff808080This talent is granted to your specialization for free and can't be unlearned|r,977,1
 Myth,978,1
+Khaz Algar,989,1
 Adventurer,990,1
 Recrafting this item with a higher item level Spark will permanently remove the socket added by the Volcanic Sculptor.|n|nAre you sure you want to continue?,991,1
+Tab 1,992,0
+Tab 2,993,0
+Tab 3,994,0
+Tab 4,995,0
+Tab 5,996,0
 Recrafting this item with a higher item level Spark will permanently remove the socket added by the Nature's Cradle.|n|nAre you sure you want to continue?,997,1
 Awakened,998,1
+%s,999,0
+,1000,1
+"The General must consider you a ""Accessory.""",1001,1
+"The Weaver must consider you an ""Acquaintance.""",1002,1
+"The Weaver must consider you a ""Crony.""",1003,1
+"The Weaver must consider you an ""Accomplice.""",1004,1
+"The General must consider you a ""Collaborator.""",1005,1
+"The General must consider you an ""Abettor.""",1006,1
+"The General must consider you a ""Conspirator.""",1007,1
+"The Weaver must consider you a ""Mastermind.""",1008,1
+"The General must consider you an ""Acquaintance.""",1009,1
+"The General must consider you a ""Crony.""",1010,1
+"The General must consider you an ""Accomplice.""",1011,1
+"The Weaver must consider you a ""Collaborator.""",1012,1
+"The Weaver must consider you a ""Accessory.""",1013,1
+"The Weaver must consider you an ""Abettor.""",1014,1
+"The Weaver must consider you a ""Conspirator.""",1015,1
+"The Vizier must consider you an ""Acquaintance.""",1016,1
+"The Vizier must consider you a ""Crony.""",1017,1
+"The Vizier must consider you an ""Accomplice.""",1018,1
+"The Vizier must consider you a ""Collaborator.""",1019,1
+"The Vizier must consider you a ""Accessory.""",1020,1
+"The Vizier must consider you an ""Abettor.""",1021,1
+"The Vizier must consider you a ""Conspirator.""",1022,1
+"The Vizier must consider you a ""Mastermind.""",1023,1
+"The General must consider you a ""Mastermind.""",1024,1
