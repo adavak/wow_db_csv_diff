@@ -78,3 +78,5 @@ ID,Name_lang,LocaleMask,Create_charsetMask,Existing_charsetMask,Flags,Order
 183,Internal Dev,0,0,0,2,0
 184,Dev 3,0,1,1,2,0
 185,PS,0,1,1,2,0
+186,Beta测试,0,0,0,0,0
+187,NetEase Test,0,17,17,0,0

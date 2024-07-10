@@ -1145,6 +1145,7 @@ ID,Name_lang,Description_lang,CompletionPlayerConditionID,QuestID,PlayerConditio
 5501,Kirin Tor Offensive,,0,0,0,0
 5502,Escalation,,0,0,0,0
 5503,The Siege of Orgrimmar,,0,0,0,0
+5504,Darkspear Troll Heritage Armor,,0,0,0,0
 5505,10.2 Upgrade System Tutorial,,0,0,0,0
 5508,Bronze Reconciliation,,0,0,0,0
 5510,Spark of Dreams,,0,0,0,0
@@ -1153,6 +1154,7 @@ ID,Name_lang,Description_lang,CompletionPlayerConditionID,QuestID,PlayerConditio
 5515,Technoscrying: Concord Observatory,This encapsulates the one-off quests for Technoscrying at the Concord Observatory,0,0,0,0
 5516,Technoscrying: Igira's Watch,This encapsulates the one-off quests for Technoscrying at Igira's Watch,0,0,0,0
 5517,Technoscrying: Dragonskull Island,This encapsulates the one-off quests for Technoscrying at Dragonskull Island,0,0,0,0
+5519,Hunt for the Harbinger,,121895,0,0,0
 5528,Azerothian Archives,,0,0,0,0
 5536,Timerunning: Mists of Pandaria,,117532,0,0,0
 5537,10.2.6 Upgrade System Tutorial,,0,0,0,0
@@ -1174,3 +1176,4 @@ ID,Name_lang,Description_lang,CompletionPlayerConditionID,QuestID,PlayerConditio
 5585,Warlords of Draenor Chromie Time Breadcrumbs,,0,0,0,0
 5586,Legion Chromie Time Breadcrumbs,,0,0,0,0
 5587,Legion Chromie Time Breadcrumbs,,0,0,0,0
+5657,Mists of Pandaria,,125592,0,0,0
