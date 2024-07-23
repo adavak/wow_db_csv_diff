@@ -1,8 +1,8 @@
 String_lang,ID,Flags
-"Requires achievement ""An Azure Ally.""",740,1
+需要成就“碧蓝盟友”，或达到35级。,740,1
 需要成就“崖际伙伴”。,741,1
-"Requires achievement ""Together in the Skies.""",742,1
-"Requires achievement ""A New Friend.""",743,1
+需要成就“天际作伴”，或达到25 。,742,1
+需要成就“新朋友”，或达到15级。,743,1
 |cff808080此天赋是免费提供给你的专精的，不能忘却|r,910,1
 再花费%d点才能解锁此天赋,911,1
 经典旧世,953,1
@@ -36,7 +36,7 @@ String_lang,ID,Flags
 用更高物品等级的火花再造此物品会永久移除用自然摇篮添加的插槽。|n|n你确定要继续吗？,997,1
 觉醒,998,1
 %s,999,0
-,1000,1
+Requires Void Torrent talent,1000,1
 "The General must consider you a ""Accessory.""",1001,1
 "The Weaver must consider you an ""Acquaintance.""",1002,1
 "The Weaver must consider you a ""Crony.""",1003,1
@@ -61,3 +61,5 @@ String_lang,ID,Flags
 "The Vizier must consider you a ""Conspirator.""",1022,1
 "The Vizier must consider you a ""Mastermind.""",1023,1
 "The General must consider you a ""Mastermind.""",1024,1
+You must purchase additional Thunderclaps,1025,1
+Requires Halo talent,1026,1

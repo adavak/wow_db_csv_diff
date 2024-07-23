@@ -12,7 +12,7 @@ Red [DNT],[DNT] This is a UI Engineering test SubTree.,12,11358,898
 荒野追猎者,荒野追猎者栖身于杳无人烟的荒野之中，通过狩猎来延续生与死的循环，同时消灭那些破坏自然的家伙。他们还能运用治疗能力令荒芜的废土重获新生。,22,26677,793
 丛林守护者,丛林守护者从塞纳留斯强大的子嗣那里得到启示，旨在保护自然的平衡并守护梦境。他们可以引导梦境之力来强化自己的法术，并召唤强化的树人来保护盟友、粉碎敌人。,23,26686,793
 艾露恩钦选者,艾露恩钦选者献身月之女神，并增强了与明月繁星的联系。他们为技能注入星界之力，还能从天空召唤强大的月之魔法。,24,26685,793
-伤害输出者,布莱恩可以用靠谱的老猎枪从远处消灭敌人。,29,24179,874
+伤害输出者,Brann brings down enemies from afar wielding Ol' Faithful.,29,24179,874
 治疗者,布莱恩用他的医疗补给和收集的圣物治疗受伤的玩家。,30,24186,874
 萨莱因,萨莱因擅长使用鲜血和暗影魔法来削弱敌人、强化自己。,31,26673,750
 天启骑士,天启骑士能够召唤传说中的天启四骑士的力量，呼唤各位骑士助战，将死亡、饥荒和疫病之力操持自如。,32,27222,750
@@ -29,7 +29,7 @@ Red [DNT],[DNT] This is a UI Engineering test SubTree.,12,11358,898
 猎群领袖,猎群领袖与他们的动物同伴建立了深厚的羁绊和信任，猎人和他们的兽群得以在战场上密切合作展开狩猎。,43,27068,774
 黑暗游侠,拥抱仇恨，从阴影中发动袭击，用通灵和暗影之力强化的技能攻击你的敌人。而因此倒下的敌人又会进一步助长你的黑暗能量。,44,26679,774
 影踪派,作为影踪派，吸纳先烈的教诲，傲然屹立在敌人面前，为捍卫家人与朋友而寸步不让。你要静待时机，积蓄力量，然后施展迅猛缭乱的连击，令对手无力招架。,45,27070,781
-祥和宗师,祥和宗师追求修身上的化境，能将身体化为纯粹的力量，从而融入真气流转和乾坤循环之道。,46,12063,781
+祥和宗师,祥和宗师追求修身上的化境，能将身体化为纯粹的力量，从而融入真气流转和乾坤循环之道。,46,27745,781
 天神御师,天神御师献身于至尊天神的教导，拥抱他们的智慧并驾驭他们的力量。天神御师还可以在短时间内同时引导所有天神的力量。,47,27069,781
 圣殿骑士,圣殿骑士会不惜一切代价伸张正义，惩治邪恶。他们可以召唤圣光之锤，融合毁灭性的物理和神圣打击消灭敌人。,48,26681,790
 铸光者,铸光者已经熟练掌握了圣光之力，他们能够使其化为有形，并以此强化自己的武器和防御，保护他们的盟友。,49,26680,790
@@ -40,18 +40,18 @@ Red [DNT],[DNT] This is a UI Engineering test SubTree.,12,11358,898
 图腾祭司,图腾祭司擅长释放图腾全部的力量，强化其图腾并获得新的图腾。他们还磨练了灌魔的本领，在短兵相接时同样不容小觑。,54,26703,786
 风暴使者,风暴使者驾驭着风暴的神力，能够轻而易举地掌控电闪雷鸣，一念之间便可呼风唤雨。召唤猛烈的风暴，在狂风怒号中向敌人播撒混乱。唤醒风暴的力量，摧残沿路的一切。,55,26683,786
 先知,运用你的灵魂魔法，强化你的法术施放能力，并让你能够召唤先祖的灵体，协助你和你的盟友作战。,56,27019,786
-灵魂收割者,很少有人能掌握灵魂之力，但许多人都知道，形形色色的恶魔都对堕落的灵魂垂涎欲滴。灵魂收割者与扭曲虚空的恶魔签订了契约，成为他们的主人，用宿敌的灵魂换取不可思议的力量。,57,27530,720
-地狱召唤者,在艾泽拉斯的萨特教徒之中，地狱召唤者最为令人恐惧；地狱召唤者术士学会了以腐蚀自己的灵魂为代价，编织最为邪恶的暗影魔法和熵能邪火。,58,12068,720
+灵魂收割者,"Few grasp the power hidden within souls, but many know the hunger demons share for spirits of the fallen. Soul Harvesters enter pacts with demons from the Twisting Nether, serving as their host and feeding them the souls of their foes in exchange for incredible power.",57,27530,720
+地狱召唤者,在艾泽拉斯的萨特教徒之中，地狱召唤者最为令人恐惧；地狱召唤者术士学会了以腐蚀自己的灵魂为代价，编织最为邪恶的暗影魔法和熵能邪火。,58,27746,720
 恶魔使徒,燃烧军团被击败之后，许多强大的恶魔也摆脱了约束。恶魔信徒曾驱使过被认为是无法控制的强大恶魔，在战场上运用着来自扭曲虚空的深渊之力。,59,26935,720
 屠戮者,他们是凶狠的战士，会锁定并无情地追猎目标，用利刃和力量向敌人发起压倒性的攻势。,60,26704,850
 山丘领主,山丘领主是凶猛的斗士，活着就是为了挑战自己，与值得一战的对手战斗。他们能从大地和风暴中汲取力量，施展雷霆般的攻势，使敌人难以招架。,61,26684,850
 巨像兵,经历了无数战斗的老兵，能够面不改色地迎接其他人无法承受的攻势，还能凭借娴熟的战技迅猛出击、粉碎敌人。,62,26765,850
 天神御师,天神御师献身于至尊天神的教导，拥抱他们的智慧并驾驭他们的力量。天神御师还可以在短时间内同时引导所有天神的力量。,64,27069,1000
 影踪派,影踪派吸纳先烈的教诲，傲然屹立在敌人面前，为捍卫家人与朋友而寸步不让。他们会静待时机，积蓄力量，然后施展迅猛缭乱的连击，令对手无力招架。,65,27070,1000
-祥和宗师,祥和宗师追求修身上的化境，能将身体化为纯粹的力量，从而融入真气流转和乾坤循环之道。,66,12063,1000
-Stormbringer,"Stormbringers harness the power of the storm, enhancing their dominion over lightning and shaping it to their will. Summon a fierce Tempest to unleash chaos upon your foes awakening the storm, creating devastation in your path.",70,26683,1033
-Totemic,"Totemic shamans excel at unlocking the full power of their totems, strengthening their totems and gaining access to new ones. They also hone their imbuement skills to maintain their threat up close.",71,26703,1033
-Farseer,"Harness your spiritual magic, improving your spell casting capabilities and empowering you to call upon the spirits of your ancestors to aid you and your allies in combat.",72,27019,1033
-Stormbringer,"Stormbringers harness the power of the storm, enhancing their dominion over lightning and shaping it to their will. Summon a fierce Tempest to unleash chaos upon your foes awakening the storm, creating devastation in your path.",73,26683,1034
-Totemic,"Totemic shamans excel at unlocking the full power of their totems, strengthening their totems and gaining access to new ones. They also hone their imbuement skills to maintain their threat up close.",74,26703,1034
-Farseer,"Harness your spiritual magic, improving your spell casting capabilities and empowering you to call upon the spirits of your ancestors to aid you and your allies in combat.",75,27019,1034
+祥和宗师,祥和宗师追求修身上的化境，能将身体化为纯粹的力量，从而融入真气流转和乾坤循环之道。,66,27745,1000
+风暴使者,风暴使者驾驭着风暴的神力，能够轻而易举地掌控电闪雷鸣，一念之间便可呼风唤雨。召唤猛烈的风暴，在狂风怒号中向敌人播撒混乱。唤醒风暴的力量，摧残沿路的一切。,70,26683,1033
+图腾祭司,图腾祭司擅长释放图腾全部的力量，强化其图腾并获得新的图腾。他们还磨练了灌魔的本领，在短兵相接时同样不容小觑。,71,26703,1033
+先知,运用你的灵魂魔法，强化你的法术施放能力，并让你能够召唤先祖的灵体，协助你和你的盟友作战。,72,27019,1033
+风暴使者,风暴使者驾驭着风暴的神力，能够轻而易举地掌控电闪雷鸣，一念之间便可呼风唤雨。召唤猛烈的风暴，在狂风怒号中向敌人播撒混乱。唤醒风暴的力量，摧残沿路的一切。,73,26683,1034
+图腾祭司,图腾祭司擅长释放图腾全部的力量，强化其图腾并获得新的图腾。他们还磨练了灌魔的本领，在短兵相接时同样不容小觑。,74,26703,1034
+先知,运用你的灵魂魔法，强化你的法术施放能力，并让你能够召唤先祖的灵体，协助你和你的盟友作战。,75,27019,1034

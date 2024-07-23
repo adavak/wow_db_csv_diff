@@ -319,4 +319,4 @@ ID,Name_lang,Cost_lang,OutOfError_lang,ToolTip_lang,MinPower,MaxPower,StartPower
 701,祥和,祥和,你不再和幻象调谐一致！,"你和艾泽拉斯的幻象调谐一致。
 
 击败敌人可以保持调谐，否则将被移出幻象。",0,100,100,0,0,0,0,1046,0.13,0.13,0,2203827,2203828,2203830,2203829,0,16777215,16777215,16777215,16777215,16777215,0
-712,Kaheti Excavation,,,Every little kaheti pottery shard and chunk is worth collecting.,0,100,0,0,-5,-5,0,6,0.1328,0.1367,457312,457301,628128,0,457303,0,16777215,16777215,5855577,16777215,16777215,0
+712,Kaheti Excavation,,,Every little kaheti pottery shard and fragment is worth collecting.,0,100,0,0,0,0,0,6,0.1328,0.1367,457312,457301,628128,0,457303,0,16777215,16777215,16777215,16777215,16777215,0

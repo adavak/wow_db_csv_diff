@@ -338,7 +338,7 @@ ActivityName_lang,Description_lang,ID,CriteriaTreeID,ThresholdContributionAmount
 万圣节：反复击败无头骑士,{EventStartDate}到{EventEndDate}期间，一次次击败无头骑士。,357,148026,100,0,-60
 万圣节：拥有全部4种柳魔人的诅咒的情况下击败无头骑士,{EventStartDate}到{EventEndDate}期间，在接受全部4种柳魔人的诅咒后，击败无头骑士。,358,148028,100,0,-60
 万圣节：戴着万圣节面具咬苹果,{EventStartDate}到{EventEndDate}期间，戴着万圣节面具咬苹果。,359,148042,50,0,-60
-暗月马戏团：与躁动之魂谈话,From 6/2 - 6/8 talk to a ghost on the Darkmoon Faire island.,360,148056,50,0,0
+暗月马戏团：与躁动之魂谈话,6月2日到6月8日期间，和暗月岛的一名鬼魂谈话。,360,148056,50,0,0
 诺莫瑞根马拉松：参加诺莫瑞根马拉松,{EventStartDate}，在丹莫罗的新工匠镇加入赛跑。,361,148058,100,0,-30
 美酒节：参加大胃王比赛,{EventStartDate}到{EventEndDate}期间，在铁炉堡或奥格瑞玛参加美酒节大胃王比赛。,362,148060,50,0,-20
 对被遗忘者玩家使用表情/咯咯笑（ /cackle）,对被遗忘者玩家使用表情/咯咯笑（ /cackle）。,363,148065,50,0,0
@@ -649,4 +649,4 @@ Loot Pact Treasures,在卡兹阿加搜刮纺崽秘藏、纪念珍宝或卡赫提
 获得神勇石,,682,166858,75,0,0
 使用神勇石升级物品,,683,166860,75,0,0
 完成每周采集任务,与多恩诺嘉尔铸炉园的采集专业技能训练师交谈。,684,166862,100,0,0
-Hallow's End: Visit Candy Buckets in Khaz Algar,From {EventStartDate} - {EventEndDate} collect Handful of Treats from Candy Buckets in Khaz Algar.,685,167905,50,0,-50
+万圣节：找到卡兹阿加的糖罐,{EventStartDate}到{EventEndDate}期间，从卡兹阿加的糖罐收集糖果。,685,167905,50,0,-50

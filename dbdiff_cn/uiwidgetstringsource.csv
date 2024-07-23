@@ -2270,11 +2270,11 @@ ID,Value_lang,ReqID,ParentWidgetID
 4056,,248,1759
 4057,Right Icon 5 State 2 Tooltip,249,1759
 4059,测试,52,1749
-4060,%1541c/%1541m test,56,1750
+4060,%1541c/%1541m测试,56,1750
 4061,|Hcurrency:1541|h,57,1750
-4062,%1540c/%1540m test,59,1750
+4062,%1540c/%1540m测试,59,1750
 4063,|Hcurrency:1540|h,60,1750
-4064,%1716c test,62,1750
+4064,%1716c测试,62,1750
 4065,|Hcurrency:1716|h,63,1750
 4066,|Hcurrency:2655|h,67,1750
 4067,2 |r|cnLIGHTERGRAY_FONT_COLOR:/ 10|r,66,1750
@@ -8249,7 +8249,7 @@ ID,Value_lang,ReqID,ParentWidgetID
 15180,捐献光耀残渣以控制该地点。,208,5479
 15181,,273,5479
 15431,圣光之荣钥焰,19,5480
-15432,Contribute Radiant Remnant to control this location.,208,5480
+15432,捐献光耀残渣以控制该地点。,208,5480
 15433,,273,5480
 15434,旋辉田野钥焰,19,5481
 15435,捐献光耀残渣以控制该地点。,208,5481
@@ -8325,9 +8325,6 @@ ID,Value_lang,ReqID,ParentWidgetID
 15626,剩余时间,19,5541
 15627,,273,5541
 15628,,208,5541
-15629,剩余时间,19,5542
-15630,,273,5542
-15631,,208,5542
 15632,剩余时间,19,5543
 15633,,273,5543
 15634,,208,5543
@@ -8370,7 +8367,7 @@ ID,Value_lang,ReqID,ParentWidgetID
 15687,褪影海岸钥焰,19,5566
 15688,捐献光耀残渣以控制该地点。,208,5566
 15689,,273,5566
-15690,Duskrise Acreage Keyflame,19,5567
+15690,暮升辽原钥焰,19,5567
 15691,捐献光耀残渣以控制该地点。,208,5567
 15692,,273,5567
 15693,钥焰剩余时间,19,5568
@@ -8572,7 +8569,7 @@ ID,Value_lang,ReqID,ParentWidgetID
 16032,,394,5675
 16033,距离第1赛季开始还有：,19,5676
 16034,,273,5676
-16035,地下堡第1赛季即将开始，带来全新的挑战与奖励！查看地下堡公告板以获取更多信息。,208,5676
+16035,地下堡第1赛季即将开始，你将直面全新的挑战与，也有崭新的奖励在等着你！查看地下堡公告板以获取更多信息。,208,5676
 16041,在多恩岛完成%43671e个世界任务以解锁,52,5678
 16042,,394,5678
 16061,你的生命值提高了|n你技能的伤害值提高了,52,5683
@@ -8725,8 +8722,8 @@ ID,Value_lang,ReqID,ParentWidgetID
 16429,,394,5846
 16430,你将获得艾泽拉斯的回忆的幻象，持续5分钟。,212,5847
 16431,艾泽拉斯的幻象,277,5847
-16432,你将获得|cFFFFFFFF10倍|r的地下堡钥匙碎片。,212,5848
-16433,十倍奖励,277,5848
+16432,You will earn |cFFFFFFFF5x|r the normal amount of Coffer Key Shards.,212,5848
+16433,Fivefold Rewards,277,5848
 16434,世界之魂本能地抵触你的存在，死亡会|cFFFFFFFF立即将你移出|r幻象。,212,5849
 16435,史诗挑战,277,5849
 16438,将逢敌手正在上演！快来加入演员和剧组吧！,52,5851
@@ -8816,36 +8813,36 @@ ID,Value_lang,ReqID,ParentWidgetID
 16568,,212,5886
 16569,,277,5886
 16570,,212,5887
-16571,纺丝者的监护,277,5887
-16574,Bobbin has located hidden caches in the crevices of Azj-Kahet. Find and follow her to reap the riches inside them.,212,5889
-16575,Treasure: Weave-Rat Caches,277,5889
+16571,,277,5887
+16574,,212,5889
+16575,,277,5889
 16576,,19,5890
 16577,%2601fn,273,5890
-16578,,208,5890
-16579,一包专业材料和卡赫提货币。,212,5891
-16580,纺织者的包裹,277,5891
-16581,一箱神勇石和卡赫提货币。,212,5892
-16582,将军的战争宝箱,277,5892
+16578,Current reputation with the Weaver.,208,5890
+16579,,212,5891
+16580,,277,5891
+16581,,212,5892
+16582,,277,5892
 16583,,212,5893
-16584,将军的卫阵,277,5893
-16587,Complete Rumors throughout Azj-Kahet. Start them by locating Brokers or purchasing maps from Yamas the Provider.,212,5895
-16588,Rumors,277,5895
+16584,,277,5893
+16587,,212,5895
+16588,,277,5895
 16589,,19,5896
 16590,%2605fn,273,5896
-16591,Current General Pact level.,208,5896
+16591,Current reputation with the General.,208,5896
 16592,,212,5897
-16593,重型军火,277,5897
-16594,一小包卡赫提货币。,212,5898
-16595,宰相的宝箱,277,5898
+16593,,277,5897
+16594,,212,5898
+16595,,277,5898
 16596,,212,5899
-16597,宰相的机敏,277,5899
-16600,Dor'garad has set up sites around Azj-Kahet in search of artifacts for the Vizier. Assist her in these efforts to receive a gift.,212,5901
-16601,Treasure: Kaheti Excavations,277,5901
+16597,,277,5899
+16600,,212,5901
+16601,,277,5901
 16602,,19,5902
 16603,%2607fn,273,5902
-16604,Current Vizier Pact level.,208,5902
+16604,Current reputation with the Vizier.,208,5902
 16605,,212,5903
-16606,不稳定的混合物,277,5903
+16606,,277,5903
 16610,,19,5905
 16611,,273,5905
 16612,,208,5905
@@ -9136,8 +9133,6 @@ ID,Value_lang,ReqID,ParentWidgetID
 17104,捷径资源,19,6108
 17105,,273,6108
 17106,捐赠携带的矿石，为你和信使同行建立一条临时捷径。,208,6108
-17113,|Hspell:456037|h|n剩余敌人群：%26807w/%26808w,212,6112
-17114,,277,6112
 17115,|Hspell:456037|h|n|cnWHITE_FONT_COLOR:影响的敌人群：2|r,212,6113
 17116,0,277,6113
 17117,|Hspell:456037|h|n|cnWHITE_FONT_COLOR:影响的敌人群：3|r,212,6114
@@ -9146,11 +9141,11 @@ ID,Value_lang,ReqID,ParentWidgetID
 17120,0,277,6115
 17121,|Hspell:456037|h|n|cnWHITE_FONT_COLOR:影响的敌人群：5|r,212,6116
 17122,0,277,6116
-17131,The Radiant Echoes have subsided. Return to Dalaran or slay lingering memories.|nMemories will resurface in Dustwallow Marsh in %26402ht.,52,6121
+17131,光耀回响已经平息。返回达拉然，或者消灭残留记忆。|n%26402ht后，记忆就会在尘泥沼泽重新涌现。,52,6121
 17132,,394,6121
-17133,The Radiant Echoes have subsided. Return to Dalaran or slay lingering memories.|nMemories will resurface in the Searing Gorge in %26392ht.,52,6122
+17133,光耀回响已经平息。返回达拉然，或者消灭残留记忆。|n%26392ht后，记忆就会在灼热峡谷重新涌现。,52,6122
 17134,,394,6122
-17135,The Radiant Echoes have subsided. Return to Dalaran or slay lingering memories.|nMemories will resurface in Dragonblight in %26390ht.,52,6123
+17135,光耀回响已经平息。返回达拉然，或者消灭残留记忆。|n%26390ht后，记忆就会在龙骨荒野重新涌现。,52,6123
 17136,,394,6123
 17137,捷径资源,19,6124
 17138,,273,6124
@@ -9165,10 +9160,6 @@ ID,Value_lang,ReqID,ParentWidgetID
 17154,,394,6130
 17205,艾泽拉斯的回忆被抑制了。%26402ht后，它们就会在尘泥沼泽重新涌现。,52,6141
 17206,,394,6141
-17207,,204,6143
-17208,,205,6143
-17209,,204,6144
-17210,,205,6144
 17211,艾泽拉斯的回忆被抑制了。%26390ht后，它们就会在龙骨荒野重新涌现。,52,6145
 17212,,394,6145
 17213,艾泽拉斯的回忆被抑制了。%26392ht后，它们就会在灼热峡谷重新涌现。,52,6146
@@ -9182,8 +9173,8 @@ ID,Value_lang,ReqID,ParentWidgetID
 17221,复活重置,584,6150
 17222,从难度5降低至难度4,585,6150
 17223,,598,6150
-17230,Alliance has the Deephaul Crystal,221,6154
-17231,Horde has the Deephaul Crystal,231,6154
+17230,联盟夺取了御渊水晶,221,6154
+17231,部落夺取了御渊水晶,231,6154
 17232,,240,6154
 17233,,245,6154
 17234,,223,6154
@@ -9202,41 +9193,41 @@ ID,Value_lang,ReqID,ParentWidgetID
 17247,,248,6154
 17248,,239,6154
 17249,,249,6154
-17272,Test Scenario,677,6166
+17272,测试场景,677,6166
 17273,3 |r|cnLIGHTERGRAY_FONT_COLOR:/ 10|r,679,6166
-17274,|Hspell:458103|h|nTotal deaths: %26215w,680,6166
+17274,|Hspell:458103|h|n死亡次数：%26215w,680,6166
 17275,8,681,6166
-17278,|TInterface\ICONS\Spell_Holy_PureOfHeart.blp:15|t |cFF0091F2[Radiant Echo]|r: |cFFFFFFFF%220520ic|r,52,6168
+17278,|TInterface\ICONS\Spell_Holy_PureOfHeart.blp:15|t |cFF0091F2[光耀回响]|r: |cFFFFFFFF%220520ic|r,52,6168
 17279,,394,6168
-17283,|Hspell:462453|h|cnDARKYELLOW_FONT_COLOR:Time Left: %26814ha|r|n|n%453315sd,212,6170
+17283,|Hspell:462453|h|cnDARKYELLOW_FONT_COLOR:剩余时间：%26814ha|r|n|n%453315sd,212,6170
 17284,,277,6170
-17285,|Hspell:462453|h|cnDARKYELLOW_FONT_COLOR:Time Left: %26814ha|r|n|n%453315sd,212,6171
+17285,|Hspell:462453|h|cnDARKYELLOW_FONT_COLOR:剩余时间：%26814ha|r|n|n%453315sd,212,6171
 17286,,277,6171
-17287,|Hspell:462453|h|cnDARKYELLOW_FONT_COLOR:Time Left: %26814ha|r|n|n%453315sd,212,6172
+17287,|Hspell:462453|h|cnDARKYELLOW_FONT_COLOR:剩余时间：%26814ha|r|n|n%453315sd,212,6172
 17288,,277,6172
-17289,|Hspell:462453|h|cnDARKYELLOW_FONT_COLOR:Time Left: %26814ha|r|n|n%453315sd,212,6173
+17289,|Hspell:462453|h|cnDARKYELLOW_FONT_COLOR:剩余时间：%26814ha|r|n|n%453315sd,212,6173
 17290,,277,6173
-17291,|Hspell:462453|h|cnDARKYELLOW_FONT_COLOR:Time Left: %26814ha|r|n|n%453315sd,212,6174
+17291,|Hspell:462453|h|cnDARKYELLOW_FONT_COLOR:剩余时间：%26814ha|r|n|n%453315sd,212,6174
 17292,,277,6174
-17293,|Hspell:462453|h|cnDARKYELLOW_FONT_COLOR:Time Left: %26814ha|r|n|n%453315sd,212,6175
+17293,|Hspell:462453|h|cnDARKYELLOW_FONT_COLOR:剩余时间：%26814ha|r|n|n%453315sd,212,6175
 17294,,277,6175
-17295,|Hspell:462453|h|cnDARKYELLOW_FONT_COLOR:Time Left: %26814ha|r|n|n%453315sd,212,6176
+17295,|Hspell:462453|h|cnDARKYELLOW_FONT_COLOR:剩余时间：%26814ha|r|n|n%453315sd,212,6176
 17296,,277,6176
-17297,|Hspell:462453|h|cnDARKYELLOW_FONT_COLOR:Time Left: %26814ha|r|n|n%453315sd,212,6177
+17297,|Hspell:462453|h|cnDARKYELLOW_FONT_COLOR:剩余时间：%26814ha|r|n|n%453315sd,212,6177
 17298,,277,6177
-17299,|Hspell:462453|h|cnDARKYELLOW_FONT_COLOR:Time Left: %26814ha|r|n|n%453315sd,212,6178
+17299,|Hspell:462453|h|cnDARKYELLOW_FONT_COLOR:剩余时间：%26814ha|r|n|n%453315sd,212,6178
 17300,,277,6178
-17301,|Hspell:462453|h|cnDARKYELLOW_FONT_COLOR:Time Left: %26814ha|r|n|n%453315sd,212,6179
+17301,|Hspell:462453|h|cnDARKYELLOW_FONT_COLOR:剩余时间：%26814ha|r|n|n%453315sd,212,6179
 17302,,277,6179
-17303,|Hspell:462453|h|cnDARKYELLOW_FONT_COLOR:Time Left: %26814ha|r|n|n%453315sd,212,6180
+17303,|Hspell:462453|h|cnDARKYELLOW_FONT_COLOR:剩余时间：%26814ha|r|n|n%453315sd,212,6180
 17304,,277,6180
-17305,|Hspell:462453|h|cnDARKYELLOW_FONT_COLOR:Time Left: %26814ha|r|n|n%453315sd,212,6181
+17305,|Hspell:462453|h|cnDARKYELLOW_FONT_COLOR:剩余时间：%26814ha|r|n|n%453315sd,212,6181
 17306,,277,6181
-17307,Defeat enemies within the memory to earn:|n- |TInterface\ICONS\INV_Gizmo_HardenedAdamantiteTube.blp:15|t |cFF0091F2[Coffer Key Shards]|r|n- |TInterface\ICONS\INV_Valorstone_Base.BLP:15|t |cFF0091F2[Valorstones]|r,52,6182
+17307,击败记忆中的敌人可获得：|n- |TInterface\ICONS\INV_Gizmo_HardenedAdamantiteTube.blp:15|t |cFF0091F2[宝匣钥匙碎片]|r|n- |TInterface\ICONS\INV_Valorstone_Base.BLP:15|t |cFF0091F2[神勇石]|r,52,6182
 17308,,394,6182
 17309,%ss,677,6183
 17310,%24429w |cnLIGHTERGRAY_FONT_COLOR:/ %26363w,679,6183
-17311,|Hspell:458103|h|nTotal deaths: %26215w,680,6183
+17311,|Hspell:458103|h|n死亡次数：%26215w,680,6183
 17312,%24430w,681,6183
 17313,%ss,677,6184
 17314,,679,6184
@@ -9245,17 +9236,17 @@ ID,Value_lang,ReqID,ParentWidgetID
 17317,%ss,677,6185
 17318,,679,6185
 17319,,680,6185
-17320,??,681,6185
+17320,？？,681,6185
 17321,,708,6166
 17322,,709,6166
-17323,Override tooltip test,710,6166
+17323,覆写说明条测试,710,6166
 17324,,711,6166
-17325,Earned!,718,6166
-17326,Unearned :(,719,6166
+17325,已获得！,718,6166
+17326,未获得 :(,719,6166
 17327,Scenario Tooltip,720,6166
 17331,Nerubian Forces,19,6186
 17332,,273,6186
-17333,Surive against the Nerubian onslaught!,208,6186
+17333,Survive against the Nerubian onslaught!,208,6186
 17334,,708,6183
 17335,,709,6183
 17336,,710,6183
@@ -9299,7 +9290,7 @@ ID,Value_lang,ReqID,ParentWidgetID
 17374,,598,6200
 17375,,570,1911
 17376,,571,1911
-17377,|cnWHITE_FONT_COLOR:Unlocked|r,52,6201
+17377,|cnWHITE_FONT_COLOR:Pact Benefits:|r,52,6201
 17378,,394,6201
 17379,,212,6202
 17380,,277,6202
@@ -9316,17 +9307,100 @@ ID,Value_lang,ReqID,ParentWidgetID
 17391,Next Rank Will Reward You With|n|Hitem:226520|h,208,6207
 17392,|cnWHITE_FONT_COLOR:Next Unlocked Ability|r,52,6209
 17393,,394,6209
-17394,|cnWHITE_FONT_COLOR:Next Tier's Reward|r,52,6212
+17394,|cnWHITE_FONT_COLOR:Next Tier Reward:|r,52,6212
 17395,,394,6212
 17396,,212,6216
-17397,Weaver's Prodigy,277,6216
+17397,,277,6216
 17398,,212,6217
-17399,Vizier's Supremacy,277,6217
+17399,,277,6217
 17400,,212,6218
-17401,General's Bulwark,277,6218
-17402,Aspirant Kiipka is on pilgrimage to Forgotten Memorials in Azj-Kahet. Pay tribute and duel him to recieve a gift.,212,6219
-17403,Treasure: Forgotten Memorials,277,6219
-17404,Complete Rumors throughout Azj-Kahet. Start them by locating Brokers or purchasing maps from Yamas the Provider.,212,6220
-17405,Rumors,277,6220
-17406,Complete Rumors throughout Azj-Kahet. Start them by locating Brokers or purchasing maps from Yamas the Provider.,212,6221
+17401,,277,6218
+17402,,212,6219
+17403,,277,6219
+17404,,212,6220
+17405,,277,6220
+17406,,212,6221
 17407,Rumors,277,6221
+17408,,212,6222
+17409,,277,6222
+17410,,212,6223
+17411,,277,6223
+17412,,212,6224
+17413,,277,6224
+17414,,212,6225
+17415,,277,6225
+17416,,212,6226
+17417,,277,6226
+17418,,212,6227
+17419,,277,6227
+17420,,212,6228
+17421,,277,6228
+17422,,212,6229
+17423,,277,6229
+17424,,212,6230
+17425,,277,6230
+17426,,212,6231
+17427,,277,6231
+17428,|cnWHITE_FONT_COLOR:Pact Benefits:|r,52,6233
+17429,,394,6233
+17430,|cnWHITE_FONT_COLOR:Next Tier Reward:|r,52,6235
+17431,,394,6235
+17432,,212,6236
+17433,,277,6236
+17434,,212,6237
+17435,,277,6237
+17436,,212,6238
+17437,,277,6238
+17438,,212,6239
+17439,,277,6239
+17440,,212,6240
+17441,,277,6240
+17442,,212,6241
+17443,,277,6241
+17444,,212,6242
+17445,,277,6242
+17446,,212,6243
+17447,,277,6243
+17448,,212,6244
+17449,,277,6244
+17450,,212,6245
+17451,,277,6245
+17452,|cnWHITE_FONT_COLOR:Pact Benefits:|r,52,6248
+17453,,394,6248
+17454,|cnWHITE_FONT_COLOR:Next Tier Reward:|r,52,6250
+17455,,394,6250
+17456,,212,6251
+17457,,277,6251
+17458,,212,6252
+17459,,277,6252
+17460,,212,6253
+17461,,277,6253
+17462,,212,6254
+17463,,277,6254
+17464,,212,6255
+17465,,277,6255
+17466,,212,6256
+17467,,277,6256
+17468,,212,6257
+17469,,277,6257
+17470,,212,6258
+17471,,277,6258
+17472,,212,6259
+17473,,277,6259
+17474,Destroy ascended loyalists and redeem the military's honor.,52,6261
+17475,,394,6261
+17476,Undermine the threat of Xal'atath.,52,6262
+17477,,394,6262
+17478,Machinate politics and sabotage Sureki influence.,52,6263
+17479,,394,6263
+17480,Next showing: %26549ha,52,6264
+17481,,394,6264
+17482,Now showing!,52,6265
+17483,,394,6265
+17484,|nWeekly Quest Reward from Stage Manager Huberta:,52,6266
+17485,,394,6266
+17486,,621,6267
+17487,,622,6267
+17488,"Contains materials for upgrading gear, gold, and more.",627,6267
+17491,Time Left %25452x,52,5542
+17492,,394,5542

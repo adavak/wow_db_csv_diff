@@ -555,3 +555,7 @@ ID,Name_lang,Name1_lang,Mask_ID,Flags
 842,纺线者 %s,纺线者 %s,567,0
 843,%s，主机守护者,%s，主机守护者,568,0
 845,%s，觅财者,%s，觅财者,570,0
+847,Silksinger %s,Silksinger %s,572,0
+848,Anub'%s,Anub'%s,573,0
+849,"%s, Hand of the Vizier","%s, Hand of the Vizier",574,0
+850,%s the Bountiful,%s the Bountiful,575,0

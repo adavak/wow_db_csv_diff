@@ -328,12 +328,12 @@ ID,Description_lang,ModifiedCraftingCategoryID,ItemBonusTreeID,Flags,Field_9_1_0
 385,,544,0,0,0,0
 386,,545,0,0,0,0
 387,,546,0,0,0,0
-388,使$en2提高$ev2 ，并且充裕收益提高$ev1%。,547,0,0,0,0
+388,Increases $en2 by $ev2 and reagents saved from Resourcefulness by $ev1%.,547,0,0,0,0
 389,使$en1提高$ev1。,548,0,0,0,0
-390,你的法术和技能有几率造成元素伤害，其魔法派系由镶嵌的宝石决定。$@spelldesc437127,549,4449,0,0,0
+390,Your spells and abilities have a chance to deal bonus magic damage. The chosen school is based on socketed gems. $@spelldesc437127,549,4449,0,0,0
 391,$@spelldesc435992$@spelldesc437127,550,4446,0,0,0
 392,当你在低生命值时受到伤害，释放星光保护你。触发频率随镶嵌的宝石提高。$@spelldesc437127,551,4456,0,0,0
-393,使$en1提高$ev1点，并使你切割宝石时获得技能点数的几率提高$ev2%。,552,0,0,0,0
+393,Increases $en1 by $ev1 and your chance to gain a Skill Point by $ev2%.,552,0,0,0,0
 394,,553,0,0,0,0
 395,,554,0,0,0,0
 396,,555,0,0,0,0
@@ -360,10 +360,10 @@ ID,Description_lang,ModifiedCraftingCategoryID,ItemBonusTreeID,Flags,Field_9_1_0
 425,,584,0,0,0,0
 426,,585,0,0,0,0
 427,,586,0,0,0,0
-428,Add Unique-Equipped: Embellished (2).|n|nImbue your crafted equipment with a portion this Darkmoon Deck's power.,587,4839,0,0,0
-429,Add Unique-Equipped: Embellished (2).|n|nImbue your crafted equipment with a portion this Darkmoon Deck's power.,588,4767,0,0,0
-430,Add Unique-Equipped: Embellished (2).|n|nImbue your crafted equipment with a portion this Darkmoon Deck's power.,589,4768,0,0,0
-431,Add Unique-Equipped: Embellished (2).|n|nImbue your crafted equipment with a portion this Darkmoon Deck's power.,590,4769,0,0,0
+428,添加装备唯一：美化（2）。|n|n为你制造的装备灌注这套暗月套牌的部分力量。,587,4839,0,0,0
+429,添加装备唯一：美化（2）。|n|n为你制造的装备灌注这套暗月套牌的部分力量。,588,4767,0,0,0
+430,添加装备唯一：美化（2）。|n|n为你制造的装备灌注这套暗月套牌的部分力量。,589,4768,0,0,0
+431,添加装备唯一：美化（2）。|n|n为你制造的装备灌注这套暗月套牌的部分力量。,590,4769,0,0,0
 432,一把铋螺栓,594,0,0,0,0
 433,异想导线,595,0,0,0,0
 434,回转齿轮,596,0,0,0,0
@@ -387,17 +387,17 @@ ID,Description_lang,ModifiedCraftingCategoryID,ItemBonusTreeID,Flags,Field_9_1_0
 452,DNT does something awesome,652,0,0,0,0
 453,DNT does something awesome,653,0,0,0,0
 454,DNT does something awesome,654,0,0,0,0
-455,制造消耗品时获得$ev1奇思。,655,0,0,0,0
-456,制造消耗品时获得$ev1产能。,656,0,0,0,0
-457,制造消耗品时获得$ev1充裕。,704,0,0,0,0
+455,Increases $en1 by $ev1.,655,0,0,0,0
+456,Multicraft yields $ev1% more when crafting consumable items.,656,0,0,0,0
+457,Increases $en1 by $ev1.,704,0,0,0,0
 458,DNT does something awesome,658,0,0,0,0
 459,DNT does something awesome,659,0,0,0,0
-460,Guarantee Versatility and Haste.,660,3742,1,0,0
+460,必定有全能和急速属性。,660,3742,1,0,0
 461,Guarantee Mastery and Haste.,661,3743,1,0,0
-462,Guarantee Critical Strike and Haste.,662,3725,1,0,0
-463,Guarantee Versatility and Mastery.,663,3744,1,0,0
+462,必定有爆击和急速属性。,662,3725,1,0,0
+463,必定有全能和精通属性。,663,3744,1,0,0
 464,Guarantee Critical Strike and Mastery.,664,3741,1,0,0
-465,Guarantee Versatility and Critical Strike.,665,3745,1,0,0
+465,必定有全能和爆击属性。,665,3745,1,0,0
 466,DNT does something awesome,666,0,0,0,0
 467,DNT does something awesome,667,0,0,0,0
 468,DNT does something awesome,668,0,0,0,0
@@ -418,12 +418,12 @@ ID,Description_lang,ModifiedCraftingCategoryID,ItemBonusTreeID,Flags,Field_9_1_0
 483,生命值高于80%时，获得爆击。并添加装备唯一：美化（2）。,683,4770,0,0,0
 484,生命值高于80%时，获得全能。并添加装备唯一：美化（2）。,684,4771,0,0,0
 486,制造消耗品时产能效果提高$ev1%。,686,0,0,0,0
-488,当你制造卡兹阿加珠宝加工物品时，获得$ev1充裕。,685,0,0,0,0
+488,Increases $en1 by $ev1.,685,0,0,0,0
 489,根据制作品质设置物品等级（577-590）。,689,4700,0,0,0
 490,根据制作品质设置物品等级（606-619）。,591,4701,0,0,0
 491,根据制作品质设置物品等级（616-629）。,591,4702,0,0,0
-492,当你使用专注制作时，消耗的专注减少$ev1%。,690,0,0,0,0
-493,制造消耗品时获得$ev1产能。,691,0,0,0,0
+492,Use $ev1% less Concentration while Concentrating on a craft.,690,0,0,0,0
+493,Increases $en1 by $ev1.,691,0,0,0,0
 494,,692,0,0,0,0
 495,重生猎豹药水,693,0,0,0,0
 496,阿加治疗药水,694,0,0,0,0
@@ -436,18 +436,18 @@ ID,Description_lang,ModifiedCraftingCategoryID,ItemBonusTreeID,Flags,Field_9_1_0
 503,,701,0,0,0,0
 504,,702,0,0,0,0
 505,,703,0,0,0,0
-506,You gain $ev1 Ingenuity when crafting consumable items.,687,0,0,0,0
-508,当你在制作卡兹阿加裁缝物品时可以返还额外$ev1%的材料。,688,0,0,0,0
+506,Increases $en1 by $ev1.,687,0,0,0,0
+508,Increases reagents saved from Resourcefulness by $ev1%.,688,0,0,0,0
 510,加入满满一勺这种秘密原料，让你的食谱变得圆满，可以提高制作的餐品数量。,706,0,0,0,0
-511,倒入一团这种秘密原料，可以提高制作的餐品数量。,706,0,0,0,0
+511,倒入一团这种秘密原料，可以提高制作的餐品数量。,707,0,0,0,0
 512,使$en1提高$ev1。,708,0,0,0,0
 513,使获得技能点数的几率提高$ev1%。,709,0,0,0,0
 514,,711,4396,0,0,0
 515,,711,4777,0,0,0
-516,该次制作的$en1提高$ev1。,713,0,0,0,0
-517,该次制作的$en1提高$ev1。,714,0,0,0,0
-518,该次制作的$en1提高$ev1。,715,0,0,0,0
-519,该次制作的$en1提高$ev1。,716,0,0,0,0
+516,Increases $en1 by $ev1.,713,0,0,0,0
+517,Increases $en1 by $ev1.,714,0,0,0,0
+518,Increases $en1 by $ev1.,715,0,0,0,0
+519,Increases $en1 by $ev1.,716,0,0,0,0
 520,将物品等级设置为$ev1，角色等级要求设置为$ev2。与附加材料一同使用可以进一步强化装备。,717,4797,0,0,0
 521,,718,0,0,0,0
 522,,719,0,0,0,0
@@ -455,6 +455,6 @@ ID,Description_lang,ModifiedCraftingCategoryID,ItemBonusTreeID,Flags,Field_9_1_0
 524,根据制作品质设置物品等级（545-558），添加灵魂绑定，等级要求74。,721,4799,0,0,0
 525,根据制作品质设置物品等级（561-574），添加灵魂绑定，等级要求80。,722,4800,0,0,0
 526,将物品等级设置为$ev1，角色等级要求设置为$ev2。,723,4801,0,0,0
-527,充裕提高$ev1。,724,0,0,0,0
-528,产能提高$ev1。,725,0,0,0,0
+527,Increases $en1 by $ev1.,724,0,0,0,0
+528,Multicraft yields $ev1% more when crafting consumable items.,725,0,0,0,0
 529,使你的制造的装备获得完全无法觉察但绝对真实存在的强化效果。,726,4877,0,0,0

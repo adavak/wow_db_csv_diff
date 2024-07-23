@@ -421,6 +421,6 @@ ID,Name_lang,SafeLocID,PlayerConditionID,Flags,Field_8_2_0_30080_005,Field_8_2_0
 445,通往艾基-卡赫特的出口,10266,118328,18,2,0
 446,通往多恩诺嘉尔的出口,10268,118328,18,2,0
 447,穿越地穴前往多恩诺嘉尔,10267,118328,18,1,0
-448,Exit to Dornogal,10285,0,50,0,0
+448,通往多恩诺嘉尔的出口,10285,0,50,0,0
 449,Talk to Khadgar in Dalaran to set off for Khaz Algar.,10291,0,0,1,0
 450,Talk to Khadgar in Dalaran to set off for Khaz Algar.,10292,0,0,2,0
