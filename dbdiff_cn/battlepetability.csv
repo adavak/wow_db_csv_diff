@@ -2316,7 +2316,7 @@ Deals [StandardDamage(getProcIndex(PROC_ON_SWAP_IN), 1)] damage when swapping in
 1368,德拉诺陷阱,尝试抓住一只生命值低于35%的宠物。你每失败一次，抓捕几率即可提高45%。,986484,0,0,0,6
 1369,倒钩之刺,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
-立即造成[StandardDamage(1,1)]点[School()]伤害，并有[StandardAccuracy(1,2)]的几率使目标|cFF1EFF00中毒|r，于每轮造成额外[StandardDamage(1,1,379)]点[School(379)]伤害，持续[duration(1,2)]轮。",136068,7,0,0,0
+立即造成[StandardDamage(1,1)]点[School()]伤害，并有20%的几率使目标|cFF1EFF00中毒|r，于每轮造成额外[StandardDamage(1,1,379)]点[School(379)]伤害，持续[duration(1,2)]轮。",136068,7,0,0,0
 1370,野蛮之爪,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
 凶猛地劈砍，造成[StandardDamage(1, 1)]点[School()]伤害。",136063,2,0,0,0

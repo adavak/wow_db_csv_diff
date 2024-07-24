@@ -7700,7 +7700,7 @@ I knew you would come.,,247607,0,0,0,70,0,4,234129,0,0,0,0,0,0,0
 ,The disc is yours.,247610,0,0,0,102,0,4,0,233945,0,0,0,0,0,0
 "This world tree, the heart of its great power, filled with shadow and flame.",,247611,0,0,0,70,0,4,234131,0,0,0,0,0,0,0
 But now that you and your champions have gathered...,,247612,0,0,0,70,0,4,234132,0,0,0,0,0,0,0
-Why wait?  I should just end you now!,,247613,0,0,0,70,0,4,234133,0,0,0,0,0,0,0
+Why wait? I should just end you now!,,247613,0,0,0,70,0,4,234133,0,0,0,0,0,0,0
 The defeat of this treacherous queen would be a glorious battle.,,247616,0,0,0,70,0,4,234134,0,0,0,0,0,0,0
 "But the plan, Fyrakk!",,247617,0,0,0,70,0,4,234135,0,0,0,0,0,0,0
 Open the way to the temple.,,247618,0,0,0,102,0,4,234136,0,0,0,0,0,0,0
@@ -7760,6 +7760,8 @@ We are constant as the--,,248569,0,0,0,102,0,4,234616,0,0,0,0,0,0,0
 ,"A new World Tree, soon to bloom and be born into Azeroth.",248577,0,0,0,71,0,4,0,234621,0,0,0,0,0,0
 ,"Protect the Dream, champion!",248578,0,0,0,71,0,4,0,234622,0,0,0,0,0,0
 And yet still you paid it.,,248812,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+Slow and steady will get you through this. Uncross the void beams and we can disrupt this tear.,,248973,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+Fine work! This sort of void has no place on Azeroth.,,248974,0,0,0,68,0,4,0,0,0,0,0,0,0,0
 ,Alexstrasza... what has happened?,249078,0,0,0,102,0,4,0,235423,0,0,0,0,0,0
 ,Something... unexpected.,249079,0,0,0,102,0,4,0,235424,0,0,0,0,0,0
 How can this be?,,249080,0,0,0,102,0,4,235425,0,0,0,0,0,0,0
@@ -7987,8 +7989,31 @@ Locus-Walker said the ethereals heard a similar song before K'aresh was destroye
 We need answers. We need her Speaker.,,253567,0,0,0,68,0,10,241333,0,0,0,0,0,0,0
 ,"I will seek out Magni. But first, I must inform Thrall of what we learned here.",253568,0,0,0,68,0,10,0,241334,0,0,0,0,0,0
 ,We must face this crisis together. Horde and Alliance both.,253569,0,0,0,68,0,10,0,241335,0,0,0,0,0,0
+"Beledar's Shadow! Quickly, get inside!",,253718,0,0,22,68,0,4,249028,0,0,0,0,0,0,0
+"Faerin! Thank the Flame. Kobyss are raiding Sina's Yearning. The army went ahead, but--",,253719,0,0,22,68,0,4,249030,0,0,0,0,0,0,0
+,Faerin nods to you and Anduin.,253720,0,0,273,68,0,4,0,0,0,0,0,0,0,0
+,"We must not lose our foothold there. Faerin, outsiders, fall in line. Soldiers, march!",253721,0,0,22,68,0,4,0,0,0,0,0,0,0,0
+,You're only acceptable once you've proven yourself useful... that's Steelstrike for you. But kobyss are deadly foes-- we should help. Are you both with me?,253722,0,0,669,68,0,4,0,0,0,0,0,0,0,0
+,Say no more. Our new allies and I will go to their aid. Seek shelter immediately!,254048,0,0,669,68,0,4,0,249031,0,0,0,0,0,0
+We're with you.,,254126,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,"Soldiers, with me!",254131,0,0,22,68,0,4,0,247971,0,0,0,0,0,0
+,Help! I need--,254132,0,0,22,68,0,4,0,249033,0,0,0,0,0,0
+Not... with the Light. But I know first aid.,,254134,0,0,1022,68,0,4,249035,0,0,0,0,0,0,0
+"Thank you, $n. Please help as many others as you can find.",,254135,0,0,1005,68,0,4,0,0,0,0,0,0,0,0
+,"I'm more fighter than healer! Anduin, can you--",254181,0,0,0,68,0,4,0,249034,0,0,0,0,0,0
+,That will do. We'll send the injured your way.,254189,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,Aelric thinks the shadows will save him. He should see what true power looks like...,254198,0,0,1,68,0,4,0,249116,0,0,0,0,0,0
 Only then will every ounce of power be yours to command.,,254251,0,0,0,70,0,10,241260,0,0,0,0,0,0,0
 "Embrace this wisdom, and your mind will yet be your own.",,254252,0,0,0,70,0,10,241261,0,0,0,0,0,0,0
+"Did I hear that right, earlier? You're a... Lothar?",,254313,0,0,6,68,0,4,243921,0,0,0,0,0,0,0
+,You know the name?,254315,0,0,273,68,0,4,0,243922,0,0,0,0,0,0
+"Know it? I was named for Anduin Lothar, one of Stormwind's greatest heroes. He was close friends with my grandfather, King Llane Wrynn.",,254316,0,0,1005,68,0,4,243923,0,0,0,0,0,0,0
+,"Wait, if your grandfather was king of this... Stormwind, then--",254320,0,0,669,68,0,4,0,243927,0,0,0,0,0,0
+,"Anduin, my new friend... are you a king?",254322,0,0,6,68,0,4,0,243928,0,0,0,0,0,0
+Not anymore.,,254323,0,0,0,68,0,4,243929,0,0,0,0,0,0,0
+"...So don't you start using formalities on me, either.",,254324,0,0,669,68,0,4,243930,0,0,0,0,0,0,0
+Lady Proudmoore! Over here! I found $n!,Lady Proudmoore! Over here! I found $n!,254918,0,0,0,68,0,4,248902,0,0,0,0,0,0,0
+I'll get these rocks off you. Just let me--Ahh!,,254919,0,0,0,68,0,4,248904,0,0,0,0,0,0,0
 Alleria reported her findings regarding the strange phenomenon you have all been investigating.,,255190,0,0,0,68,0,4,242016,0,0,0,0,0,0,0
 We now believe the Dark Heart is capable of drawing in magical power and converting it to shadow.,,255191,0,0,0,68,0,4,242017,0,0,0,0,0,0,0
 "Your orders have not changed, however. You will still be responding to unusual void activity.",,255194,0,0,0,68,0,4,242018,0,0,0,0,0,0,0
@@ -8030,6 +8055,14 @@ we must let go of the past...,,255438,0,0,0,70,0,6,241889,0,0,0,0,0,0,0
 "No longer must we live scattered, lamenting Argus.",,255440,0,0,0,70,0,6,241891,0,0,0,0,0,0,0
 We will build a city on the ashes of our exile.,,255441,0,0,0,70,0,6,241896,0,0,0,0,0,0,0
 We will finally be home.,,255442,0,0,0,102,0,6,241895,0,0,0,0,0,0,0
+,Curse them all! Where did they take him? Do you see Anduin?,255505,0,0,22,68,0,4,0,249190,0,0,0,0,0,0
+,They dragged him down! I lost track of him!,255506,0,0,22,68,0,4,0,249191,0,0,0,0,0,0
+,Ash! We can't let them reach Mereldar! Blast them apart!,255507,0,0,22,68,0,4,0,249192,0,0,0,0,0,0
+,Incoming! I'll show them the Sacred Flame's blaze!,255508,0,0,15,68,0,4,0,0,0,0,0,0,0,0
+,We've beaten them back! Let's get Anduin!,255509,0,0,22,68,0,4,0,249195,0,0,0,0,0,0
+,"Hold on! We don't know what's down there! Reinforcements are on the way, we could wait--",255510,0,0,669,68,0,4,0,249196,0,0,0,0,0,0
+,We'll lose his trail!,255511,0,0,6,68,0,4,0,249197,0,0,0,0,0,0
+,You're right. Let's make those monsters pay for everything they've done!,255512,0,0,669,68,0,4,0,249198,0,0,0,0,0,0
 ,My people are no strangers to voices from below...,255602,0,0,0,70,0,4,0,241603,0,0,0,0,0,0
 ,"but this ""Radiant Song"" is different.",255603,0,0,0,70,0,4,0,241604,0,0,0,0,0,0
 It's being heard all across Azeroth.,,255605,0,0,0,70,0,4,241605,0,0,0,0,0,0,0
@@ -8064,6 +8097,7 @@ Uh...,,255638,0,0,0,70,0,4,241633,0,0,0,0,0,0,0
 I didn't mean to...,,255639,0,0,0,70,0,4,241634,0,0,0,0,0,0,0
 ,"See you soon, Khadgar.",255640,0,0,0,70,0,4,0,241635,0,0,0,0,0,0
 ,Dark Heart in hand.,255641,0,0,0,102,0,4,0,241636,0,0,0,0,0,0
+,"Oh no, don't you start using formalities on me! My family is noble, but it's been long since we've seen great fortune.",255659,0,0,669,68,0,4,0,243925,0,0,0,0,0,0
 <pained grunt>,,255725,0,0,0,102,0,4,241934,0,0,0,0,0,0,0
 <battle cry>,,255726,0,0,0,102,0,4,241933,0,0,0,0,0,0,0
 ,<cries out>,255727,0,0,0,102,0,4,0,241932,0,0,0,0,0,0
@@ -8081,4 +8115,101 @@ Come. Serve with me again as you once did on our council. We need--I need--your 
 You do not have to answer me now. Enjoy the Tishamaat. But there will always be a seat open for you--if you want it.,,255751,0,0,0,68,0,10,242012,0,0,0,0,0,0,0
 Thank you. I will... I will think on it.,,255752,0,0,0,68,0,10,242013,0,0,0,0,0,0,0
 ,"Infinites, to me! We cannot let this wound fester!",256290,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+You speak the truth? Your artifact will repair the Awakening Machine?,,257629,0,0,0,68,0,4,246205,0,0,0,0,0,0,0
+,"It will perfect the Machine. Your struggle, your suffering will be at an end. All will awaken... because of you.",257632,0,0,0,68,0,4,0,249489,0,0,0,0,0,0
+Because of me...,,257633,0,0,0,68,0,4,246206,0,0,0,0,0,0,0
+,"[CUT, DO NOT RECORD] Is there a price you wouldn't pay?",257636,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,Your people will be restored. Reborn. Improved. And they will laud you as their savior.,257638,0,0,0,68,0,4,0,249490,0,0,0,0,0,0
+Yes... yes! All earthen will awaken!,,257641,0,0,0,68,0,4,246207,0,0,0,0,0,0,0
+,Dalaran will not be a fly in Xal'atath's web.,257826,0,0,669,68,0,7,0,248603,0,0,0,0,0,0
+Help! Help! It's the HORROR OF XESH!,,257947,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+"Alleria, be careful.",,259788,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,We are well past that.,259789,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,I can see how worried you are about Dagran.,260030,0,0,0,68,0,10,0,245097,0,0,0,0,0,0
+"I've got a lot to make up for. For a long time, I knew I needed to protect Azeroth.",,260031,0,0,0,68,0,10,245098,0,0,0,0,0,0,0
+I gave up a lot. I gave up too much. I should have spent more time protecting you and Dagran.,,260032,0,0,0,68,0,10,245099,0,0,0,0,0,0,0
+,"Dagran's been through a lot, too.",260033,0,0,0,68,0,10,0,245100,0,0,0,0,0,0
+I know. I want to be here for him as his Gran'da.,,260034,0,0,0,68,0,10,245101,0,0,0,0,0,0,0
+I wasn't responsible enough. That needs to change.,,260036,0,0,0,68,0,10,245102,0,0,0,0,0,0,0
+I've spent too many years listening to Azeroth's voice. I'm glad I can listen to yours now.,,260037,0,0,0,68,0,10,245103,0,0,0,0,0,0,0
+,"Aye, Father. We'll figure it out together.",260038,0,0,0,68,0,10,0,245104,0,0,0,0,0,0
+,"I'm sorry, what? The prisoners escaped because of a nerubian?",260042,0,0,1,110,0,4,0,245765,0,0,0,0,0,0
+That's what they said--one of the big ones from the heart of Siegehold. I'm as flummoxed as you are.,,260043,0,0,0,110,0,4,245766,0,0,0,0,0,0,0
+,It doesn't make any sense. None of this does.,260044,0,0,0,110,0,4,0,245767,0,0,0,0,0,0
+Come again?,,260045,0,0,0,110,0,4,245768,0,0,0,0,0,0,0
+,"It's nothing, Regald. I've just... I keep telling everyone it's about hope, but the moment push comes to shove my anger grabs my blade.",260046,0,0,0,110,0,4,0,245769,0,0,0,0,0,0
+"This had nothing to do with you. They've attacked before, they'll attack again. That's how it's always gone.",,260047,0,0,0,110,0,4,245770,0,0,0,0,0,0,0
+,But is it how it needs to go in the future? We are the holders of hope... Is there hope in this darkness that even we haven't been able to see?,260048,0,0,0,110,0,4,0,245771,0,0,0,0,0,0
+I... can't answer that for you.,,260049,0,0,0,110,0,4,245772,0,0,0,0,0,0,0
+,Honestly? Neither can I. I've... I've got some thinking to do.,260050,0,0,0,110,0,4,0,245773,0,0,0,0,0,0
+,Now! Go for the kill!,260126,0,0,0,69,0,4,0,249119,0,0,0,0,0,0
+,Hold back these kobyss! Today they taste ashes!,260245,0,0,0,69,0,4,0,247978,0,0,0,0,0,0
+"You have shown your true form? Orweyna, this is forbidden!",,260792,0,0,0,68,0,7,248698,0,0,0,0,0,0,0
+,The Black Blood spreads deeper every day. We need their aid--,260793,0,0,0,68,0,7,0,248699,0,0,0,0,0,0
+We need nothing from them!,,260794,0,0,0,68,0,7,248700,0,0,0,0,0,0,0
+,Enough!,260795,0,0,0,68,0,7,0,248701,0,0,0,0,0,0
+,We both know our charge. They are of this world. And they too seek to defend it.,260796,0,0,0,68,0,7,0,248702,0,0,0,0,0,0
+,"On'hiea... she speaks with the song of the world. You know it, as do I.",260797,0,0,0,68,0,7,0,248703,0,0,0,0,0,0
+The others will hear of this.,,260798,0,0,0,68,0,7,248704,0,0,0,0,0,0,0
+,At least it will not be the first tradition we have broken.,260799,0,0,0,68,0,7,0,248705,0,0,0,0,0,0
+,Go. All of you. I will join you soon.,260800,0,0,0,68,0,7,0,248706,0,0,0,0,0,0
+"Few names hold higher esteem. You must be a lady, or a--",,260916,0,0,0,68,0,4,243924,0,0,0,0,0,0,0
+,To think I had relatives in the old world? Wonderful! I hope I can live up to such legends.,260917,0,0,0,68,0,4,0,243926,0,0,0,0,0,0
 <grunts>,,261221,0,0,0,118,0,4,246023,0,0,0,0,0,0,0
+,The City of Threads. The heart of Azj-Kahet. Bled dry and dying.,261768,0,0,0,68,0,7,0,248717,0,0,0,0,0,0
+,None who enter leave in one piece. Your friend is likely dead.,261771,0,0,0,68,0,7,0,248718,0,0,0,0,0,0
+,"But I know you will not accept that. So you follow your path, and I will follow mine.",261772,0,0,0,68,0,7,0,248719,0,0,0,0,0,0
+,You have survived so far. Keep doing so. I hope we meet again.,261774,0,0,0,68,0,7,0,248720,0,0,0,0,0,0
+,The darkness hungers. Let's give Xal'atath's forces a taste of their own shadows.,261807,0,0,1005,68,0,4,0,249194,0,0,0,0,0,0
+Think I not see? What YOU do in MY mine?,,261902,0,0,0,68,0,4,249404,0,0,0,0,0,0,0
+Run round. Steal candle. Kill kobold. Bah! Am Candle King!,,261903,0,0,0,68,0,4,249405,0,0,0,0,0,0,0
+"Snuffed little friend. Next time, snuff you.",,261904,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+Snootsnout! Leave new friends e-le-men-tal present. And close door behind. We not entertain today.,,261905,0,0,0,68,0,4,249406,0,0,0,0,0,0,0
+[DNT] Kahet iz korvan.,[DNT] Kahet iz korvan.,262040,0,0,1,68,0,4,0,0,0,0,0,0,0,0
+,...and apologies for the delay.,262567,0,0,0,68,0,7,0,252243,0,0,0,0,0,0
+"Lok'tar, everyone.",,262573,0,0,0,68,0,7,252244,0,0,0,0,0,0,0
+"She's melting me, I--!",,263623,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,Well done! Now let's regroup ahead.,263753,0,0,0,70,0,4,0,250866,0,0,0,0,0,0
+Deviants!,,263838,0,0,0,102,0,4,250875,0,0,0,0,0,0,0
+Must.. get away!,,263918,0,0,0,102,0,4,250874,0,0,0,0,0,0,0
+Alleria. I heard you helped corner Zirix at the Meadery. Thank you.,,264954,0,0,0,68,0,4,252107,0,0,0,0,0,0,0
+,The nerubians took so much from us. I will not let them do the same to the earthen.,264955,0,0,0,68,0,4,0,252108,0,0,0,0,0,0
+They've been good allies... and gracious hosts.,,264956,0,0,0,68,0,4,252109,0,0,0,0,0,0,0
+,"A welcome surprise, given that they've been living in isolation for thousands of years.",264957,0,0,0,68,0,4,0,252110,0,0,0,0,0,0
+That may not be entirely the case.,,264958,0,0,0,68,0,4,252111,0,0,0,0,0,0,0
+"I asked about why they keep calling me ""Arathi""... and apparently an Arathi armada arrived on Khaz Algar a number of years ago.",,264959,0,0,0,68,0,4,252112,0,0,0,0,0,0,0
+They're said to have formed a settlement in the caverns beneath the island. It sounds impossible...,,264960,0,0,0,68,0,4,252113,0,0,0,0,0,0,0
+"But if it's true, I want to see it for myself. They could prove to be allies in our fight against Xal'atath.",,264962,0,0,0,68,0,4,252114,0,0,0,0,0,0,0
+,No. We've secured a measure of safety here. Don't abandon it to chase shadows in the dark.,264963,0,0,0,68,0,4,0,252115,0,0,0,0,0,0
+Isn't that what you're doing?,,264965,0,0,0,68,0,4,252116,0,0,0,0,0,0,0
+,I'm doing what I must. Hunting down every last nerubian. Following their trail back to Xal'atath. And claiming vengeance for our dead.,264966,0,0,0,68,0,4,0,252117,0,0,0,0,0,0
+"I'm sorry, I didn't mean to--",,264968,0,0,0,68,0,4,252118,0,0,0,0,0,0,0
+,"Remain in Dornogal, Anduin. Leave the shadows to me.",264969,0,0,0,68,0,4,0,252119,0,0,0,0,0,0
+I feel the earthen have come a long way since last we were here in the Archive.,,266845,0,0,0,68,0,4,255702,0,0,0,0,0,0,0
+,"A factual statement. When I first answered your queries, the Archive was lost to us. As were the Stonevault and Awakening Machine.",266846,0,0,0,68,0,4,0,255703,0,0,0,0,0,0
+,"But now we have a future. And slowly we will also have our past. Largely we have you and your ""clan"" to thank for it.",266847,0,0,0,68,0,4,0,255704,0,0,0,0,0,0
+"Ye needn't mention it, High Speaker. I'm just glad ye'll be around for... as long as ye were meant to be.",,266848,0,0,0,68,0,4,255705,0,0,0,0,0,0,0
+,Thank you. I will admit that I approach that prospect with some trepidation.,266849,0,0,0,68,0,4,0,255706,0,0,0,0,0,0
+,"The earthen that are emerging from the Stonevault will take our culture to the ends of Azeroth, but...",266850,0,0,0,68,0,4,0,255707,0,0,0,0,0,0
+,Who knows what lurks here in our past? What will we uncover about our purpose and the titans?,266851,0,0,0,68,0,4,0,255708,0,0,0,0,0,0
+"I hadna thought o' that. Well, come what may, I'll be here to help ye.",,266852,0,0,0,68,0,4,255709,0,0,0,0,0,0,0
+,"Your continued assistance is appreciated. I feel... you have made me feel as though I am part of your ""clan.""",266856,0,0,0,68,0,4,0,255710,0,0,0,0,0,0
+To properly be part o' my clan ye'd have to marry my Gran'da or the like. But that would nae work for many reasons.,,266857,0,0,0,68,0,4,255711,0,0,0,0,0,0,0
+,looks puzzled.,266858,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+"That was a joke, Brinthe. Ye'll always be part o' my clan--blood, water, or stone.",,266859,0,0,0,68,0,4,255712,0,0,0,0,0,0,0
+,Our group was attacked within a delve by a monster named Zekvir.,267279,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,He is the Hand of the Harbinger... Xal'atath.,267280,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,There's something within the delves that she doesn't want people to find.,267281,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+"Ha! I have you cornered now, you pilfering little weave-trash!",,268099,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,"Gracious. The little fly thinks he's a proper spider, but he cannot even tell when he's caught in a web.",268100,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+By the-- who do you think you are? I'll have you know I am one of Ansurek's most prized--,,268104,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,You seem to be laboring under the assumption that I care a wit for who you claim to be. I do not. But I WILL tell you who I am. And I will tell you what you are.,268105,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,"I am the Widow Arak'nai, the stewardess of Queen Neferess' legacy and the one who weaves the threads of a free Azj-Kahet. And you, Meesk, are nothing more than a trifling supper.",268108,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,"Come now, my little ones. It is dinner time.",268109,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+No... Stay back...! AHHHH!,,268111,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,"How pitiful. Come, my little morsel. Let us return to more pleasant webs. You've done well.",268113,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+<Angry hissing>,,268209,0,0,0,102,0,6,258100,0,0,0,0,0,0,0
+Brann Bronzebeard and the Explorers' League! Cease your explorations.,,268360,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+"Otherwise you shall face Zekvir, Hand of the Harbinger. We are watching. We are waiting.",,268361,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+"Ye better believe we won't be stopping! I'll continue exploring tae see if I can find out who exactly this ""Zekvir"" is.",,268362,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,<amused chuckle>,268948,0,0,0,126,0,6,0,250749,0,0,0,0,0,0

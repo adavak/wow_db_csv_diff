@@ -6,5 +6,5 @@ Name_lang,Description_lang,ID,EnumID,Field_10_0_0_44649_003,ProfessionRatingType
 感知,提高你采集时发现稀有材料的能力。,5,4,4,1
 制作速度,提高你制作的速度。,6,5,5,0
 产能,制作此配方时，你有$rv%的几率制作出额外物品。,7,6,6,0
-采集时间增加,You can spend $rv% more time gathering materials.(DNT - not implemented!),8,7,7,1
+奇思,当你专注一次制作时，有$rv%的几率实现一次奇思突破，返还花费专注的$ev%。,8,7,7,0
 采集范围,"Not implemented, bug! (DNT)",9,8,8,1
