@@ -2,7 +2,7 @@ ID,Name,Message_lang
 1,MSG_TITLE_WOW,魔兽世界
 2,MSG_GX_INIT_FAILED_D3D,魔兽世界无法启用3D加速。请确保您已经安装了DirectX 9.0c并已将显卡驱动升级为最新版本。
 3,MSG_GX_INIT_FAILED,魔兽世界无法启用3D加速。
-4,MSG_HW_UNSUPPORTED,魔兽世界不支持您的3D加速卡。更多详情，请查看：https://www.battlenet.com.cn/support/zh/article/126
+4,MSG_HW_UNSUPPORTED,魔兽世界不支持您的3D加速卡。更多详情，请查看：http://support.battlenet.com.cn/help/article/031024
 5,MSG_HW_CHANGED,硬件配置已更改，要采用默认设置吗？
 9,MSG_GLUEXML_UI_CORRUPT,您的登录界面文件已被破坏，请重新安装游戏。
 10,MSG_FRAMEXML_UI_CORRUPT,您的游戏界面文件已损坏。请删除您的Interface\FrameXML目录。

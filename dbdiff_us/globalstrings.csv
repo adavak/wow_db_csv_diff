@@ -21577,9 +21577,9 @@ Failed to load, next attempt on restart.",3
 50403,EXPANSION_TRIAL_GAINED_LEVEL_TEXT,Level %d,1
 50404,EXPANSION_TRIAL_THANKS_TEXT_GAINED_BANKED_LEVEL,"You can't level past 60 during this trial, but any experience you earn will be banked.|n|nBuy Dragonflight to apply your banked XP and continue leveling to 70!",1
 50405,SPELL_FAILED_CUSTOM_ERROR_831,Requires a Djaradin Pillar Shard.,1
-50409,VISITABLE_URL58,https://www.battlenet.com.cn/support/zh/help/home,2
-50410,VISITABLE_URL59,https://www.battlenet.com.cn/support/zh/ticket/status?loc,2
-50411,VISITABLE_URL60,https://www.battlenet.com.cn/support/zh/ticket/submit?loc,2
+50409,VISITABLE_URL58,https://support-api.battlenet.com.cn/auth/home/index,2
+50410,VISITABLE_URL59,https://support-api.battlenet.com.cn/auth/home/service,2
+50411,VISITABLE_URL60,https://support-api.battlenet.com.cn/auth/home/question,2
 50422,HUD_EDIT_MODE_ENABLE_ADVANCED_OPTIONS,Advanced Options,1
 50425,HUD_EDIT_MODE_SETTINGS_CATEGORY_TITLE_FRAMES,Frames,1
 50426,HUD_EDIT_MODE_SETTINGS_CATEGORY_TITLE_COMBAT,Combat,1

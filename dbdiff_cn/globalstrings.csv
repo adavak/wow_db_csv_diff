@@ -9542,7 +9542,8 @@ ID,BaseTag,TagText_lang,Flags
 21449,HELPFRAME_ACCOUNTSECURITY_FOOTER,访问|cffffd200http://www.battlenet.com.cn/|r以获取更多账号安全相关的信息。,1
 21450,HELPFRAME_OPENTICKETINSTRUCTIONS_TITLE,填写申请,1
 21451,HELPFRAME_OPENTICKETINSTRUCTIONS_TEXT1,客户支持能够24小时为您提供协助。为了保证反馈速度，请不要重复发送求助表单。,1
-21452,HELPFRAME_OPENTICKETINSTRUCTIONS_TEXT2,联系客户支持，请访问|cffffd200https://support-api.battlenet.com.cn/auth/home/index,1
+21452,HELPFRAME_OPENTICKETINSTRUCTIONS_TEXT2,"联系客户支持，请访问|cffffd200https://support.battlenet.com.cn/w/
+",1
 21453,HELPFRAME_OPENTICKETINSTRUCTIONS_TEXT3,你可以在魔兽世界论坛|cffffd200http://forums.warcraftchina.com/index.html?sid=1|r上找到更多的相关信息。,1
 21454,TUTORIAL5_HUNTER,要与你的敌人战斗，点击|cffffd200动作条|r上的|cffffd200奥术射击|r。,1
 21455,TUTORIAL5_DRUID,要与你的敌人战斗，点击|cffffd200动作条|r上的|cffffd200愤怒|r。,1
@@ -14394,7 +14395,7 @@ ID,BaseTag,TagText_lang,Flags
 33835,AUTH_NO_TIME,您的魔兽世界缴费已到期。您需要重新激活您的账号。要重新激活账号，请访问www.warcraftchina.com获取更多信息。,2
 33836,AUTH_NO_TIME_URL,https://account.battlenet.com.cn,2
 33837,AUTH_OK,验证成功,2
-33838,AUTH_PARENTAL_CONTROL,"<html><body><p>根据相关法律法规对未成年人游戏时间的要求，您目前无法登录游戏。请合理安排游戏时间，劳逸结合。了解详情：<a href=""https://www.battlenet.com.cn/support/zh/article/210633"">https://www.battlenet.com.cn/support/zh/article/210633</a></p></body></html>",2
+33838,AUTH_PARENTAL_CONTROL,"<html><body><p>根据相关法律法规对未成年人游戏时间的要求，您目前无法登录游戏。请合理安排游戏时间，劳逸结合。了解详情：<a href=""https://support.battlenet.com.cn/w/article/101015"">https://support.battlenet.com.cn/w/article/101015</a></p></body></html>",2
 33839,AUTH_PARENTAL_CONTROL_URL,https://www.battlenet.com.cn/account/,2
 33840,AUTH_REJECT,访问被拒绝 - 请通过WoWTech@battlenet.com.cn联系我们的客户支持人员,2
 33841,AUTH_SERVER_SHUTTING_DOWN,服务器正在关闭,2
@@ -14436,8 +14437,8 @@ ID,BaseTag,TagText_lang,Flags
 33877,BLIZZ_DISCLAIMER,( c ) 2004-2021暴雪娱乐有限公司版权所有。,2
 33878,BLOODELF_DISABLED,需要“燃烧的远征”,2
 33879,BNET_ERROR_1001_HTML,"<html><body><p align=""CENTER"">无法连接。请稍后再试。如果问题仍然存在，请访问以下链接<a href=""http://support.battlenet.com.cn/help/article/116093"">http://support.battlenet.com.cn/help/article/116093</a>以获取更多信息。</p></body></html>",2
-33880,BNET_ERROR_1002_HTML,"<html><body><p align=""CENTER"">无法连接。请稍后再试。如果问题仍然存在，请访问以下链接<a href=""https://www.battlenet.com.cn/support/index.xml?locale=zh_CN&amp;gameId=11&amp;rootCategoryId=1763"">https://www.battlenet.com.cn/support/index.xml?locale=zh_CN&amp;gameId=11&amp;rootCategoryId=1763</a>以获取更多信息。</p></body></html>",2
-33881,BNET_ERROR_11,"<html><body><p>根据相关法律法规对未成年人游戏时间的要求，您目前无法登录游戏。请合理安排游戏时间，劳逸结合。了解详情：<a href=""https://www.battlenet.com.cn/support/zh/article/210633"">https://www.battlenet.com.cn/support/zh/article/210633</a></p></body></html>",2
+33880,BNET_ERROR_1002_HTML,"<html><body><p align=""CENTER"">无法连接。请稍后再试。如果问题仍然存在，请访问以下链接<a href=""http://support.battlenet.com.cn/help/article/116093"">http://support.battlenet.com.cn/help/article/116093</a>以获取更多信息。</p></body></html>",2
+33881,BNET_ERROR_11,"<html><body><p>根据相关法律法规对未成年人游戏时间的要求，您目前无法登录游戏。请合理安排游戏时间，劳逸结合。了解详情：<a href=""https://support.battlenet.com.cn/w/article/101015"">https://support.battlenet.com.cn/w/article/101015</a></p></body></html>",2
 33882,BNET_ERROR_28_HTML,"<html><body><p align=""CENTER"">无法验证游戏版本，这可能是由于文件已被破坏或其它程序干扰所致。请访问<a href=""https://www.battlenet.com.cn/support/zh/article/351"">https://www.battlenet.com.cn/support/zh/article/351</a>以获取更多信息。</p></body></html>",2
 33883,BNET_ERROR_3,您的登录信息有误。请重试。,2
 33884,BNET_ERROR_3003,发生错误，请稍后再试。,2
@@ -14448,8 +14449,8 @@ ID,BaseTag,TagText_lang,Flags
 33889,BNET_ERROR_38,您必须先创建一个“战网昵称”，然后才能连接暴雪游戏服务。,2
 33890,BNET_ERROR_42003,出于安全原因，您的账号已被锁定。,2
 33891,BNET_ERROR_50_HTML,"<html><body><p align=""CENTER"">您的预付时间已经用尽，请访问<a href=""http://www.battlenet.com.cn"">http://www.battlenet.com.cn</a>充值之后继续游戏。</p></body></html>",2
-33892,BNET_ERROR_52_HTML,"<html><body><p align=""CENTER"">该魔兽世界账号已被冻结，无法继续使用！请访问<a href=""http://www.battlenet.com.cn/support/zh/article/188"">http://www.battlenet.com.cn/support/zh/article/188</a>获取相关信息，或前往<a href=""https://security.blizzard.cn/usercenter"">https://security.blizzard.cn/usercenter</a>了解详情。</p></body></html>",2
-33893,BNET_ERROR_53_HTML,该魔兽世界账号已被暂时冻结，目前无法使用！请访问https://support.battlenet.com.cn/w/article/101010,2
+33892,BNET_ERROR_52_HTML,"<html><body><p align=""CENTER"">该魔兽世界账号已被冻结，无法继续使用！请访问<a href=""https://support.battlenet.com.cn/help/article/101011"">https://support.battlenet.com.cn/help/article/101011</a>获取相关信息。</p></body></html>",2
+33893,BNET_ERROR_53_HTML,该魔兽世界账号已被暂时冻结，目前无法使用！请访问https://support.battlenet.com.cn/help/article/101011,2
 33894,BNET_ERROR_57_HTML,"<html><body><p align=\""CENTER\"">您的账号已被暂时禁用。请联系技术支持<a href=\""http://support.battlenet.com.cn/help/article/020182"">http://support.battlenet.com.cn/help/article/020182</a>以获取更多信息。</p></body></html>",2
 33895,BNET_ERROR_58,您已经锁定了自己的账号。您可以通过官方网站的相应功能改变锁定状态。,2
 33896,BNET_ERROR_59_HTML,"<html><body><p align=""CENTER"">该《魔兽世界》账号因费用问题而被暂时停用。请致电客服中心了解更多信息。</p></body></html>",2
@@ -14460,7 +14461,7 @@ ID,BaseTag,TagText_lang,Flags
 33901,BNET_ERROR_86,您的暴雪游戏通行证存在问题。请联系客户支持。,2
 33902,BNET_ERROR_90,您的网络不允许与暴雪游戏服务的连接。如果您认为这有问题请联系客户支持。,2
 33903,BNET_ERROR_CODE_TITLE,暴雪游戏服务错误#%d,2
-33904,BNET_ERROR_GENERIC_URL,https://support-api.battlenet.com.cn/auth/home/index,2
+33904,BNET_ERROR_GENERIC_URL,https://support.battlenet.com.cn/w/,2
 33905,BNET_ERROR_OTHER,你已断开连接。,2
 33906,BNET_LOGIN_QUEUE_TIME_LEFT,服务器已满\n队列位置：%d\n预计时间：%d分钟,2
 33907,BNET_LOGIN_QUEUE_TIME_LEFT_SECONDS,服务器已满\n队列位置：%d\n预计时间：< 1分钟,2
@@ -14845,7 +14846,7 @@ ID,BaseTag,TagText_lang,Flags
 34286,DEMONHUNTER_DISABLED,需要拥有一个70级的角色。,2
 34287,DEMON_HUNTER_RESTRICTED_HAS_DEMON_HUNTER,你在每个服务器上只能创建一个恶魔猎手。,2
 34288,DEMON_HUNTER_RESTRICTED_NEED_LEVEL_70,你在此服务器上的最高等级角色不能低于70级。,2
-34289,DEVICE_BLACKLISTED,"<html><body><p align=""CENTER"">游戏不支持您使用的显卡设备。请访问<a href="": https://support.battlenet.com.cn/article/76459 "">https://support.battlenet.com.cn/article/76459 </a>了解更多信息。</p></body></html>",2
+34289,DEVICE_BLACKLISTED,"<html><body><p align=""CENTER"">游戏不支持您使用的显卡设备。请访问<a href="": http://support.battlenet.com.cn/help/article/031024"">http://support.battlenet.com.cn/help/article/031024</a>了解更多信息。</p></body></html>",2
 34290,DIALOG_HELP_MORE_INFO,更多信息,2
 34291,DISCONNECTED,已从服务器断开。,6
 34292,DISCONNECT_REASON_BAN,该账号由于违反用户协议（https://oribos.blizzard.cn/legal/eula）已被暂时封停。封停将于%d天%d小时%d分钟后结束。如您对上述处理措施有异议，可以访问网站“在线客服”页面http://support.battlenet.com.cn/help/article/101010 了解更多详情！,2
@@ -14855,8 +14856,8 @@ ID,BaseTag,TagText_lang,Flags
 34296,DOWNLOAD_SUCCESSFUL_TEXT,请按下重新启动按钮以退出魔兽世界\n并下载升级文件。,2
 34297,DPS,DPS,2
 34298,DRAENEI_DISABLED,需要“燃烧的远征”,2
-34299,DRIVER_BLACKLISTED,"<html><body><p align=""CENTER"">您的设备驱动不兼容。请访问<a href=""https://support.battlenet.com.cn/w/article/101016"">https://support.battlenet.com.cn/w/article/101016</a>了解更多详情。</p></body></html>",2
-34300,DRIVER_OUTOFDATE,"<html><body><p align=""CENTER"">您的设备驱动已过期。请访问<a href=""https://support.battlenet.com.cn/w/article/101016"">https://support.battlenet.com.cn/w/article/101016</a>了解更多信息。</p></body></html>",2
+34299,DRIVER_BLACKLISTED,"<html><body><p align=""CENTER"">您的设备驱动不兼容。请访问<a href=""http://support.battlenet.com.cn/help/article/031024"">http://support.battlenet.com.cn/help/article/031024</a>了解更多详情。</p></body></html>",2
+34300,DRIVER_OUTOFDATE,"<html><body><p align=""CENTER"">您的设备驱动已过期。请访问<a href=""http://support.battlenet.com.cn/help/article/031024"">http://support.battlenet.com.cn/help/article/031024</a>了解更多信息。</p></body></html>",2
 34301,DRUID_DISABLED,要选择该职业，你必须更换一个种族。,2
 34302,EMAIL_ADDRESS,账号名称,2
 34303,ENABLED_FOR_SOME,该插件只对某些角色启用。,3
@@ -14876,7 +14877,7 @@ ID,BaseTag,TagText_lang,Flags
 34317,FACTION_INFO_ALLIANCE,       联盟由五个种族组成：高贵的人类，勇敢的矮人，神秘的暗夜精灵，机灵的侏儒，以及荣耀的德莱尼。由于都对世界上的各种邪恶势力深恶痛绝，他们就联合起来，为了重建这个饱受战争创伤的世界而努力。,2
 34318,FACTION_INFO_HORDE,       部落由五个种族组成：野蛮的兽人，阴暗的亡灵，高尚的牛头人，敏捷的巨魔，以及急躁的血精灵。这些种族都有着为数众多的敌人，为了让自己能在这个世界上继续生存，他们结成了一个强大的同盟。,2
 34319,FINISH,完成,2
-34320,FIXEDFUNCTION_UNSUPPORTED,"<html><body><p align=""CENTER"">魔兽世界不支持此显卡。请访问<a href=""https://support.battlenet.com.cn/article/76459"">https://support.battlenet.com.cn/article/76459</a>了解更多信息。</p></body></html>",2
+34320,FIXEDFUNCTION_UNSUPPORTED,"<html><body><p align=""CENTER"">魔兽世界不支持此显卡。请访问<a href=""http://support.battlenet.com.cn/help/article/248472"">http://support.battlenet.com.cn/help/article/248472</a>了解更多信息。</p></body></html>",2
 34321,GAMETYPE_NORMAL,普通,2
 34322,GAMETYPE_PVE,普通,2
 34323,GAMETYPE_PVE_TEXT,这些服务器的重点内容在于探索以及与怪物作战，你可以选择是否与敌对阵营的玩家交战。,2
@@ -14925,7 +14926,7 @@ ID,BaseTag,TagText_lang,Flags
 34365,LOGIN_ALREADYONLINE,您的账号已经在线。请确认没有其他人正在使用这个账号，然后再次尝试连接。,2
 34366,LOGIN_ANTI_INDULGENCE,您的游戏账号已被防沉迷系统锁定。,2
 34370,LOGIN_BAD_SERVER_RECODE_PROOF,重编码验证失败,2
-34371,LOGIN_BANNED,"<html><body><p align=""CENTER"">该魔兽世界账号已被冻结，无法继续使用！请访问<a href=""http://www.battlenet.com.cn/support/zh/article/188"">http://www.battlenet.com.cn/support/zh/article/188</a>获取相关信息，或前往<a href=""https://security.blizzard.cn/usercenter"">https://security.blizzard.cn/usercenter</a>了解详情。</p></body></html>",2
+34371,LOGIN_BANNED,"<html><body><p align=""CENTER"">该魔兽世界账号已被冻结，无法继续使用！请访问<a href=""https://support.battlenet.com.cn/help/article/101011"">https://support.battlenet.com.cn/help/article/101011</a>获取相关信息。</p></body></html>",2
 34372,LOGIN_CHARGEBACK,"<html><body><p align=""CENTER"">该《魔兽世界》账号因费用问题而被暂时停用。请致电客服中心了解更多信息。</p></body></html>",2
 34373,LOGIN_CONVERSION_REQUIRED,"<html><body><p align=""CENTER"">您必须使用暴雪游戏通行证和密码登录。请<a href=""https://www.battlenet.com.cn/account/zh/creation/tos.html?theme=wow"">点击这里</a>创建账号或访问|n<a href=""http://www.battlenet.com.cn"">http://www.battlenet.com.cn</a>|n来开始账号转换。</p></body></html>",2
 34374,LOGIN_DBBUSY,现在无法登录魔兽世界，请稍后再试。,2
@@ -14946,7 +14947,7 @@ ID,BaseTag,TagText_lang,Flags
 34390,LOGIN_NOTIME,"<html><body><p align=""CENTER"">您的预付时间已经用尽，请访问<a href=""http://www.battlenet.com.cn"">http://www.battlenet.com.cn</a>充值之后继续游戏。</p></body></html>",2
 34393,LOGIN_NO_GAME_ACCOUNT,在使用该账号登录时出现了问题。|n您可能并未将魔兽世界添加到该账号，或是没有选择您注册账号时所填写地区的服务器。如果您持续遇到这一问题，请联系客服支持人员。,2
 34394,LOGIN_NO_GAME_ACCOUNTS_IN_REGION_NONE,"<html><body><p align=\""CENTER\"">您在该区域尚未创建过账号。</p></body></html>",2
-34395,LOGIN_PARENTALCONTROL,"<html><body><p>根据相关法律法规对未成年人游戏时间的要求，您目前无法登录游戏。请合理安排游戏时间，劳逸结合。了解详情：<a href=""https://www.battlenet.com.cn/support/zh/article/210633"">https://www.battlenet.com.cn/support/zh/article/210633</a></p></body></html>",2
+34395,LOGIN_PARENTALCONTROL,"<html><body><p>根据相关法律法规对未成年人游戏时间的要求，您目前无法登录游戏。请合理安排游戏时间，劳逸结合。了解详情：<a href=""https://support.battlenet.com.cn/w/article/101015"">https://support.battlenet.com.cn/w/article/101015</a></p></body></html>",2
 34396,LOGIN_SERVER_DOWN,登录服务器无法连接,2
 34397,LOGIN_SRP_ERROR,验证错误,2
 34398,LOGIN_STATE_AUTHENTICATED,连接成功！,2
@@ -14957,7 +14958,7 @@ ID,BaseTag,TagText_lang,Flags
 34403,LOGIN_STATE_HANDSHAKING,正在与服务器交换数据,2
 34404,LOGIN_STATE_INITIALIZED,初始化完成,2
 34405,LOGIN_STATE_SURVEY,正在提交非隐私系统信息,2
-34406,LOGIN_SUSPENDED,该魔兽世界账号已被暂时冻结，目前无法使用！请访问https://support.battlenet.com.cn/w/article/101010,2
+34406,LOGIN_SUSPENDED,该魔兽世界账号已被暂时冻结，目前无法使用！请访问https://support.battlenet.com.cn/help/article/101011,2
 34407,LOGIN_TOO_FAST,您尝试登录的次数过多。请稍后再重试。,2
 34408,LOGIN_TRIAL_EXPIRED,"<html><body><p align=""CENTER"">您的试玩账号已过期。请访问<a href=""http://www.battlenet.com.cn"">http://www.battlenet.com.cn</a> 来升级你的账号。</p></body></html>",2
 34409,LOGIN_UNKNOWN_ACCOUNT,"<html><body><p align=""CENTER"">您输入的账号或密码错误！如果您发现账号被盗，请访问<a href=""http://support.battlenet.com.cn/help/article/009852"">http://support.battlenet.com.cn/help/article/009852</a>以重置你的密码。同时推荐您使用安全令保护您的账号。</p></body></html>",2
@@ -15067,7 +15068,7 @@ ID,BaseTag,TagText_lang,Flags
 34513,REALM_LIST_INVALID,非法的服务器列表,2
 34514,REALM_LIST_IN_PROGRESS,正在刷新服务器列表,2
 34515,REALM_LIST_PARTIAL_RESULTS,某些服务器可能暂时无法使用。,2
-34516,REALM_LIST_REALM_NOT_FOUND,您选择的服务器目前无法连接，请使用“选择服务器”按钮来选择其它的服务器。访问http://www.battlenet.com.cn/wow/zh/status可以获得当前服务器的状态信息。,2
+34516,REALM_LIST_REALM_NOT_FOUND,您选择的服务器目前无法连接，请使用“选择服务器”按钮来选择其它的服务器。访问https://support.battlenet.com.cn/help/article/108006 可以获得当前服务器的状态信息。,2
 34517,REALM_LIST_SUCCESS,服务器列表刷新完毕,2
 34518,REALM_LOAD,服务器负载,2
 34519,REALM_LOCKED,锁定,2
@@ -15153,7 +15154,7 @@ ID,BaseTag,TagText_lang,Flags
 34601,STREAMING_BUILD,流格式,2
 34602,SUGGESTED_REALM_TEXT,|cffffffff您被分配到了|r %s |cffffffff服务器。|r,2
 34603,SUGGEST_REALM,推荐服务器,2
-34604,SYSTEM_INCOMPATIBLE_SSE,"<html><body><p align=""CENTER"">今后的魔兽世界版本将不再支持此系统。请访问<a href=""https://support.battlenet.com.cn/article/76459"">https://support.battlenet.com.cn/article/76459</a>了解更多信息。</p></body></html>",2
+34604,SYSTEM_INCOMPATIBLE_SSE,"<html><body><p align=""CENTER"">今后的魔兽世界版本将不再支持此系统。请访问<a href=""http://support.battlenet.com.cn/help/article/243159"">http://support.battlenet.com.cn/help/article/243159</a>了解更多信息。</p></body></html>",2
 34605,TAIWAN,中国台湾,7
 34606,TECH_SUPPORT,技术支持,2
 34607,TECH_SUPPORT_URL,https://support-api.battlenet.com.cn/auth/home/index,2
@@ -15223,7 +15224,7 @@ ID,BaseTag,TagText_lang,Flags
 34669,VISITABLE_URL1,https://shop.battlenet.com.cn/product/world-of-warcraft-service-guild-services,2
 34670,VISITABLE_URL10,https://blizzard.com/tos,2
 34671,VISITABLE_URL11,https://shop.battlenet.com.cn/product/balance,2
-34672,VISITABLE_URL12,https://support.battlenet.com.cn/article/11009,2
+34672,VISITABLE_URL12,http://support.battlenet.com.cn/help/article/046861,2
 34673,VISITABLE_URL13,https://blizzard.com/privacy,2
 34674,VISITABLE_URL14,https://blizzard.com/tos,2
 34675,VISITABLE_URL15,https://blizzard.com/privacy,2
@@ -15242,14 +15243,14 @@ ID,BaseTag,TagText_lang,Flags
 34688,VISITABLE_URL27,http://support.battlenet.com.cn/help/article/281027,3
 34689,VISITABLE_URL28,http://support.battlenet.com.cn/help/article/211130,3
 34690,VISITABLE_URL29,http://support.battlenet.com.cn/help/article/244059,3
-34691,VISITABLE_URL3,https://support.battlenet.com.cn/restoration,2
+34691,VISITABLE_URL3,https://support.battlenet.com.cn/w/,2
 34692,VISITABLE_URL30,http://support.battlenet.com.cn/help/article/012005,3
 34693,VISITABLE_URL31,http://support.battlenet.com.cn/help/article/083440,3
 34694,VISITABLE_URL32,http://support.battlenet.com.cn/help/article/083440,3
 34695,VISITABLE_URL4,https://shop.battlenet.com.cn,2
-34696,VISITABLE_URL5,https://support-api.battlenet.com.cn/auth/home/index,2
-34697,VISITABLE_URL6,https://support-api.battlenet.com.cn/auth/home/question,2
-34698,VISITABLE_URL7,https://support-api.battlenet.com.cn/auth/home/service,2
+34696,VISITABLE_URL5,https://support.battlenet.com.cn/w/,2
+34697,VISITABLE_URL6,https://support.battlenet.com.cn/w/,2
+34698,VISITABLE_URL7,https://support.battlenet.com.cn/w/,2
 34699,VISITABLE_URL8,https://support.blizzard.com/article/75828,2
 34700,VISITABLE_URL9,https://blizzard.com/tos,2
 34701,VISITABLE_URL_GENERIC,https://shop.battlenet.com.cn,2
@@ -15269,7 +15270,7 @@ ID,BaseTag,TagText_lang,Flags
 34715,WOW_ERROR_309,当前没有可用的服务器。,2
 34716,WOW_ERROR_319,已从服务器断开。,2
 34717,WOW_ERROR_322,发生数据流错误。,2
-34718,WOW_ERROR_322_URL,http://support.battlenet.com.cn/help/article/034791,2
+34718,WOW_ERROR_322_URL,http://support.battlenet.com.cn/help/article/116093,2
 34719,WOW_ERROR_324_HTML,"<html><body><p align=""CENTER"">无法连接。请稍后再试。如果问题仍然存在，请访问以下链接<a href=""http://support.battlenet.com.cn/help/article/116093"">http://support.battlenet.com.cn/help/article/116093</a>以获取更多信息。</p></body></html>",2
 34720,WOW_ERROR_326_HTML,"<html><body><p align=""CENTER"">您的预付时间已经用尽，请访问<a href=""http://www.battlenet.com.cn"">http://www.battlenet.com.cn</a>充值之后继续游戏。</p></body></html>",2
 34721,WOW_ERROR_327,您的魔兽世界缴费已到期。您需要重新激活您的账号。要重新激活账号，请访问www.warcraftchina.com获取更多信息。,2
@@ -16132,8 +16133,8 @@ ID,BaseTag,TagText_lang,Flags
 35694,CONTRIBUTION_RESULT_ERROR_UNABLE_TO_COMPLETE_QUEST,目前无法捐献,1
 35695,CALENDAR_HOLIDAYFRAME_BEGINSENDS,%1$s|n|n开始：%2$s %3$s|n结束：%4$s %5$s,1
 35696,CALENDAR_TOOLTIP_ONGOING,进行中,1
-35697,VISITABLE_URL37,http://support.battlenet.com.cn/help/article/345591,3
-35698,VISITABLE_URL38,http://support.battlenet.com.cn/help/article/345591,3
+35697,VISITABLE_URL37,http://support.battlenet.com.cn/help/article/345727,3
+35698,VISITABLE_URL38,http://support.battlenet.com.cn/help/article/251513,3
 35699,BLIZZARD_STORE_DISCLAIMER_BOOST_TOKEN_100,|HurlIndex:37|h|cff006995角色直升的常见问题|r|h,3
 35700,BLIZZARD_STORE_DISCLAIMER_BOOST_TOKEN_100_CN,|HurlIndex:38|h|cff006995角色直升的常见问题|r|h,3
 35701,UNITNAME_SUMMON_TITLE31,%s的爆发的映像,1
@@ -18848,8 +18849,8 @@ ID,BaseTag,TagText_lang,Flags
 42641,MYTHIC_DUNGEONS,史诗地下城,1
 42642,SOULBIND_CONDUIT_ACTIVATE_UNAVAIL,要激活此导灵器插槽，请前往你的盟约圣所的羁绊熔炉,1
 42644,SOULBIND_CONDUIT_INSTALL_UNAVAIL,拜访羁绊熔炉以插入此导灵器,1
-42645,BNET_ERROR_40011,"<html><body><p>根据相关法律法规对未成年人游戏时间的要求，您目前无法登录游戏。请合理安排游戏时间，劳逸结合。了解详情：<a href=""https://www.battlenet.com.cn/support/zh/article/210633"">https://www.battlenet.com.cn/support/zh/article/210633</a></p></body></html>",2
-42646,BNET_ERROR_40012,"<html><body><p>根据相关法律法规对未成年人游戏时间的要求，您目前无法登录游戏。请合理安排游戏时间，劳逸结合。了解详情：<a href=""https://www.battlenet.com.cn/support/zh/article/210633"">https://www.battlenet.com.cn/support/zh/article/210633</a></p></body></html>",2
+42645,BNET_ERROR_40011,"<html><body><p>根据相关法律法规对未成年人游戏时间的要求，您目前无法登录游戏。请合理安排游戏时间，劳逸结合。了解详情：<a href=""https://support.battlenet.com.cn/w/article/101015"">https://support.battlenet.com.cn/w/article/101015</a></p></body></html>",2
+42646,BNET_ERROR_40012,"<html><body><p>根据相关法律法规对未成年人游戏时间的要求，您目前无法登录游戏。请合理安排游戏时间，劳逸结合。了解详情：<a href=""https://support.battlenet.com.cn/w/article/101015"">https://support.battlenet.com.cn/w/article/101015</a></p></body></html>",2
 42647,LEGENDARY_CRAFTING_UPGRADE_ITEM,升级,1
 42648,SOULBIND_DIALOG_INSTALL_CONDUIT_UNUSABLE,此插槽目前未激活。你确定想在此添加一个导灵器吗？,1
 42649,COVENANT_SANCTUM_NOT_ENOUGH_RESOURCES,资源不足,1
@@ -19078,8 +19079,8 @@ ID,BaseTag,TagText_lang,Flags
 42877,JAILERS_TOWER_LEVEL_TOAST_UPPER_REACHES,上层区域,1
 42878,COVENANT_MISSIONS_COVENANT_ADVENTURE,盟约冒险,1
 42879,CHAT_LEAVE_CHANNEL_PREVENTED,无法手动离开聊天频道： %s,1
-42880,VISITABLE_URL50,https://support-api.battlenet.com.cn/auth/home/index,2
-42881,VISITABLE_URL51,https://support-api.battlenet.com.cn/auth/home/index,2
+42880,VISITABLE_URL50,https://support.battlenet.com.cn/w/,2
+42881,VISITABLE_URL51,https://support.battlenet.com.cn/w/,2
 42882,MAC_INPUT_MONITORING1014,要想在《魔兽世界》不处于焦点窗口时启用按键发言，你必须在系统偏好设置下的安全性与隐私中授予%s“辅助功能”权限。是否现在打开系统偏好设置？,3
 42883,MAC_INPUT_MONITORING1015,要想在《魔兽世界》不处于焦点窗口时启用按键发言，你必须在系统偏好设置下的安全性与隐私中授予%s“输入监视”权限。是否现在打开系统偏好设置？,3
 42884,BINDING_NAME_CENTERCAMERA,镜头居中,1
@@ -19535,7 +19536,7 @@ ID,BaseTag,TagText_lang,Flags
 43922,DUNGEON_SCORE_BREAKDOWN,评分详情,1
 43923,SOULBIND_CONDUIT_ENHANCED,强化,1
 43924,SPELL_FAILED_CUSTOM_ERROR_551,这本书里没有适合你的专业的配方。,1
-43925,BNET_ERROR_40014_HTML,"<html><body><p align=""CENTER"">您的实名登记信息未能通过验证，目前未实名账号无法使用战网服务，请重新登记实名信息。<a href=""https://www.battlenet.com.cn/support/zh/article/210633"" >了解更多 </a></p></body></html>",3
+43925,BNET_ERROR_40014_HTML,"<html><body><p align=""CENTER"">您的实名登记信息未能通过验证，目前未实名账号无法使用战网服务，请重新登记实名信息。<a href=""http://support.battlenet.com.cn/help/article/210633"" >了解更多 </a></p></body></html>",3
 43926,CHALLENGE_COMPLETE_DUNGEON_SCORE_COLORED,史诗钥石评分：%s (+%s),1
 43928,COVENANT_MISSIONS_AURA_TOOLTIP_ENTRY_FORMAT,%s %s,1
 43929,COVENANT_MISSIONS_AURA_TOOLTIP_HEADER,效果,1
@@ -19630,7 +19631,7 @@ ID,BaseTag,TagText_lang,Flags
 44033,SLASH_TEXTTOSPEECH_MYMESSAGES,我的信息,1
 44034,TEXT_TO_SPEECH_VOICE_OPTIONS,语音设置,1
 44043,SPELL_FAILED_CUSTOM_ERROR_605,需要刻希亚圣物,1
-44044,VISITABLE_URL56,https://www.battlenet.com.cn/support/zh/article/288679,3
+44044,VISITABLE_URL56,http://support.battlenet.com.cn/help/article/288679,3
 44045,TEXT_TO_SPEECH_MORE_VOICES,更多信息请查阅|cff00aaff|HurlIndex:56|h支持页面|h|r,1
 44046,SPELL_FAILED_CUSTOM_ERROR_606,需要强化条全满,1
 44050,ERR_INVENTORY_TRADE_TOO_MANY_UNIQUE_ITEM,你的背包里会出现过多的该类唯一物品。,1
@@ -21587,7 +21588,7 @@ ID,BaseTag,TagText_lang,Flags
 50405,SPELL_FAILED_CUSTOM_ERROR_831,需要贾拉丁石柱碎片。,1
 50409,VISITABLE_URL58,https://support-api.battlenet.com.cn/auth/home/index,2
 50410,VISITABLE_URL59,https://support-api.battlenet.com.cn/auth/home/service,2
-50411,VISITABLE_URL60,https://www.battlenet.com.cn/support/zh/ticket/submit?loc,2
+50411,VISITABLE_URL60,https://support-api.battlenet.com.cn/auth/home/question,2
 50422,HUD_EDIT_MODE_ENABLE_ADVANCED_OPTIONS,高级选项,1
 50425,HUD_EDIT_MODE_SETTINGS_CATEGORY_TITLE_FRAMES,框体,1
 50426,HUD_EDIT_MODE_SETTINGS_CATEGORY_TITLE_COMBAT,战斗,1
@@ -22373,7 +22374,7 @@ ID,BaseTag,TagText_lang,Flags
 51989,ERR_GUILD_BANK_NOT_AVAILABLE,此角色无法使用公会银行。,1
 51990,CHARACTER_SELECT_HEADER_INFO,%d级,2
 51992,COUNTDOWN_CANCEL_ENCOUNTER_START,战斗已开始，倒计时取消。,1
-51993,VISITABLE_URL61,https://support.blizzard.com/article/000358199,2
+51993,VISITABLE_URL61,https://support.battlenet.com.cn/help/article/358199,2
 51994,ARACHNOPHOBIA_MODE_SUBTEXT,更多信息请查阅|cff00aaff|HurlIndex:61|h蜘蛛恐惧症页面|h|r,1
 52023,11_0_Z_1_WQ_MINIGAME_01_ARCANE_LOCK,打开奥术之锁！,1
 52024,ITEM_MOD_INGENUITY_SHORT,奇思,1

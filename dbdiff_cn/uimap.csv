@@ -1,4 +1,4 @@
-Name_lang,ID,ParentUiMapID,Flags,System,Type,BountySetID,BountyDisplayLocation,TempVisibilityPlayerConditionID,VisibilityPlayerConditionID,HelpTextPosition,BkgAtlasID,AlternateUiMapGroup,ContentTuningID,Field_11_0_0_55087_014
+Name_lang,ID,ParentUiMapID,Flags,System,Type,BountySetID,BountyDisplayLocation,TempVisibilityPlayerConditionID,VisibilityPlayerConditionID,HelpTextPosition,BkgAtlasID,AlternateUiMapGroup,ContentTuningID,AdventureMapTextureKitID
 杜隆塔尔,1,12,6,0,3,0,0,0,0,0,0,0,70,0
 火刃集会所,2,1,0,0,5,0,0,0,0,0,0,0,0,0
 提拉加德城堡,3,1,0,0,5,0,0,0,0,0,0,0,0,0
