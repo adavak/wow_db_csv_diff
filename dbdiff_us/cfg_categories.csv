@@ -81,3 +81,8 @@ ID,Name_lang,LocaleMask,Create_charsetMask,Existing_charsetMask,Flags,Order
 186,Beta,0,0,0,0,0
 187,NetEase Test,0,17,17,0,0
 188,Return To Northrend,0,1,1,2,0
+189,Progression,0,1,1,0,0
+190,Progression,3277,1,1,0,0
+191,Progression,0,10,10,0,0
+192,Progression,0,17,17,0,0
+193,Progression,0,17,17,0,0

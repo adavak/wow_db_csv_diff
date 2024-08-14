@@ -305,3 +305,53 @@ ID,Field_10_0_2_45779_000,Field_10_0_2_45779_001,Field_10_0_2_45779_002,Field_10
 341,SFX - Ambience - The War Within - Raids - 11.0 Nerub-ar Palace - Zone Tone,Zone Tone,197,340,1
 343,SFX - Ambience - The War Within - Raids - 11.0 Nerub-ar Palace - Periodic,Periodic,197,340,1
 344,SFX - Ambience - The War Within - Raids - 11.0 Nerub-ar Palace - Emitter,Emitter,197,340,1
+345,SFX - RTC - The War Within,The War Within,197,216,1
+346,SFX - RTC - The War Within - 11.0,11.0,197,345,1
+347,SFX - RTC - The War Within - 11.0 - HFR,HFR,197,346,1
+348,SFX - RTC - The War Within - 11.0 - ALR,ALR,197,346,1
+349,SFX - RTC - The War Within - 11.0 - ADF,ADF,197,346,1
+350,SFX - RTC - The War Within - 11.0 - TCC,TCC,197,346,1
+351,SFX - RTC - The War Within - 11.0 - AIL,AIL,197,346,1
+352,SFX - RTC - The War Within - 11.0 - EPE,EPE,197,346,1
+353,SFX - RTC - The War Within - 11.0 - MDD,MDD,197,346,0.7943282
+354,SFX - Raid - The War Within - 11.0 Nerub-ar Palace - 1. Ulgrax the Devourer,11.0 Nerub-ar Palace - 1. Ulgrax the Devourer,197,316,1
+355,SFX - Raid - The War Within - 11.0 Nerub-ar Palace - 2. The Bloodbound Horror,11.0 Nerub-ar Palace - 2. The Bloodbound Horror,197,316,1
+356,"SFX - Raid - The War Within - 11.0 Nerub-ar Palace - 3. Sikran, Captain of the Sureki","11.0 Nerub-ar Palace - 3. Sikran, Captain of the Sureki",197,316,1
+357,SFX - Raid - The War Within - 11.0 Nerub-ar Palace - 4. Rasha'nan,11.0 Nerub-ar Palace - 4. Rasha'nan,197,316,1
+358,SFX - Raid - The War Within - 11.0 Nerub-ar Palace - 5. Broodtwister Ovi'nax,11.0 Nerub-ar Palace - 5. Broodtwister Ovi'nax,197,316,0.70794576
+359,SFX - Raid - The War Within - 11.0 Nerub-ar Palace - 6. Nexus-Princess Ky'veza,11.0 Nerub-ar Palace - 6. Nexus-Princess Ky'veza,197,316,0.70794576
+360,SFX - Raid - The War Within - 11.0 Nerub-ar Palace - 7. The Silken Court,11.0 Nerub-ar Palace - 7. The Silken Court,197,316,1
+361,SFX - Raid - The War Within - 11.0 Nerub-ar Palace - 7. The Silken Court - Anub'arash,Anub'arash,197,360,1
+362,SFX - Raid - The War Within - 11.0 Nerub-ar Palace - 7. The Silken Court - Takazj,Takazj,197,360,1
+363,SFX - Raid - The War Within - 11.0 Nerub-ar Palace - 8. Queen Ansurek,11.0 Nerub-ar Palace - 8. Queen Ansurek,197,316,1
+364,SFX - Raid - The War Within - Trash,Trash,197,316,1
+365,SFX - Ambience - The War Within - 11.0 Dungeons - Foundry,The War Within - 11.0 Dungeons - Foundry,197,189,1
+366,SFX - Ambience - The War Within - 11.0 Dungeons - Priory of the Sacred Flame,Priory of the Sacred Flame,197,325,1
+367,SFX - Ambience - The War Within - 11.0 Dungeons - Priory of the Sacred Flame - Ambience Beds,Ambience Beds,197,366,1
+368,SFX - Ambience - The War Within - 11.0 Dungeons - Priory of the Sacred Flame - Periodic,Periodic,197,366,1
+369,SFX - Dungeon - The War Within,The War Within,197,127,1
+370,SFX - Dungeon - The War Within - 11.0 Priory of the Sacred Flame,11.0 Priory of the Sacred Flame,197,369,1
+371,SFX - Dungeon - The War Within - 11.0 Priory of the Sacred Flame - 1. Captain Dailcry,1. Captain Dailcry,197,370,1
+372,SFX - Dungeon - The War Within - 11.0 Priory of the Sacred Flame - 2. Baron Braunpyke,2. Baron Braunpyke,197,370,1
+373,SFX - Dungeon - The War Within - 11.0 Priory of the Sacred Flame - 3. Prioress Murrpray,3. Prioress Murrpray,197,370,1
+374,SFX - Dungeon - The War Within - 11.0 Priory of the Sacred Flame - Trash,Trash,197,370,1
+375,SFX - Dungeon - The War Within - 11.0 Priory of the Sacred Flame - Mini Boss,Mini Boss,197,370,1
+376,SFX - RTC - The War Within - 11.0 - AL1,AL1,197,346,1
+377,SFX - RTC - The War Within - 11.0 - AL2,AL2,197,346,1
+378,SFX - RTC - The War Within - 11.0 - AL3,AL3,197,346,1
+379,SFX - RTC - The War Within - 11.0 - AL4,AL4,197,346,1
+380,SFX - RTC - The War Within - 11.0 - AL5,AL5,197,346,1
+381,SFX - RTC - The War Within - 11.0 - NSF,NSF,197,346,1
+382,SFX - RTC - The War Within - 11.0 - CRR,CRR,197,346,1
+383,SFX - RTC - The War Within - 11.0 - TJR,TJR,197,346,1
+384,SFX - RTC - The War Within - 11.0 - BAA,BAA,197,346,1
+385,SFX - RTC - The War Within - 11.0 - QAR,QAR,197,346,1
+386,SFX - RTC - The War Within - 11.0 - STM,STM,197,346,1
+387,SFX - Raid - The War Within - 11.0 Nerub-ar Palace - 7. The Silken Court - Anub'arash - Impacts,Impacts,197,361,0.7943282
+388,SFX - Raid - The War Within - 11.0 Nerub-ar Palace - 7. The Silken Court - Takazj - Impacts,Impacts,197,362,0.7943282
+389,SFX - Raid - The War Within - 11.0 Nerub-ar Palace - 7. The Silken Court - Whisper impacts,Whisper impacts,197,360,0.56234133
+390,SFX - RTC - The War Within - 11.0 - SRA,SRA,197,346,1
+394,SFX - RTC - The War Within - 11.0 - MTS,MTS,197,346,1
+395,SFX - RTC - The War Within - 11.0 - BSC,BSC,197,346,1
+396,SFX - RTC - The War Within - 11.0 - FRS,FRS,197,346,1
+397,SFX - RTC - The War Within - 11.0 - MDD - Azerite,Azerite,197,353,0.56234133

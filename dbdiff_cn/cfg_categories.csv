@@ -81,3 +81,8 @@ ID,Name_lang,LocaleMask,Create_charsetMask,Existing_charsetMask,Flags,Order
 186,Beta测试,0,0,0,0,0
 187,NetEase Test,0,17,17,0,0
 188,重返诺森德,0,1,1,2,0
+189,进度,0,1,1,0,0
+190,进度,3277,1,1,0,0
+191,进度,0,10,10,0,0
+192,进度,0,17,17,0,0
+193,进度,0,17,17,0,0
