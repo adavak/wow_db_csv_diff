@@ -1,0 +1,17 @@
+ID,Name,Message_lang
+1,MSG_TITLE_WOW,魔獸世界
+2,MSG_GX_INIT_FAILED_D3D,魔獸世界無法啟用3D加速。請確保您已經安裝了DirectX 9.0c並已將顯示卡驅動程式升級為最新版本。
+3,MSG_GX_INIT_FAILED,魔獸世界無法啟用3D加速。
+4,MSG_HW_UNSUPPORTED,魔獸世界不支援您的3D加速卡。欲知更多詳情，請參考網頁https://tw.battle.net/support/zh/article/world-of-warcraft-system-requirements
+5,MSG_HW_CHANGED,硬體配置已改變，要重新載入原始設定嗎?
+9,MSG_GLUEXML_UI_CORRUPT,你的登入介面檔案已損壞。請重新安裝遊戲。
+10,MSG_FRAMEXML_UI_CORRUPT,你的遊戲介面檔案已損壞。請刪除你的Interface\FrameXML目錄。
+11,MSG_GX_NO_DEVICE,找不到適用的顯示裝置，退出程式。
+12,MSG_REMOTE_DESKTOP,魔獸世界不支援遠端桌面通訊協定，退出程式。
+14,MSG_CLIENT_INIT,魔獸世界正在進行必要資料檔案的初始設定。這可能會花費數分鐘。你也可以取消這個步驟並允許啟動器來完成安裝。
+15,MSG_DOWNLOAD_FAILED,無法取得重要遊戲資料。請檢查你的網路連線。
+16,MSG_DISK_FULL,硬碟已滿。請在該槽釋出部份空間。
+17,MSG_GX_FAIL_API_VERSION,魔獸世界需要安裝最新版本的DirectX Runtime。欲知更多詳情，請參考網頁http://tw.battle.net/support/en/article/driver-update-information
+18,MSG_GX_FAIL_NO_DRIVER,魔獸世界搜尋不到適用的顯示卡，請檢查你的顯示卡驅動程式是否需要更新，並且確認你不是在安全模式下執行遊戲。欲知更多詳情，請參考網頁http://tw.battle.net/support/en/article/driver-update-information
+27,MSG_COMPATIBILITY_ERROR,由於相容模式設定，無法啟動魔獸世界。請停用WoW.exe與Launcher.exe檔案的相容模式，然後再次啟動遊戲。關於停用相容模式的詳細步驟，請參閱: https://tw.battle.net/support/zh/article/disabling-compatibility-mode-pc
+134,MSG_GX_SLOW_SHADER_BUILDING_WARNING,由於一個已知的GPU驅動程式問題，首次建立著色器時可能會導致遊戲首次啟動的速度異常緩慢。此過程可能需要耗費數分鐘。

@@ -1,0 +1,32 @@
+ID,Name_lang,EnumID
+1,技能,0
+2,靈感,1
+3,精明,2
+4,技法,3
+5,純熟,4
+6,感知,5
+7,製造速度,6
+8,複數製造,7
+9,Unlock Reagent Slot (DNT - write manually!),8
+10,靈感,9
+11,精明,10
+12,技法,11
+13,純熟,12
+14,感知,13
+15,製造速度,14
+16,複數製造,15
+17,純熟,16
+18,Gather Range Rating (DNT - write manually!),17
+19,additional items crafted with Multicraft (DNT - write manually!),18
+20,basic reagents gathered from Finesse (DNT - write manually!),19
+21,bonus Crafting Skill from Inspiration (DNT - write manually!),20
+22,reagents saved from Resourcefulness (DNT - write manually!),21
+23,降低難度,22
+24,提高難度,23
+25,修改技能提升,24
+26,Trait Ranks By Points-Modifier Label (DNT),25
+27,精妙,26
+28,reduce concentration cost (DNT - write manually),27
+29,Dummy Effect For # Tokenization (DNT),28
+30,精妙,29
+31,Ingenuity Refund Increase (DNT - write manually!),30
