@@ -148,4 +148,4 @@ String_lang,ID,Flags
 需要“$@spellname382021”天赋,1113,0
 需要“$@spellname60103”天赋,1114,0
 需要“$@spellname5394”天赋,1115,0
-Unlocks at %s,1116,0
+%s时解锁,1116,0

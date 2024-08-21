@@ -11072,7 +11072,7 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 20026,|cFFFFD200專業技能：|r概論製作發現|n,-1,-1,444189
 20027,|cFFFFD200專業技能訓練師：|r卡茲阿爾加銘文學(25)|n|cFFFFD200花費：|r160|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,444190
 20028,|cFFFFD200專業技能訓練師：|r卡茲阿爾加銘文學(20)|n|cFFFFD200花費：|r150|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,444191
-20029,|cFFFFD200專精：|r增補文獻 - 暗月符印：進化,-1,3,444192
+20029,|cFFFFD200專精：|r暗月符印：晉升|n,-1,3,444192
 20030,|cFFFFD200專精：|r增補文獻 - 暗月符印：光輝,-1,3,444193
 20031,|cFFFFD200專精：|r增補文獻 - 暗月符印：共生,-1,3,444194
 20032,|cFFFFD200專精：|r增補文獻 - 暗月符印：生機,-1,3,444195
@@ -11103,7 +11103,7 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 20057,|cFFFFD200專業技能訓練師：|r卡茲阿爾加銘文學(15)|n|cFFFFD200花費：|r140|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,444221
 20058,|cFFFFD200專業技能訓練師：|r卡茲阿爾加銘文學(10)|n|cFFFFD200花費：|r110|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,444222
 20059,|cFFFFD200專業技能：|r概論製作發現|n,-1,-1,444223
-20060,|cFFFFD200專精：|r增補文獻 - 暗月符印：進化(30),-1,3,444224
+20060,|cFFFFD200專精：|r暗月符印：晉升(30),-1,3,444224
 20061,|cFFFFD200專精：|r增補文獻 - 暗月符印：生機(30),-1,3,444225
 20062,|cFFFFD200專精：|r增補文獻 - 暗月符印：共生(30),-1,3,444226
 20063,|cFFFFD200專精：|r增補文獻 - 暗月符印：光輝(30),-1,3,444227

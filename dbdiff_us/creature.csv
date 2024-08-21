@@ -20207,6 +20207,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 220216,Attack Pheromone,,,,0,10,0,0,112698,0,0,0,1,1,1,1,0,0,0
 220217,Hunger Pheromone,,,,0,10,0,0,112699,0,0,0,1,1,1,1,0,0,0
 220221,Nerubian Hatchling,,,,0,10,0,0,116437,0,0,0,1,1,1,1,0,0,0
+220254,Rescued Citizen,,,,0,7,0,0,28151,68019,68020,68021,1,1,1,1,0,0,0
 220356,Bog Beast,,,,1,10,0,3,22903,11686,0,0,0,1,1,1,0,0,0
 220420,Remembered Riverpaw,,,,0,14,0,0,118088,0,0,0,1,1,1,1,1905,0,0
 220440,Eternus,,,,1,2,0,0,112713,0,0,0,1,1,1,1,0,0,0
@@ -20221,7 +20222,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 220807,Overlord Geya'rah,,,,1,7,0,0,85555,0,0,0,1,1,1,1,118400,0,0
 220848,Delve Key Credit,,,,0,10,0,3,22903,11686,0,0,0,1,1,1,0,0,0
 220866,Horde Flag,,,,0,10,0,0,118342,0,0,0,1,1,1,1,0,0,0
-220951,Hannan,,,,0,7,0,0,117247,0,0,0,1,1,1,1,0,0,0
+220951,Hannan,,,,0,7,0,0,118149,0,0,0,1,1,1,1,0,0,0
 220952,On'hiea,,,,0,7,0,0,117247,0,0,0,1,1,1,1,0,0,0
 220954,Ney'leia,,,,0,7,0,0,117243,0,0,0,1,1,1,1,210678,0,0
 220955,Kai'shae,,,,0,7,0,0,118187,0,0,0,1,1,1,1,205896,0,0
@@ -20523,7 +20524,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 223864,Tan Stagshell,,,,0,8,0,0,119769,0,0,0,1,1,1,1,0,0,0
 223865,Green Stagshell,,,,0,8,0,0,119768,0,0,0,1,1,1,1,0,0,0
 223944,Alleria Windrunner,,,,1,7,0,0,118072,0,0,0,1,1,1,1,0,0,219442
-224076,Hannan,,,,0,7,0,0,117247,0,0,0,1,1,1,1,0,0,0
+224076,Hannan,,,,0,7,0,0,118149,0,0,0,1,1,1,1,0,0,0
 224090,Brown Leafbug,,,,0,12,0,0,119847,0,0,0,1,1,1,1,0,0,0
 224116,Winds of Pandaria,,,,0,10,0,3,21955,23767,108324,0,0,0,1,1,0,0,0
 224154,General Steelstrike,,,,1,7,0,0,119881,0,0,0,1,1,1,1,0,0,0
@@ -20720,3 +20721,4 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 230868,High Speaker's Guard,,,,0,7,0,0,114755,117459,0,0,0,1,1,1,214494,0,0
 231171,Sound Stalker - 11.0 Scenario - Theater Troupe - Audience,,,,6,10,0,3,90874,11686,0,0,0,1,1,1,0,0,0
 231546,Xal'atath,,,,1,15,0,0,117121,0,0,0,1,1,1,1,0,0,0
+231755,Faerin Lothar,,,,1,7,0,0,122723,0,0,0,1,1,1,1,0,0,0

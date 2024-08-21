@@ -2702,7 +2702,7 @@ ID,Name_lang,HordeName_lang,Duration,EffectArg[0],EffectArg[1],EffectArg[2],Flag
 4216,Pyrium Spike,,0,92436,0,0,1,0,0,0,0,10,320,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,27,50
 4217,Pyrium Weapon Chain,,0,43588,36,0,33,0,0.51,0,0,10,320,0,0,0,40,0,159,0,0,1,0,3,5,0,-1,0,0,0,32
 4222,Mind Amplification Dish,,0,67799,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2504,1,1,0,7,0,0,0,0,0,0,50
-4223,Nitro Boosts,,0,55004,32,31,1,0,0,0,0,10,376,0,0,0,24,0,0,2504,1,1,0,7,0,0,0,0,0,0,50
+4223,Nitro Boosts,,0,55004,32,31,1,0,0,0,0,10,0,0,0,0,24,0,0,2504,1,1,0,7,0,0,0,0,0,0,50
 4225,Fishing Lure (+$95243s1 Fishing Skill),,900,95243,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,50
 4227,+$k1 Agility,,0,3,0,0,32,1.038,0,0,0,10,376,0,0,130,0,0,201,0,0,1,0,5,0,0,-1,0,0,0,32
 4236,+$k1 Intellect and +$k2 Armor,,0,5,0,0,32,0.5,0.5,0,0,10,0,0,0,20,20,0,0,0,0,1,0,5,4,0,-4,0,0,0,32
@@ -4630,13 +4630,13 @@ ID,Name_lang,HordeName_lang,Duration,EffectArg[0],EffectArg[1],EffectArg[2],Flag
 6837,Hissing Rune,,7200,49,0,0,33,0.58425,0,0,0,26,0,0,0,12,0,0,0,0,0,50,0,5,0,0,-7,0,0,61,70
 6838,Hissing Rune,,7200,49,0,0,33,0.478425,0,0,0,26,0,0,0,12,0,0,0,0,0,50,0,5,0,0,-7,0,0,61,70
 6839,Hissing Rune,,7200,49,0,0,33,0.683438,0,0,0,26,0,0,0,12,0,0,0,0,0,50,0,5,0,0,-7,0,0,61,70
-6840,Shadowed Belt Clasp,,0,7,0,0,33,0.202,0,0,0,26,0,0,0,12,0,0,0,0,0,50,0,5,0,0,-7,0,0,61,70
-6841,Shadowed Belt Clasp,,0,7,0,0,33,0.245,0,0,0,26,0,0,0,12,0,0,0,0,0,50,0,5,0,0,-7,0,0,61,70
-6842,Shadowed Belt Clasp,,0,7,0,0,33,0.288,0,0,0,26,0,0,0,12,0,0,0,0,0,50,0,5,0,0,-7,0,0,61,70
+6840,Shadowed Belt Clasp,,0,7,0,0,33,0.202,0,0,0,26,535,0,0,12,0,0,0,0,0,50,0,5,0,0,-7,0,0,61,70
+6841,Shadowed Belt Clasp,,0,7,0,0,33,0.245,0,0,0,26,535,0,0,12,0,0,0,0,0,50,0,5,0,0,-7,0,0,61,70
+6842,Shadowed Belt Clasp,,0,7,0,0,33,0.288,0,0,0,26,535,0,0,12,0,0,0,0,0,50,0,5,0,0,-7,0,0,61,70
 6903,10.1.5 FX Testing - Enchant Visualt - Bronze Infinite,,0,0,0,0,0,0,0,0,1392911,0,0,0,50000,0,0,0,635,0,0,30,0,0,0,0,0,0,0,0,0
-6904,Shadowed Belt Clasp|A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,7,0,0,33,0.233235,0,0,0,200,0,0,0,0,0,0,0,0,0,55,0,5,0,0,-7,0,0,61,70
-6905,Shadowed Belt Clasp|A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,7,0,0,33,0.203235,0,0,0,200,0,0,0,0,0,0,0,0,0,55,0,5,0,0,-7,0,0,61,70
-6906,Shadowed Belt Clasp|A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,7,0,0,33,0.163235,0,0,0,200,0,0,0,0,0,0,0,0,0,55,0,5,0,0,-7,0,0,61,70
+6904,Shadowed Belt Clasp|A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,7,0,0,33,0.233235,0,0,0,26,535,0,0,0,0,0,0,0,0,55,0,5,0,0,-7,0,0,61,70
+6905,Shadowed Belt Clasp|A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,7,0,0,33,0.203235,0,0,0,26,535,0,0,0,0,0,0,0,0,55,0,5,0,0,-7,0,0,61,70
+6906,Shadowed Belt Clasp|A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,7,0,0,33,0.163235,0,0,0,26,535,0,0,0,0,0,0,0,0,55,0,5,0,0,-7,0,0,61,70
 6907,Illusory Adornment: Dreams,,1200,414947,0,0,0,0,0,0,1396974,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0
 6908,Illusory Adornment: Dreams,,2400,414947,0,0,0,0,0,0,1396974,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0
 6909,Illusory Adornment: Dreams,,3600,414947,0,0,0,0,0,0,1396974,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0
@@ -4830,42 +4830,42 @@ ID,Name_lang,HordeName_lang,Duration,EffectArg[0],EffectArg[1],EffectArg[2],Flag
 7320,Test Enchant - Sha,,0,0,0,0,0,0,0,0,1392911,0,0,0,50000,0,0,0,650,0,0,30,0,0,0,0,0,0,0,0,0
 7322,Sha Corruption,,0,0,0,0,256,0,0,0,651083,0,0,70103,0,0,0,0,651,0,0,1,0,0,0,0,0,0,0,0,60
 7323,10FX - Weapon Enchant - Sha - All Weapons,,0,0,0,0,0,0,0,0,1392911,0,0,0,50000,0,0,0,651,0,0,30,0,0,0,0,0,0,0,0,0
-7329,+$k1 Critical Strike |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,32,0,0,32,0.0339517,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7330,+$k1 Critical Strike |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,32,0,0,32,0.0417867,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7331,+$k1 Critical Strike |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,32,0,0,32,0.0496217,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7332,+$k1 Critical Strike |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,32,0,0,32,0.0574567,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7333,+$k1 Critical Strike |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,32,0,0,32,0.0692092,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7334,+$k1 Critical Strike |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,32,0,0,32,0.0822676,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7335,+$k1 Haste |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,36,0,0,32,0.0339517,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7336,+$k1 Haste |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,36,0,0,32,0.0417867,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7337,+$k1 Haste |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,36,0,0,32,0.0496217,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7338,+$k1 Haste |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,36,0,0,32,0.0574567,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7339,+$k1 Haste |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,36,0,0,32,0.0692092,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7340,+$k1 Haste |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,36,0,0,32,0.0822676,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7341,+$k1 Mastery |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,49,0,0,32,0.0339517,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7342,+$k1 Mastery |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,49,0,0,32,0.0417867,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7343,+$k1 Mastery |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,49,0,0,32,0.0496217,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7344,+$k1 Mastery |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,49,0,0,32,0.0574567,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7345,+$k1 Mastery |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,49,0,0,32,0.0692092,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7346,+$k1 Mastery |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,49,0,0,32,0.0822676,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7347,+$k1 Versatility |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,40,0,0,32,0.0339517,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7348,+$k1 Versatility |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,40,0,0,32,0.0417867,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7349,+$k1 Versatility |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,40,0,0,32,0.0496217,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7350,+$k1 Versatility |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,40,0,0,32,0.0574567,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7351,+$k1 Versatility |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,40,0,0,32,0.0692092,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7352,+$k1 Versatility |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,40,0,0,32,0.0822676,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7353,Stormrider's Agility |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,3,61,0,32,0.0457042,0.182817,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,5,0,-7,0,0,70,80
-7354,Stormrider's Agility |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,3,61,0,32,0.114913,0.0561509,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,5,0,-7,0,0,70,80
-7355,Stormrider's Agility |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,3,61,0,32,0.135807,0.0652917,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,5,0,-7,0,0,70,80
-7356,Council's Intellect |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,5,449436,0,32,0.0953259,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,3,0,-7,0,0,70,80
-7357,Council's Intellect |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,5,449437,0,32,0.114913,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,3,0,-7,0,0,70,80
-7358,Council's Intellect |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,5,449438,0,32,0.135807,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,3,0,-7,0,0,70,80
-7359,Oathsworn's Strength |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,4,7,0,32,0.0953259,0.06268,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,5,0,-7,0,0,70,80
-7360,Oathsworn's Strength |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,4,7,0,32,0.114913,0.0665976,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,5,0,-7,0,0,70,80
-7361,Oathsworn's Strength |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,4,7,0,32,0.135807,0.0705151,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,5,0,-7,0,0,70,80
-7362,Crystalline Radiance |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,71,0,0,32,0.135807,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7363,Crystalline Radiance |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,71,0,0,32,0.164535,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7364,Crystalline Radiance |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,71,0,0,32,0.194569,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
+7329,+$k1 Critical Strike |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,32,0,0,32,0.286758,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7330,+$k1 Critical Strike |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,32,0,0,32,0.352933,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7331,+$k1 Critical Strike |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,32,0,0,32,0.419107,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7332,+$k1 Critical Strike |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,32,0,0,32,0.485282,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7333,+$k1 Critical Strike |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,32,0,0,32,0.584545,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7334,+$k1 Critical Strike |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,32,0,0,32,0.694836,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7335,+$k1 Haste |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,36,0,0,32,0.286758,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7336,+$k1 Haste |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,36,0,0,32,0.352933,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7337,+$k1 Haste |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,36,0,0,32,0.419107,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7338,+$k1 Haste |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,36,0,0,32,0.485282,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7339,+$k1 Haste |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,36,0,0,32,0.584545,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7340,+$k1 Haste |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,36,0,0,32,0.694836,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7341,+$k1 Mastery |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,49,0,0,32,0.286758,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7342,+$k1 Mastery |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,49,0,0,32,0.352933,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7343,+$k1 Mastery |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,49,0,0,32,0.419107,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7344,+$k1 Mastery |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,49,0,0,32,0.485282,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7345,+$k1 Mastery |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,49,0,0,32,0.584545,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7346,+$k1 Mastery |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,49,0,0,32,0.694836,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7347,+$k1 Versatility |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,40,0,0,32,0.286758,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7348,+$k1 Versatility |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,40,0,0,32,0.352933,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7349,+$k1 Versatility |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,40,0,0,32,0.419107,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7350,+$k1 Versatility |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,40,0,0,32,0.485282,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7351,+$k1 Versatility |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,40,0,0,32,0.584545,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7352,+$k1 Versatility |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,40,0,0,32,0.694836,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7353,Stormrider's Agility |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,3,61,0,32,0.794098,0.397049,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,5,0,-7,0,0,0,70
+7354,Stormrider's Agility |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,3,61,0,32,0.970565,0.474253,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,5,0,-7,0,0,0,70
+7355,Stormrider's Agility |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,3,61,0,32,1.14703,0.551457,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,5,0,-7,0,0,0,70
+7356,Council's Intellect |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,5,449436,0,32,0.794098,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,3,0,-7,0,0,0,70
+7357,Council's Intellect |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,5,449437,0,32,0.970565,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,3,0,-7,0,0,0,70
+7358,Council's Intellect |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,5,449438,0,32,1.14703,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,3,0,-7,0,0,0,70
+7359,Oathsworn's Strength |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,4,7,0,32,0.805127,0.408078,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,5,0,-7,0,0,0,70
+7360,Oathsworn's Strength |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,4,7,0,32,0.970565,0.496311,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,5,0,-7,0,0,0,70
+7361,Oathsworn's Strength |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,4,7,0,32,1.14703,0.584545,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,5,0,-7,0,0,0,70
+7362,Crystalline Radiance |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,71,0,0,32,1.14703,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7363,Crystalline Radiance |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,71,0,0,32,1.38967,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7364,Crystalline Radiance |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,71,0,0,32,1.64334,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
 7365,+$k1 Deftness |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,78,0,0,33,48.5,0,0,0,500,650,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,1,1
 7366,+$k1 Deftness |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,78,0,0,33,64.5,0,0,0,500,650,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,1,1
 7367,+$k1 Deftness |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,78,0,0,33,81,0,0,0,500,650,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,1,1
@@ -4881,51 +4881,51 @@ ID,Name_lang,HordeName_lang,Duration,EffectArg[0],EffectArg[1],EffectArg[2],Flag
 7377,+$k1 Resourcefulness |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,76,0,0,33,48.554,0,0,0,500,650,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,1,1
 7378,+$k1 Resourcefulness |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,76,0,0,33,64.5,0,0,0,500,650,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,1,1
 7379,+$k1 Resourcefulness |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,76,0,0,33,81,0,0,0,500,650,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,1,1
-7380,+$k1 Avoidance |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,63,0,0,32,0.0992434,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7381,+$k1 Avoidance |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,63,0,0,32,0.142336,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7382,+$k1 Avoidance |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,63,0,0,32,0.184123,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7383,+$k1 Avoidance |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,63,0,0,32,0.198487,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7384,+$k1 Avoidance |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,63,0,0,32,0.241579,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7385,+$k1 Avoidance |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,63,0,0,32,0.284672,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7386,+$k1 Leech |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,62,0,0,32,0.186734,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7387,+$k1 Leech |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,62,0,0,32,0.26639,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7388,+$k1 Leech |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,62,0,0,32,0.346046,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7389,+$k1 Leech |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,62,0,0,32,0.373469,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7390,+$k1 Leech |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,62,0,0,32,0.453124,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7391,+$k1 Leech |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,62,0,0,32,0.53278,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7392,+$k1 Speed |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,61,0,0,32,0.0914084,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7393,+$k1 Speed |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,61,0,0,32,0.130583,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7394,+$k1 Speed |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,61,0,0,32,0.169758,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7395,+$k1 Speed |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,61,0,0,32,0.182817,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7396,+$k1 Speed |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,61,0,0,32,0.221992,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7397,+$k1 Speed |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,61,0,0,32,0.261167,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7398,+$k1 Avoidance |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,63,0,0,32,0.0496217,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7399,+$k1 Avoidance |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,63,0,0,32,0.0705151,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7400,+$k1 Avoidance |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,63,0,0,32,0.0914084,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7401,Chant of Winged Grace |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,63,449735,0,32,0.0992434,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,3,0,-7,0,0,70,80
-7402,Chant of Winged Grace |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,63,449736,0,32,0.120137,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,3,0,-7,0,0,70,80
-7403,Chant of Winged Grace |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,63,449737,0,32,0.142336,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,3,0,-7,0,0,70,80
-7404,+$k1 Leech |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,62,0,0,32,0.0914084,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7405,+$k1 Leech |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,62,0,0,32,0.133195,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7406,+$k1 Leech |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,62,0,0,32,0.173676,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7407,Chant of Leeching Fangs |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,62,449739,0,32,0.186734,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,3,0,-7,0,0,70,80
-7408,Chant of Leeching Fangs |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,62,449740,0,32,0.225909,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,3,0,-7,0,0,70,80
-7409,Chant of Leeching Fangs |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,62,449741,0,32,0.26639,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,3,0,-7,0,0,70,80
-7410,+$k1 Speed |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,61,0,0,32,0.023505,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7411,+$k1 Speed |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,61,0,0,32,0.0326459,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7412,+$k1 Speed |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,61,0,0,32,0.0430925,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7413,Chant of Burrowing Rapidity |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,61,449752,0,32,0.0457042,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,3,0,-7,0,0,70,80
-7414,Chant of Burrowing Rapidity |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,61,449743,0,32,0.0561509,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,3,0,-7,0,0,70,80
-7415,Chant of Burrowing Rapidity |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,61,449744,0,32,0.0652917,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,3,0,-7,0,0,70,80
-7416,Scout's March |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,61,0,0,32,0.0457042,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7417,Scout's March |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,61,0,0,32,0.0561509,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7418,Scout's March |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,61,0,0,32,0.0652917,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7419,Cavalry's March |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,449433,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
-7420,Cavalry's March |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,449434,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
-7421,Cavalry's March |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,449435,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
-7422,Defender's March |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,7,0,0,32,0.163229,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7423,Defender's March |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,7,0,0,32,0.198487,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
-7424,Defender's March |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,7,0,0,32,0.233744,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,70,80
+7380,+$k1 Avoidance |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,63,0,0,32,0.838215,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7381,+$k1 Avoidance |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,63,0,0,32,1.20218,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7382,+$k1 Avoidance |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,63,0,0,32,1.56614,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7383,+$k1 Avoidance |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,63,0,0,32,1.67643,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7384,+$k1 Avoidance |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,63,0,0,32,2.04039,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7385,+$k1 Avoidance |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,63,0,0,32,2.40435,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7386,+$k1 Leech |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,62,0,0,32,1.57717,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7387,+$k1 Leech |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,62,0,0,32,2.24995,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7388,+$k1 Leech |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,62,0,0,32,2.92272,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7389,+$k1 Leech |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,62,0,0,32,3.14331,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7390,+$k1 Leech |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,62,0,0,32,3.82711,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7391,+$k1 Leech |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,62,0,0,32,4.49989,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7392,+$k1 Speed |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,61,0,0,32,0.77204,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7393,+$k1 Speed |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,61,0,0,32,1.10291,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7394,+$k1 Speed |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,61,0,0,32,1.43379,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7395,+$k1 Speed |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,61,0,0,32,1.54408,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7396,+$k1 Speed |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,61,0,0,32,1.87495,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7397,+$k1 Speed |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,61,0,0,32,2.20583,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7398,+$k1 Avoidance |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,63,0,0,32,0.419107,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7399,+$k1 Avoidance |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,63,0,0,32,0.595574,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7400,+$k1 Avoidance |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,63,0,0,32,0.783069,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7401,Chant of Winged Grace |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,63,449735,0,32,0.838215,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,3,0,-7,0,0,0,70
+7402,Chant of Winged Grace |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,63,449736,0,32,1.02571,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,3,0,-7,0,0,0,70
+7403,Chant of Winged Grace |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,63,449737,0,32,1.20218,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,3,0,-7,0,0,0,70
+7404,+$k1 Leech |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,62,0,0,32,0.783069,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7405,+$k1 Leech |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,62,0,0,32,1.12497,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7406,+$k1 Leech |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,62,0,0,32,1.46688,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7407,Chant of Leeching Fangs |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,62,449739,0,32,1.57717,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,3,0,-7,0,0,0,70
+7408,Chant of Leeching Fangs |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,62,449740,0,32,1.90804,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,3,0,-7,0,0,0,70
+7409,Chant of Leeching Fangs |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,62,449741,0,32,2.24995,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,3,0,-7,0,0,0,70
+7410,+$k1 Speed |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,61,0,0,32,0.187495,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7411,+$k1 Speed |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,61,0,0,32,0.275729,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7412,+$k1 Speed |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,61,0,0,32,0.352933,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7413,Chant of Burrowing Rapidity |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,61,449752,0,32,0.38602,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,3,0,-7,0,0,0,70
+7414,Chant of Burrowing Rapidity |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,61,449743,0,32,0.463224,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,3,0,-7,0,0,0,70
+7415,Chant of Burrowing Rapidity |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,61,449744,0,32,0.551457,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,3,0,-7,0,0,0,70
+7416,Scout's March |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,61,0,0,32,0.38602,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7417,Scout's March |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,61,0,0,32,0.474253,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7418,Scout's March |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,61,0,0,32,0.551457,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7419,Cavalry's March |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,449433,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,70
+7420,Cavalry's March |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,449434,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,70
+7421,Cavalry's March |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,449435,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,70
+7422,Defender's March |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,7,0,0,32,1.37864,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7423,Defender's March |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,7,0,0,32,1.67643,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
+7424,Defender's March |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,7,0,0,32,1.97422,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,5,0,0,-7,0,0,0,70
 7425,Illusory Adornment: Crystal,,1200,463679,0,0,0,0,0,0,2065562,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
 7426,Illusory Adornment: Crystal,,2400,463679,0,0,0,0,0,0,2065562,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
 7427,Illusory Adornment: Crystal,,3600,463679,0,0,0,0,0,0,2065562,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
@@ -4938,59 +4938,59 @@ ID,Name_lang,HordeName_lang,Duration,EffectArg[0],EffectArg[1],EffectArg[2],Flag
 7434,Illusory Adornment: Shadow,,1200,463678,0,0,0,0,0,0,458969,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
 7435,Illusory Adornment: Shadow,,2400,463678,0,0,0,0,0,0,458969,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
 7436,Illusory Adornment: Shadow,,3600,463678,0,0,0,0,0,0,458969,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
-7437,Council's Guile |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,449055,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
-7438,Council's Guile |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,449056,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
-7439,Council's Guile |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,449059,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
-7440,Stormrider's Fury |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,449095,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
-7441,Stormrider's Fury |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,449096,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
-7442,Stormrider's Fury |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,449097,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
-7443,Stonebound Artistry |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,449112,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
-7444,Stonebound Artistry |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,449113,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
-7445,Stonebound Artistry |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,449114,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
-7446,Oathsworn's Tenacity |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,449120,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
-7447,Oathsworn's Tenacity |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,449118,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
-7448,Oathsworn's Tenacity |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,449117,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
-7449,Authority of Air |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,448830,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
-7450,Authority of Air |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,448831,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
-7451,Authority of Air |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,448832,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
-7452,Authority of Fiery Resolve |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,449213,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
-7453,Authority of Fiery Resolve |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,449212,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
-7454,Authority of Fiery Resolve |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,449211,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
-7455,Authority of Storms |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,449018,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
-7456,Authority of Storms |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,449019,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
-7457,Authority of Storms |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,449020,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
-7458,Authority of the Depths |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,449221,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
-7459,Authority of the Depths |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,449223,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
-7460,Authority of the Depths |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,449222,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
-7461,Authority of Radiant Power |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,448710,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
-7462,Authority of Radiant Power |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,448714,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
-7463,Authority of Radiant Power |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,448716,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,70,80
+7437,Council's Guile |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,449055,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,70
+7438,Council's Guile |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,449056,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,70
+7439,Council's Guile |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,449059,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,70
+7440,Stormrider's Fury |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,449095,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,70
+7441,Stormrider's Fury |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,449096,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,70
+7442,Stormrider's Fury |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,449097,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,70
+7443,Stonebound Artistry |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,449112,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,70
+7444,Stonebound Artistry |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,449113,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,70
+7445,Stonebound Artistry |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,449114,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,70
+7446,Oathsworn's Tenacity |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,449120,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,70
+7447,Oathsworn's Tenacity |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,449118,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,70
+7448,Oathsworn's Tenacity |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,449117,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,70
+7449,Authority of Air |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,448830,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,70
+7450,Authority of Air |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,448831,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,70
+7451,Authority of Air |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,448832,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,70
+7452,Authority of Fiery Resolve |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,449213,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,70
+7453,Authority of Fiery Resolve |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,449212,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,70
+7454,Authority of Fiery Resolve |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,449211,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,70
+7455,Authority of Storms |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,449018,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,70
+7456,Authority of Storms |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,449019,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,70
+7457,Authority of Storms |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,449020,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,70
+7458,Authority of the Depths |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,449221,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,70
+7459,Authority of the Depths |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,449223,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,70
+7460,Authority of the Depths |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,449222,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,70
+7461,Authority of Radiant Power |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,448710,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,70
+7462,Authority of Radiant Power |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,448714,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,70
+7463,Authority of Radiant Power |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,448716,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,70
 7464,11.0.0 FX Testing - Enchant Visual - Holyfire,,0,0,0,0,0,0,0,0,1392911,0,0,0,50000,0,0,0,677,0,0,30,0,0,0,0,0,0,0,0,0
 7465,Funeral Pyre,,0,11134,0,0,32,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,11,0,0,-1,0,0,0,0
 7466,Bulwark of the Black Ox,,0,11135,0,0,32,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,11,0,0,-1,0,0,0,0
 7467,Bubbling Wax,,7200,448000,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,0,3,0,0,-8,0,0,0,0
-7468,Cursed Critical Strike |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,448337,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,-7,0,0,70,80
-7469,Cursed Critical Strike |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,448338,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,-7,0,0,70,80
-7470,Cursed Critical Strike |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,448339,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,-7,0,0,70,80
-7471,Cursed Haste |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,448335,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,-7,0,0,70,80
-7472,Cursed Haste |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,448336,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,-7,0,0,70,80
-7473,Cursed Haste |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,448334,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,-7,0,0,70,80
-7474,Cursed Versatility |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,448326,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,-7,0,0,70,80
-7475,Cursed Versatility |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,448327,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,-7,0,0,70,80
-7476,Cursed Versatility |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,448328,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,-7,0,0,70,80
-7477,Cursed Mastery |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,448331,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,-7,0,0,70,80
-7478,Cursed Mastery |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,448332,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,-7,0,0,70,80
-7479,Cursed Mastery |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,448333,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,-7,0,0,70,80
+7468,Cursed Critical Strike |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,448337,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,-7,0,0,0,70
+7469,Cursed Critical Strike |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,448338,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,-7,0,0,0,70
+7470,Cursed Critical Strike |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,448339,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,-7,0,0,0,70
+7471,Cursed Haste |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,448335,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,-7,0,0,0,70
+7472,Cursed Haste |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,448336,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,-7,0,0,0,70
+7473,Cursed Haste |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,448334,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,-7,0,0,0,70
+7474,Cursed Versatility |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,448326,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,-7,0,0,0,70
+7475,Cursed Versatility |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,448327,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,-7,0,0,0,70
+7476,Cursed Versatility |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,448328,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,-7,0,0,0,70
+7477,Cursed Mastery |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,448331,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,-7,0,0,0,70
+7478,Cursed Mastery |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,448332,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,-7,0,0,0,70
+7479,Cursed Mastery |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,448333,0,0,32,0,0,0,0,350,0,0,0,0,0,0,0,0,0,1,0,3,0,0,-7,0,0,0,70
 7490,Fishing Lure (+$450402s1 Fishing Skill),,600,450401,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,50
-7493,Algari Mana Oil |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,7200,32,36,0,33,0.0300342,0.0300342,0,0,350,0,0,0,12,0,0,0,0,0,50,0,5,5,0,-7,0,0,70,80
-7494,Algari Mana Oil |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,7200,32,36,0,33,0.0326459,0.0326459,0,0,350,0,0,0,12,0,0,0,0,0,50,0,5,5,0,-7,0,0,70,80
-7495,Algari Mana Oil |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,7200,32,36,0,33,0.0404809,0.0404809,0,0,350,0,0,0,12,0,0,0,0,0,50,0,5,5,0,-7,0,0,70,80
-7496,Oil of Deep Toxins |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,7200,451904,0,0,33,0,0,0,0,350,0,0,0,12,0,0,0,0,0,50,0,3,0,0,0,0,0,70,80
-7497,Oil of Deep Toxins |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,7200,451909,0,0,33,0,0,0,0,350,0,0,0,12,0,0,0,0,0,50,0,3,0,0,0,0,0,70,80
-7498,Oil of Deep Toxins |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,7200,451912,0,0,33,0,0,0,0,350,0,0,0,12,0,0,0,0,0,50,0,3,0,0,0,0,0,70,80
-7500,Oil of Beledar's Grace |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,7200,451928,0,0,33,0,0,0,0,350,0,0,0,12,0,0,0,0,0,50,0,3,0,0,0,0,0,70,80
-7501,Oil of Beledar's Grace |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,7200,451933,0,0,33,0,0,0,0,350,0,0,0,12,0,0,0,0,0,50,0,3,0,0,0,0,0,70,80
-7502,Oil of Beledar's Grace |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,7200,451932,0,0,33,0,0,0,0,350,0,0,0,12,0,0,0,0,0,50,0,3,0,0,0,0,0,70,80
+7493,Algari Mana Oil |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,7200,32,36,0,33,0.25367,0.25367,0,0,350,0,0,0,12,0,0,0,0,0,50,0,5,5,0,-7,0,0,0,70
+7494,Algari Mana Oil |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,7200,32,36,0,33,0.275729,0.275729,0,0,350,0,0,0,12,0,0,0,0,0,50,0,5,5,0,-7,0,0,0,70
+7495,Algari Mana Oil |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,7200,32,36,0,33,0.341903,0.341903,0,0,350,0,0,0,12,0,0,0,0,0,50,0,5,5,0,-7,0,0,0,70
+7496,Oil of Deep Toxins |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,7200,451904,0,0,33,0,0,0,0,350,0,0,0,12,0,0,0,0,0,50,0,3,0,0,0,0,0,0,70
+7497,Oil of Deep Toxins |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,7200,451909,0,0,33,0,0,0,0,350,0,0,0,12,0,0,0,0,0,50,0,3,0,0,0,0,0,0,70
+7498,Oil of Deep Toxins |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,7200,451912,0,0,33,0,0,0,0,350,0,0,0,12,0,0,0,0,0,50,0,3,0,0,0,0,0,0,70
+7500,Oil of Beledar's Grace |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,7200,451928,0,0,33,0,0,0,0,350,0,0,0,12,0,0,0,0,0,50,0,3,0,0,0,0,0,0,70
+7501,Oil of Beledar's Grace |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,7200,451933,0,0,33,0,0,0,0,350,0,0,0,12,0,0,0,0,0,50,0,3,0,0,0,0,0,0,70
+7502,Oil of Beledar's Grace |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,7200,451932,0,0,33,0,0,0,0,350,0,0,0,12,0,0,0,0,0,50,0,3,0,0,0,0,0,0,70
 7503,Lightning Tether,,0,11193,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,11,0,0,0,0,0,0,60
 7504,Overclocked S.E.L.F.I.E. Camera,,0,11194,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,11,0,0,0,0,0,0,60
 7505,Earthen Delivery Drill,,0,11195,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,11,0,0,0,0,0,0,60
@@ -5032,12 +5032,12 @@ ID,Name_lang,HordeName_lang,Duration,EffectArg[0],EffectArg[1],EffectArg[2],Flag
 7558,Robust Fragrance,,0,11317,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,11,0,0,-7,0,0,0,60
 7559,Volatile Fragrance,,0,11316,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,11,0,0,-7,0,0,0,60
 7587,Thunderstrike Ward,,3600,462742,0,0,9,0,0,0,5975854,0,0,0,0,100,0,0,248,0,0,1,0,3,0,0,0,0,0,0,0
-7593,+$k2 Agility/Strength & +$k1 Armor |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,0,72,0,33,0.205016,0.194569,0,0,356,0,0,0,0,0,0,0,0,0,55,0,4,5,0,-7,0,0,68,80
-7594,+$k2 Agility/Strength & +$k1 Armor |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,0,72,0,33,0.229827,0.218074,0,0,356,0,0,0,0,0,0,0,0,0,55,0,4,5,0,-7,0,0,68,80
-7595,+$k2 Agility/Strength & +$k1 Armor |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,0,72,0,33,0.255944,0.242885,0,0,356,0,0,0,0,0,0,0,0,0,55,0,4,5,0,-7,0,0,68,80
-7596,+$k1 Agility/Strength |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,72,0,0,33,0.147559,0,0,0,356,0,0,0,0,0,0,0,0,0,55,0,5,0,0,-7,0,0,68,80
-7597,+$k1 Agility/Strength |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,72,0,0,33,0.165841,0,0,0,356,0,0,0,0,0,0,0,0,0,55,0,5,0,0,-7,0,0,68,80
-7598,+$k1 Agility/Strength |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,72,0,0,33,0.184123,0,0,0,356,0,0,0,0,0,0,0,0,0,55,0,5,0,0,-7,0,0,68,80
-7599,+$k2 Agility/Strength & +$k1 Stamina |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,7,72,0,33,0.185428,0.194569,0,0,356,0,0,0,0,0,0,0,0,0,55,0,5,5,0,-7,0,0,68,80
-7600,+$k2 Agility/Strength & +$k1 Stamina |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,7,72,0,33,0.208933,0.218074,0,0,356,0,0,0,0,0,0,0,0,0,55,0,5,5,0,-7,0,0,68,80
-7601,+$k2 Agility/Strength & +$k1 Stamina |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,7,72,0,33,0.232439,0.242885,0,0,356,0,0,0,0,0,0,0,0,0,55,0,5,5,0,-7,0,0,68,80
+7593,+$k2 Agility/Strength & +$k1 Armor |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,0,72,0,33,1.52202,1.43379,0,0,356,0,0,0,0,0,0,0,0,0,55,0,4,5,0,-7,0,0,0,70
+7594,+$k2 Agility/Strength & +$k1 Armor |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,0,72,0,33,1.84187,1.7426,0,0,356,0,0,0,0,0,0,0,0,0,55,0,4,5,0,-7,0,0,0,70
+7595,+$k2 Agility/Strength & +$k1 Armor |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,0,72,0,33,2.16171,2.05142,0,0,356,0,0,0,0,0,0,0,0,0,55,0,4,5,0,-7,0,0,0,70
+7596,+$k1 Agility/Strength |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,72,0,0,33,0.948506,0,0,0,356,0,0,0,0,0,0,0,0,0,55,0,5,0,0,-7,0,0,0,70
+7597,+$k1 Agility/Strength |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,72,0,0,33,1.15806,0,0,0,356,0,0,0,0,0,0,0,0,0,55,0,5,0,0,-7,0,0,0,70
+7598,+$k1 Agility/Strength |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,72,0,0,33,1.36761,0,0,0,356,0,0,0,0,0,0,0,0,0,55,0,5,0,0,-7,0,0,0,70
+7599,+$k2 Agility/Strength & +$k1 Stamina |A:Professions-ChatIcon-Quality-Tier1:20:20|a,,0,7,72,0,33,1.37864,1.43379,0,0,356,0,0,0,0,0,0,0,0,0,55,0,5,5,0,-7,0,0,0,70
+7600,+$k2 Agility/Strength & +$k1 Stamina |A:Professions-ChatIcon-Quality-Tier2:20:20|a,,0,7,72,0,33,1.67643,1.7426,0,0,356,0,0,0,0,0,0,0,0,0,55,0,5,5,0,-7,0,0,0,70
+7601,+$k2 Agility/Strength & +$k1 Stamina |A:Professions-ChatIcon-Quality-Tier3:20:20|a,,0,7,72,0,33,1.97422,2.05142,0,0,356,0,0,0,0,0,0,0,0,0,55,0,5,5,0,-7,0,0,0,70

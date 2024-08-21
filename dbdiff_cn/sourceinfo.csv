@@ -11066,7 +11066,7 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 20026,|cFFFFD200专业技能：|r论述制作发现|n,-1,-1,444189
 20027,|cFFFFD200专业技能训练师：|r卡兹阿加铭文（25）|n|cFFFFD200价格：|r160|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,444190
 20028,|cFFFFD200专业技能训练师：|r卡兹阿加铭文（20）|n|cFFFFD200价格：|r150|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,444191
-20029,|cFFFFD200专精：|r馆藏新品 - 暗月徽记：进化,-1,3,444192
+20029,|cFFFFD200专精：|r暗月徽记：扬升|n,-1,3,444192
 20030,|cFFFFD200专精：|r馆藏新品 - 暗月徽记：光辉,-1,3,444193
 20031,|cFFFFD200专精：|r馆藏新品 - 暗月徽记：共生,-1,3,444194
 20032,|cFFFFD200专精：|r馆藏新品 - 暗月徽记：盎溢,-1,3,444195
@@ -11097,7 +11097,7 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 20057,|cFFFFD200专业技能训练师：|r卡兹阿加铭文（15）|n|cFFFFD200价格：|r140|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,444221
 20058,|cFFFFD200专业技能训练师：|r卡兹阿加铭文（10）|n|cFFFFD200价格：|r110|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,444222
 20059,|cFFFFD200专业技能：|r论述制作发现|n,-1,-1,444223
-20060,|cFFFFD200专精：|r馆藏新品 - 暗月徽记：进化（30）,-1,3,444224
+20060,|cFFFFD200专精：|r馆藏新品 - 暗月徽记：扬升（30）,-1,3,444224
 20061,|cFFFFD200专精：|r馆藏新品 - 暗月徽记：盎溢（30）,-1,3,444225
 20062,|cFFFFD200专精：|r馆藏新品 - 暗月徽记：共生（30）,-1,3,444226
 20063,|cFFFFD200专精：|r馆藏新品 - 暗月徽记：光辉（30）,-1,3,444227

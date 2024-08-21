@@ -8129,8 +8129,19 @@ Because of me...,,257633,0,0,0,68,0,4,246206,0,0,0,0,0,0,0
 Yes... yes! All earthen will awaken!,,257641,0,0,0,68,0,4,246207,0,0,0,0,0,0,0
 ,Dalaran will not be a fly in Xal'atath's web.,257826,0,0,669,68,0,7,0,248603,0,0,0,0,0,0
 Help! Help! It's the HORROR OF XESH!,,257947,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,Damn it all! Cut through the sewers and find Khadgar. He'll know what to do.,258145,0,0,1,68,0,7,0,248605,0,0,0,0,0,0
+,High in the sky and nowhere to flee...,258756,0,0,669,102,0,6,0,248613,0,0,0,0,0,0
+,Gather all you can find. Bring them below.,258758,0,0,0,102,0,6,0,248614,0,0,0,0,0,0
+,Xal'atath has plans for them.,258759,0,0,0,102,0,6,0,248615,0,0,0,0,0,0
 I can see it!,,259124,0,0,5,102,0,6,244052,0,0,0,0,0,0,0
 It's called--,,259125,0,0,5,102,0,6,244053,0,0,0,0,0,0,0
+"Once more, Dalaran is called to the aid of our world. Magni?",,259130,0,0,5,102,0,6,243455,0,0,0,0,0,0,0
+Azeroth showed me a vision of a city in flames in the ancient lands of Khaz Algar.,,259134,0,0,5,102,0,6,244055,0,0,0,0,0,0,0
+Her voice was desperate--we must act quickly.,,259135,0,0,5,102,0,6,244056,0,0,0,0,0,0,0
+"Archmage Drenden has proposed, and the council agrees...",,259136,0,0,5,102,0,6,243456,0,0,0,0,0,0,0
+"that we bring the full force of Dalaran to this ""Khaz Algar.""",,259137,0,0,5,102,0,6,243457,0,0,0,0,0,0,0
+"Make ready our people, and prepare the city for teleportation.",,259138,0,0,5,102,0,6,243458,0,0,0,0,0,0,0
+"Whatever lies ahead, we will face it together.",,259139,0,0,5,70,0,6,243459,0,0,0,0,0,0,0
 "Where, Magni? Where must we go?",,259140,0,0,1,102,0,6,244535,0,0,0,0,0,0,0
 Do you see that? Nothing! Decidedly odd for the City of Threads.,,259592,0,0,1,70,0,4,251509,0,0,0,0,0,0,0
 The freshly Ascended are usually flitting about the Umbral Bazaar. Where have they gone?,,259593,0,0,1,70,0,4,251510,0,0,0,0,0,0,0
@@ -8207,6 +8218,11 @@ The others will hear of this.,,260798,0,0,0,68,0,7,248704,0,0,0,0,0,0,0
 "Few names hold higher esteem. You must be a lady, or a--",,260916,0,0,0,68,0,4,243924,0,0,0,0,0,0,0
 ,To think I had relatives in the old world? Wonderful! I hope I can live up to such legends.,260917,0,0,0,68,0,4,0,243926,0,0,0,0,0,0
 <grunts>,,261221,0,0,0,118,0,4,246023,0,0,0,0,0,0,0
+,"Before Magni's sacrifice, we earthen were bound by our innate purpose.",261696,0,0,0,102,0,4,0,252006,0,0,0,0,0,0
+,Stagnant traditions nearly brought us to ruin.,261699,0,0,0,102,0,4,0,252033,0,0,0,0,0,0
+,"Azeroth is growing, and we need to grow with her.",261700,0,0,0,102,0,4,0,252035,0,0,0,0,0,0
+,We must embrace the call of change.,261701,0,0,0,102,0,4,0,252034,0,0,0,0,0,0
+,Now is the time to discover who we are.,261702,0,0,0,102,0,4,0,252036,0,0,0,0,0,0
 ,The City of Threads. The heart of Azj-Kahet. Bled dry and dying.,261768,0,0,0,68,0,7,0,248717,0,0,0,0,0,0
 ,None who enter leave in one piece. Your friend is likely dead.,261771,0,0,0,68,0,7,0,248718,0,0,0,0,0,0
 ,"But I know you will not accept that. So you follow your path, and I will follow mine.",261772,0,0,0,68,0,7,0,248719,0,0,0,0,0,0
@@ -8219,6 +8235,7 @@ Snootsnout! Leave new friends e-le-men-tal present. And close door behind. We no
 [DNT] Kahet iz korvan.,[DNT] Kahet iz korvan.,262040,0,0,1,68,0,4,0,0,0,0,0,0,0,0
 ,...and apologies for the delay.,262567,0,0,0,68,0,7,0,252243,0,0,0,0,0,0
 "Lok'tar, everyone.",,262573,0,0,0,68,0,7,252244,0,0,0,0,0,0,0
+,How could I be so blind?,262953,0,0,669,68,0,7,0,248602,0,0,0,0,0,0
 ,The High Speaker has ruled for as long as any of us can remember... but he's no longer one of us.,263196,0,0,0,100,0,4,0,249348,0,0,0,0,0,0
 ,"Well, sounds like you need a new High Speaker. And Brinthe, you're the right earthen for the job.",263198,0,0,0,100,0,4,0,249349,0,0,0,0,0,0
 ,Me? Elaborate.,263201,0,0,0,100,0,4,0,249350,0,0,0,0,0,0

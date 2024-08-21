@@ -16840,8 +16840,8 @@ test 3:hell yeah,-9719.498,-8188.8438,0,0,0,0,22456,40542,0,1,0,0,0,0,2642
 11.0 Amb - Zone 5 - Azj-Kahet - Old God - The Maddening Deep - Emitter 36,-2251.3,-1877.45,-1592.6,0,0,0,22757,246404,0,0,0,0,0,0,2601
 11.0 Amb - Zone 5 - Azj-Kahet - Old God - The Maddening Deep - Emitter 37,-2058.5,-1730.99,-1588.91,0,0,0,22758,246404,0,0,0,0,0,0,2601
 11.0 Amb - Zone 5 - Azj-Kahet - Old God - The Maddening Deep - Emitter 38,-2073.28,-1663.59,-1581.38,0,0,0,22759,246404,0,0,0,0,0,0,2601
-11.0 Amb - Zone 2 - RingingDeeps - Emitter - Water Dam Low - 01,1557.05,-2745.31,336.053,0,0,0,22760,246514,0,0,0,0,0,0,2601
-11.0 Amb - Zone 2 - RingingDeeps - Emitter - Water Dam High - 01,1557.05,-2745.31,336.053,0,0,0,22761,246515,0,0,0,0,0,0,2601
+11.0 Amb - Zone 2 - RingingDeeps - Emitter - Water Dam Low - 01,1557.05,-2745.31,336.053,0,0,0,22760,246514,0,0,23581,0,0,0,2601
+11.0 Amb - Zone 2 - RingingDeeps - Emitter - Water Dam High - 01,1557.05,-2745.31,336.053,0,0,0,22761,246515,0,0,23581,0,0,0,2601
 11.0 Amb - Zone 3 - Hallowfall - Water Drip - Sprinkle 01,1118.08,1370.46,43.4698,0,0,0,22763,246588,0,0,0,0,0,0,2601
 11.0 Amb - Zone 3 - Hallowfall - Water Drip - Sprinkle 02,1115.98,1374.77,10.4016,0,0,0,22764,246588,0,0,0,0,0,0,2601
 11.0 Amb - Zone 3 - Hallowfall - Water Drip - Small Run Off 01,850.218,1406.02,30.4205,0,0,0,22765,246589,0,0,0,0,0,0,2601
@@ -17533,3 +17533,4 @@ Emitter_11Delve_Kobolds_Waterfall_Small_L,-656.07294,-264.158,58.792873,0,0,0,23
 11.0 Amb - Zone 2 - RingingDeeps - Emitter - Candle Fire - Small 20,2450.73,-3669.33,383.87,0,0,0,23531,250062,0,0,0,0,0,0,2601
 11.0 Amb - Zone 2 - RingingDeeps - Emitter - Candle Fire - Small 21,2743.28,-3590.25,348.574,0,0,0,23532,250062,0,0,0,0,0,0,2601
 11.0 Amb - Dungeon - Darkflame Cleft - Emitter - Well - Wind Gust 03,188.396,-465.462,44.5464,0,0,0,23533,254441,0,0,0,0,0,0,2651
+11.0.2 Amb - Dungeon - Rookery - Boss 3 - Voidstone Monstrosity - Void Pool - Spawn Aura,2792.43,-1598.93,4.4024,0,0,0,23536,268712,0,0,0,0,0,0,2648

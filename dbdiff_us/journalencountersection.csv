@@ -23000,7 +23000,7 @@ $bullet;Excessively |cFF2959D3|Hspell:434705|h[Tenderized]|h|r players will beco
 28846,Section 14,,2607,21,30249,28847,0,2,0,0,438012,0,0,0,-1
 28847,Section 15,,2607,22,28846,0,0,2,0,0,438041,0,0,16,-1
 28848,Ravenous Spawn,Ulgrax spawns a host of delectible insects.,2607,24,28845,30013,30012,1,115708,0,0,0,0,1,-1
-28849,Section 17,,2607,31,30012,28850,0,2,0,0,457598,0,2,32,0
+28849,Section 17,,2607,31,30012,28850,0,2,0,0,438657,0,2,32,0
 28850,Section 18,,2607,32,28849,0,0,2,0,0,438324,0,2,0,0
 28851,Section 19,,2607,30,30012,0,28849,2,0,0,439037,0,2,8192,0
 28852,Section 8,,2588,5,0,28853,29039,2,0,0,438025,0,1,0,-1
@@ -23174,9 +23174,7 @@ On Mythic difficulty, players hit create a |cFF2959D3|Hspell:460263|h[Mote of Un
 On Mythic difficulty, , players hit create a |cFF2959D3|Hspell:460263|h[Mote of Unrelenting Rage]|h|r or a |cFF2959D3|Hspell:460357|h[Mote of Overwrought Paranoia]|h|r  .$]",2608,27,29017,30359,29019,2,0,0,439992,0,0,32,-1
 29021,Stage Two: Grasp of the Void,,2608,37,0,30026,29728,0,0,0,0,0,0,0,-1
 29022,Stage Three: Unleashed Rage,,2608,66,0,29028,0,0,0,0,0,0,0,0,-1
-29023,Section 17,"$[!16
-
-On Mythic difficulty, players hit with this spell create either a |cFF2959D3|Hspell:460263|h[Mote of Unrelenting Rage]|h|r or a |cFF2959D3|Hspell:460357|h[Mote of Overwrought Paranoia]|h|r  .$]",2608,42,30026,29595,29015,2,0,0,440504,0,0,0,-1
+29023,Section 17,,2608,42,30026,29595,29015,2,0,0,440504,0,0,0,-1
 29024,Skeinspinner Takazj,,2608,77,29022,29026,0,1,115753,0,0,0,0,0,-1
 29025,Section 19,,2608,87,29024,0,0,2,0,0,441772,0,0,129,-1
 29026,Section 20,"$[!16
@@ -23188,9 +23186,7 @@ On Mythic difficulty, players hit create a |cFF2959D3|Hspell:460263|h[Mote of Un
 29028,Anub'arash,,2608,67,29022,30040,29024,1,118997,0,0,0,0,0,-1
 29029,Section 23,,2608,71,29028,0,30280,2,0,0,440246,0,0,48,-1
 29030,Section 24,,2608,75,29028,0,30039,2,0,0,443063,0,0,16,-1
-29031,Section 25,"$[!16
-
-On Mythic difficulty, players hit with this spell create either a |cFF2959D3|Hspell:460263|h[Mote of Unrelenting Rage]|h|r or a |cFF2959D3|Hspell:460357|h[Mote of Overwrought Paranoia]|h|r  .$]",2608,73,29028,29596,29030,2,0,0,443092,0,0,0,-1
+29031,Section 25,,2608,73,29028,29596,29030,2,0,0,443092,0,0,0,-1
 29032,Section 30,,2602,120,28761,29033,0,2,0,0,443396,0,0,0,-1
 29033,Section 31,,2602,121,29032,0,0,2,0,0,443403,0,2,8,0
 29034,Section 29,,2602,113,28757,29035,29917,2,0,0,443325,0,0,1,-1
@@ -23590,9 +23586,7 @@ $bullet;Ravenous Spawn continually |cFF2959D3|Hspell:439037|h[Disembowel]|h|r a 
 30024,Section 23,,2609,21,28913,0,0,2,0,0,439776,0,0,0,-1
 30025,Section 24,,2609,23,29817,0,0,2,0,0,457877,0,1,0,-1
 30026,Anub'arash,,2608,38,29021,30031,30032,1,118997,0,0,0,1,0,-1
-30027,Section 17,"$[!16
-
-On Mythic difficulty, players hit by a spike create a |cFF2959D3|Hspell:460263|h[Mote of Unrelenting Rage]|h|r or a |cFF2959D3|Hspell:460357|h[Mote of Overwrought Paranoia]|h|r  .$]",2608,23,29012,30028,29013,2,0,0,440504,0,0,0,-1
+30027,Section 17,,2608,23,29012,30028,29013,2,0,0,440504,0,0,0,-1
 30028,Section 25,,2608,24,30027,0,0,2,0,0,449857,0,0,0,-1
 30029,Section 48,,2608,49,30026,0,0,2,0,0,438218,0,0,1,-1
 30031,Section 50,"$[!17
