@@ -284,9 +284,9 @@ ID,Description_lang,ModifiedCraftingCategoryID,ItemBonusTreeID,Flags,Field_9_1_0
 339,在竞技场和战场中将物品等级提高至489。,497,4235,0,0,0
 340,在竞技场和战场中将物品等级提高至489。,499,4235,0,0,0
 341,生命值高于70%时，获得可叠加的爆击加成。并添加装备唯一：美化（2）。,500,4237,0,0,0
-342,"Certifies crafted equipment for use in PvP battlefields, enabling it to scale to $ev1 Item Level.|n|nMultiple are required to complete a craft.",502,4273,0,0,0
-343,"Certifies crafted equipment for use in PvP battlefields, enabling it to scale to $ev1 Item Level.|n|nMultiple are required to complete a craft.",503,4272,0,0,0
-344,"Certifies crafted equipment for use in PvP battlefields, enabling it to scale to $ev1 Item Level.|n|nMultiple are required to complete a craft.",504,4274,0,0,0
+342,为制作的装备颁发PvP战场认证，将其物品等级调整至$ev1。|n|n单次制作需要使用多个。,502,4273,0,0,0
+343,为制作的装备颁发PvP战场认证，将其物品等级调整至$ev1。|n|n单次制作需要使用多个。,503,4272,0,0,0
+344,为制作的装备颁发PvP战场认证，将其物品等级调整至$ev1。|n|n单次制作需要使用多个。,504,4274,0,0,0
 345,,505,4281,0,0,0
 346,,505,4214,0,0,0
 347,你的治疗技能有几率将你和一名盟友联系在一起，基于距离使两名玩家的全能都得到提升。并添加装备唯一： 美化（2）。,507,4290,0,0,0

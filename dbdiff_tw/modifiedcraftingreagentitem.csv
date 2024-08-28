@@ -284,9 +284,9 @@ ID,Description_lang,ModifiedCraftingCategoryID,ItemBonusTreeID,Flags,Field_9_1_0
 339,在競技場與戰場中將物品等級提高至489。,497,4235,0,0,0
 340,在競技場與戰場中將物品等級提高至489。,499,4235,0,0,0
 341,當生命力超過70%時，獲得可堆疊的致命一擊。另外新增獨特裝備效果：裝飾(2)。,500,4237,0,0,0
-342,"Certifies crafted equipment for use in PvP battlefields, enabling it to scale to $ev1 Item Level.|n|nMultiple are required to complete a craft.",502,4273,0,0,0
-343,"Certifies crafted equipment for use in PvP battlefields, enabling it to scale to $ev1 Item Level.|n|nMultiple are required to complete a craft.",503,4272,0,0,0
-344,"Certifies crafted equipment for use in PvP battlefields, enabling it to scale to $ev1 Item Level.|n|nMultiple are required to complete a craft.",504,4274,0,0,0
+342,使製作裝備能在PvP戰場中使用，並使其增幅至物品等級$ev1。|n|n需要數個才能完成製作。,502,4273,0,0,0
+343,使製作裝備能在PvP戰場中使用，並使其增幅至物品等級$ev1。|n|n需要數個才能完成製作。,503,4272,0,0,0
+344,使製作裝備能在PvP戰場中使用，並使其增幅至物品等級$ev1。|n|n需要數個才能完成製作。,504,4274,0,0,0
 345,,505,4281,0,0,0
 346,,505,4214,0,0,0
 347,你的治療技能有一定機率將你和一位盟友繫結在一起，視距離而定賦予雙方臨機應變。此外，還會增加唯一裝備：裝飾(2)。,507,4290,0,0,0
