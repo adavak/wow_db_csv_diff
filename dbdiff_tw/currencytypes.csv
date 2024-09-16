@@ -1251,17 +1251,17 @@ ID,Name_lang,Description_lang,CategoryID,InventoryIconFileID,SpellWeight,SpellCa
 3054,鍊金術專注,,142,5747318,0,0,1000,0,0,0,0,0,0,0,1,345600,0,1572864,0
 3055,米雷達爾大賽獎章,在米雷達爾釣魚大賽期間，捕捉到獨特的魚的記錄。,260,6012052,0,0,0,0,3,0,8,0,0,0,0,0,100,0,0
 3056,卡吉,用珍貴材料織成的絲線，還散發著淡淡幽香。其價值對阿茲-卡罕特的任何商人來說不言而喻。,260,4549280,0,0,0,0,2,0,8,0,0,0,0,0,100,2,0
-3057,11.0 Professions - Tracker - Weekly Alchemy Knowledge,,142,0,0,0,0,0,0,0,0,0,0,26508,0,0,0,68681728,1
-3058,11.0 Professions - Tracker - Weekly Blacksmithing Knowledge,,142,0,0,0,0,0,0,0,0,0,0,26509,0,0,0,68681728,1
-3059,11.0 Professions - Tracker - Weekly Enchanting Knowledge,,142,0,0,0,0,0,0,0,0,0,0,26510,0,0,0,68681728,1
-3060,11.0 Professions - Tracker - Weekly Engineering Knowledge,,142,0,0,0,0,0,0,0,0,0,0,26511,0,0,0,68681728,1
+3057,11.0 Professions - Tracker - Weekly Alchemy Knowledge,,142,0,0,0,0,0,0,0,0,0,0,26508,0,0,0,102236160,5
+3058,11.0 Professions - Tracker - Weekly Blacksmithing Knowledge,,142,0,0,0,0,0,0,0,0,0,0,26509,0,0,0,102236160,5
+3059,11.0 Professions - Tracker - Weekly Enchanting Knowledge,,142,0,0,0,0,0,0,0,0,0,0,26510,0,0,0,102236160,5
+3060,11.0 Professions - Tracker - Weekly Engineering Knowledge,,142,0,0,0,0,0,0,0,0,0,0,26511,0,0,0,102236160,5
 3061,11.0 Professions - Tracker - Weekly Herbalism Knowledge,,142,0,0,0,0,0,0,0,0,0,0,26512,0,0,0,68681728,1
-3062,11.0 Professions - Tracker - Weekly Inscription Knowledge,,142,0,0,0,0,0,0,0,0,0,0,26513,0,0,0,68681728,1
-3063,11.0 Professions - Tracker - Weekly Jewelcrafting Knowledge,,142,0,0,0,0,0,0,0,0,0,0,26514,0,0,0,68681728,1
-3064,11.0 Professions - Tracker - Weekly Leatherworking Knowledge,,142,0,0,0,0,0,0,0,0,0,0,26515,0,0,0,68681728,1
+3062,11.0 Professions - Tracker - Weekly Inscription Knowledge,,142,0,0,0,0,0,0,0,0,0,0,26513,0,0,0,102236160,5
+3063,11.0 Professions - Tracker - Weekly Jewelcrafting Knowledge,,142,0,0,0,0,0,0,0,0,0,0,26514,0,0,0,102236160,5
+3064,11.0 Professions - Tracker - Weekly Leatherworking Knowledge,,142,0,0,0,0,0,0,0,0,0,0,26515,0,0,0,102236160,5
 3065,11.0 Professions - Tracker - Weekly Mining Knowledge,,142,0,0,0,0,0,0,0,0,0,0,26516,0,0,0,68681728,1
 3066,11.0 Professions - Tracker - Weekly Skinning Knowledge,,142,0,0,0,0,0,0,0,0,0,0,26517,0,0,0,68681728,1
-3067,11.0 Professions - Tracker - Weekly Tailoring Knowledge,,142,0,0,0,0,0,0,0,0,0,0,26518,0,0,0,68681728,1
+3067,11.0 Professions - Tracker - Weekly Tailoring Knowledge,,142,0,0,0,0,0,0,0,0,0,0,26518,0,0,0,102236160,5
 3068,探究旅程,給予探究旅程進度。,142,4635200,0,0,0,0,1,2644,0,0,0,0,0,0,0,4194312,0
 3069,11.0專業技能 - 裁縫 - 釣魚 - 卡茲阿爾加 - 技能,[DNT],142,0,0,0,100,0,2,0,24,0,0,0,0,0,0,67633152,0
 3070,11.0專業技能 - 釣魚 - 阿爾加織者絲 - 感知,[DNT],142,0,0,0,100,0,2,0,24,0,0,0,0,0,0,524288,0
@@ -1283,7 +1283,7 @@ ID,Name_lang,Description_lang,CategoryID,InventoryIconFileID,SpellWeight,SpellCa
 3086,傷害輸出,,142,135989,0,0,3,0,1,0,0,0,0,0,0,0,0,80764928,0
 3087,坦克,,142,132360,0,0,1,0,1,0,0,0,0,0,0,0,0,80764928,0
 3088,治療者,,142,1387611,0,0,1,0,1,0,0,0,0,0,0,0,0,80764928,0
-3089,殘存記憶,在這斑斕粉末裡閃動著光芒，你能從中瞥見模糊不清的過往回憶。,260,3015740,0,0,0,0,3,0,21,0,0,0,0,0,100,2,32
+3089,殘存記憶,在這斑斕粉末裡閃動著光芒，你能從中瞥見模糊不清的過往回憶。,260,3015740,0,0,0,0,3,0,21,0,0,0,0,0,100,2,0
 3093,奈幽巴華服,"裝飾著忠誠者的盔甲，這些徽章是居住於奈幽巴之高層社會貴族的象徵。
 
 在這座皇宮之中，阿努巴札爾可以將這些物品偷偷帶給斷裂絲線成員，強化你的襲擊行動。",260,6012085,0,0,8,0,4,0,0,0,0,26869,0,0,100,2,0

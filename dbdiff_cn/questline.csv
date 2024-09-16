@@ -1192,6 +1192,7 @@ ID,Name_lang,Description_lang,CompletionPlayerConditionID,Flags,QuestID,PlayerCo
 5547,长姐之罪,,0,0,0,0,0
 5548,Peter's Test Questline,用来测试的基础任务线！,0,0,0,0,0
 5549,云端翔龙骑士团,,0,0,0,0,0
+5550,黑暗中的一缕明光,,0,24,0,0,0
 5551,逆水行舟,,0,24,0,0,0
 5552,最后的陨圣峪法师,,0,72,0,0,0
 5556,卡拉克西日常任务,,0,0,0,0,0
@@ -1296,3 +1297,6 @@ ID,Name_lang,Description_lang,CompletionPlayerConditionID,Flags,QuestID,PlayerCo
 5680,[DNT] Notoriety Tracking Quests - General Tiers,,0,0,0,0,0
 5681,[DNT] Notoriety Tracking Quests - Vizier Tiers,,0,0,0,0,0
 5709,重要任务,,0,8,0,0,0
+5710,每天都嗅个不停,,0,8,0,117222,0
+5711,喧鸣深窟 - 每周任务,,0,8,0,127836,0
+5712,[DNT] Notoriety/Pacts - Tracking Quests,,0,0,0,0,0

@@ -1192,6 +1192,7 @@ ID,Name_lang,Description_lang,CompletionPlayerConditionID,Flags,QuestID,PlayerCo
 5547,姊姊的罪孽,,0,0,0,0,0
 5548,Peter's Test Questline,測試用基本任務！,0,0,0,0,0
 5549,雲蛟衛,,0,0,0,0,0
+5550,黑暗中的聖光,,0,24,0,0,0
 5551,對抗潮流,,0,24,0,0,0
 5552,聖落之地的末代法師,,0,72,0,0,0
 5556,卡拉西每日任務,,0,0,0,0,0
@@ -1296,3 +1297,6 @@ ID,Name_lang,Description_lang,CompletionPlayerConditionID,Flags,QuestID,PlayerCo
 5680,[DNT] Notoriety Tracking Quests - General Tiers,,0,0,0,0,0
 5681,[DNT] Notoriety Tracking Quests - Vizier Tiers,,0,0,0,0,0
 5709,重要任務,,0,8,0,0,0
+5710,我每天都在東聞西聞,,0,8,0,117222,0
+5711,鳴響深淵 - 每週任務,,0,8,0,127836,0
+5712,[DNT] Notoriety/Pacts - Tracking Quests,,0,0,0,0,0

@@ -8269,11 +8269,27 @@ What changed your mind?,,260847,0,0,0,68,0,4,249578,0,0,0,0,0,0,0
 "Few names hold higher esteem. You must be a lady, or a--",,260916,0,0,0,68,0,4,243924,0,0,0,0,0,0,0
 ,To think I had relatives in the old world? Wonderful! I hope I can live up to such legends.,260917,0,0,0,68,0,4,0,243926,0,0,0,0,0,0
 <grunts>,,261221,0,0,0,118,0,4,246023,0,0,0,0,0,0,0
+You found your Light again.,,261684,0,0,1,68,0,4,246328,0,0,0,0,0,0,0
+Sort of. More like I stopped running from it.,,261685,0,0,0,68,0,10,246329,0,0,0,0,0,0,0
+"Before he died, my father wrote me a letter.",,261688,0,0,0,68,0,10,246330,0,0,0,0,0,0,0
+He said that I had to fight for peace.,,261689,0,0,0,68,0,10,246331,0,0,0,0,0,0,0
+I thought that I had to become him. Because the world still needed him.,,261691,0,0,0,68,0,10,246332,0,0,0,0,0,0,0
+Because I still needed him.,,261692,0,0,0,68,0,10,246333,0,0,0,0,0,0,0
+But taking up his sword only led to war and death.,,261693,0,0,0,68,0,10,246334,0,0,0,0,0,0,0
+I made mistake after mistake. I felt...,,261694,0,0,0,68,0,10,246335,0,0,0,0,0,0,0
+...Unworthy.,,261695,0,0,0,68,0,4,246336,0,0,0,0,0,0,0
 ,"Before Magni's sacrifice, we earthen were bound by our innate purpose.",261696,0,0,0,102,0,4,0,252006,0,0,0,0,0,0
+"Varian Wrynn was a fierce, proud warrior. I respected his strength.",,261698,0,0,0,68,0,4,246337,0,0,0,0,0,0,0
 ,Stagnant traditions nearly brought us to ruin.,261699,0,0,0,102,0,4,0,252033,0,0,0,0,0,0
 ,"Azeroth is growing, and we need to grow with her.",261700,0,0,0,102,0,4,0,252035,0,0,0,0,0,0
 ,We must embrace the call of change.,261701,0,0,0,102,0,4,0,252034,0,0,0,0,0,0
 ,Now is the time to discover who we are.,261702,0,0,0,102,0,4,0,252036,0,0,0,0,0,0
+"But you, Anduin... you have your own strength, greater than any sword.",,261703,0,0,0,68,0,4,246338,0,0,0,0,0,0,0
+I'm not my father...,,261704,0,0,0,68,0,10,246339,0,0,0,0,0,0,0
+...but he never expected me to be.,,261705,0,0,0,68,0,10,246340,0,0,0,0,0,0,0
+That's why he wrote that letter.,,261706,0,0,0,68,0,10,246341,0,0,0,0,0,0,0
+To remind me who I am.,,261708,0,0,0,68,0,10,246342,0,0,0,0,0,0,0
+It was his final lesson. And his greatest gift.,,261709,0,0,0,68,0,10,246343,0,0,0,0,0,0,0
 ,The City of Threads. The heart of Azj-Kahet. Bled dry and dying.,261768,0,0,0,68,0,7,0,248717,0,0,0,0,0,0
 ,None who enter leave in one piece. Your friend is likely dead.,261771,0,0,0,68,0,7,0,248718,0,0,0,0,0,0
 ,"But I know you will not accept that. So you follow your path, and I will follow mine.",261772,0,0,0,68,0,7,0,248719,0,0,0,0,0,0
@@ -8472,6 +8488,31 @@ You know the Light is not with me.,,265118,0,0,0,70,0,4,250803,0,0,0,0,0,0,0
 ,It's a first step.,265131,0,0,0,70,0,4,0,250816,0,0,0,0,0,0
 ,The rest is just time...,265132,0,0,0,70,0,4,0,250817,0,0,0,0,0,0
 ,and trust.,265133,0,0,0,102,0,4,0,250818,0,0,0,0,0,0
+,<labored breathing>,265135,0,0,0,86,0,4,0,250820,0,0,0,0,0,0
+,Slender is the strand that guides your destiny...,265137,0,0,0,86,0,4,0,250821,0,0,0,0,0,0
+,"So easily overlooked,",265138,0,0,0,86,0,4,0,250822,0,0,0,0,0,0
+,yet cutting deeper than the sharpest blade.,265139,0,0,0,86,0,4,0,250823,0,0,0,0,0,0
+,<labored breathing>,265140,0,0,0,86,0,4,0,250824,0,0,0,0,0,0
+,Shhhh.,265141,0,0,0,86,0,4,0,250825,0,0,0,0,0,0
+,It's almost over.,265142,0,0,0,86,0,4,0,250826,0,0,0,0,0,0
+,<labored breathing>,265143,0,0,0,86,0,4,0,250827,0,0,0,0,0,0
+,"Your ambition was rare, you know.",265144,0,0,0,86,0,4,0,250828,0,0,0,0,0,0
+,"Yet despite even betraying your own mother, here you are.",265145,0,0,0,86,0,4,0,250829,0,0,0,0,0,0
+,You - promised...,265146,0,0,0,86,0,4,0,250830,0,0,0,0,0,0
+,Nothing.,265147,0,0,0,86,0,4,0,250831,0,0,0,0,0,0
+,"Yet, I gave you everything.",265148,0,0,0,86,0,4,0,250832,0,0,0,0,0,0
+,You were just...,265149,0,0,0,86,0,4,0,250833,0,0,0,0,0,0
+,not...enough.,265150,0,0,0,86,0,4,0,250834,0,0,0,0,0,0
+,Don't you...pity me..!,265151,0,0,0,86,0,4,0,250835,0,0,0,0,0,0
+,I don't.,265153,0,0,0,86,0,4,0,250836,0,0,0,0,0,0
+,You were a means to an end.,265154,0,0,0,86,0,4,0,250837,0,0,0,0,0,0
+,Your survival wasn't necessary.,265155,0,0,0,86,0,4,0,250838,0,0,0,0,0,0
+,I simply wish you had lasted a little longer.,265156,0,0,0,86,0,4,0,250839,0,0,0,0,0,0
+,<labored breathing>,265157,0,0,0,86,0,4,0,250840,0,0,0,0,0,0
+,And now you learn the true lesson of the Void...,265158,0,0,0,86,0,4,0,250841,0,0,0,0,0,0
+,Only the strongest survive.,265159,0,0,0,86,0,4,0,250842,0,0,0,0,0,0
+,<choking weakly>,265160,0,0,0,86,0,4,0,250843,0,0,0,0,0,0
+,<dying breath>,265161,0,0,0,86,0,4,0,250844,0,0,0,0,0,0
 What--,,265168,0,0,0,118,0,4,250978,0,0,0,0,0,0,0
 What is happening?,,265169,0,0,0,118,0,4,250979,0,0,0,0,0,0,0
 ,"It's Beledar,",265170,0,0,0,118,0,4,0,250980,0,0,0,0,0,0
@@ -8581,6 +8622,12 @@ This Worldsoul--the most powerful in existence--they would guide to become the g
 I know of Archaedas from my studies in Khaz Modan... but this Worldsoul he speaks of... here on Azeroth...,,265436,0,0,0,100,0,4,252044,0,0,0,0,0,0,0
 Do you think that's what Gran'da Magni was hearing all those years when he was the Speaker?,,265437,0,0,0,100,0,4,252045,0,0,0,0,0,0,0
 ,I am not sure what significance this might have for my people--or my purpose--but I have faith in the titans' plan for us.,265438,0,0,0,100,0,4,0,252046,0,0,0,0,0,0
+"And so the battle is won. $n, all of Khaz Algar owes you a tremendous debt.",,266492,0,0,0,68,0,4,253848,0,0,0,0,0,0,0
+"When you first arrived on our shores, we were fractured and divided. But you showed us the path to becoming whole again.",,266493,0,0,0,68,0,4,253849,0,0,0,0,0,0,0
+,"You reignited our drive for purpose, and to define the parameters of our own existence.",266494,0,0,0,68,0,4,0,253850,0,0,0,0,0,0
+,"We see now that traditions can change and evolve... and even be broken, if necessary.",266495,0,0,0,68,0,4,0,253851,0,0,0,0,0,0
+,The Arathi no longer cower in darkness. We bring the Light in our hearts wherever we go.,266496,0,0,0,68,0,4,0,253852,0,0,0,0,0,0
+"This Council stands stronger than ever before, with new friends and allies by our side. And we have you to thank for it.",,266497,0,0,0,68,0,4,253853,0,0,0,0,0,0,0
 "Alleria. When I heard about Dalaran, I...",,266706,0,0,0,68,0,10,254883,0,0,0,0,0,0,0
 I would have come sooner. I wanted to. But the state of the world right now... the Radiant Song...,,266707,0,0,0,68,0,10,254884,0,0,0,0,0,0,0
 ,"It's alright, Turalyon. You don't... We each have our responsibilities to bear.",266708,0,0,0,68,0,10,0,254885,0,0,0,0,0,0
@@ -8605,6 +8652,25 @@ I feel the earthen have come a long way since last we were here in the Archive.,
 To properly be part o' my clan ye'd have to marry my Gran'da or the like. But that would nae work for many reasons.,,266857,0,0,0,68,0,4,255711,0,0,0,0,0,0,0
 ,Brinthe looks puzzled.,266858,0,0,0,68,0,4,0,0,0,0,0,0,0,0
 "That was a joke, Brinthe. Ye'll always be part o' my clan--blood, water, or stone.",,266859,0,0,0,68,0,4,255712,0,0,0,0,0,0,0
+"It occurs to me that I never got the chance to properly thank you, $p.",,266914,0,0,0,68,0,4,254842,0,0,0,0,0,0,0
+"Were it not for your efforts, Dalaran could have proven to be an even greater tragedy than it was.",,266915,0,0,0,68,0,4,254843,0,0,0,0,0,0,0
+,"We thought we had lost you, Khadgar. How did you survive?",266916,0,0,0,68,0,4,0,254844,0,0,0,0,0,0
+"The Dark Heart was created not to destroy, but to capture and harness all manner of power.",,266917,0,0,0,68,0,4,254845,0,0,0,0,0,0,0
+"When I felt what it was doing to me, I transmuted myself into pure arcane energy...",,266918,0,0,0,68,0,4,254846,0,0,0,0,0,0,0
+,...and allowed yourself to be trapped within the Dark Heart.,266925,0,0,0,68,0,4,0,254847,0,0,0,0,0,0
+Yes. Until you freed me.,,266926,0,0,0,68,0,4,254848,0,0,0,0,0,0,0
+,That was a risky move. Trusting me to finish the fight against Xal'atath.,266927,0,0,0,68,0,4,0,254849,0,0,0,0,0,0
+I knew you would do whatever it took to defeat her. Just like all those years ago...,,266928,0,0,0,68,0,4,254850,0,0,0,0,0,0,0
+...when we charged through the Dark Portal and closed it behind us to save our world.,,266929,0,0,0,68,0,4,254851,0,0,0,0,0,0,0
+"Both then and now, placing my faith in you was never any risk at all.",,266930,0,0,0,68,0,4,254852,0,0,0,0,0,0,0
+"That transmutation spell, however... that was not without consequences.",,266931,0,0,0,68,0,4,254853,0,0,0,0,0,0,0
+"You know, Kurdran keeps saying I should just ride a gryphon around.",,266932,0,0,0,68,0,4,254854,0,0,0,0,0,0,0
+"That seems terribly inconvenient, if you ask me. I much prefer this chair.",,266933,0,0,0,68,0,4,254855,0,0,0,0,0,0,0
+,Could that be because Archmage Modera designed it for you herself?,266934,0,0,0,68,0,4,0,254856,0,0,0,0,0,0
+"Why Alleria, whatever are you implying?",,266935,0,0,0,68,0,4,254857,0,0,0,0,0,0,0
+,"Only that you and Turalyon are so very alike: bold in battle, shy in matters of the heart.",266936,0,0,0,68,0,4,0,254858,0,0,0,0,0,0
+"Hah! And you are still the same old Alleria, I see.",,266937,0,0,0,68,0,4,254859,0,0,0,0,0,0,0
+,"That I am, Khadgar. Void, or no Void.",266938,0,0,0,68,0,4,0,254860,0,0,0,0,0,0
 <enraged hiss>,,267160,0,0,0,118,0,6,255345,0,0,0,0,0,0,0
 ,Our group was attacked within a delve by a monster named Zekvir.,267279,0,0,0,68,0,4,0,0,0,0,0,0,0,0
 ,He is the Hand of the Harbinger... Xal'atath.,267280,0,0,0,68,0,4,0,0,0,0,0,0,0,0
