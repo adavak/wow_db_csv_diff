@@ -11338,10 +11338,10 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 20295,|cFFFFD200发现：|r为了便于理解而整理后的一些想法|n|cFFFFD200要求：|r专精 - 目镜|n|n|cFFFFD200专业技能训练师：|r卡兹阿加工程学（25）|n|cFFFFD200价格：|r125|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t|n|cFFFFD200要求：|r专精 - 目镜并穿戴皮甲,-1,10,447315
 20296,|cFFFFD200发现：|r为了便于理解而整理后的一些想法|n|cFFFFD200要求：|r专精 - 目镜|n|n|cFFFFD200专业技能训练师：|r卡兹阿加工程学（25）|n|cFFFFD200价格：|r125|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t|n|cFFFFD200要求：|r专精 - 目镜并穿戴锁甲,-1,10,447316
 20297,|cFFFFD200发现：|r为了便于理解而整理后的一些想法|n|cFFFFD200要求：|r专精 - 目镜|n|n|cFFFFD200专业技能训练师：|r卡兹阿加工程学（25）|n|cFFFFD200价格：|r125|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t|n|cFFFFD200要求：|r专精 - 目镜并穿戴板甲,-1,10,447317
-20298,|cFFFFD200发现：|r为了便于理解而整理后的一些想法|n|cFFFFD200要求：|r专精 - 目镜|n|n|cFFFFD200专业技能训练师：|r卡兹阿加工程学（25）|n|cFFFFD200价格：|r125|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t|n|cFFFFD200要求：|r专精 - 护腕并穿戴布甲,-1,10,447318
-20299,|cFFFFD200发现：|r为了便于理解而整理后的一些想法|n|cFFFFD200要求：|r专精 - 目镜|n|n|cFFFFD200专业技能训练师：|r卡兹阿加工程学（25）|n|cFFFFD200价格：|r125|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t|n|cFFFFD200要求：|r专精 - 护腕并穿戴皮甲,-1,10,447319
-20300,|cFFFFD200发现：|r为了便于理解而整理后的一些想法|n|cFFFFD200要求：|r专精 - 目镜|n|n|cFFFFD200专业技能训练师：|r卡兹阿加工程学（25）|n|cFFFFD200价格：|r125|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t|n|cFFFFD200要求：|r专精 - 护腕并穿戴锁甲,-1,10,447320
-20301,|cFFFFD200发现：|r为了便于理解而整理后的一些想法|n|cFFFFD200要求：|r专精 - 目镜|n|n|cFFFFD200专业技能训练师：|r卡兹阿加工程学（25）|n|cFFFFD200价格：|r125|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t|n|cFFFFD200要求：|r专精 - 护腕并穿戴板甲,-1,10,447321
+20298,|cFFFFD200发现：|r为了便于理解而整理后的一些想法|n|cFFFFD200要求：|r专精 - 护腕|n|n|cFFFFD200专业技能训练师：|r卡兹阿加工程学（25）|n|cFFFFD200价格：|r125|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t|n|cFFFFD200要求：|r专精 - 护腕并穿戴布甲,-1,10,447318
+20299,|cFFFFD200发现：|r为了便于理解而整理后的一些想法|n|cFFFFD200要求：|r专精 - 护腕|n|n|cFFFFD200专业技能训练师：|r卡兹阿加工程学（25）|n|cFFFFD200价格：|r125|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t|n|cFFFFD200要求：|r专精 - 护腕并穿戴皮甲,-1,10,447319
+20300,|cFFFFD200发现：|r为了便于理解而整理后的一些想法|n|cFFFFD200要求：|r专精 - 护腕|n|n|cFFFFD200专业技能训练师：|r卡兹阿加工程学（25）|n|cFFFFD200价格：|r125|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t|n|cFFFFD200要求：|r专精 - 护腕并穿戴锁甲,-1,10,447320
+20301,|cFFFFD200发现：|r为了便于理解而整理后的一些想法|n|cFFFFD200要求：|r专精 - 护腕|n|n|cFFFFD200专业技能训练师：|r卡兹阿加工程学（25）|n|cFFFFD200价格：|r125|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t|n|cFFFFD200要求：|r专精 - 护腕并穿戴板甲,-1,10,447321
 20302,|cFFFFD200发现：|r为了便于理解而整理后的一些想法|n,-1,-1,447322
 20303,|cFFFFD200发现：|r为了便于理解而整理后的一些想法|n|cFFFFD200要求：|r专精 - 专业技能装备|n,-1,10,447323
 20304,|cFFFFD200发现：|r为了便于理解而整理后的一些想法|n,-1,-1,447324
@@ -11530,3 +11530,4 @@ ID,SourceText_lang,PvpFaction,SourceTypeEnum,SpellID
 20491,|cFFFFD200专业技能训练师：|r卡兹阿加附魔（15）|n|cFFFFD200价格：|r100|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,-1,3,445361
 20492,|cFFFFD200专业技能：|r烹饪（75）,-1,3,462857
 20493,,-1,-1,439705
+20670,|cFFFFD200专业技能：|r附魔（1）,-1,3,470726

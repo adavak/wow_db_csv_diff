@@ -22525,9 +22525,9 @@ otice.htm",2
 52192,ACCOUNT_PREVIOUSLY_COMPLETED_QUEST_REP_BONUS_TOOLTIP,這是先前完成此任務的戰隊獎勵(%d|cnGREEN_FONT_COLOR:+%d|r聲望),1
 52193,ACCOUNT_PREVIOUSLY_COMPLETED_QUEST_CURRENCY_BONUS_TOOLTIP,這是先前完成此任務的戰隊獎勵(%d|cnGREEN_FONT_COLOR:+%d|r貨幣),1
 52194,RACE_INFO_EARTHENDWARF_FEMALE,卡茲阿爾加土靈近期從律令的束縛中重獲自由，並前往艾澤拉斯冒險。他們將憑著無限的好奇心探索一切事物，並希冀將獲得的所有經歷都帶回文庫。,3
-52195,GREAT_VAULT_REWARDS_WORLD_INCOMPLETE,在本週再完成%1$d個探究或世界活動以解鎖寶庫獎勵。世界活動會以級別1計算。|n|n獎勵的物品等級會依照你本週的最佳通關紀錄而定。,1
-52196,GREAT_VAULT_REWARDS_WORLD_COMPLETED_FIRST,在本週再完成%1$d個探究或世界活動即可解鎖第二個寶庫獎勵。世界活動會以級別1計算。,1
-52197,GREAT_VAULT_REWARDS_WORLD_COMPLETED_SECOND,在本週再完成%1$d個探究或世界活動即可解鎖第三個寶庫獎勵。世界活動會以級別1計算。,1
+52195,GREAT_VAULT_REWARDS_WORLD_INCOMPLETE,在本週再完成%1$d個探究或世界活動即可解鎖寶庫獎勵。世界活動會以級別1計算。|n|n獎勵的物品等級會依照你本週前最佳2次通關記錄中的最低等級而定。,1
+52196,GREAT_VAULT_REWARDS_WORLD_COMPLETED_FIRST,在本週再完成%1$d個探究或世界活動即可解鎖第二項寶庫獎勵。世界活動會以級別1計算。|n|n獎勵的物品等級會依照你本週前最佳4次通關記錄中的最低等級而定。,1
+52197,GREAT_VAULT_REWARDS_WORLD_COMPLETED_SECOND,在本週再完成%1$d個探究或世界活動即可解鎖第三項寶庫獎勵。世界活動會以級別1計算。|n|n獎勵的物品等級會依照你本週前最佳8次通關記錄中的最低等級而定。,1
 52198,WEEKLY_REWARDS_THRESHOLD_WORLD,完成%d個探究或世界任務,1
 52200,ACCOUNT_WIDE_REPUTATION_TUTORIAL,|cnHIGHLIGHT_FONT_COLOR:這是|r|cnNORMAL_FONT_COLOR:戰隊|r|cnHIGHLIGHT_FONT_COLOR:陣營。你的所有角色會共享這個陣營獲得的聲望。|r,1
 52201,ACCOUNT_TRANSFERABLE_CURRENCIES_TUTORIAL,|cnHIGHLIGHT_FONT_COLOR:有些貨幣是|r|n|cnNORMAL_FONT_COLOR:戰隊可轉移物品。|r|n|cnHIGHLIGHT_FONT_COLOR:點擊一種貨幣來開始轉移給其他角色。|r,1

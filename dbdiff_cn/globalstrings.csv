@@ -22525,9 +22525,9 @@ ID,BaseTag,TagText_lang,Flags
 52192,ACCOUNT_PREVIOUSLY_COMPLETED_QUEST_REP_BONUS_TOOLTIP,这是给之前完成过此任务的账号提供的战团奖励（%d|cnGREEN_FONT_COLOR:+%d|r点声望）,1
 52193,ACCOUNT_PREVIOUSLY_COMPLETED_QUEST_CURRENCY_BONUS_TOOLTIP,这是给之前完成过此任务的账号提供的战团奖励（%d|cnGREEN_FONT_COLOR:+%d|r份货币）,1
 52194,RACE_INFO_EARTHENDWARF_FEMALE,卡兹阿加的土灵在最近终于摆脱了律令的束缚，开始在艾泽拉斯展开冒险。他们怀着无穷的好奇心，希望可以把所有的奖励都带回档案馆。,3
-52195,GREAT_VAULT_REWARDS_WORLD_INCOMPLETE,再完成%1$d个地下堡或者世界活动可以解锁一个宏伟宝库奖励。世界活动算作难度1。|n|n此奖励的物品等级会以你本周最高的成绩为依据。,1
-52196,GREAT_VAULT_REWARDS_WORLD_COMPLETED_FIRST,再完成%1$d个地下堡或者世界活动就可以解锁第二个宏伟宝库奖励。世界活动算作难度1。,1
-52197,GREAT_VAULT_REWARDS_WORLD_COMPLETED_SECOND,再完成%1$d个地下堡或者世界活动就可以解锁第三个宏伟宝库奖励。世界活动算作难度1。,1
+52195,GREAT_VAULT_REWARDS_WORLD_INCOMPLETE,再完成%1$d个地下堡或者世界活动可以解锁一个宏伟宝库奖励。世界活动算作难度1。|n|n此奖励的物品等级会以你本周最高的2次成绩中的最低的一次为依据。,1
+52196,GREAT_VAULT_REWARDS_WORLD_COMPLETED_FIRST,再完成%1$d个地下堡或者世界活动就可以解锁第二个宏伟宝库奖励。世界活动算作难度1。|n|n此奖励的物品等级会以你本周最高的2次成绩中的最低的一次为依据。,1
+52197,GREAT_VAULT_REWARDS_WORLD_COMPLETED_SECOND,再完成%1$d个地下堡或者世界活动就可以解锁第三个宏伟宝库奖励。世界活动算作难度1。|n|n此奖励的物品等级会以你本周最高的2次成绩中的最低的一次为依据。,1
 52198,WEEKLY_REWARDS_THRESHOLD_WORLD,完成%d个地下堡或者世界活动。,1
 52200,ACCOUNT_WIDE_REPUTATION_TUTORIAL,|cnHIGHLIGHT_FONT_COLOR:这是个|r |cnNORMAL_FONT_COLOR:战团|r |cnHIGHLIGHT_FONT_COLOR:阵营。在此阵营获取的声望会由你的所有角色分享。|r,1
 52201,ACCOUNT_TRANSFERABLE_CURRENCIES_TUTORIAL,|cnHIGHLIGHT_FONT_COLOR:某些货币是|r|n|cnNORMAL_FONT_COLOR:战团可转移货币。|r|n|cnHIGHLIGHT_FONT_COLOR:点击一种货币，从另一名角色处发起转移。|r,1
