@@ -1,7 +1,7 @@
 Name_lang,ID,Parent,Ui_order
-Statistics,1,-1,17
+Statistics,1,-1,16
 Player vs. Player,21,1,10
-Feats of Strength,81,-1,14
+Feats of Strength,81,-1,13
 Characters,92,-1,1
 Player vs. Player,95,-1,5
 Quests,96,-1,2
@@ -74,7 +74,7 @@ Cataclysm,15072,201,4
 Battle for Gilneas,15073,95,9
 Twin Peaks,15074,95,10
 Tol Barad,15075,15301,2
-Guild,15076,-1,16
+Guild,15076,-1,15
 Quests,15077,15076,2
 Player vs. Player,15078,15076,3
 Dungeons & Raids,15079,15076,4
@@ -118,7 +118,7 @@ Draenor Dungeon,15228,168,9
 Draenor Raid,15231,168,10
 Draenor,15232,201,6
 Warlords of Draenor,15233,14807,6
-Legacy,15234,-1,15
+Legacy,15234,-1,14
 Draenor,15235,97,7
 Draenor Dungeon,15243,15079,9
 Draenor Raid,15244,15079,10
@@ -202,13 +202,6 @@ Mining,15497,169,10
 Skinning,15498,169,11
 Herbalism,15499,169,9
 War Within,15506,96,12
-Remix: Pandaria,15509,-1,13
-Quests,15510,15509,1
-Exploration,15511,15509,3
-Scenarios,15512,15509,4
-Reputation,15513,15509,2
-Dungeons,15514,15509,5
-Raids,15515,15509,6
 The War Within,15520,14807,11
 War Within,15521,97,12
 Delves,15522,-1,4
@@ -220,5 +213,7 @@ War Within Dungeon,15528,15079,19
 War Within Raid,15529,15079,20
 War Within,15530,201,11
 Delves,15531,81,2
+Anniversary Celebration,15532,155,12
 Delves,15533,1,8
 The War Within,15534,15533,1
+Remix: Pandaria,15536,15234,10

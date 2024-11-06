@@ -951,7 +951,6 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200成就：|r傳說：巨龍崛起第4賽季|n|cFFFFD200類別：|r競技場,1448,211869,2,-1
 |cFFFFD200商人：|r芬利‧莫戈頓爵士|n|cFFFFD200區域：|r多恩諾加|n|cFFFFD200花費：|r500|Hcurrency:2803|h|TInterface\ICONS\INV_Misc_ElvenCoins.blp:0|t|h,1449,211931,4,2
 ,1450,211946,2,-1
-|cFFFFD200成就：|r完成最佳拍檔|n|cFFFFD200類別：|r角色,1451,212174,0,5
 |cFFFFD200貿易站|r|n,1452,212500,2,11
 |cFFFFD200貿易站|r|n,1453,212523,2,11
 |cFFFFD200貿易站|r|n,1454,212524,2,11
@@ -984,6 +983,7 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200專業技能：|r卡茲阿爾加工程學,1478,221966,2,-1
 |cFFFFD200任務：|r姊姊的罪孽,1479,223146,0,0
 |cFFFFD200掉落：|r探究旅程|n,1480,223312,4,0
+|cFFFFD200商人：|r波巴多姆|n|cFFFFD200區域：|r塔納利斯|n|cFFFFD200花費：|r200|Hcurrency:1166|h|TInterface\ICONS\PVECurrency-Justice.blp:0|t|h|n|n|cFFFFD200商人：|r葛蘭納多姆|n|cFFFFD200區域：|r塔納利斯|n|cFFFFD200花費：|r200|Hcurrency:1166|h|TInterface\ICONS\PVECurrency-Justice.blp:0|t|h,1482,224192,0,2
 |cFFFFD200成就：|r世界之魂的記憶|n,1483,224251,0,5
 |cFFFFD200寶藏：|r填充熊|n|cFFFFD200區域：|r禁忌之境,1484,204405,0,0
 |cFFFFD200專業技能：|r卡茲阿爾加工程學,1485,221962,2,-1
@@ -1000,7 +1000,7 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200寶藏：|r博學大師的獎勵|n|cFFFFD200區域：|r聖落之地,1497,225659,0,0
 |cFFFFD200商人：|r芬利‧莫戈頓爵士|n|cFFFFD200區域：|r多恩諾加|n|cFFFFD200花費：|r500|Hcurrency:2803|h|TInterface\ICONS\INV_Misc_ElvenCoins.blp:0|t|h,1498,225910,4,2
 |cFFFFD200成就：|r傳奇：地心之戰第1賽季|n|cFFFFD200類別：|r競技場,1499,225933,2,-1
-[PH],1500,225969,0,-1
+|cFFFFD200成就：|r閃光戰役|n|cFFFFD200類別：|r世界,1500,225969,0,-1
 |cFFFFD200寶藏：|r結實的箱子|n|cFFFFD200探究|r|n,1501,225556,4,0
 ,1502,226191,0,-1
 ,1503,226519,0,-1
@@ -1013,4 +1013,14 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200商人：|r奧拉麗亞‧鐵擊|n|cFFFFD200區域：|r聖落之地|n|cFFFFD200花費：|r5000|Hcurrency:2815|h|TInterface\ICONS\SPELL_AZERITE_ESSENCE14.BLP:0|t|h,1511,228707,4,2
 |cFFFFD200商人：|r維娜茲安女士|n|cFFFFD200區域：|r阿茲-卡罕特|n|cFFFFD200花費：|r1750|Hcurrency:3056|h|TInterface\ICONS\INV_10_Tailoring_SilkRare_Color3.BLP:0|t|h|n|n|cFFFFD200商人：|r伊特希|n|cFFFFD200區域：|r阿茲-卡罕特|n|cFFFFD200花費：|r1750|Hcurrency:3056|h|TInterface\ICONS\INV_10_Tailoring_SilkRare_Color3.BLP:0|t|h,1512,228705,4,2
 |cFFFFD200商人：|r阿弗絲‧瓦拉弗魯|n|cFFFFD200區域：|r蛛絲城|n|cFFFFD200花費：|r1500|Hcurrency:3056|h|TInterface\ICONS\INV_10_Tailoring_SilkRare_Color3.BLP:0|t|h,1513,228914,0,2
+|cFFFFD200商人：|r歷史學家瑪迪|n|cFFFFD200區域：|r塔納利斯|n|cFFFFD200花費：|r20|Hcurrency:3100|h|TInterface\ICONS\INV_10_DungeonJewelry_Dragon_Necklace_1_Bronze.BLP:0|t|h,1514,228789,0,2
+|cFFFFD200商人：|r歷史學家瑪迪|n|cFFFFD200區域：|r塔納利斯|n|cFFFFD200花費：|r20|Hcurrency:3100|h|TInterface\ICONS\INV_10_DungeonJewelry_Dragon_Necklace_1_Bronze.BLP:0|t|h|n|n|cFFFFD200商人：|r卡爾‧古德阿|n|cFFFFD200區域：|r塔納利斯|n|cFFFFD200花費：|r20|Hcurrency:3100|h|TInterface\ICONS\INV_10_DungeonJewelry_Dragon_Necklace_1_Bronze.BLP:0|t|h,1516,229828,0,2
+|cFFFFD200《魔獸世界》電競：|r地心之戰第1賽季,1517,232301,2,7
+|cFFFFD200《魔獸世界》電競：|r地心之戰第1賽季,1518,232305,2,7
+|cFFFFD200《魔獸世界》電競：|r地心之戰第2賽季,1524,232302,2,7
+|cFFFFD200《魔獸世界》電競：|r地心之戰第2賽季,1525,232306,2,7
+|cFFFFD200《魔獸世界》電競：|r地心之戰第3賽季,1526,232303,2,7
+|cFFFFD200《魔獸世界》電競：|r地心之戰第3賽季,1527,232307,2,7
+|cFFFFD200《魔獸世界》電競：|r地心之戰第4賽季,1528,232304,2,7
+|cFFFFD200《魔獸世界》電競：|r地心之戰第4賽季,1529,232308,2,7
 |cFFFFD200商人：|r供應商雅瑪斯|n|cFFFFD200區域：|r阿茲-卡罕特|n|cFFFFD200花費：|r3000|Hcurrency:3056|h|TInterface\ICONS\INV_10_Tailoring_SilkRare_Color3.BLP:0|t|h,1530,228940,0,2

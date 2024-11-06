@@ -703,8 +703,8 @@ Deals [StandardDamage(getProcIndex(PROC_ON_SWAP_IN), 1)] damage when swapping in
 鞭笞敌人1-2次，每一击造成[StandardDamage(1,1)]点[School()]伤害。
 
 如果使用者率先攻击，则可额外攻击1次。",134218,6,0,0,0
-395,抚慰之雾,"每轮回复[StandardDamage(1,1,395)]点生命值。",606550,-1,0,635,0
-396,抚慰之雾,"每轮为你的激活宠物回复[StandardDamage(1,1,395)]点生命值，持续[duration(1,1)]轮。更换宠物后效果仍然存在。",606550,6,0,0,2
+395,抚慰之雾,"每轮回复[StandardHealing(1,1,395)]点生命值。",606550,6,0,635,0
+396,抚慰之雾,"每轮为你的激活宠物回复[StandardHealing(1,1,395)]点生命值，持续[duration(1,1)]轮。更换宠物后效果仍然存在。",606550,6,0,0,2
 397,剧毒鞭笞,"每轮造成[StandardDamage(1,1)]点[School()]伤害。
 
 |cFF1EFF00中毒。|r",134208,6,0,25,0
@@ -3789,3 +3789,9 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 2520,目眩神迷,"[StandardAccuracy(1,1)]|cffffffff命中几率|r
 
 用闪闪发亮的球体令敌人目眩，造成[StandardDamage(1,1)]点[School()]伤害并|cff9933FF致盲|r目标，使其命中几率降低[abs(abilityStateMod( 41 , 462 ))]%，持续[duration(1,2)]轮。",133836,0,4,0,0
+2522,灾变之刃,"[StandardAccuracy(1,1)]|cffffffff命中几率|r
+
+挥舞迷你版灾变之刃宰割目标，造成[StandardDamage(1, 1)]点[School()]伤害。",135378,0,0,0,0
+2523,暗影箭雨,"[StandardAccuracy(1,1)]|cffffffff命中几率|r
+
+向敌人队伍射出暗影箭雨，对敌方队伍造成[StandardDamage(1, 1)]点[School()]伤害。",136197,5,3,0,0

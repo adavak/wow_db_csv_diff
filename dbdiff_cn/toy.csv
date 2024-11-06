@@ -953,7 +953,6 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200成就：|r传说：“巨龙时代”第4赛季|n|cFFFFD200分类：|r竞技场,1448,211869,2,-1
 |cFFFFD200商人出售：|r芬利·莫格顿爵士|n|cFFFFD200地区：|r多恩诺嘉尔|n|cFFFFD200价格：|r500|Hcurrency:2803|h|TInterface\ICONS\INV_Misc_ElvenCoins.blp:0|t|h,1449,211931,4,2
 ,1450,211946,2,-1
-|cFFFFD200成就：|r完成好手两重唱|n|cFFFFD200分类：|r角色,1451,212174,0,5
 |cFFFFD200商栈|r|n,1452,212500,2,11
 |cFFFFD200商栈|r|n,1453,212523,2,11
 |cFFFFD200商栈|r|n,1454,212524,2,11
@@ -986,6 +985,7 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200专业技能：|r卡兹阿加工程学,1478,221966,2,-1
 |cFFFFD200任务：|r长姐之罪,1479,223146,0,0
 |cFFFFD200掉落：|r地下堡之旅|n,1480,223312,4,0
+|cFFFFD200商人出售：|r波巴多姆|n|cFFFFD200地区：|r塔纳利斯|n|cFFFFD200价格：|r200|Hcurrency:1166|h|TInterface\ICONS\PVECurrency-Justice.blp:0|t|h|n|n|cFFFFD200商人出售：|r格拉纳多姆|n|cFFFFD200地区：|r塔纳利斯|n|cFFFFD200价格：|r200|Hcurrency:1166|h|TInterface\ICONS\PVECurrency-Justice.blp:0|t|h,1482,224192,0,2
 |cFFFFD200成就：|r世界之魂的回忆|n,1483,224251,0,5
 |cFFFFD200宝藏：|r填充之熊|n|cFFFFD200区域：|r禁忌离岛,1484,204405,0,0
 |cFFFFD200专业技能：|r卡兹阿加工程学,1485,221962,2,-1
@@ -1002,7 +1002,7 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200宝藏：|r博学者的奖赏|n|cFFFFD200地区：|r陨圣峪,1497,225659,0,0
 |cFFFFD200商人出售：|r芬利·莫格顿爵士|n|cFFFFD200地区：|r多恩诺嘉尔|n|cFFFFD200价格：|r500|Hcurrency:2803|h|TInterface\ICONS\INV_Misc_ElvenCoins.blp:0|t|h,1498,225910,4,2
 |cFFFFD200成就：|r传奇：“地心之战”第1赛季|n|cFFFFD200分类：|r竞技场,1499,225933,2,-1
-[PH],1500,225969,0,-1
+|cFFFFD200成就：|r火花四溅的战斗|n|cFFFFD200分类：|r世界,1500,225969,0,-1
 |cFFFFD200宝藏：|r坚固宝箱|n|cFFFFD200地下堡|r|n,1501,225556,4,0
 ,1502,226191,0,-1
 ,1503,226519,0,-1
@@ -1015,4 +1015,14 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200商人出售：|r奥拉莉亚·斯蒂泰克|n|cFFFFD200地区：|r陨圣峪|n|cFFFFD200价格：|r5000|Hcurrency:2815|h|TInterface\ICONS\SPELL_AZERITE_ESSENCE14.BLP:0|t|h,1511,228707,4,2
 |cFFFFD200商人出售：|r维娜基安女士|n|cFFFFD200地区：|r艾基-卡赫特|n|cFFFFD200价格：|r1750|Hcurrency:3056|h|TInterface\ICONS\INV_10_Tailoring_SilkRare_Color3.BLP:0|t|h|n|n|cFFFFD200商人出售：|r伊泰基|n|cFFFFD200地区：|r艾基-卡赫特|n|cFFFFD200价格：|r1750|Hcurrency:3056|h|TInterface\ICONS\INV_10_Tailoring_SilkRare_Color3.BLP:0|t|h,1512,228705,4,2
 |cFFFFD200商人出售：|r阿尔弗斯·瓦拉乌鲁|n|cFFFFD200地区：|r千丝之城|n|cFFFFD200价格：|r1500|Hcurrency:3056|h|TInterface\ICONS\INV_10_Tailoring_SilkRare_Color3.BLP:0|t|h,1513,228914,0,2
+|cFFFFD200商人出售：|r历史学家玛蒂|n|cFFFFD200地区：|r塔纳利斯|n|cFFFFD200价格：|r20|Hcurrency:3100|h|TInterface\ICONS\INV_10_DungeonJewelry_Dragon_Necklace_1_Bronze.BLP:0|t|h,1514,228789,0,2
+|cFFFFD200商人出售：|r历史学家玛蒂|n|cFFFFD200地区：|r塔纳利斯|n|cFFFFD200价格：|r20|Hcurrency:3100|h|TInterface\ICONS\INV_10_DungeonJewelry_Dragon_Necklace_1_Bronze.BLP:0|t|h|n|n|cFFFFD200商人出售：|r卡尔·古达普|n|cFFFFD200地区：|r塔纳利斯|n|cFFFFD200价格：|r20|Hcurrency:3100|h|TInterface\ICONS\INV_10_DungeonJewelry_Dragon_Necklace_1_Bronze.BLP:0|t|h,1516,229828,0,2
+|cFFFFD200《魔兽世界》电竞：|r“地心之战”第1赛季,1517,232301,2,7
+|cFFFFD200《魔兽世界》电竞：|r“地心之战”第1赛季,1518,232305,2,7
+|cFFFFD200《魔兽世界》电竞：|r“地心之战”第2赛季,1524,232302,2,7
+|cFFFFD200《魔兽世界》电竞：|r“地心之战”第2赛季,1525,232306,2,7
+|cFFFFD200《魔兽世界》电竞：|r“地心之战”第3赛季,1526,232303,2,7
+|cFFFFD200《魔兽世界》电竞：|r“地心之战”第3赛季,1527,232307,2,7
+|cFFFFD200《魔兽世界》电竞：|r“地心之战”第4赛季,1528,232304,2,7
+|cFFFFD200《魔兽世界》电竞：|r“地心之战”第4赛季,1529,232308,2,7
 |cFFFFD200商人出售：|r供应商亚马丝|n|cFFFFD200地区：|r艾基-卡赫特|n|cFFFFD200价格：|r3000|Hcurrency:3056|h|TInterface\ICONS\INV_10_Tailoring_SilkRare_Color3.BLP:0|t|h,1530,228940,0,2

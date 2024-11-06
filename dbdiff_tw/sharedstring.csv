@@ -86,7 +86,7 @@ String_lang,ID,Flags
 需要$@spellname107570天賦,1050,0
 需要$@spellname3411天賦,1051,0
 需要$@spellname268358天賦,1052,0
-需要$@spellname4584天賦,1053,0
+需要$@spellname5484天賦,1053,0
 需要$@spellname106898天賦,1054,0
 需要$@spellname274837天賦,1055,0
 需要$@spellname80313天賦,1056,0
@@ -107,7 +107,7 @@ String_lang,ID,Flags
 需要$@spellname360194天賦,1072,0
 需要$@spellname382245天賦,1073,0
 需要$@spellname57934天賦,1074,0
-需要$@spellname381988天賦,1075,0
+需要$@spellname51690天賦,1075,0
 需要$@spellname359844天賦,1076,0
 需要$@spellname288613天賦,1077,0
 需要$@spellname19574天賦,1078,0
@@ -149,3 +149,5 @@ String_lang,ID,Flags
 需要$@spellname60103天賦,1114,0
 需要$@spellname5394天賦,1115,0
 於%s解鎖,1116,0
+需要$@spellname232893天賦和$@spellname198793天賦,1118,0
+需要$@spellname373481天賦,1119,0

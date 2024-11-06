@@ -700,8 +700,8 @@ ID,Name_lang,Description_lang,IconFileDataID,PetTypeEnum,Cooldown,BattlePetVisua
 鞭笞敵人1到2次，每次鞭笞造成[StandardDamage(1,1)]點[School()]傷害。
 
 如果使用者先攻擊，則可額外攻擊一次。",134218,6,0,0,0
-395,舒和之霧,"每輪恢復[StandardDamage(1,1,395)]點生命力。",606550,-1,0,635,0
-396,舒和之霧,"每輪為你啟用的寵物恢復[StandardDamage(1,1,395)]點生命力，持續[duration(1,1)]輪。交換寵物後效果仍然有效。",606550,6,0,0,2
+395,舒和之霧,"每輪恢復[StandardHealing(1,1,395)]點生命力。",606550,6,0,635,0
+396,舒和之霧,"每輪為你啟用的寵物恢復[StandardHealing(1,1,395)]點生命力，持續[duration(1,1)]輪。交換寵物後效果仍然有效。",606550,6,0,0,2
 397,劇毒鞭笞,"每輪造成[StandardDamage(1,1)]點[School()]傷害。
 
 |cFF1EFF00中毒。|r",134208,6,0,25,0
@@ -3794,3 +3794,9 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 2520,炫目,"[StandardAccuracy(1,1)]|cffffffff命中機率|r
 
 用閃爍的球使敵人頭暈目眩。造成[StandardDamage(1,1)]點[School()]傷害並讓目標|cff9933FF目盲|r，使其命中機率降低[abs(abilityStateMod( 41 , 462 ))]%，持續[duration(1,2)]|4輪。",133836,0,4,0,0
+2522,裂地之鋒,"[StandardAccuracy(1,1)] |cffffffff命中機率|r
+
+用他的迷你裂地之鋒進行削砍，造成[StandardDamage(1, 1)]點[School()]傷害。",135378,0,0,0,0
+2523,暗影箭雨,"[StandardAccuracy(1,1)] |cffffffff命中機率|r
+
+朝敵方隊伍發射數道暗影箭，對敵方隊伍造成[StandardDamage(1, 1)]點[School()]傷害。",136197,5,3,0,0

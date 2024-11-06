@@ -5456,7 +5456,7 @@ It be me who named Sylvanas warchief. But Mueh'zala and da Jailer... dey be pull
 ,"As I explained before, Sire, we cannot rush such a delicate process.",194300,0,0,0,6,0,6,0,155364,0,0,0,0,0,0
 Our friend grows... impatient.,,194301,0,0,0,6,0,6,155042,0,0,0,0,0,0,0
 ,"But master, I--",194302,0,0,0,6,0,6,0,155366,0,0,0,0,0,0
-"Well, what have we here?",,194303,0,0,0,6,0,6,155043,0,0,0,0,0,0,0
+"Well, what have we here?",,194303,0,0,0,70,0,6,155043,0,0,0,0,0,0,0
 ,Sire?,194304,0,0,0,6,0,6,0,155367,0,0,0,0,0,0
 My defiant accuser and her hapless mortal pawn.,,194305,0,0,0,6,0,6,155044,0,0,0,0,0,0,0
 ,You deprive your own people of anima and inflict a drought upon all of the Shadowlands!,194306,0,0,0,6,0,6,0,155057,0,0,0,0,0,0
@@ -8240,7 +8240,7 @@ But I realized it didn't matter. The way he called them...,,260618,0,0,0,68,0,10
 "It's good to have you with us, Alleria.",,260645,0,0,0,68,0,10,243401,0,0,0,0,0,0,0
 ,We're all in this together.,260646,0,0,0,68,0,10,0,243402,0,0,0,0,0,0
 ,That we are. The time will come when I must face Xal'atath again.,260647,0,0,0,68,0,10,0,243403,0,0,0,0,0,0
-,But when I do... It will be for the right reasons.,260649,0,0,0,68,0,10,0,243404,0,0,0,0,0,0
+,But when I do... it will be for the right reasons.,260649,0,0,0,68,0,10,0,243404,0,0,0,0,0,0
 Dagran... lad... I'm concerned about you.,,260716,0,0,0,68,0,10,244767,0,0,0,0,0,0,0
 "What's wrong, Gran'da?",,260717,0,0,0,68,0,10,244769,0,0,0,0,0,0,0
 It does my heart good to see you so excited about this... but I'm concerned about your safety.,,260718,0,0,0,68,0,10,244772,0,0,0,0,0,0,0
@@ -8633,6 +8633,39 @@ That corruption the keeper's talking about... that's the Old Gods. That must be 
 ,"That would explain why the Void, the titans... the Legion... every cosmological force... have sought to control it--or destroy it--over the eons.",265466,0,0,0,100,0,4,0,252055,0,0,0,0,0,0
 What do you suppose the titans needed to study about it?,,265467,0,0,0,100,0,4,252056,0,0,0,0,0,0,0
 ,We cannot possibly understand the intricacies of the titans' reasons. But that complex Archaedas mentioned--I believe I know what that is about...,265468,0,0,0,100,0,4,0,252057,0,0,0,0,0,0
+"At the titans' command, we keepers began the Acclimation. Each installation, all linked to the Manifold, produced vast numbers of titanforged workers.",,265470,0,0,0,100,0,4,252058,0,0,0,0,0,0,0
+"We fired the Great Forges, to fuel the Acclimation and empower the Manifold to heal the ravaged world.",,265471,0,0,0,100,0,4,252059,0,0,0,0,0,0,0
+"Then began construction of the Coreway, a direct channel to the heart of Azeroth, that would allow the titans to study the Worldsoul without harming it.",,265472,0,0,0,100,0,4,252060,0,0,0,0,0,0,0
+"However, as we delved deeper, we encountered certain obstacles--colossal crystals which we came to realize were calcified chunks of the Worldsoul's essence.",,265473,0,0,0,100,0,4,252061,0,0,0,0,0,0,0
+"They are of great power, and I wonder how many yet remain undiscovered beneath the earth, all over the world.",,265474,0,0,0,100,0,4,252062,0,0,0,0,0,0,0
+"By word of the great Khaz'goroth, the titans' research has revealed that Azeroth's Worldsoul is indeed the Prime. Our purpose may yet be fulfilled.",,265475,0,0,0,100,0,4,252063,0,0,0,0,0,0,0
+"Enormous powerful chunks of Worldsoul essence... do you think Beledar, in Hallowfall, could be one of them?",,265476,0,0,0,100,0,4,252032,0,0,0,0,0,0,0
+,Potentially. But it was never within the scope of our Edicts to study the crystal.,265477,0,0,0,100,0,4,0,252064,0,0,0,0,0,0
+He mentions the titanforged making the Coreway... did you know it was built to study the Worldsoul?,,265478,0,0,0,100,0,4,252065,0,0,0,0,0,0,0
+,"We were created for the great purpose of serving the titans, and thus we built it. Its purpose was irrelevant to us.",265479,0,0,0,100,0,4,0,252066,0,0,0,0,0,0
+,"We fulfilled our Edicts dependably, and we have strived to do so throughout the millennia, despite Khaz Algar facing many... setbacks.",265480,0,0,0,100,0,4,0,252067,0,0,0,0,0,0
+Setbacks? What do you mean?,,265481,0,0,0,100,0,4,252068,0,0,0,0,0,0,0
+,"Long ago, the continents of the world split apart, and the machinery that powered our facility was damaged--cut off from the Manifold.",265482,0,0,0,100,0,4,0,252069,0,0,0,0,0,0
+,"We were unable to repair the connection. We operated on auxiliary power for a time... but eventually it ran out, and we fell into... disarray.",265483,0,0,0,100,0,4,0,252070,0,0,0,0,0,0
+That must have been the Sundering... it's miraculous that any of this survived intact.,,265484,0,0,0,100,0,4,252071,0,0,0,0,0,0,0
+The great Khaz'goroth revealed to me that the corrupting influence of the imprisoned Old Gods was affecting the Worldsoul.,,265537,0,0,0,100,0,4,252072,0,0,0,0,0,0,0
+"To protect it, we had the earthen construct the Worldcore--a vast chamber at the heart of the world. There, the Worldsoul will slumber, with only the titans to influence it.",,265540,0,0,0,100,0,4,252073,0,0,0,0,0,0,0
+"I must note a disturbing development. As they worked to greater depths, some earthen began to behave erratically. This could not be countenanced.",,265554,0,0,0,100,0,4,252074,0,0,0,0,0,0,0
+"Most units were repaired, and continued their work. But some began to physically change, and crystallize. They named themselves ""thraegar.""",,265555,0,0,0,100,0,4,252075,0,0,0,0,0,0,0
+"These faulty units were so greatly affected that they rebelled against us, attacking and damaging the Worldcore.",,265556,0,0,0,100,0,4,252076,0,0,0,0,0,0,0
+"In the course of studying them, it was determined that long exposure to the Worldsoul's energies led to the changes exhibited in their core directives.",,265557,0,0,0,100,0,4,252077,0,0,0,0,0,0,0
+"If we cannot prevent this from happening, it will prove catastrophic to not only the Worldcore, but to the Manifold itself. Measures must be taken.",,265558,0,0,0,100,0,4,252078,0,0,0,0,0,0,0
+,"I... do not recall this happening. That should not be. This ""Worldcore"" seems as if it was a monumental undertaking.",265559,0,0,0,100,0,4,0,252079,0,0,0,0,0,0
+,"And the earthen malfunctioning? How would the Worldsoul's ""energy"" cause that? This is very confusing.",265560,0,0,0,100,0,4,0,252080,0,0,0,0,0,0
+"By the way, what does he mean by ""repaired?""",,265561,0,0,0,100,0,4,252081,0,0,0,0,0,0,0
+,Unclear... But what he said about the thraegar rebelling is most disturbing.,265562,0,0,0,100,0,4,0,252082,0,0,0,0,0,0
+The thraegar? That's what they called gran'da when he first got to Khaz Algar!,,265563,0,0,0,100,0,4,252083,0,0,0,0,0,0,0
+,"We regard them as legendary champions, almost demigods... to learn that their directives were just... corrupted? That they were anomalies?",265564,0,0,0,100,0,4,0,252084,0,0,0,0,0,0
+,Was everything we believed mistaken... or even... a lie?,265565,0,0,0,100,0,4,0,252085,0,0,0,0,0,0
+"Wait--you don't suppose... if the earthen were affected by the Worldsoul's ""radiation,"" the closer they got to it...",,265566,0,0,0,100,0,4,252086,0,0,0,0,0,0,0
+"Could it be that it was actually trying to reach your people? Asking for help, like it did with my grand'da?",,265567,0,0,0,100,0,4,252087,0,0,0,0,0,0,0
+And undoing their directives... was it actually giving them free will?,,265568,0,0,0,100,0,4,252088,0,0,0,0,0,0,0
+,I... do not know.,265569,0,0,0,100,0,4,0,252089,0,0,0,0,0,0
 "And so the battle is won. $n, all of Khaz Algar owes you a tremendous debt.",,266492,0,0,0,68,0,4,253848,0,0,0,0,0,0,0
 "When you first arrived on our shores, we were fractured and divided. But you showed us the path to becoming whole again.",,266493,0,0,0,68,0,4,253849,0,0,0,0,0,0,0
 ,"You reignited our drive for purpose, and to define the parameters of our own existence.",266494,0,0,0,68,0,4,0,253850,0,0,0,0,0,0

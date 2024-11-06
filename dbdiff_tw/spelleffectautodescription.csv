@@ -447,3 +447,12 @@ ID,EffectDescription_lang,AuraDescription_lang,SpellEffectType,AuraEffectType,Po
 603,以護盾保護施法者，持續$d，最多可吸收$s@effectindex點星宙傷害。,吸收$s@effectindex點星宙傷害。,6,69,1,1,106,0,0
 604,對衝擊點附近$A@effectindex碼範圍內的敵人造成暗影傷害。,,165,0,1,5,32,50,50
 605,每$t@effectindex秒對一名敵人造成暗影傷害，持續$d。,每$t@effectindex秒造成暗影傷害。,6,70,1,1,32,50,50
+609,使$A@effectindex碼內所有盟友造成的物理傷害提高$s@effectindex%。,造成的物理傷害提高$s@effectindex%。,6,79,1,6,1,30,30
+610,使$A@effectindex碼內所有盟友造成的神聖傷害提高$s@effectindex%。,造成的神聖傷害提高$s@effectindex%。,6,79,1,6,2,30,30
+611,使$A@effectindex碼內所有盟友造成的火焰傷害提高$s@effectindex%。,造成的火焰傷害提高$s@effectindex%。,6,79,1,6,4,30,30
+612,使$A@effectindex碼內所有盟友造成的自然傷害提高$s@effectindex%。,造成的自然傷害提高$s@effectindex%。,6,79,1,6,8,30,30
+613,使$A@effectindex碼內所有盟友造成的冰霜傷害提高$s@effectindex%。,造成的冰霜傷害提高$s@effectindex%。,6,79,1,6,16,30,30
+614,使$A@effectindex碼內所有盟友造成的暗影傷害提高$s@effectindex%。,造成的暗影傷害提高$s@effectindex%。,6,79,1,6,32,30,30
+615,使$A@effectindex碼內所有盟友造成的秘法傷害提高$s@effectindex%。,造成的秘法傷害提高$s@effectindex%。,6,79,1,6,64,30,30
+616,打斷一名敵人的施法，持續$d。,,68,0,1,3,8,30,0
+618,打斷一名敵人的施法，持續$d。,,68,0,0,3,0,30,0
