@@ -1263,7 +1263,7 @@ ID,Name_lang,Description_lang,CompletionPlayerConditionID,Flags,QuestID,PlayerCo
 5626,厭倦休息,,0,72,0,0,0
 5627,狗頭人文化與整合,,0,72,0,0,0
 5628,可疑的鄰居,,0,72,0,0,0
-5629,祈倫托的命運,,0,0,0,0,0
+5630,不散暗影,,0,24,0,0,0
 5632,一同奮戰,,0,0,0,0,0
 5633,探究 - 第1賽季,,0,0,0,0,0
 5634,隱藏法令,,0,72,0,0,0
@@ -1287,6 +1287,8 @@ ID,Name_lang,Description_lang,CompletionPlayerConditionID,Flags,QuestID,PlayerCo
 5656,勘查剛達加茲,,0,0,0,0,0
 5657,潘達利亞之謎,,125592,0,0,0,0
 5658,[DNT] Weaver Treasure Quests - Zone Map,,0,0,0,0,0
+5664,秘法荒寂,,0,8,0,0,0
+5666,廢墟之中的力量,,0,8,0,0,0
 5670,區域3窄口1,,0,16,0,0,0
 5671,區域3窄口2,,0,16,0,0,0
 5672,區域3窄口3,,0,16,0,0,0
@@ -1302,3 +1304,6 @@ ID,Name_lang,Description_lang,CompletionPlayerConditionID,Flags,QuestID,PlayerCo
 5711,鳴響深淵 - 每週任務,,0,8,0,127836,0
 5712,[DNT] Notoriety/Pacts - Tracking Quests,,0,0,0,0,0
 5716,殺死女王,,0,88,0,0,0
+5732,秘密之歌,,0,8,0,0,0
+5745,11.0.7海妖島 - 頂點天賦任務(MDE),,0,0,0,0,0
+5767,海妖島週報,,0,0,0,0,0

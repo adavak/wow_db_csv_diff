@@ -86,3 +86,11 @@ ID,Name_lang,LocaleMask,Create_charsetMask,Existing_charsetMask,Flags,Order
 191,Progression,0,10,10,0,0
 192,Progression,0,17,17,0,0
 193,Progression,0,17,17,0,0
+194,Anniversary,0,1,1,0,-127
+195,Anniversary,0,10,10,0,-127
+196,Anniversary,3277,1,1,0,-127
+197,Anniversary,0,17,17,0,-127
+198,Anniversary,0,17,17,0,-127
+199,Classic Era,0,17,17,0,0
+201,Classic Era,0,0,0,0,0
+202,Anniversary,0,0,0,0,0

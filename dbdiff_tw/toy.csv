@@ -1024,3 +1024,11 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200《魔獸世界》電競：|r地心之戰第4賽季,1528,232304,2,7
 |cFFFFD200《魔獸世界》電競：|r地心之戰第4賽季,1529,232308,2,7
 |cFFFFD200商人：|r供應商雅瑪斯|n|cFFFFD200區域：|r阿茲-卡罕特|n|cFFFFD200花費：|r3000|Hcurrency:3056|h|TInterface\ICONS\INV_10_Tailoring_SilkRare_Color3.BLP:0|t|h,1530,228940,0,2
+|cFFFFD200世界事件：|r冬幕節,1533,218308,2,-1
+|cFFFFD200任務：|r賽斯會很驕傲,1537,235041,0,-1
+|cFFFFD200掉落：|r海妖島,1538,235017,0,0
+|cFFFFD200商人：|r艾蓮妲‧希吉米爾|n|cFFFFD200區域：|r海妖島|n|cFFFFD200花費：|r750|Hcurrency:3090|h|TInterface\ICONS\INV_Siren_Isle_FlameBlessed_Iron.BLP:0|t|h,1539,233486,0,2
+|cFFFFD200商人：|r神秘的供應商|n|cFFFFD200區域：|r海妖島|n|cFFFFD200花費：|r750|Hcurrency:3090|h|TInterface\ICONS\INV_Siren_Isle_FlameBlessed_Iron.BLP:0|t|h,1541,235015,0,2
+|cFFFFD200商人：|r索威金|n|cFFFFD200區域：|r海妖島|n|cFFFFD200花費：|r750|Hcurrency:3090|h|TInterface\ICONS\INV_Siren_Isle_FlameBlessed_Iron.BLP:0|t|h,1543,234473,0,2
+|cFFFFD200商人：|r神秘的供應商|n|cFFFFD200區域：|r海妖島|n|cFFFFD200花費：|r1000|Hcurrency:3090|h|TInterface\ICONS\INV_Siren_Isle_FlameBlessed_Iron.BLP:0|t|h,1545,235016,2,2
+|cFFFFD200節日：|r魔獸世界週年紀念,1553,228966,2,6

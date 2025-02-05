@@ -15,3 +15,9 @@ ID,Name,Message_lang
 18,MSG_GX_FAIL_NO_DRIVER,魔獸世界搜尋不到適用的顯示卡，請檢查你的顯示卡驅動程式是否需要更新，並且確認你不是在安全模式下執行遊戲。欲知更多詳情，請參考網頁http://tw.battle.net/support/en/article/driver-update-information
 27,MSG_COMPATIBILITY_ERROR,由於相容模式設定，無法啟動魔獸世界。請停用WoW.exe與Launcher.exe檔案的相容模式，然後再次啟動遊戲。關於停用相容模式的詳細步驟，請參閱: https://tw.battle.net/support/zh/article/disabling-compatibility-mode-pc
 134,MSG_GX_SLOW_SHADER_BUILDING_WARNING,由於一個已知的GPU驅動程式問題，首次建立著色器時可能會導致遊戲首次啟動的速度異常緩慢。此過程可能需要耗費數分鐘。
+135,MSG_INTEL_13TH_OR_14TH_GEN_MICROCODE_WARNING,《魔獸世界》偵測到你的電腦正在使用Intel 13或14代處理器，且尚未安裝修正處理器不穩定潛在問題的適當更新。強烈建議你將主機板的BIOS更新至使用Intel的0x12B或較新微碼的最新版本。
+136,MSG_MOTHERBOARD_BIOS_UPDATE,更多關於更新主機板BIOS的資訊，請參考%s。
+137,MSG_MOTHERBOARD_INFO,"處理器名稱：%s
+主機板名稱：%s
+BIOS推出日期：%s
+微碼版本：0x%llX"

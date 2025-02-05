@@ -1263,7 +1263,7 @@ ID,Name_lang,Description_lang,CompletionPlayerConditionID,Flags,QuestID,PlayerCo
 5626,倦于安乐,,0,72,0,0,0
 5627,狗头人文化与融合,,0,72,0,0,0
 5628,可疑的邻居,,0,72,0,0,0
-5629,肯瑞托的命运,,0,0,0,0,0
+5630,萦绕暗影,,0,24,0,0,0
 5632,战团集结,,0,0,0,0,0
 5633,地下堡 - 第1赛季,,0,0,0,0,0
 5634,潜匿的律令,,0,72,0,0,0
@@ -1287,6 +1287,8 @@ ID,Name_lang,Description_lang,CompletionPlayerConditionID,Flags,QuestID,PlayerCo
 5656,探索冈达加兹,,0,0,0,0,0
 5657,熊猫人之谜,,125592,0,0,0,0
 5658,[DNT] Weaver Treasure Quests - Zone Map,,0,0,0,0,0
+5664,奥术废土,,0,8,0,0,0
+5666,废墟间的力量,,0,8,0,0,0
 5670,地区3瓶颈1,,0,16,0,0,0
 5671,地区3瓶颈2,,0,16,0,0,0
 5672,地区3瓶颈3,,0,16,0,0,0
@@ -1302,3 +1304,6 @@ ID,Name_lang,Description_lang,CompletionPlayerConditionID,Flags,QuestID,PlayerCo
 5711,喧鸣深窟 - 每周任务,,0,8,0,127836,0
 5712,[DNT] Notoriety/Pacts - Tracking Quests,,0,0,0,0,0
 5716,女王之死,,0,88,0,0,0
+5732,奥秘之歌,,0,8,0,0,0
+5745,11.0.7海妖岛 - 顶点任务（MDE）,,0,0,0,0,0
+5767,海妖岛每周任务,,0,0,0,0,0

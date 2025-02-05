@@ -3795,3 +3795,7 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 2523,暗影箭雨,"[StandardAccuracy(1,1)]|cffffffff命中几率|r
 
 向敌人队伍射出暗影箭雨，对敌方队伍造成[StandardDamage(1, 1)]点[School()]伤害。",136197,5,3,0,0
+2524,迷诱孢子,"每轮造成[StandardDamage(1,1)]点[School()]伤害。",5929575,6,0,0,0
+2525,迷诱孢子,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
+
+使敌人的队伍被迷醉的芬芳席卷，立即造成[StandardDamage(1,1)]点[School()]伤害，并于每轮造成[StandardDamage(1,1,639)]点[School()]伤害，持续[duration(1,2)]轮。更换宠物后效果仍然存在。",5929575,6,0,0,0

@@ -984,7 +984,7 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200专业技能：|r卡兹阿加工程学,1477,219387,0,3
 |cFFFFD200专业技能：|r卡兹阿加工程学,1478,221966,2,-1
 |cFFFFD200任务：|r长姐之罪,1479,223146,0,0
-|cFFFFD200掉落：|r地下堡之旅|n,1480,223312,4,0
+|cFFFFD200掉落：|r地下堡行者的旅程|n,1480,223312,4,0
 |cFFFFD200商人出售：|r波巴多姆|n|cFFFFD200地区：|r塔纳利斯|n|cFFFFD200价格：|r200|Hcurrency:1166|h|TInterface\ICONS\PVECurrency-Justice.blp:0|t|h|n|n|cFFFFD200商人出售：|r格拉纳多姆|n|cFFFFD200地区：|r塔纳利斯|n|cFFFFD200价格：|r200|Hcurrency:1166|h|TInterface\ICONS\PVECurrency-Justice.blp:0|t|h,1482,224192,0,2
 |cFFFFD200成就：|r世界之魂的回忆|n,1483,224251,0,5
 |cFFFFD200宝藏：|r填充之熊|n|cFFFFD200区域：|r禁忌离岛,1484,204405,0,0
@@ -1026,3 +1026,11 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200《魔兽世界》电竞：|r“地心之战”第4赛季,1528,232304,2,7
 |cFFFFD200《魔兽世界》电竞：|r“地心之战”第4赛季,1529,232308,2,7
 |cFFFFD200商人出售：|r供应商亚马丝|n|cFFFFD200地区：|r艾基-卡赫特|n|cFFFFD200价格：|r3000|Hcurrency:3056|h|TInterface\ICONS\INV_10_Tailoring_SilkRare_Color3.BLP:0|t|h,1530,228940,0,2
+|cFFFFD200世界事件：|r冬幕节,1533,218308,2,-1
+|cFFFFD200任务：|r喀耳刻会骄傲的,1537,235041,0,-1
+|cFFFFD200掉落：|r海妖岛,1538,235017,0,0
+|cFFFFD200商人出售：|r艾琳达·海吉米尔|n|cFFFFD200地区：|r海妖岛|n|cFFFFD200价格：|r750|Hcurrency:3090|h|TInterface\ICONS\INV_Siren_Isle_FlameBlessed_Iron.BLP:0|t|h,1539,233486,0,2
+|cFFFFD200商人出售：|r戴兜帽的供应商|n|cFFFFD200地区：|r海妖岛|n|cFFFFD200价格：|r750|Hcurrency:3090|h|TInterface\ICONS\INV_Siren_Isle_FlameBlessed_Iron.BLP:0|t|h,1541,235015,0,2
+|cFFFFD200商人出售：|r索伊兹|n|cFFFFD200地区：|r海妖岛|n|cFFFFD200价格：|r750|Hcurrency:3090|h|TInterface\ICONS\INV_Siren_Isle_FlameBlessed_Iron.BLP:0|t|h,1543,234473,0,2
+|cFFFFD200商人出售：|r戴兜帽的供应商|n|cFFFFD200地区：|r海妖岛|n|cFFFFD200价格：|r1000|Hcurrency:3090|h|TInterface\ICONS\INV_Siren_Isle_FlameBlessed_Iron.BLP:0|t|h,1545,235016,2,2
+|cFFFFD200节日：|r魔兽世界周年纪念,1553,228966,2,6

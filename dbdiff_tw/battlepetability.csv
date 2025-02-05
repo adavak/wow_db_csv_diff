@@ -3800,3 +3800,7 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 2523,暗影箭雨,"[StandardAccuracy(1,1)] |cffffffff命中機率|r
 
 朝敵方隊伍發射數道暗影箭，對敵方隊伍造成[StandardDamage(1, 1)]點[School()]傷害。",136197,5,3,0,0
+2524,魅惑孢子,"每輪造成[StandardDamage(1,1)]點[School()]傷害。",5929575,6,0,0,0
+2525,魅惑孢子,"[StandardAccuracy(1,1)] |cffffffff命中機率|r
+
+以毒氣籠罩敵人，立刻造成[StandardDamage(1,1)]點[School()]傷害，加上每輪造成[StandardDamage(1,1,639)]點[School()]傷害，持續[duration(1,2)]輪。交換寵物後效果仍然有效。",5929575,6,0,0,0

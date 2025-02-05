@@ -8666,6 +8666,23 @@ The thraegar? That's what they called gran'da when he first got to Khaz Algar!,,
 "Could it be that it was actually trying to reach your people? Asking for help, like it did with my grand'da?",,265567,0,0,0,100,0,4,252087,0,0,0,0,0,0,0
 And undoing their directives... was it actually giving them free will?,,265568,0,0,0,100,0,4,252088,0,0,0,0,0,0,0
 ,I... do not know.,265569,0,0,0,100,0,4,0,252089,0,0,0,0,0,0
+"With the danger posed by the rogue thraegar, the great Aman'Thul ordered the rebellion to be quelled and the thraegar hunted down until the threat was neutralized.",,265573,0,0,0,100,0,4,252090,0,0,0,0,0,0,0
+"However, the issue of earthen malfunction under the influence of the Worldsoul's energies remained, and so a new solution was devised.",,265580,0,0,0,100,0,4,252091,0,0,0,0,0,0,0
+"The earthen of Khaz Algar will relinquish their memories into an Archive to preserve recorded data, and purge the influence of the Worldsoul's energies.",,265581,0,0,0,100,0,4,252092,0,0,0,0,0,0,0
+"By initiating this protocol on a regular cadence, we will ensure the thraegar malfunction does not take hold again.",,265582,0,0,0,100,0,4,252093,0,0,0,0,0,0,0
+"To secure compliance, the titans have programmed Edicts into the operational earthen to regulate and enforce their discreet functions and efficiency.",,265583,0,0,0,100,0,4,252094,0,0,0,0,0,0,0
+"Thus, the earthen will maintain the integrity of the Coreway and the machines of Khaz Algar. Should the Edicts be broken, more permanent failsafes have been set into place.",,265584,0,0,0,100,0,4,252095,0,0,0,0,0,0,0
+"With these difficulties behind them, the titans have declared that the Worldsoul remains, dreaming, safely contained within the Worldcore, where no harm will come to it.",,265590,0,0,0,100,0,4,252096,0,0,0,0,0,0,0
+I do not know why I commit this information to the Archive--why I risk its discovery in the future. Perhaps the Worldsoul's influence does not extend solely to the earthen.,,265591,0,0,0,100,0,4,252097,0,0,0,0,0,0,0
+What we've learned here... It calls the entire history of Azeroth into question. What if... what if our history isn't what they said it was?,,265592,0,0,0,100,0,4,252098,0,0,0,0,0,0,0
+,"So the keepers stole our memories, and let us believe that it was for our own good? That it was so we could continue to fulfill our purpose--no, not even our purpose!",265593,0,0,0,100,0,4,0,252099,0,0,0,0,0,0
+,"We built the greatest structures the world has ever seen, and they set us to become... maintenance drones, just... cogs in a machine.",265594,0,0,0,100,0,4,0,252100,0,0,0,0,0,0
+And it does seem that they did it to keep you complacent... obedient. Following their Edicts--and eliminating those of you they couldn't control.,,265595,0,0,0,100,0,4,252101,0,0,0,0,0,0,0
+,Those Edicts... they were bonds of servitude. And we never even knew.,265596,0,0,0,100,0,4,0,252102,0,0,0,0,0,0
+,"And then when the Sundering happened, we were cut off from all of it--and Archaedas never returned to help us. Why didn't he return?",265597,0,0,0,100,0,4,0,252103,0,0,0,0,0,0
+,Our entire history--our culture--held in that Archive... I want my memories back. I want ALL our memories back. Damn the titans.,265598,0,0,0,100,0,4,0,252104,0,0,0,0,0,0
+I'm starting to think there's more to the Worldsoul than the titans wanted us to know. That they had other plans for it-- and Azeroth--than we were led to believe.,,265600,0,0,0,100,0,4,252105,0,0,0,0,0,0,0
+What if all of us--even Archaedas himself--have been deceived?,,265601,0,0,0,100,0,4,252106,0,0,0,0,0,0,0
 "And so the battle is won. $n, all of Khaz Algar owes you a tremendous debt.",,266492,0,0,0,68,0,4,253848,0,0,0,0,0,0,0
 "When you first arrived on our shores, we were fractured and divided. But you showed us the path to becoming whole again.",,266493,0,0,0,68,0,4,253849,0,0,0,0,0,0,0
 ,"You reignited our drive for purpose, and to define the parameters of our own existence.",266494,0,0,0,68,0,4,0,253850,0,0,0,0,0,0
@@ -8719,6 +8736,7 @@ I knew you would do whatever it took to defeat her. Just like all those years ag
 ,Our group was attacked within a delve by a monster named Zekvir.,267279,0,0,0,68,0,4,0,0,0,0,0,0,0,0
 ,He is the Hand of the Harbinger... Xal'atath.,267280,0,0,0,68,0,4,0,0,0,0,0,0,0,0
 ,There's something within the delves that she doesn't want people to find.,267281,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+"You are not alone, friends.",,267509,0,0,1,68,0,4,268348,0,0,0,0,0,0,0
 This is the realm of the Machine!,,268031,0,0,0,70,0,4,257039,0,0,0,0,0,0,0
 And I... am the High... Speaker!,,268032,0,0,0,70,0,4,257040,0,0,0,0,0,0,0
 I almost forgot I sent you away...,,268033,0,0,0,70,0,4,257041,0,0,0,0,0,0,0
@@ -8741,4 +8759,123 @@ Brann Bronzebeard and the Explorers' League! Cease your explorations.,,268360,0,
 ,War Golems are active and back in production.,268647,0,0,0,102,0,4,0,257987,0,0,0,0,0,0
 ,<amused chuckle>,268948,0,0,0,118,0,6,0,250749,0,0,0,0,0,0
 <Laborious battle cries.>,,270052,0,0,0,102,0,4,260957,0,0,0,0,0,0,0
+So... what now?,,270847,0,0,1,68,0,7,268307,0,0,0,0,0,0,0
+We rebuild. But not just brick and mortar. We need changes to our foundation--to us.,,270848,0,0,0,68,0,4,268338,0,0,0,0,0,0,0
+,Agreed. We must move forward with intention. And learn from the mistakes we were too prideful to before.,270849,0,0,0,68,0,7,0,268195,0,0,0,0,0,0
+I admit I was blinded by the ivory towers of Dalaran... I believed the Kirin Tor's wisdom was nigh infallible.,,270850,0,0,0,68,0,7,268240,0,0,0,0,0,0,0
+"Let us pledge then that the new Kirin Tor will be different. No more councils, no more floating cities, and no more meddling in world affairs.",,270851,0,0,0,68,0,4,268276,0,0,0,0,0,0,0
+,Then we are all in agreement. We will start anew. For the Kirin Tor. For all of us.,270852,0,0,0,68,0,4,0,268322,0,0,0,0,0,0
+Good. Because this old man is tired. I will go to Dornogal to rest. And then start rebuilding the connections we have lost.,,271045,0,0,0,68,0,7,268231,0,0,0,0,0,0,0
+I look forward to our future as the Kirin Tor... and friends.,,271047,0,0,0,4,0,4,268252,0,0,0,0,0,0,0
+,"Are you going to stay, Kalecgos?",271049,0,0,0,68,0,7,0,268201,0,0,0,0,0,0
+The Dragon Isles can endure a little longer without me. We have much work to do.,,271050,0,0,0,68,0,7,268316,0,0,0,0,0,0,0
+More mages are arriving to lend their strength. We need to start planning how we want to spend our resources.,,271051,0,0,0,68,0,7,268284,0,0,0,0,0,0,0
+"Dalaran's destruction almost destroyed me. But it is not an end, it is an opportunity--to do things right this time.",,271083,0,0,0,4,0,4,268214,0,0,0,0,0,0,0
+"We shall build our strength not from dominion or deceit, but from dedication to learning and magic.",,271084,0,0,0,4,0,4,268340,0,0,0,0,0,0,0
 Thrall nods to Lufsela with respect.,,271141,0,0,0,68,0,10,0,0,0,0,0,0,0,0
+"Well, best be setting sail to Ironforge. No sense in dawdling.",,271237,0,0,1,68,0,4,267990,0,0,0,0,0,0,0
+,"Are you sure about staying, Dagran? You could return home with us and study there...",271238,0,0,6,68,0,4,0,0,0,0,0,0,0,0
+"I'm sure, ma. There's still so much knowledge here yet to be discovered!",,271239,0,0,1,68,0,4,267992,0,0,0,0,0,0,0
+,"And knowing you, you'll find it all. Keep out of trouble, and make sure Brinthe always knows where ye are.",271240,0,0,1,68,0,4,0,0,0,0,0,0,0,0
+"Yes, mum.",,271241,0,0,273,68,0,4,267994,0,0,0,0,0,0,0
+"Ach, and who's this?",,271242,0,0,6,68,0,4,267995,0,0,0,0,0,0,0
+,I am called Orweyna. I've been told you too have heard the voice of the goddess.,271243,0,0,2,68,0,4,0,267996,0,0,0,0,0,0
+"Goddess? You mean Azeroth? Aye- I was her speaker for many years, but she's let me go from that service.",,271244,0,0,6,68,0,4,267997,0,0,0,0,0,0,0
+,"Her voice has led me far from my home, seeking a truth I know she wishes to reveal, but my kin, they... do not understand.",271245,0,0,1,68,0,4,0,267998,0,0,0,0,0,0
+"Aye. It can be lonely, followin' a path that others can't see. But don't make the same mistake I did, puttin' it all on yourself.",,271246,0,0,273,68,0,4,267999,0,0,0,0,0,0,0
+"Look for those who will walk the path with you. If I've learned anythin', it's that we'll always need each other to not lose ourselves on the journey.",,271247,0,0,1,68,0,4,268000,0,0,0,0,0,0,0
+,"You are kind, Magni. I will consider your words carefully.",271248,0,0,2,68,0,4,0,268001,0,0,0,0,0,0
+"Best of luck to you, Orweyna. One day when you've found what you're looking for, I hope you too find your way home.",,271249,0,0,2,68,0,4,268002,0,0,0,0,0,0,0
+,"Are you sure about staying, Dagran? You could return home with us and study there...",271319,0,0,0,68,0,4,0,265757,0,0,0,0,0,0
+,"<laughs> And knowing you, you'll find it all.",271320,0,0,0,68,0,4,0,265758,0,0,0,0,0,0
+,"Keep out of trouble, and make sure Brinthe always knows where ye are.",271321,0,0,0,68,0,4,0,265759,0,0,0,0,0,0
+,What are you making? You seem... inspired.,272404,0,0,0,100,0,4,0,268749,0,0,0,0,0,0
+"This morning, the Siren Crystal sang a reverent hymn to me... a restorative anthem from a bygone age.",,272407,0,0,0,100,0,4,268750,0,0,0,0,0,0,0
+,That sounds like the kind of inspiration we'd receive from Beledar.,272412,0,0,0,100,0,4,0,268751,0,0,0,0,0,0
+Yes! Its music soothed me. Now I'm crafting more healing crystals. They'll bring solace to our Empire.,,272415,0,0,0,100,0,4,268752,0,0,0,0,0,0,0
+"Hey, what's the good news?",,272424,0,0,0,100,0,4,268757,0,0,0,0,0,0,0
+,"The Siren Crystal... it was making a racket this morning! Like a pot banging in my head! Still, it gave me some ideas...",272425,0,0,0,100,0,4,0,268758,0,0,0,0,0,0
+"Yeah yeah yeah, you've got a headache. But, ah, whatcha makin'? We found you a whole kit and kaboodle of crystals!",,272426,0,0,0,100,0,4,268759,0,0,0,0,0,0,0
+,I'm boostin' their energy! You could make some powerful artifacts with these babies!,272427,0,0,0,100,0,4,0,268760,0,0,0,0,0,0
+,You seem fascinated with those crystals. I was watching your process earlier. What is it about them that inspires you?,272428,0,0,0,100,0,4,0,268753,0,0,0,0,0,0
+,"This morning, I heard the Siren Crystal sing to me, ringing with an intricate melody.",272429,0,0,0,100,0,4,0,0,0,0,0,0,0,0
+,Perhaps it was calling to the spark of the Worldsoul within you. We've been searching the island to learn more.,272430,0,0,0,100,0,4,0,268755,0,0,0,0,0,0
+,"Your thoughts align with mine. If we found more of the smaller crystals, I could make enduring wonderworks.",272485,0,0,0,100,0,4,0,0,0,0,0,0,0,0
+"Look, pal! The only opportunity here is the one I gave you.",,272643,0,0,0,102,0,4,267951,0,0,0,0,0,0,0
+"Big things are coming, and if you want to be part of it, you better fall in line.",,272644,0,0,0,102,0,4,267952,0,0,0,0,0,0,0
+Jastor Gallywix is back in business!,,272645,0,0,0,102,0,4,267953,0,0,0,0,0,0,0
+"What you have told me makes me afraid for you, Aethas.",,272740,0,0,0,68,0,10,268185,0,0,0,0,0,0,0
+Fear isn't part of it. Or... not fear of nerubians or... or even Xal'atath.,,272741,0,0,0,68,0,10,268176,0,0,0,0,0,0,0
+Then of what?,,272742,0,0,0,68,0,10,268181,0,0,0,0,0,0,0
+Of letting everyone we have lost down again. If I slip. If... if I sleep. What then?,,272743,0,0,0,68,0,10,268180,0,0,0,0,0,0,0
+What horror comes here and takes more of us away?,,272744,0,0,0,68,0,10,268184,0,0,0,0,0,0,0
+I know very little about what has transpired here. But...,,272745,0,0,0,68,0,10,268178,0,0,0,0,0,0,0
+"Aethas, none of it was your fault.",,272746,0,0,0,68,0,10,268175,0,0,0,0,0,0,0
+You're a survivor--a victim of this tragedy.,,272747,0,0,0,68,0,10,268186,0,0,0,0,0,0,0
+To continue to fight and then rebuild... that's more than anyone would ask of you.,,272748,0,0,0,68,0,10,268183,0,0,0,0,0,0,0
+"And yet, here I am. Still alone. The Kirin Tor...",,272749,0,0,0,68,0,10,268158,0,0,0,0,0,0,0
+They will come.,,272798,0,0,0,68,0,10,268182,0,0,0,0,0,0,0
+"For now, you need rest. Let me put the burden on my wings for awhile.",,272799,0,0,0,68,0,10,268177,0,0,0,0,0,0,0
+"Kalecgos, I... thank you.",,272800,0,0,0,68,0,10,268179,0,0,0,0,0,0,0
+"Jaina, I thought you were staying to help in the Tranquil Strand.",,272809,0,0,0,68,0,10,268270,0,0,0,0,0,0,0
+,I was. But we should speak about the future of the Kirin Tor sooner rather than later.,272814,0,0,0,68,0,10,0,268162,0,0,0,0,0,0
+I'm afraid the news from outside is bleak. We lost all but a few after amassing at Dalaran.,,272820,0,0,0,4,0,10,268163,0,0,0,0,0,0,0
+,Then... our new Kirin Tor is over before it began.,272823,0,0,0,4,0,10,0,268172,0,0,0,0,0,0
+"No, the mages who have answered the call... We have an opportunity. No council. No rank.",,272824,0,0,0,4,0,10,268168,0,0,0,0,0,0,0
+,Like starting over? Returning to study and research?,272830,0,0,0,4,0,10,0,268166,0,0,0,0,0,0
+,But we have a duty to protect the Alliance--and Azeroth.,272831,0,0,0,4,0,10,0,268159,0,0,0,0,0,0
+We can still fulfill that mission by investigating. Training. Advising.,,272832,0,0,0,4,0,10,268173,0,0,0,0,0,0,0
+,It would keep us mobile and decentralized. A tragedy like Dalaran would not happen again.,272835,0,0,0,4,0,10,0,268164,0,0,0,0,0,0
+"Safety is a benefit, yes.",,272836,0,0,0,4,0,10,268161,0,0,0,0,0,0,0
+,Study and passing on my knowledge appeals to me. But I have to think about the ramifications of such a drastic change.,272842,0,0,0,4,0,10,0,268169,0,0,0,0,0,0
+And that is why it should be you who starts putting the pieces back together.,,272867,0,0,0,4,0,10,268157,0,0,0,0,0,0,0
+,Khadgar...,272868,0,0,0,4,0,10,0,268165,0,0,0,0,0,0
+"I need rest, Jaina. But... I promise I won't stay away for long.",,272869,0,0,0,4,0,10,268160,0,0,0,0,0,0,0
+,Meryl can assist me. Aethas should have a key role as well. I will go back and speak to them.,272870,0,0,0,4,0,4,0,268167,0,0,0,0,0,0
+"Thank you, Jaina. And good luck.",,272871,0,0,0,4,0,4,268170,0,0,0,0,0,0,0
+,Excellent. That's the kind of support we'll need to bolster our troops. We could strengthen our defenses.,274542,0,0,0,100,0,4,0,268890,0,0,0,0,0,0
+I didn't hear a call to battle. I heard a hymn of healing.,,274543,0,0,0,100,0,4,268891,0,0,0,0,0,0,0
+I don't want to go to war again. I want to go home. We're closer to our homelands than ever before.,,274545,0,0,0,100,0,4,268895,0,0,0,0,0,0,0
+,"We're not going to war. It's coming to us. When the others seize that Crystal, we'll need more guards.",274548,0,0,0,100,0,4,0,268892,0,0,0,0,0,0
+You need to trust the earthen and the goblins. They're not our enemies. We need to work together.,,274550,0,0,0,100,0,4,268893,0,0,0,0,0,0,0
+,That's the difference between you and me. You build. I protect. And mark my words: we will need that protection.,274551,0,0,0,100,0,4,0,268894,0,0,0,0,0,0
+,It's a shame the Kul Tirans didn't hear the same song. We found the remains of their mining camp. Their culture didn't endure here.,274552,0,0,0,100,0,4,0,268896,0,0,0,0,0,0
+,Really? I haven't left the workshop. What have you found? Journals? Letters? Schematics?,274554,0,0,0,100,0,4,0,0,0,0,0,0,0,0
+,More mysteries. Their culture practically vanished overnight. It's one of the Crystal's biggest enigmas.,274555,0,0,0,100,0,4,0,268898,0,0,0,0,0,0
+,I heard they were mining Azerite. I'm glad we have more reasonable designs.,274556,0,0,0,100,0,4,0,0,0,0,0,0,0,0
+,"Now I have the inspiration for more intricate creations: lattices, orreries, matrices...",274557,0,0,0,100,0,4,0,0,0,0,0,0,0,0
+,Spoken like a true earthen. A creator should follow her heart. We'll find more of those smaller crystals for you.,274558,0,0,0,100,0,4,0,268901,0,0,0,0,0,0
+You know what you should do? Make some explosives! Big bada booms!,,274559,0,0,0,100,0,4,268902,0,0,0,0,0,0,0
+"Didya know what was here before us, Didi? An Azerite mine! Some Kul Tiran outfit...",,274560,0,0,0,100,0,4,268903,0,0,0,0,0,0,0
+,"Hey, I ain't lookin' to blow stuff up. I want a power source... a bunch of batteries!",274561,0,0,0,100,0,4,0,268904,0,0,0,0,0,0
+"Okay, okay, I get ya. After all, whatcha got cookin' could be really valuable.",,274562,0,0,0,100,0,4,268905,0,0,0,0,0,0,0
+,I ain't in it for the money. I'm in it for the power.,274563,0,0,0,100,0,4,0,268906,0,0,0,0,0,0
+"Soon, you'll have more power than you know what to do with.",,274564,0,0,0,100,0,4,268907,0,0,0,0,0,0,0
+,"Oh, believe you me, I know what to do with it. Heh heh heh heh.",274566,0,0,0,100,0,4,0,268908,0,0,0,0,0,0
+That's our Didi! No off position on the genius switch!,,274567,0,0,0,100,0,4,268909,0,0,0,0,0,0,0
+,Hannan?,275194,0,0,0,70,0,4,0,271383,0,0,0,0,0,0
+"This was a mistake, Orweyna.",,275195,0,0,0,70,0,4,271391,0,0,0,0,0,0,0
+You've put us all in grave peril.,,275196,0,0,0,70,0,4,271387,0,0,0,0,0,0,0
+,"Our goddess is crying out for aid,",275197,0,0,0,70,0,4,0,271382,0,0,0,0,0,0
+"We followed you and your visions this far,",,275198,0,0,0,70,0,4,271386,0,0,0,0,0,0,0
+,It is those very traditions that have put our home at risk!,275199,0,0,0,70,0,4,0,271381,0,0,0,0,0,0
+,"You've seen the growing threats here, Hannan.",275201,0,0,0,70,0,4,0,271379,0,0,0,0,0,0
+,We cannot give up now.,275203,0,0,0,70,0,4,0,271377,0,0,0,0,0,0
+The others and I are returning to the cradle to seek forgiveness.,,275204,0,0,0,70,0,4,271385,0,0,0,0,0,0,0
+,<Takes a deep breath.>,275209,0,0,0,70,0,4,0,0,0,0,0,0,0,0
+,"Tell the elders that the fault is mine, and mine alone. I will face them in time...but for now,",275210,0,0,0,70,0,4,0,271384,0,0,0,0,0,0
+Then you will walk it alone.,,275212,0,0,0,70,0,4,271388,0,0,0,0,0,0,0
+"I do not understand your conviction, Orweyna.",,275214,0,0,0,70,0,4,271390,0,0,0,0,0,0,0
+May the ancient roots of our people ever thrive beneath your steps.,,275215,0,0,0,70,0,4,271389,0,0,0,0,0,0,0
+,"Goodbye, Hannan.",275216,0,0,0,102,0,4,0,271380,0,0,0,0,0,0
+"He's broken audio playback, but just temporarily",,277737,0,0,5,102,0,6,271751,0,0,0,0,0,0,0
+,Where are the others?,278157,0,0,0,326,0,4,0,272394,0,0,0,0,0,0
+"Coming here, revealing ourselves to the mortals, getting caught in their affairs.",,278158,0,0,0,326,0,4,272395,0,0,0,0,0,0,0
+,how can we not answer?,278160,0,0,0,326,0,4,0,272396,0,0,0,0,0,0
+but we cannot break the haranir's traditions any longer.,,278162,0,0,0,326,0,4,272397,0,0,0,0,0,0,0
+,<sighs quietly>,278163,0,0,0,326,0,4,0,272398,0,0,0,0,0,0
+You owe it to them to face the elders by their side.,,278164,0,0,0,326,0,4,272399,0,0,0,0,0,0,0
+,my path is here.,278167,0,0,0,326,0,4,0,272400,0,0,0,0,0,0
+But...I do admire it.,,278169,0,0,0,326,0,4,272401,0,0,0,0,0,0,0
+,"While Bargus repairs the outer chassis, let us take a closer look at the destabilized matrices in this fractured crystal, shall we?",278267,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+,Stabilization complete. The crystals inner matrices begin humming with power!,278277,0,0,0,324,0,4,0,0,0,0,0,0,0,0
