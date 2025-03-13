@@ -28,3 +28,4 @@ ID,Name_lang,Flags,ExpansionID,ParentCategoryID
 256,Test Subcategory 4,4,8,245
 257,旧版,16,0,0
 260,地心之战,0,10,0
+263,第2赛季,0,10,260

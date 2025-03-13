@@ -336,7 +336,7 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200专业技能：|r工程学,483,30542,2,3
 |cFFFFD200专业技能：|r工程学(500),484,40727,2,3
 |cFFFFD200掉落：|r幽灵熊猫人渔夫|n|cFFFFD200专业技能：|r钓鱼|n,485,85973,2,0
-|cFFFFD200商人出售：|r纳特·帕格|n|cFFFFD200地区：|r卡桑琅丛林|n|cFFFFD200阵营：|r垂钓翁 - 崇敬|n|cFFFFD200价格：|r1000|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,486,85500,6,2
+|cFFFFD200商人出售：|r纳特·帕格|n|cFFFFD200地区：|r卡桑琅丛林|n|cFFFFD200阵营：|r垂钓翁 - 崇敬|n|cFFFFD200价格：|r1000|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,486,85500,4,2
 |cFFFFD200掉落：|r卡洛斯|n|cFFFFD200地区：|r旧希尔斯布莱德丘陵,487,134019,0,0
 |cFFFFD200掉落：|r布尔吉·黑心|n|cFFFFD200地区：|r瓦丝琪尔|n,488,134022,0,0
 |cFFFFD200任务：|r去找火箭主管！|n|cFFFFD200地区：|r虚空风暴,489,134021,0,1
@@ -1016,9 +1016,13 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200商人出售：|r维娜基安女士|n|cFFFFD200地区：|r艾基-卡赫特|n|cFFFFD200价格：|r1750|Hcurrency:3056|h|TInterface\ICONS\INV_10_Tailoring_SilkRare_Color3.BLP:0|t|h|n|n|cFFFFD200商人出售：|r伊泰基|n|cFFFFD200地区：|r艾基-卡赫特|n|cFFFFD200价格：|r1750|Hcurrency:3056|h|TInterface\ICONS\INV_10_Tailoring_SilkRare_Color3.BLP:0|t|h,1512,228705,4,2
 |cFFFFD200商人出售：|r阿尔弗斯·瓦拉乌鲁|n|cFFFFD200地区：|r千丝之城|n|cFFFFD200价格：|r1500|Hcurrency:3056|h|TInterface\ICONS\INV_10_Tailoring_SilkRare_Color3.BLP:0|t|h,1513,228914,0,2
 |cFFFFD200商人出售：|r历史学家玛蒂|n|cFFFFD200地区：|r塔纳利斯|n|cFFFFD200价格：|r20|Hcurrency:3100|h|TInterface\ICONS\INV_10_DungeonJewelry_Dragon_Necklace_1_Bronze.BLP:0|t|h,1514,228789,0,2
+|cFFFFD200世界任务：|r击败幽坑太保|n|cFFFFD200地区：|r喧鸣深窟,1515,230727,4,1
 |cFFFFD200商人出售：|r历史学家玛蒂|n|cFFFFD200地区：|r塔纳利斯|n|cFFFFD200价格：|r20|Hcurrency:3100|h|TInterface\ICONS\INV_10_DungeonJewelry_Dragon_Necklace_1_Bronze.BLP:0|t|h|n|n|cFFFFD200商人出售：|r卡尔·古达普|n|cFFFFD200地区：|r塔纳利斯|n|cFFFFD200价格：|r20|Hcurrency:3100|h|TInterface\ICONS\INV_10_DungeonJewelry_Dragon_Necklace_1_Bronze.BLP:0|t|h,1516,229828,0,2
 |cFFFFD200《魔兽世界》电竞：|r“地心之战”第1赛季,1517,232301,2,7
 |cFFFFD200《魔兽世界》电竞：|r“地心之战”第1赛季,1518,232305,2,7
+|cFFFFD200商人出售：|r雷诺·杰克逊|n|cFFFFD200地区：|r多恩诺嘉尔,1521,230850,4,2
+|cFFFFD200商人出售：|r芬利·莫格顿爵士|n|cFFFFD200地区：|r多恩诺嘉尔|n|cFFFFD200价格：|r500|Hcurrency:2803|h|TInterface\ICONS\INV_Misc_ElvenCoins.blp:0|t|h,1522,230924,4,2
+|cFFFFD200商人出售：|r芬利·莫格顿爵士|n|cFFFFD200地区：|r多恩诺嘉尔|n|cFFFFD200价格：|r1500(INV_Misc_ElvenCoins.blp)|n|n,1523,231064,4,2
 |cFFFFD200《魔兽世界》电竞：|r“地心之战”第2赛季,1524,232302,2,7
 |cFFFFD200《魔兽世界》电竞：|r“地心之战”第2赛季,1525,232306,2,7
 |cFFFFD200《魔兽世界》电竞：|r“地心之战”第3赛季,1526,232303,2,7
@@ -1027,10 +1031,33 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200《魔兽世界》电竞：|r“地心之战”第4赛季,1529,232308,2,7
 |cFFFFD200商人出售：|r供应商亚马丝|n|cFFFFD200地区：|r艾基-卡赫特|n|cFFFFD200价格：|r3000|Hcurrency:3056|h|TInterface\ICONS\INV_10_Tailoring_SilkRare_Color3.BLP:0|t|h,1530,228940,0,2
 |cFFFFD200世界事件：|r冬幕节,1533,218308,2,-1
+|cFFFFD200任务：|r阁楼死战|n|cFFFFD200地区：|r安德麦,1534,233202,0,1
+|cFFFFD200商人出售：|r希奇·内幕|n|n|cFFFFD200地区：|r安德麦,1535,234950,0,2
+|cFFFFD200宝藏：|r未开封的冰饮|n|cFFFFD200地区：|r安德麦,1536,234951,0,0
 |cFFFFD200任务：|r喀耳刻会骄傲的,1537,235041,0,-1
 |cFFFFD200掉落：|r海妖岛,1538,235017,0,0
 |cFFFFD200商人出售：|r艾琳达·海吉米尔|n|cFFFFD200地区：|r海妖岛|n|cFFFFD200价格：|r750|Hcurrency:3090|h|TInterface\ICONS\INV_Siren_Isle_FlameBlessed_Iron.BLP:0|t|h,1539,233486,0,2
+|cFFFFD200宝藏：|r烟花之帽|n|cFFFFD200地区：|r安德麦,1540,235220,0,0
 |cFFFFD200商人出售：|r戴兜帽的供应商|n|cFFFFD200地区：|r海妖岛|n|cFFFFD200价格：|r750|Hcurrency:3090|h|TInterface\ICONS\INV_Siren_Isle_FlameBlessed_Iron.BLP:0|t|h,1541,235015,0,2
+|cFFFFD200特殊：|r“熊猫人之谜”,1542,235288,2,7
 |cFFFFD200商人出售：|r索伊兹|n|cFFFFD200地区：|r海妖岛|n|cFFFFD200价格：|r750|Hcurrency:3090|h|TInterface\ICONS\INV_Siren_Isle_FlameBlessed_Iron.BLP:0|t|h,1543,234473,0,2
-|cFFFFD200商人出售：|r戴兜帽的供应商|n|cFFFFD200地区：|r海妖岛|n|cFFFFD200价格：|r1000|Hcurrency:3090|h|TInterface\ICONS\INV_Siren_Isle_FlameBlessed_Iron.BLP:0|t|h,1545,235016,2,2
+,1545,235016,2,-1
+|cFFFFD200商人出售：|r洛可·笑轰|n|n|cFFFFD200地区：|r安德麦,1548,235670,0,2
+|cFFFFD200商人出售：|r水手长哈迪|n|n|cFFFFD200地区：|r安德麦,1549,235671,0,2
+|cFFFFD200商人出售：|r实验室助理拉兹丽|n|n|cFFFFD200地区：|r安德麦,1550,235669,0,2
+|cFFFFD200商人出售：|r拆废者薛兹|n|n|cFFFFD200地区：|r安德麦,1551,235672,0,2
 |cFFFFD200节日：|r魔兽世界周年纪念,1553,228966,2,6
+|cFFFFD200商人出售：|r拆废者薛兹|n|n|cFFFFD200地区：|r安德麦,1554,235799,0,2
+|cFFFFD200商人出售：|r水手长哈迪|n|n|cFFFFD200地区：|r安德麦,1555,235801,0,2
+|cFFFFD200商人出售：|r洛可·笑轰|n|n|n|cFFFFD200地区：|r安德麦,1556,235807,0,2
+,1557,236751,0,-1
+,1558,236749,0,-1
+|cFFFFD200掉落：|r链齿狂人洛肯斯多|n|cFFFFD200地区：|r解放安德麦,1559,236687,0,0
+|cFFFFD200成就：|r勠力同色|n|cFFFFD200分类：|r地心之战团队,1560,236769,0,5
+|cFFFFD200商人出售：|r实验室助理拉兹丽|n|cFFFFD200地区：|r安德麦|n|cFFFFD200价格：|r5000|Hcurrency:2815|h|TInterface\ICONS\SPELL_AZERITE_ESSENCE14.BLP:0|t|h,1561,226373,0,2
+|cFFFFD200成就：|r字里行间|n|cFFFFD200分类：|r地心之战,1565,235050,0,5
+|cFFFFD200商人：|r安杰罗·锈桶|n|cFFFFD200地区：|r安德麦|n|cFFFFD200价格：|r999|Hcurrency:3218|h|TInterface\ICONS\INV_Potion_132.blp:0|t|h,1566,237382,0,2
+|cFFFFD200商人出售：|r布莱尔·巴斯|n|cFFFFD200地区：|r安德麦|n|cFFFFD200价格：|r5|Hitem:227673|h|TInterface\ICONS\INV_MISC_FOOD_164_FISH_SEADOG.BLP:0|t|h,1567,237347,0,2
+|cFFFFD200商人出售：|r布莱尔·巴斯|n|cFFFFD200地区：|r安德麦|n|cFFFFD200价格：|r5|Hitem:227673|h|TInterface\ICONS\INV_MISC_FOOD_164_FISH_SEADOG.BLP:0|t|h,1568,237346,0,2
+|cFFFFD200商人出售：|r布莱尔·巴斯|n|cFFFFD200地区：|r安德麦|n|cFFFFD200价格：|r5|Hitem:227673|h|TInterface\ICONS\INV_MISC_FOOD_164_FISH_SEADOG.BLP:0|t|h,1569,237345,0,2
+|cFFFFD200成就：|r传奇：“地心之战”第2赛季|n|cFFFFD200分类：|r竞技场,1572,235519,2,-1

@@ -92,5 +92,5 @@ ID,Name_lang,LocaleMask,Create_charsetMask,Existing_charsetMask,Flags,Order
 197,周年纪念版,0,17,17,0,-127
 198,周年纪念版,0,17,17,0,-127
 199,旧世经典服务器（60级）,0,17,17,0,0
-201,Classic Era,0,0,0,0,0
-202,Anniversary,0,0,0,0,0
+201,旧世经典服务器,0,0,0,0,0
+202,周年纪念版,0,0,0,0,0

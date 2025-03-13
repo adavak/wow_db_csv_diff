@@ -92,5 +92,5 @@ ID,Name_lang,LocaleMask,Create_charsetMask,Existing_charsetMask,Flags,Order
 197,週年慶,0,17,17,0,-127
 198,週年慶,0,17,17,0,-127
 199,經典時期,0,17,17,0,0
-201,Classic Era,0,0,0,0,0
-202,Anniversary,0,0,0,0,0
+201,經典時期,0,0,0,0,0
+202,週年慶,0,0,0,0,0

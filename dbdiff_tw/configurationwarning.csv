@@ -1,9 +1,9 @@
 ID,Warning_lang,Type
 2,"<html><body><p align=""CENTER"">提醒：《魔獸世界》未來的新版本將無法支援你目前的顯示卡。需要支援Shader Model 5或更高效能的顯示卡。</p></body></html>",0
-3,"<html><body><p align=""CENTER"">你的顯示卡驅動程式與遊戲不相容。請見<a href=""http://nydus.battle.net/WoW/zhTW/launcher/driver-unsupported"">http://nydus.battle.net/WoW/zhTW/launcher/driver-unsupported</a>瞭解更多訊息。</p></body></html>",3
-4,"<html><body><p align=""CENTER"">你的顯示卡驅動程式過舊。請見<a href=""http://nydus.battle.net/WoW/zhTW/launcher/driverupdates"">http://nydus.battle.net/WoW/zhTW/launcher/driverupdates</a>瞭解更多訊息。</p></body></html>",4
+3,"<html><body><p align=""CENTER"">你的顯示卡驅動程式與遊戲不相容。請見<a href=""https://battle.net/support/article/76459"">https://battle.net/support/article/76459</a>瞭解更多訊息。</p></body></html>",3
+4,"<html><body><p align=""CENTER"">你的顯示卡驅動程式過舊。請見<a href=""https://battle.net/support/article/031024"">https://battle.net/support/article/031024</a>瞭解更多訊息。</p></body></html>",4
 5,"<html><body><p align=""CENTER"">魔獸世界無法支援這張顯示卡。請見<a href=""http://nydus.battle.net/WoW/zhTW/launcher/fixedfunction-unsupported"">http://nydus.battle.net/WoW/zhTW/launcher/fixedfunction-unsupported</a>了解更多訊息。</p></body></html>",1
-6,"<html><body><p align=""CENTER"">魔獸世界未來的新版本將無法支援此作業系統。請見<a href=""http://nydus.battle.net/WoW/zhTW/launcher/video-unsupported"">http://nydus.battle.net/WoW/zhTW/launcher/video-unsupported</a>瞭解更多訊息。</p></body></html>",2
-7,"<html><body><p align=""CENTER"">你的顯示卡與遊戲不相容，或是有可能效能降低。請見<a href=""http://nydus.battle.net/WoW/zhTW/launcher/video-unsupported"">http://nydus.battle.net/WoW/zhTW/launcher/video-unsupported</a>瞭解更多訊息。</p></body></html>",5
+6,"<html><body><p align=""CENTER"">魔獸世界未來的新版本將無法支援此作業系統。請見<a href=""https://battle.net/support/article/76459"">https://battle.net/support/article/76459</a>瞭解更多訊息。</p></body></html>",2
+7,"<html><body><p align=""CENTER"">你的顯示卡與遊戲不相容，或是可能造成較低的效能。請見<a href=""https://battle.net/support/article/76459"">https://battle.net/support/article/76459</a>瞭解更多訊息。</p></body></html>",5
 10,"<html><body><p align=""CENTER"">提醒：《魔獸世界》未來的新版本將無法支援你目前的繪圖程式介面。需要DirectX 11 或 Metal。</p></body></html>",6
 11,"<html><body><p align=""CENTER"">提醒：《魔獸世界》未來的新版本將無法支援你目前的作業系統。需要64位元作業系統。</p></body></html>",7
