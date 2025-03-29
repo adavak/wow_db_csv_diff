@@ -3648,6 +3648,16 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 攻擊敵人3次，每次攻擊造成[StandardDamage(1,1)]點[School()]傷害。
 
 每次使用這個技能，你的速度會在回合結束時提高20%。",650636,1,0,0,0
+2466,助燃,"[StandardAccuracy(1,1)]|cffffffff命中機率|r
+
+為使用者恢復[StandardHealing(1,1)]點生命力，並將天氣轉變為焦土，持續[duration(1,2)]輪。
+
+在焦土作用期間，所有寵物被視為|cFFFF2020燃燒|r，且所有啟用的寵物每輪受到[StandardDamage(1,1,171)]點[School(171)]傷害。",459027,9,3,0,2
+2467,個人煉獄,"[StandardAccuracy(1,1)]|cffffffff命中機率|r
+
+一陣火焰中噴發燃燒的炭塊，造成[StandardDamage(1,1)]點[School()]傷害。
+
+如果目標處於|cFFFF2020燃燒|r狀態，則造成雙倍傷害。",451169,9,0,0,0
 2468,[DNT] TRAP HELP,使目標生命降為上限的1%並擊暈目標。,646380,5,0,0,0
 2469,收割之鐮,"[StandardAccuracy(1,1)]|cffffffff命中機率|r
 

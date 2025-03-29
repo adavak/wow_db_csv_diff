@@ -27569,3 +27569,12 @@ transUp = parabola(1,1,height)
 local spinRate = 30
 local initPitch = -60
 modelPitch = initPitch + (time * spinRate)",0,1
+4889,11.1 Raid - Undermine - Gallywix - Mythic Rockets AOE Missile,"local function parabola(m) return 4*m*(1-progress)*progress end
+
+local height = 13
+local variance = 5
+height = height + (rand1 * variance)
+
+transUp = parabola(height)
+
+scale = 1 + parabola(parabola(.5))",0,1

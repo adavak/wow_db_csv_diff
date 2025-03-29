@@ -7690,6 +7690,7 @@ Win 15 rounds of Solo Shuffle,Sole Survivor,,15541,-1,-1,0,165,0,10,131200,26,13
 Use Pocopoc to take over 100 wildlife automa in Zereth Mortis.,Apocopocolypse Now,,15542,-1,-1,0,15436,0,10,131072,90,4327618,0,95294,0,0,0,0
 Win 50 rounds of Solo Shuffle,Successful Solos,,15543,-1,-1,15541,165,0,10,131200,27,1322721,0,95290,0,0,0,0
 Win 150 rounds of Solo Shuffle,Supreme Soloist,Title: Soloist,15544,-1,-1,15543,165,0,20,131200,28,1322721,0,95292,0,0,0,0
+Owner of the Survey Bot pet.,Survey Bot,,15558,-1,-1,0,15268,1,0,133120,45,4235634,0,95341,0,0,0,0
 ,<Hidden> 9.2 ZM - Cypher System - Talent Unlocked - Aealic,,15559,-1,-1,0,15422,0,0,1179652,66,136243,0,95343,0,0,0,0
 ,<Hidden> 9.2 ZM - Cypher System - Talent Unlocked - Dealic,,15560,-1,-1,0,15422,0,0,1179652,67,136243,0,95345,0,0,0,0
 ,<Hidden> 9.2 ZM - Cypher System - Talent Unlocked - Trebalim,,15561,-1,-1,0,15422,0,0,1179652,68,136243,0,95347,0,0,0,0
@@ -11339,7 +11340,7 @@ Complete a delve.,You're Getting a Delve!,,40436,-1,-1,0,15522,0,5,0,1,441139,0,
 Complete the War Within delves listed below.,Delver of the Depths,,40437,-1,-1,0,15523,0,10,143360,61,1786405,0,163440,0,0,0,0
 Complete the War Within delve achievements listed below.,Glory of the Delver,Mount: Ivory Goliathus,40438,-1,-1,0,15523,0,25,143360,65,6025441,224415,163437,0,0,0,0
 Successfully complete a Fungarian delve without being hit by Explosive Spores on Tier 8 or higher.,Sporesweeper,,40445,-1,-1,0,15523,0,10,0,40,5789328,0,164004,0,0,0,0
-Successfully complete a Kobold delve without exhausting an Enchanted Candle or Air Totem on Tier 8 or higher.,I TAKE Candle!,,40446,-1,-1,0,15531,0,10,2048,27,2061718,0,164005,0,0,0,0
+Successfully complete a Kobold delve without exhausting an Enchanted Candle or Air Totem on Tier 8 or higher.,I TAKE Candle!,,40446,-1,-1,0,15531,0,10,2048,28,2061718,0,164005,0,0,0,0
 Complete the War Within delves listed below on Tier 4 or higher with lives remaining.,Delver of the Depths II,,40447,-1,-1,40437,15523,0,10,143360,62,1786405,0,163454,0,0,0,0
 Complete the War Within delves listed below on Tier 8 or higher with lives remaining.,Delver of the Depths III,,40448,-1,-1,40447,15523,0,25,143360,63,1786405,0,163467,0,0,0,0
 Complete the War Within delves listed below on Tier 11 with lives remaining.,Delver of the Depths IV,,40449,-1,-1,40448,15523,0,25,131072,64,1786405,0,163480,0,0,0,0
@@ -11391,13 +11392,13 @@ Find and open all Sturdy Chests hidden throughout the War Within delves.,Leave N
 "Complete The Ringing Deeps world quest ""Reaching for Resources"" while leaping to 25 handholds or less.",Hanging Tight,,40507,-1,-1,0,15506,0,5,0,33,236316,0,164007,0,0,0,0
 Complete a Tier 2 delve.,War Within Delves: Tier 2,Unlock: Tier 3 delves in The War Within,40512,-1,-1,40631,15523,0,10,131072,3,6025441,0,166446,0,0,0,0
 Complete a Tier 3 delve.,War Within Delves: Tier 3,,40514,-1,-1,40512,15523,0,10,131072,4,6025441,0,164035,0,0,0,0
-Complete a Tier 4 delve with lives remaining during The War Within Season 1.,War Within Delves: Tier 4 (Season 1),,40515,-1,-1,0,15531,0,0,133120,10,6025441,0,164037,0,0,0,0
-Complete a Tier 5 delve with lives remaining during The War Within Season 1.,War Within Delves: Tier 5 (Season 1),Unlock: Tier 6 delves in The War Within,40516,-1,-1,40515,15531,0,0,133120,12,6025441,0,164039,0,0,0,0
-Complete a Tier 6 delve with lives remaining during The War Within Season 1.,War Within Delves: Tier 6 (Season 1),Unlock: Tier 7 delves in The War Within,40517,-1,-1,40516,15531,0,0,133120,13,6025441,0,164041,0,0,0,0
-Complete a Tier 7 delve with lives remaining during The War Within Season 1.,War Within Delves: Tier 7 (Season 1),Unlock: Tier 8 delves in The War Within,40518,-1,-1,40517,15531,0,0,133120,14,6025441,0,164043,0,0,0,0
-Complete a Tier 8 delve with lives remaining during The War Within Season 1.,War Within Delves: Tier 8 (Season 1),Unlock: Tier 9 delves in The War Within,40519,-1,-1,40518,15531,0,0,133120,15,6025441,0,164045,0,0,0,0
-Complete a Tier 9 delve with lives remaining during The War Within Season 1.,War Within Delves: Tier 9 (Season 1),Unlock: Tier 10 delves in The War Within,40520,-1,-1,40519,15531,0,0,133120,16,6025441,0,164047,0,0,0,0
-Complete a Tier 10 delve with lives remaining during The War Within Season 1.,War Within Delves: Tier 10 (Season 1),Unlock: Tier 11 delves in The War Within,40521,-1,-1,40520,15531,0,0,133120,17,6025441,0,164049,0,0,0,0
+Complete a Tier 4 delve with lives remaining during The War Within Season 1.,War Within Delves: Tier 4 (Season 1),,40515,-1,-1,0,15531,0,0,133120,11,6025441,0,164037,0,0,0,0
+Complete a Tier 5 delve with lives remaining during The War Within Season 1.,War Within Delves: Tier 5 (Season 1),Unlock: Tier 6 delves in The War Within,40516,-1,-1,40515,15531,0,0,133120,13,6025441,0,164039,0,0,0,0
+Complete a Tier 6 delve with lives remaining during The War Within Season 1.,War Within Delves: Tier 6 (Season 1),Unlock: Tier 7 delves in The War Within,40517,-1,-1,40516,15531,0,0,133120,14,6025441,0,164041,0,0,0,0
+Complete a Tier 7 delve with lives remaining during The War Within Season 1.,War Within Delves: Tier 7 (Season 1),Unlock: Tier 8 delves in The War Within,40518,-1,-1,40517,15531,0,0,133120,15,6025441,0,164043,0,0,0,0
+Complete a Tier 8 delve with lives remaining during The War Within Season 1.,War Within Delves: Tier 8 (Season 1),Unlock: Tier 9 delves in The War Within,40519,-1,-1,40518,15531,0,0,133120,16,6025441,0,164045,0,0,0,0
+Complete a Tier 9 delve with lives remaining during The War Within Season 1.,War Within Delves: Tier 9 (Season 1),Unlock: Tier 10 delves in The War Within,40520,-1,-1,40519,15531,0,0,133120,17,6025441,0,164047,0,0,0,0
+Complete a Tier 10 delve with lives remaining during The War Within Season 1.,War Within Delves: Tier 10 (Season 1),Unlock: Tier 11 delves in The War Within,40521,-1,-1,40520,15531,0,0,133120,18,6025441,0,164049,0,0,0,0
 Obtain all curios that are available for Brann Bronzebeard.,On Brand,,40523,-1,-1,0,15523,0,10,131072,20,973911,0,164139,0,0,0,0
 Complete 5 Delver's Call quests in the War Within.,Good Deed Delver,,40524,-1,-1,0,15506,0,5,131200,42,237554,0,166268,0,0,0,0
 Complete each story variant of Fungal Folly.,Fungal Folly Stories,,40525,-1,-1,0,15523,0,5,131072,26,5789324,0,164059,0,0,0,0
@@ -11543,7 +11544,7 @@ Discover the following Skyriding Glyphs in Azj-Kahet:,Azj-Kahet Glyph Hunter,,40
 Complete one of the achievements or feats of strength listed below:,Web-Wrapped in the Finest Silks,Reward: Luminous Nerubian Catalyst Stone,40723,-1,-1,0,15259,0,10,131072,53,5857267,0,166425,0,0,0,0
 Discover the hidden treasures across The Ringing Deeps.,Treasures of The Ringing Deeps,,40724,-1,-1,0,15521,0,5,131072,36,1542858,0,166437,0,0,0,0
 Reach level 80 and complete the Khaz Algar main story campaign on your Warband.,War Within Delves: Endgame,Unlock: Tier 4 delves in The War Within,40725,-1,-1,40514,15523,0,10,131072,5,6025441,0,164017,0,0,0,0
-Complete a Tier 11 delve with lives remaining during The War Within Season 1.,War Within Delves: Tier 11 (Season 1),Title: High Explorer,40726,-1,-1,40521,15531,0,0,133120,18,6025441,0,166448,0,0,0,0
+Complete a Tier 11 delve with lives remaining during The War Within Season 1.,War Within Delves: Tier 11 (Season 1),Title: High Explorer,40726,-1,-1,40521,15531,0,0,133120,19,6025441,0,166448,0,0,0,0
 Ride the High Hollows Skittershaw for a full lap around the district.,Skittershaw Spin,,40727,-1,-1,0,15506,0,5,0,34,879828,0,166453,0,0,0,0
 Collect any armor set from The War Within PvP Season 1.,Forged Finery,,40728,-1,-1,0,15259,0,10,131072,87,5771687,0,166455,0,0,0,0
 Win a game of Light's Gambit on Hard Difficulty.,Light's Gambit Champion,,40729,-1,-1,0,15506,0,10,0,32,135986,0,166458,0,0,0,0
@@ -11860,14 +11861,14 @@ Experience life as the Earthen do by completing the achievements below.,Slate of
 Aid the Assembly of the Deeps by completing the achievements below.,Rage Aside the Machine,,41187,-1,-1,0,15521,0,20,131072,3,5770812,0,170240,0,0,0,0
 Aid the Hallowfall Arathi by completing the achievements below.,Crystal Chronicled,,41188,-1,-1,0,15521,0,20,131072,4,5770810,0,170248,0,0,0,0
 Experience life in Azj-Kahet by completing the achievements below.,Azj the World Turns,,41189,-1,-1,0,15521,0,20,131072,5,5770809,0,170377,0,0,0,0
-Complete a Tier 4 delve with lives remaining during The War Within Season 2.,War Within Delves: Tier 4 (Season 2),Unlock: Tier 5 delves in The War Within,41191,-1,-1,0,15531,0,0,133120,19,6025441,0,170263,0,0,0,0
-Complete a Tier 5 delve with lives remaining during The War Within Season 2.,War Within Delves: Tier 5 (Season 2),Unlock: Tier 6 delves in The War Within,41192,-1,-1,41191,15531,0,0,133120,20,6025441,0,170265,0,0,0,0
-Complete a Tier 7 delve with lives remaining during The War Within Season 2.,War Within Delves: Tier 7 (Season 2),Unlock: Tier 7 delves in The War Within,41193,-1,-1,41198,15531,0,0,133120,22,6025441,0,170269,0,0,0,0
-Complete a Tier 8 delve with lives remaining during The War Within Season 2.,War Within Delves: Tier 8 (Season 2),Unlock: Tier 9 delves in The War Within,41194,-1,-1,41193,15531,0,0,133120,23,6025441,0,170271,0,0,0,0
-Complete a Tier 9 delve with lives remaining during The War Within Season 2.,War Within Delves: Tier 9 (Season 2),Unlock: Tier 10 delves in The War Within,41195,-1,-1,41194,15531,0,0,133120,24,6025441,0,170273,0,0,0,0
-Complete a Tier 10 delve with lives remaining during The War Within Season 2.,War Within Delves: Tier 10 (Season 2),Unlock: Tier 11 delves in The War Within,41196,-1,-1,41195,15531,0,0,133120,25,6025441,0,170275,0,0,0,0
-Complete a Tier 11 delve with lives remaining during The War Within Season 2.,War Within Delves: Tier 11 (Season 2),Title: High Explorer,41197,-1,-1,41196,15531,0,0,133120,26,6025441,0,170277,0,0,0,0
-Complete a Tier 6 delve with lives remaining during The War Within Season 2.,War Within Delves: Tier 6 (Season 2),Unlock: Tier 7 delves in The War Within,41198,-1,-1,41192,15531,0,0,133120,21,6025441,0,170267,0,0,0,0
+Complete a Tier 4 delve with lives remaining during The War Within Season 2.,War Within Delves: Tier 4 (Season 2),Unlock: Tier 5 delves in The War Within,41191,-1,-1,0,15531,0,0,133120,20,6025441,0,170263,0,0,0,0
+Complete a Tier 5 delve with lives remaining during The War Within Season 2.,War Within Delves: Tier 5 (Season 2),Unlock: Tier 6 delves in The War Within,41192,-1,-1,41191,15531,0,0,133120,21,6025441,0,170265,0,0,0,0
+Complete a Tier 7 delve with lives remaining during The War Within Season 2.,War Within Delves: Tier 7 (Season 2),Unlock: Tier 7 delves in The War Within,41193,-1,-1,41198,15531,0,0,133120,23,6025441,0,170269,0,0,0,0
+Complete a Tier 8 delve with lives remaining during The War Within Season 2.,War Within Delves: Tier 8 (Season 2),Unlock: Tier 9 delves in The War Within,41194,-1,-1,41193,15531,0,0,133120,24,6025441,0,170271,0,0,0,0
+Complete a Tier 9 delve with lives remaining during The War Within Season 2.,War Within Delves: Tier 9 (Season 2),Unlock: Tier 10 delves in The War Within,41195,-1,-1,41194,15531,0,0,133120,25,6025441,0,170273,0,0,0,0
+Complete a Tier 10 delve with lives remaining during The War Within Season 2.,War Within Delves: Tier 10 (Season 2),Unlock: Tier 11 delves in The War Within,41196,-1,-1,41195,15531,0,0,133120,26,6025441,0,170275,0,0,0,0
+Complete a Tier 11 delve with lives remaining during The War Within Season 2.,War Within Delves: Tier 11 (Season 2),Title: High Explorer,41197,-1,-1,41196,15531,0,0,133120,27,6025441,0,170277,0,0,0,0
+Complete a Tier 6 delve with lives remaining during The War Within Season 2.,War Within Delves: Tier 6 (Season 2),Unlock: Tier 7 delves in The War Within,41198,-1,-1,41192,15531,0,0,133120,22,6025441,0,170267,0,0,0,0
 "Complete the quest ""Grand, Gutsy Solutions.""","Grand, Gutsy Solutions",Pet: Slim,41200,-1,-1,0,15521,0,0,1245184,99,2027953,222980,170300,0,0,0,0
 End Xal'atath's schemes (for now) by completing the achievements below.,You Xal Not Pass,Mount Reward: Shadow of Doubt,41201,-1,-1,0,15521,0,40,131072,11,4913234,223313,170302,0,0,0,0
 Experience Zandalari culture by completing the achievements listed below.,Hot Tropic,,41202,-1,-1,0,15298,0,20,131072,2,2065640,0,170508,0,0,0,0
@@ -11972,7 +11973,7 @@ Earn 1000 honor in Undermine while in War Mode.,Tour of Duty: Undermine,,41522,-
 Collect an armor set from the Liberation of Undermine.,"Can You Please Spell ""Gobanna?""",,41525,-1,-1,0,15259,0,10,131072,54,6392630,0,206447,0,0,0,0
 Defeat The Underpin in his lair on Tier ?? before the release of the next season of delves.,Breaking the Bank,Title: The Real Deal,41529,-1,-1,0,15531,0,0,14336,6,6124649,0,206449,0,0,0,0
 Defeat The Underpin in his lair before the release of the next season of delves.,My New Nemesis,Reward: Golden-Gob Propulsion Rig,41530,-1,-1,0,15531,0,0,14336,4,5393730,0,206451,0,0,0,0
-Ask Brann to change his hat ten times after recovering it from the Underpin during the War Within Season 2.,The Hataclysm,,41531,-1,-1,0,15531,0,0,133120,11,5221397,0,206454,0,0,0,0
+Ask Brann to change his hat ten times after recovering it from the Underpin during the War Within Season 2.,The Hataclysm,,41531,-1,-1,0,15531,0,0,133120,12,5221397,0,206454,0,0,0,0
 Obtain the Delver's Gob-Trotter.,I've Got a Flying Machine?,,41532,-1,-1,0,15523,0,10,131072,23,5917277,0,206461,0,0,0,0
 Attain a Mythic+ Rating of at least 2000 during The War Within Season Two.,The War Within Keystone Master: Season Two,Mount: Crimson Shreddertank,41533,-1,-1,40950,15272,0,0,133120,122,618859,235549,168581,0,0,0,0
 Raise a companion to level 70.,Buddy System VII,,41537,-1,-1,40461,15522,0,10,131072,13,236568,0,206696,0,0,0,0
@@ -12013,7 +12014,7 @@ Defeat the Cauldron of Carnage while being Torq's Biggest Fan in Liberation of U
 ,Vicious Saddle (41),,41698,-1,1,41696,15270,0,0,1179648,125,1379171,103533,207462,0,0,0,0
 ,Vicious Saddle (41),,41699,-1,0,41697,15270,0,0,1179648,64,1379171,103533,207464,0,0,0,0
 Make friends with all 5 Grabbable Rats in Undermine.,You're My Friend Now,,41708,-1,-1,0,15521,0,5,0,2,6351952,0,207587,0,0,0,0
-Complete the Delver's Journey before Season 2 ends.,Journey's End (Season 2),,41709,-1,-1,0,15531,0,0,133120,9,6025441,0,207593,0,0,0,0
+Complete the Delver's Journey before Season 2 ends.,Journey's End (Season 2),,41709,-1,-1,0,15531,0,0,133120,10,6025441,0,207593,0,0,0,0
 "Defeat Sprocketmonger Lockenstock without being struck by Blazing Beam, Rocket Barrage, Mega Magnetize, Jumbo Void Beam, or Void Barrage on Normal difficulty or higher.",Conveyor Slayer,,41711,2769,-1,0,15526,0,10,0,27,132996,0,207600,0,0,0,0
 Collect the following cosmetic unlocks for the Delver's Gob-Trotter.,From Trash to Treasure,,41714,-1,-1,41532,15523,0,10,131072,24,132241,0,207651,0,0,0,0
 Raise a companion to level 80.,Buddy System VIII,,41723,-1,-1,41537,15522,0,10,131072,14,236569,0,207767,0,0,0,0
@@ -12050,3 +12051,4 @@ Has completed quest Ship it! and does not have mount.,Delver's Dirigible Recover
 ,[DNT] 11.0.7 Plunderstorm - Mainline Power Reward - Fixup Quest Tracker,,41816,-1,-1,0,15506,0,0,3276800,2,136243,0,208370,0,0,0,0
 Open 250 Bountiful Coffers with Restored Coffer Keys.,Copious Coffers (copy),Title: The Bountiful & Reward: Silver Coffer Key,41968,-1,-1,0,15522,0,0,3276932,22,4622271,237358,209192,0,0,0,0
 Open 500 Bountiful Coffers with Restored Coffer Keys.,The Key to Madness (copy),Reward: Golden Coffer Key,41969,-1,-1,0,15522,0,0,3276932,24,4622270,237355,209194,0,0,0,0
+"Defeat The Underpin in his lair on Tier ?? without any other players in your party, before the release of the next season of delves.",Let Me Solo Him: The Underpin (copy),Reward: Delver's Gob-Trotter Schematic: Gold,42116,-1,-1,0,15531,0,0,1179652,9,6100921,0,209721,0,0,0,0

@@ -16912,6 +16912,7 @@ ID,Name_lang,NameAlt_lang,Title_lang,TitleAlt_lang,Classification,CreatureType,C
 185411,Raszageth,,The Storm-Eater,,1,2,0,0,103255,0,0,0,1,1,1,1,0,0,0
 185419,Ebyssian,,,,1,2,0,3,63690,105532,0,0,0,1,1,1,0,0,0
 185421,The Jailer,,,,1,7,0,0,100456,0,0,0,1,1,1,1,185436,0,0
+185425,Survey Bot,,,,0,12,0,0,105333,0,0,0,1,1,1,1,0,0,0
 185431,Ebyssian,,,,1,2,0,3,63690,102299,0,0,0,1,1,1,0,0,0
 185437,Neltharion,,The Earth Warder,,1,2,0,0,21063,0,0,0,0,1,1,1,0,0,0
 185454,Fishing Shack,,,,0,10,0,0,75120,0,0,0,1,1,1,1,0,0,0

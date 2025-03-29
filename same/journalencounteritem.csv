@@ -1,4 +1,4 @@
-ID,JournalEncounterID,ItemID,FactionMask,Flags,DifficultyMask,DisplaySeasonID,Field_11_0_2_55959_007
+ID,JournalEncounterID,ItemID,FactionMask,Flags,DifficultyMask,DisplaySeasonID,WorldStateExpressionID
 9111,89,2169,-1,2,1,0,0
 9112,89,5195,-1,2,1,0,0
 9113,89,65163,-1,2,2,0,0
