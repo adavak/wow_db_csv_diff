@@ -1272,7 +1272,7 @@ ID,Name_lang,Description_lang,CompletionPlayerConditionID,Flags,QuestID,PlayerCo
 5633,探究 - 第1賽季,,0,0,0,0,0
 5634,隱藏法令,,0,72,0,0,0
 5635,多恩島威脅,,0,0,0,0,0
-5637,聖落之地釣魚大賽,,0,8,0,0,0
+5637,聖落之地釣魚大賽,,0,0,0,0,0
 5638,達拉然開場,,0,0,0,0,0
 5639,(DNT) Campaign,,0,0,0,0,0
 5640,(DNT) Legendary,,0,0,0,0,0
@@ -1332,6 +1332,7 @@ ID,Name_lang,Description_lang,CompletionPlayerConditionID,Flags,QuestID,PlayerCo
 5741,進步的G.O.L.E.M.,G.O.L.E.M.當地故事,0,72,0,136064,0
 5745,11.0.7海妖島 - 頂點天賦任務(MDE),,0,0,0,0,0
 5767,海妖島週報,,0,0,0,0,0
+5768,重返恐怖幻象,,0,0,0,0,0
 5772,運送？交給我。,,0,24,0,136064,0
 5775,C.H.E.T.T.任務,,0,0,0,0,0
 5776,垃圾生意,,0,24,0,136064,0

@@ -47,3 +47,4 @@ ID,Name_lang,InstanceType,OrderIndex,OldEnumValue,FallbackDifficultyID,MinPlayer
 216,任務,1,8,-1,1,5,5,0,1,0,0,0,0,0
 220,故事,2,9,-1,0,10,10,0,0,0,0,0,0,0
 230,英雄,0,9,-1,0,1,1,582,0,0,0,0,0,0
+232,事件,1,4,-1,0,5,5,16,0,0,0,0,0,0

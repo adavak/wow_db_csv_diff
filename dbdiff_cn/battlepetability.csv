@@ -3814,3 +3814,13 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 对敌人的宠物造成[StandardDamage(1,2)*4]点[School()]伤害。
 
 冲击钻会击碎敌方目标身上的固定数值伤害减免效果。",1278390,9,0,0,0
+2527,黑暗涌动,"[StandardAccuracy(1,1)]|cffffffff命中几率|r
+
+用喷涌的黑暗能量冲击对手，造成[StandardDamage(1,1)]点[School()]伤害，并有[accuracy(1,3)]%的几率使目标昏迷[duration(1,3)]轮。
+
+如果天气处于太阳光状态，则昏迷几率提高至100%。",1386551,0,3,0,0
+2528,虚空爆炸,"[StandardAccuracy(1,1)]|cffffffff命中几率|r
+
+立即造成[StandardDamage(1,1)]点[School()]伤害，在黑暗天气下外加[StandardDamage(1,3)]点伤害。随后，使用者必须重新充能2轮。
+
+在充能过程中，你无法做出任何其它动作。",6238556,5,0,0,0

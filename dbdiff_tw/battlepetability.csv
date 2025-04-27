@@ -3819,3 +3819,13 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 對敵方寵物造成[StandardDamage(1,2)*4]點[School()]傷害。
 
 猛力鑽鑿會粉碎敵方目標的固定減傷效果。",1278390,9,0,0,0
+2527,黑暗洶湧,"[StandardAccuracy(1,1)]|cffffffff命中機率|r
+
+以洶湧的黑暗能量衝擊敵人，造成[StandardDamage(1,1)]點[School()]傷害，並且有[accuracy(1,3)]%的機率使目標昏迷[duration(1,3)]回合。
+
+若天氣是陽光，擊昏機率提高100%。",1386551,0,3,0,0
+2528,虛無爆裂,"[StandardAccuracy(1,1)]|cffffffff命中機率|r
+
+立即造成[StandardDamage(1,1)]點[School()]傷害，若天氣是黑暗，則外加[StandardDamage(1,3)]點傷害。使用之後，使用者必須充能兩回合。
+
+充能時，你無法執行其他行動。",6238556,5,0,0,0

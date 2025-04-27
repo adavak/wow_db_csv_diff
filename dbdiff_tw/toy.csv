@@ -1020,7 +1020,7 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200《魔獸世界》電競：|r地心之戰第1賽季,1518,232305,2,7
 |cFFFFD200商人：|r里諾‧傑克森|n|cFFFFD200區域：|r多恩諾加,1521,230850,4,2
 |cFFFFD200商人：|r芬利‧莫戈頓爵士|n|cFFFFD200區域：|r多恩諾加|n|cFFFFD200花費：|r500|Hcurrency:2803|h|TInterface\ICONS\INV_Misc_ElvenCoins.blp:0|t|h,1522,230924,4,2
-|cFFFFD200商人：|r芬利‧莫戈頓爵士|n|cFFFFD200區域：|r多恩諾加|n|cFFFFD200花費：|r1500(INV_Misc_ElvenCoins.blp)|n|n,1523,231064,4,2
+|cFFFFD200商人：|r芬利‧莫戈頓爵士|n|cFFFFD200區域：|r多恩諾加|n|cFFFFD200花費：|r2500|Hcurrency:2803|h|TInterface\ICONS\INV_Misc_ElvenCoins.blp:0|t|h,1523,231064,4,2
 |cFFFFD200《魔獸世界》電競：|r地心之戰第2賽季,1524,232302,2,7
 |cFFFFD200《魔獸世界》電競：|r地心之戰第2賽季,1525,232306,2,7
 |cFFFFD200《魔獸世界》電競：|r地心之戰第3賽季,1526,232303,2,7
@@ -1058,4 +1058,12 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200商人：|r布蕾兒‧巴斯|n|cFFFFD200區域：|r幽坑城|n|cFFFFD200花費：|r5|Hitem:227673|h|TInterface\ICONS\INV_MISC_FOOD_164_FISH_SEADOG.BLP:0|t|h,1567,237347,0,2
 |cFFFFD200商人：|r布蕾兒‧巴斯|n|cFFFFD200區域：|r幽坑城|n|cFFFFD200花費：|r5|Hitem:227673|h|TInterface\ICONS\INV_MISC_FOOD_164_FISH_SEADOG.BLP:0|t|h,1568,237346,0,2
 |cFFFFD200商人：|r布蕾兒‧巴斯|n|cFFFFD200區域：|r幽坑城|n|cFFFFD200花費：|r5|Hitem:227673|h|TInterface\ICONS\INV_MISC_FOOD_164_FISH_SEADOG.BLP:0|t|h,1569,237345,0,2
+|cFFFFD200商人：|r拉思‧布朗梅特|n|cFFFFD200區域：|r聖落之地|n|cFFFFD200花費：|r5000|Hcurrency:2815|h|TInterface\ICONS\SPELL_AZERITE_ESSENCE14.BLP:0|t|h,1570,238850,0,-1
+|cFFFFD200商人：|r拉思‧布朗梅特|n|cFFFFD200區域：|r聖落之地|n|cFFFFD200花費：|r5000|Hcurrency:2815|h|TInterface\ICONS\SPELL_AZERITE_ESSENCE14.BLP:0|t|h,1571,238852,0,2
 |cFFFFD200成就：|r傳奇：地心之戰第2賽季|n|cFFFFD200類別：|r競技場,1572,235519,2,-1
+|cFFFFD200事件：|r殘虐雙煞,1573,239007,2,6
+|cFFFFD200事件：|r殘虐雙煞,1574,239018,2,6
+"|cFFFFD200商人：|r拉思‧布朗梅特
+|cFFFFD200區域：|r聖落之地
+|cFFFFD200花費：|r5000|Hcurrency:2815|h|TInterface\ICONS\SPELL_AZERITE_ESSENCE14.BLP:0|t|h",1578,239693,0,2
+|cFFFFD200商人：|r丹妮爾‧垂釣|n|cFFFFD200區域：|r機械岡|n|cFFFFD200花費：|r10|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,1579,167698,1,2

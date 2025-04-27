@@ -1272,7 +1272,7 @@ ID,Name_lang,Description_lang,CompletionPlayerConditionID,Flags,QuestID,PlayerCo
 5633,地下堡 - 第1赛季,,0,0,0,0,0
 5634,潜匿的律令,,0,72,0,0,0
 5635,多恩岛的威胁,,0,0,0,0,0
-5637,陨圣峪钓鱼大赛,,0,8,0,0,0
+5637,陨圣峪钓鱼大赛,,0,0,0,0,0
 5638,达拉然引导任务,,0,0,0,0,0
 5639,(DNT) Campaign,,0,0,0,0,0
 5640,(DNT) Legendary,,0,0,0,0,0
@@ -1332,6 +1332,7 @@ ID,Name_lang,Description_lang,CompletionPlayerConditionID,Flags,QuestID,PlayerCo
 5741,进步的G.O.L.E.M.,G.O.L.E.M.当地剧情,0,72,0,136064,0
 5745,11.0.7海妖岛 - 顶点任务（MDE）,,0,0,0,0,0
 5767,海妖岛每周任务,,0,0,0,0,0
+5768,重访惊魂幻象,,0,0,0,0,0
 5772,有货运？接收了。,,0,24,0,136064,0
 5775,C.H.E.T.T.任务,,0,0,0,0,0
 5776,垃圾生意,,0,24,0,136064,0

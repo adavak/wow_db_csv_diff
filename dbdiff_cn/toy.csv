@@ -1022,7 +1022,7 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200《魔兽世界》电竞：|r“地心之战”第1赛季,1518,232305,2,7
 |cFFFFD200商人出售：|r雷诺·杰克逊|n|cFFFFD200地区：|r多恩诺嘉尔,1521,230850,4,2
 |cFFFFD200商人出售：|r芬利·莫格顿爵士|n|cFFFFD200地区：|r多恩诺嘉尔|n|cFFFFD200价格：|r500|Hcurrency:2803|h|TInterface\ICONS\INV_Misc_ElvenCoins.blp:0|t|h,1522,230924,4,2
-|cFFFFD200商人出售：|r芬利·莫格顿爵士|n|cFFFFD200地区：|r多恩诺嘉尔|n|cFFFFD200价格：|r1500(INV_Misc_ElvenCoins.blp)|n|n,1523,231064,4,2
+|cFFFFD200商人出售：|r芬利·莫格顿爵士|n|cFFFFD200地区：|r多恩诺嘉尔|n|cFFFFD200价格：|r2500|Hcurrency:2803|h|TInterface\ICONS\INV_Misc_ElvenCoins.blp:0|t|h,1523,231064,4,2
 |cFFFFD200《魔兽世界》电竞：|r“地心之战”第2赛季,1524,232302,2,7
 |cFFFFD200《魔兽世界》电竞：|r“地心之战”第2赛季,1525,232306,2,7
 |cFFFFD200《魔兽世界》电竞：|r“地心之战”第3赛季,1526,232303,2,7
@@ -1060,4 +1060,12 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200商人出售：|r布莱尔·巴斯|n|cFFFFD200地区：|r安德麦|n|cFFFFD200价格：|r5|Hitem:227673|h|TInterface\ICONS\INV_MISC_FOOD_164_FISH_SEADOG.BLP:0|t|h,1567,237347,0,2
 |cFFFFD200商人出售：|r布莱尔·巴斯|n|cFFFFD200地区：|r安德麦|n|cFFFFD200价格：|r5|Hitem:227673|h|TInterface\ICONS\INV_MISC_FOOD_164_FISH_SEADOG.BLP:0|t|h,1568,237346,0,2
 |cFFFFD200商人出售：|r布莱尔·巴斯|n|cFFFFD200地区：|r安德麦|n|cFFFFD200价格：|r5|Hitem:227673|h|TInterface\ICONS\INV_MISC_FOOD_164_FISH_SEADOG.BLP:0|t|h,1569,237345,0,2
+|cFFFFD200商人出售：|r拉尔斯·布伦迈特|n|cFFFFD200地区：|r陨圣峪|n|cFFFFD200价格|r5000|Hcurrency:2815|h|TInterface\ICONS\SPELL_AZERITE_ESSENCE14.BLP:0|t|h,1570,238850,0,-1
+|cFFFFD200商人出售：|r拉尔斯·布伦迈特|n|cFFFFD200地区：|r陨圣峪|n|cFFFFD200价格|r5000|Hcurrency:2815|h|TInterface\ICONS\SPELL_AZERITE_ESSENCE14.BLP:0|t|h,1571,238852,0,2
 |cFFFFD200成就：|r传奇：“地心之战”第2赛季|n|cFFFFD200分类：|r竞技场,1572,235519,2,-1
+|cFFFFD200事件：|r卑鄙双雄,1573,239007,2,6
+|cFFFFD200事件：|r卑鄙双雄,1574,239018,2,6
+"|cFFFFD200商人出售：|r拉尔斯·布伦迈特
+|cFFFFD200地区：|r陨圣峪
+|cFFFFD200价格|r5000|Hcurrency:2815|h|TInterface\ICONS\SPELL_AZERITE_ESSENCE14.BLP:0|t|h",1578,239693,0,2
+|cFFFFD200商人出售：|r丹妮尔·渔钓|n|cFFFFD200地区：|r麦卡贡|n|cFFFFD200价格：|r10|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,1579,167698,1,2
