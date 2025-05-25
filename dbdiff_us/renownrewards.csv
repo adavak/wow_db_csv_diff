@@ -1106,15 +1106,7 @@ ID,Name_lang,Description_lang,ToastDescription_lang,CovenantID,Level,Icon,Flags,
 1530,Arathi Service Stipend,Speak with Lars Bronsmaelt to receive Resonance Crystals for your efforts.,,33,8,236379,8,2,0,0,0,0,0,0,0,0,0,0
 1531,Arathi Service Stipend,Speak with Lars Bronsmaelt to receive Resonance Crystals for your efforts.,,33,9,236379,8,2,0,0,0,0,0,0,0,0,0,0
 1532,Arathi Service Stipend,Speak with Lars Bronsmaelt to receive Resonance Crystals for your efforts.,,33,10,236379,8,2,0,0,0,0,0,0,0,0,0,0
-1533,Title: Recruit,You've earned the title Recruit.,Title: Recruit,33,1,6694197,8,1,0,0,0,0,0,0,0,0,0,0
-1534,Title: Reservist,You've earned the title Reservist.,Title: Reservist,33,2,6694197,8,1,0,0,0,0,0,0,0,0,0,0
-1535,Title: Sentry,You've earned the title Sentry.,Title: Sentry,33,3,6694197,8,1,0,0,0,0,0,0,0,0,0,0
-1536,Title: Field Sacredite,You've earned the title Field Sacredite.,Title: Field Sacredite,33,4,6694197,8,1,0,0,0,0,0,0,0,0,0,0
-1537,Title: Stalwart,You've earned the title Stalwart.,Title: Stalwart,33,5,6694197,8,1,0,0,0,0,0,0,0,0,0,0
-1538,Title: Ardent,You've earned the title Ardent.,Title: Ardent,33,6,6694197,8,1,0,0,0,0,0,0,0,0,0,0
-1539,Title: Aeroknight,You've earned the title Aeroknight.,Title: Aeroknight,33,7,6694197,8,1,0,0,0,0,0,0,0,0,0,0
-1540,Title: Flame Guard,You've earned the title Flame Guard.,Title: Flame Guard,33,8,6694197,8,1,0,0,0,0,0,0,0,0,0,0
-1541,Title: Radiant Officer,You've earned the title Radiant Officer.,Title: Radiant Officer,33,9,6694197,8,1,0,0,0,0,0,0,0,0,0,0
+1535,Title: Sentry,You've earned the title Sentry.,Title: Sentry,33,5,6694197,8,1,0,0,0,0,0,0,0,0,0,0
 1542,Title: Sacred Templar,You've earned the title Sacred Templar.,Title: Sacred Templar,33,10,6694197,8,1,0,0,0,0,0,0,0,0,0,0
 1543,The Flame's Radiance,"You've been enlisted! Talk to Lars Bronsmaelt to get the Radiant Recruit's Tabard. In addition, you gain Sacred Flame's Ward while in Khaz Algar.",Flame's Radiance Renown Unlocked,33,1,6255282,8,0,0,0,0,0,0,0,0,0,0,0
 1544,Chasing Away the Darkness,"You've been promoted! Talk to Lars Bronsmaelt to get the Radiant Stalwart's Tabard. In addition, Sacred Flame's Ward has become stronger.",Chasing Away the Darkness,33,5,6255362,8,0,0,0,0,0,0,0,0,0,0,0

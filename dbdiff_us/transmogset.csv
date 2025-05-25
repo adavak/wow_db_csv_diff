@@ -3560,6 +3560,15 @@ Earthen Copper Regalia,3897,0,82770,3,269,14162,3694,1,10,110000,4150,0
 Tusks of Mannoroth,3898,0,84258,67,0,0,0,1,9,100207,10,0
 Crests of the Kingdom,3900,0,84828,67,0,0,0,1,10,110005,1640,0
 Golden Crests of the Kingdom,3901,0,84999,67,0,14130,3900,1,10,110005,1640,0
+Enduring Stormrage Armor,3902,1024,0,1,274,14172,3870,1,10,110005,10,0
+Enduring Bloodfang Armor,3903,8,0,1,274,14172,3867,1,10,110005,10,0
+Dragonstalker's Enduring Armor,3904,4,0,1,274,14172,3869,1,10,110005,10,0
+Enduring Nemesis Raiment,3905,256,0,1,274,14172,3873,1,10,110005,10,0
+Enduring Judgment Armor,3906,2,0,1,274,14172,3871,1,10,110005,10,0
+Enduring Battlegear of Wrath,3907,1,0,1,274,14172,3872,1,10,110005,10,0
+Enduring Netherwind Regalia,3908,128,0,1,274,14172,3868,1,10,110005,10,0
+Netherwalker's Enduring Armor,3909,2048,0,1,274,14172,3863,1,10,110005,10,0
+Earth-Warder's Enduring Armor,3910,4096,0,1,274,14172,3862,1,10,110005,10,0
 Prowler's Midnight Headgear,3911,0,85118,67,0,0,0,1,10,0,1640,0
 Prowler's Azure Headgear,3912,0,85119,67,0,0,0,1,10,0,1640,0
 Prowler's Sepia Headgear,3913,0,85120,67,0,0,0,1,10,0,1640,0
@@ -3876,7 +3885,7 @@ Enforcer's Backalley Brawlplate,4324,1,0,0,305,13145,4325,1,10,110100,111003,0
 Enforcer's Backalley Brawlplate,4325,1,0,0,305,13193,0,1,10,110100,111001,0
 Enforcer's Backalley Brawlplate,4326,1,0,0,305,1641,4325,1,10,110100,111000,0
 Ensemble: Topsy Turvy Mask Set,4328,0,86940,323,0,0,0,1,10,0,1640,0
-Cloak of Infinite Potential,4329,0,0,67,0,0,0,1,10,110005,9901,0
+Cloak of Infinite Potential,4329,0,86963,323,0,0,0,1,10,110005,9901,0
 Swabbie's Shovel,4332,0,0,3,0,0,0,1,10,110007,10,0
 Venture Co. Bruiser's Attire,4333,0,0,0,308,14122,4265,1,10,110100,10,0
 Steamwheedle Bruiser's Attire,4334,0,0,0,308,13968,4265,1,10,110100,10,0
@@ -3907,11 +3916,11 @@ Malignant Vision's Battleplate,4362,35,0,0,314,14244,0,1,10,110105,4300,0
 Vision Tormentor's Battlekit,4363,4164,0,0,314,14244,0,1,10,110105,4300,0
 Garb of the Insatiable Vision,4364,3592,0,0,314,14244,0,1,10,110105,4300,0
 Vision Manipulator's Vestments,4365,400,0,0,314,14244,0,1,10,110105,4300,0
-Attire of the Woodland Racoon,4366,0,87523,258,315,14125,0,1,10,110105,10,0
+Attire of the Woodland Raccoon,4366,0,87523,258,315,14125,0,1,10,110105,10,0
 Woodland Attire of the Grey Wolf,4367,0,87524,258,315,14245,4366,1,10,110105,10,0
 Woodland Attire of the Fox,4368,0,87525,258,315,13965,4366,1,10,110105,10,0
 Woodland Attire of the Gilneas Fox,4369,0,87526,258,315,14153,4366,1,10,110105,10,0
-Stormstout Collection,4370,0,87671,258,0,13968,0,1,10,110105,10,0
+Stormstout Collection,4370,0,87671,258,328,13968,0,1,10,110105,10,0
 Coldflame Battlegear,4373,0,88983,258,316,13967,0,1,10,110105,10,0
 Lavaborn Emerald Attire,4374,0,88984,258,316,13968,4373,1,10,110105,10,0
 Lavaborn Battleplate,4375,0,88990,258,316,13965,4373,1,10,110105,10,0
@@ -3935,5 +3944,5 @@ Arathi Abbot's Armor,4392,400,0,0,267,14259,3658,1,10,110000,111500,0
 Children's Stormwind Guard Weapons,4516,0,90597,259,0,0,0,1,10,110105,5460,0
 Children's Orgrimmar Guard Weapons,4517,0,90598,259,0,0,0,1,10,110105,5460,0
 Fel Inferno Helm,4543,0,0,131,0,0,0,1,10,0,10,0
-Feathered Collection of the Archmage,4550,0,90877,258,0,0,0,1,10,110105,10,0
-Feathered Collection of the Prophet,4551,0,90878,258,0,0,0,1,10,110105,10,0
+Feathered Collection of the Archmage,4550,0,90877,258,329,13967,4551,1,10,110105,10,0
+Feathered Collection of the Prophet,4551,0,90878,258,329,13965,0,1,10,110105,10,0

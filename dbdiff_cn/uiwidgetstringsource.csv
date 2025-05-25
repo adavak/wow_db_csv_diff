@@ -9138,7 +9138,7 @@ ID,Value_lang,ReqID,ParentWidgetID
 17304,,277,6180
 17305,|Hspell:462453|h|cnDARKYELLOW_FONT_COLOR:剩余时间：%25434ha|r|n|n%453315sd,212,6181
 17306,,277,6181
-17307,击败记忆中的敌人可获得：|n- |TInterface\ICONS\INV_Gizmo_HardenedAdamantiteTube.blp:15|t |cnIQ3:[宝匣钥匙碎片]|r|n- |TInterface\ICONS\INV_Valorstone_Base.BLP:15|t |c[神勇石]|r,52,6182
+17307,击败记忆中的敌人可获得：|n- |TInterface\ICONS\INV_Gizmo_HardenedAdamantiteTube.blp:15|t |cnIQ3:[宝匣钥匙碎片]|r|n- |TInterface\ICONS\INV_Valorstone_Base.BLP:15|t |cnIQ3:[神勇石]|r,52,6182
 17308,,394,6182
 17309,%ss,677,6183
 17310,%24429w,679,6183
