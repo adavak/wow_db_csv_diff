@@ -4053,8 +4053,8 @@ Please follow me.,,141396,0,0,1,70,0,0,94673,0,0,0,0,0,0,0
 ,"I did not expect you back so soon, High Exarch. I assume your meeting with the king went well?",141908,0,0,1,70,0,0,0,93714,0,0,0,0,0,0
 The sword of Sargeras is poisonin' the very lifeblood of the world.,,143006,0,0,1,70,0,0,94522,0,0,0,0,0,0,0
 The only vessels capable o' containin' that kind o' power... are the mighty weapons you wield.,,143007,0,0,1,70,0,0,94523,0,0,0,0,0,0,0
-Raise them up as one.... draw out the corruption from the Dark Titan's blade!,,143008,0,0,1,70,0,0,94524,0,0,0,0,0,0,0
-"Together, champions! For Azeroth!",,143009,0,0,603,70,0,0,94525,0,0,0,0,0,0,0
+Raise them up as one.... draw out the corruption from the Dark Titan's blade!,,143008,0,0,1,102,0,4,94524,0,0,0,0,0,0,0
+"Together, champions! For Azeroth!",,143009,0,0,603,102,0,4,94525,0,0,0,0,0,0,0
 ,If you want a job done right... use bigger explosives!,143171,0,0,0,68,0,0,0,97441,0,0,0,0,0,0
 ,"Greetings, Lady Liadrin, $p. Welcome back to Suramar. I am pleased to receive you under more pleasant circumstances.",143468,0,0,1,70,0,0,0,94887,0,0,0,0,0,0
 ,"It is good to see your city free, First Arcanist.",143469,0,0,1,70,0,0,0,94835,0,0,0,0,0,0
@@ -8044,10 +8044,10 @@ Embrace who you truly are.,,255389,0,0,0,86,0,4,241501,0,0,0,0,0,0,0
 Do you? You are unbalanced.,,255391,0,0,0,86,0,4,241503,0,0,0,0,0,0,0
 "You must master your unique nature, Alleria.",,255392,0,0,0,86,0,4,241504,0,0,0,0,0,0,0
 If you cannot... then Azeroth is already doomed.,,255393,0,0,0,86,0,4,241505,0,0,0,0,0,0,0
-,"Well, we've certainly kicked the spider's nest. Xal'atath won't wait long before striking again.",255409,0,0,0,110,0,4,0,244495,0,0,0,0,0,0
-Alleria... What happened back there?,,255410,0,0,0,110,0,4,244496,0,0,0,0,0,0,0
-,She invited me into the darkness. Said I was already halfway there.,255411,0,0,0,110,0,4,0,244497,0,0,0,0,0,0
-,And I'd be lying if I said that wasn't partly true.,255417,0,0,0,110,0,4,0,244498,0,0,0,0,0,0
+,"Well, we've certainly kicked the spider's nest. Xal'atath won't wait long before striking again.",255409,0,0,0,100,0,4,0,244495,0,0,0,0,0,0
+Alleria... What happened back there?,,255410,0,0,0,100,0,4,244496,0,0,0,0,0,0,0
+,She invited me into the darkness. Said I was already halfway there.,255411,0,0,0,100,0,4,0,244497,0,0,0,0,0,0
+,And I'd be lying if I said that wasn't partly true.,255417,0,0,0,100,0,4,0,244498,0,0,0,0,0,0
 "For many, this may be your first Tishamaat.",,255432,0,0,0,70,0,6,241864,0,0,0,0,0,0,0
 Our last was long ago.,,255433,0,0,0,70,0,6,241866,0,0,0,0,0,0,0
 Few among us remember it.,,255434,0,0,0,70,0,6,241878,0,0,0,0,0,0,0
@@ -8149,17 +8149,17 @@ Her voice was desperate--we must act quickly.,,259135,0,0,5,102,0,6,244056,0,0,0
 "Where, Magni? Where must we go?",,259140,0,0,1,102,0,6,244535,0,0,0,0,0,0,0
 Do you see that? Nothing! Decidedly odd for the City of Threads.,,259592,0,0,1,70,0,4,251509,0,0,0,0,0,0,0
 The freshly Ascended are usually flitting about the Umbral Bazaar. Where have they gone?,,259593,0,0,1,70,0,4,251510,0,0,0,0,0,0,0
-,"That by embracing the Void to pursue her, I had to cast aside all I care for. You, Vereesa, Turalyon, Arator, Khadgar.",259620,0,0,0,110,0,4,0,244499,0,0,0,0,0,0
-Dalaran wasn't your fault.,,259621,0,0,0,110,0,4,244500,0,0,0,0,0,0,0
-,Can you blame me for wishing I had prevented it? For wondering if the Void could have alerted me to Xal'atath?,259627,0,0,0,110,0,4,0,244501,0,0,0,0,0,0
-"No. I've been... I understand that feeling, more than you know.",,259637,0,0,0,110,0,4,244502,0,0,0,0,0,0,0
-,"For so long, I thought I had to choose between two paths: stay with my loved ones, or walk alone in the Void.",259639,0,0,0,110,0,4,0,244503,0,0,0,0,0,0
-,Xal'atath sought to force that choice upon me. But I see now that there is only one path forward.,259641,0,0,11,110,0,4,0,244504,0,0,0,0,0,0
+,"That by embracing the Void to pursue her, I had to cast aside all I care for. You, Vereesa, Turalyon, Arator, Khadgar.",259620,0,0,0,100,0,4,0,244499,0,0,0,0,0,0
+Dalaran wasn't your fault.,,259621,0,0,0,100,0,4,244500,0,0,0,0,0,0,0
+,Can you blame me for wishing I had prevented it? For wondering if the Void could have alerted me to Xal'atath?,259627,0,0,0,100,0,4,0,244501,0,0,0,0,0,0
+"No. I've been... I understand that feeling, more than you know.",,259637,0,0,0,100,0,4,244502,0,0,0,0,0,0,0
+,"For so long, I thought I had to choose between two paths: stay with my loved ones, or walk alone in the Void.",259639,0,0,0,100,0,4,0,244503,0,0,0,0,0,0
+,Xal'atath sought to force that choice upon me. But I see now that there is only one path forward.,259641,0,0,11,100,0,4,0,244504,0,0,0,0,0,0
 Gathering supplies? Marching out? I've heard nothing of this!,,259672,0,0,1,70,0,4,251511,0,0,0,0,0,0,0
 "Make no mistake, this is preparation for war--and none thought to inform me. This bodes ill indeed.",,259676,0,0,1,70,0,4,251512,0,0,0,0,0,0,0
 ,"Smuggling is common enough in the city, but from the Maddening Deep? Unusual and concerning.",259689,0,0,1,70,0,4,0,251513,0,0,0,0,0,0
 ,"I need to know where they're taking that bile, why, and for whom.",259690,0,0,1,70,0,4,0,251514,0,0,0,0,0,0
-"It can be hard to find your footing in the darkness. Just remember, Alleria... we're always here to lend a hand.",,259700,0,0,11,110,0,4,244506,0,0,0,0,0,0,0
+"It can be hard to find your footing in the darkness. Just remember, Alleria... we're always here to lend a hand.",,259700,0,0,11,100,0,4,244506,0,0,0,0,0,0,0
 "Alleria, be careful.",,259788,0,0,0,68,0,4,0,0,0,0,0,0,0,0
 ,We are well past that.,259789,0,0,0,68,0,4,0,0,0,0,0,0,0,0
 ,"So, now that you've... changed... how do you feel?",260019,0,0,0,68,0,4,0,245221,0,0,0,0,0,0
@@ -8180,15 +8180,15 @@ I know. I want to be here for him as his Gran'da.,,260034,0,0,0,68,0,10,245101,0
 I wasn't responsible enough. That needs to change.,,260036,0,0,0,68,0,10,245102,0,0,0,0,0,0,0
 I've spent too many years listening to Azeroth's voice. I'm glad I can listen to yours now.,,260037,0,0,0,68,0,10,245103,0,0,0,0,0,0,0
 ,"Aye, Father. We'll figure it out together.",260038,0,0,0,68,0,10,0,245104,0,0,0,0,0,0
-,"I'm sorry, what? The prisoners escaped because of a nerubian?",260042,0,0,1,110,0,4,0,245765,0,0,0,0,0,0
-That's what they said--one of the big ones from the heart of Siegehold. I'm as flummoxed as you are.,,260043,0,0,0,110,0,4,245766,0,0,0,0,0,0,0
-,It doesn't make any sense. None of this does.,260044,0,0,0,110,0,4,0,245767,0,0,0,0,0,0
-Come again?,,260045,0,0,0,110,0,4,245768,0,0,0,0,0,0,0
-,"It's nothing, Regald. I've just... I keep telling everyone it's about hope, but the moment push comes to shove my anger grabs my blade.",260046,0,0,0,110,0,4,0,245769,0,0,0,0,0,0
-"This had nothing to do with you. They've attacked before, they'll attack again. That's how it's always gone.",,260047,0,0,0,110,0,4,245770,0,0,0,0,0,0,0
-,But is it how it needs to go in the future? We are the holders of hope... Is there hope in this darkness that even we haven't been able to see?,260048,0,0,0,110,0,4,0,245771,0,0,0,0,0,0
-I... can't answer that for you.,,260049,0,0,0,110,0,4,245772,0,0,0,0,0,0,0
-,Honestly? Neither can I. I've... I've got some thinking to do.,260050,0,0,0,110,0,4,0,245773,0,0,0,0,0,0
+,"I'm sorry, what? The prisoners escaped because of a nerubian?",260042,0,0,1,100,0,4,0,245765,0,0,0,0,0,0
+That's what they said--one of the big ones from the heart of Siegehold. I'm as flummoxed as you are.,,260043,0,0,0,100,0,4,245766,0,0,0,0,0,0,0
+,It doesn't make any sense. None of this does.,260044,0,0,0,100,0,4,0,245767,0,0,0,0,0,0
+Come again?,,260045,0,0,0,100,0,4,245768,0,0,0,0,0,0,0
+,"It's nothing, Regald. I've just... I keep telling everyone it's about hope, but the moment push comes to shove my anger grabs my blade.",260046,0,0,0,100,0,4,0,245769,0,0,0,0,0,0
+"This had nothing to do with you. They've attacked before, they'll attack again. That's how it's always gone.",,260047,0,0,0,100,0,4,245770,0,0,0,0,0,0,0
+,But is it how it needs to go in the future? We are the holders of hope... Is there hope in this darkness that even we haven't been able to see?,260048,0,0,0,100,0,4,0,245771,0,0,0,0,0,0
+I... can't answer that for you.,,260049,0,0,0,100,0,4,245772,0,0,0,0,0,0,0
+,Honestly? Neither can I. I've... I've got some thinking to do.,260050,0,0,0,100,0,4,0,245773,0,0,0,0,0,0
 ,Now! Go for the kill!,260126,0,0,0,69,0,4,0,249119,0,0,0,0,0,0
 "Magni, how are you feeling?",,260129,0,0,0,68,0,10,244580,0,0,0,0,0,0,0
 "How I look, to be honest. The shine has worn off of me. And of this speaker nonsense.",,260130,0,0,0,68,0,10,244581,0,0,0,0,0,0,0
@@ -8265,7 +8265,7 @@ The others will hear of this.,,260798,0,0,0,68,0,7,248704,0,0,0,0,0,0,0
 ,Go. All of you. I will join you soon.,260800,0,0,0,68,0,7,0,248706,0,0,0,0,0,0
 What changed your mind?,,260847,0,0,0,68,0,4,249578,0,0,0,0,0,0,0
 ,Watching you and Dagran. He sees you differently than I do. He sees who you've become. You're here for him.,260850,0,0,0,68,0,4,0,249579,0,0,0,0,0,0
-,"The Void is a part of me, as is my love for my family. I can--and must--walk with both. No matter what Xal'atath whispers in my ear.",260900,0,0,0,110,0,4,0,244505,0,0,0,0,0,0
+,"The Void is a part of me, as is my love for my family. I can--and must--walk with both. No matter what Xal'atath whispers in my ear.",260900,0,0,0,100,0,4,0,244505,0,0,0,0,0,0
 "Few names hold higher esteem. You must be a lady, or a--",,260916,0,0,0,68,0,4,243924,0,0,0,0,0,0,0
 ,To think I had relatives in the old world? Wonderful! I hope I can live up to such legends.,260917,0,0,0,68,0,4,0,243926,0,0,0,0,0,0
 <grunts>,,261221,0,0,0,118,0,4,246023,0,0,0,0,0,0,0
@@ -8802,10 +8802,15 @@ Yes! Its music soothed me. Now I'm crafting more healing crystals. They'll bring
 ,You seem fascinated with those crystals. I was watching your process earlier. What is it about them that inspires you?,272428,0,0,0,100,0,4,0,268753,0,0,0,0,0,0
 ,"This morning, I heard the Siren Crystal sing to me, ringing with an intricate melody.",272429,0,0,0,100,0,4,0,0,0,0,0,0,0,0
 ,Perhaps it was calling to the spark of the Worldsoul within you. We've been searching the island to learn more.,272430,0,0,0,100,0,4,0,268755,0,0,0,0,0,0
+[PH] Placeholder Line,,272483,0,0,0,68,0,4,0,0,0,0,0,0,0,0
+,[PH] Placeholder Text,272484,0,0,0,68,0,4,0,0,0,0,0,0,0,0
 ,"Your thoughts align with mine. If we found more of the smaller crystals, I could make enduring wonderworks.",272485,0,0,0,100,0,4,0,0,0,0,0,0,0,0
 "Look, pal! The only opportunity here is the one I gave you.",,272643,0,0,0,102,0,4,267951,0,0,0,0,0,0,0
 "Big things are coming, and if you want to be part of it, you better fall in line.",,272644,0,0,0,102,0,4,267952,0,0,0,0,0,0,0
 Jastor Gallywix is back in business!,,272645,0,0,0,102,0,4,267953,0,0,0,0,0,0,0
+The most cunning foes wait until you are desperate. They offer solutions you cannot afford to refuse.,,272648,0,0,0,324,0,4,276800,0,1,0,0,0,0,0
+"When the Burning Legion returned to our world, it was a desperate situation indeed.",,272649,0,0,0,324,0,4,276801,0,1005,0,0,0,0,0
+"Among these was Xal'atath, the Blade of the Black Empire. A High Priest searched far and wide for the Blade.",,272650,0,0,0,324,0,4,276803,0,0,0,0,0,0,0
 "What you have told me makes me afraid for you, Aethas.",,272740,0,0,0,68,0,10,268185,0,0,0,0,0,0,0
 Fear isn't part of it. Or... not fear of nerubians or... or even Xal'atath.,,272741,0,0,0,68,0,10,268176,0,0,0,0,0,0,0
 Then of what?,,272742,0,0,0,68,0,10,268181,0,0,0,0,0,0,0
@@ -8847,6 +8852,13 @@ And that is why it should be you who starts putting the pieces back together.,,2
 "I need rest, Jaina. But... I promise I won't stay away for long.",,272869,0,0,0,4,0,10,268160,0,0,0,0,0,0,0
 ,Meryl can assist me. Aethas should have a key role as well. I will go back and speak to them.,272870,0,0,0,4,0,4,0,268167,0,0,0,0,0,0
 "Thank you, Jaina. And good luck.",,272871,0,0,0,4,0,4,268170,0,0,0,0,0,0,0
+Eternally sealed...,,274047,0,0,0,326,0,6,276832,0,0,0,0,0,0,0
+,Eternally?,274048,0,0,0,326,0,6,0,276833,0,0,0,0,0,0
+,"This is not the end of the game, only the beginning...",274049,0,0,0,326,0,6,0,276834,0,0,0,0,0,0
+,And I have all eternity to play.,274050,0,0,0,326,3000,6,0,276835,0,0,0,0,0,0
+The last desperate cries of one who has witnessed...,,274051,0,0,0,326,0,6,276836,0,0,0,0,0,0,0
+,"Consider what greatness could be yours, if your siblings did not stand in your way.",274053,0,0,0,326,0,6,0,276838,0,0,0,0,0,0
+The tablet states she whispered in a voice only N'Zoth could hear...,,274054,0,0,0,326,0,6,276837,0,0,0,0,0,0,0
 I'm here with the latest iteration of the delver's dirigible - the Delver's Gob-Trotter!,,274131,0,0,0,68,0,4,0,0,0,0,0,0,0,0
 "A marvel of goblin tech! Speakin' of marvels... it's time for the bill, kid.",,274133,0,0,0,68,0,4,0,0,0,0,0,0,0,0
 The contract we signed said we were doing this for the love of discovery!,,274134,0,0,0,68,0,4,0,0,0,0,0,0,0,0
@@ -8940,6 +8952,9 @@ Then you will walk it alone.,,275212,0,0,0,70,0,4,271388,0,0,0,0,0,0,0
 "I do not understand your conviction, Orweyna.",,275214,0,0,0,70,0,4,271390,0,0,0,0,0,0,0
 May the ancient roots of our people ever thrive beneath your steps.,,275215,0,0,0,70,0,4,271389,0,0,0,0,0,0,0
 ,"Goodbye, Hannan.",275216,0,0,0,102,0,4,0,271380,0,0,0,0,0,0
+,Oh. As I suspected. The Shadowguard are after you as well?,275232,0,0,1,324,0,7,0,276784,0,0,0,0,0,0
+I have not seen you since the destruction of our world. As I preferred it.,,275254,0,0,0,324,0,7,276785,0,0,0,0,0,0,0
+,"Such fangs, Locus-Walker. You wound me. Yet unfortunate as it may be, it seems we must work together one last time.",275255,0,0,6,324,0,7,0,276786,1,6,0,0,2000,0
 ,Oh that's gruesome.,275819,0,0,0,68,0,3,0,270349,0,0,0,0,0,0
 Yeah... could've been any of us.,,275820,0,0,0,68,0,3,270350,0,0,0,0,0,0,0
 I don't believe that. None of you are... what Gallywix was.,,275821,0,0,0,68,0,3,270351,0,0,0,0,0,0,0
@@ -8974,12 +8989,30 @@ Zirdo's always been a sleaze.,,276588,0,0,0,100,0,4,0,0,0,0,0,0,0,0
 "Some 'cuz they want to, some 'cuz they're afraid not to.",,276594,0,0,0,100,0,4,0,0,0,0,0,0,0,0
 "Some want to, some have to.",,276595,0,0,0,100,0,4,0,0,0,0,0,0,0,0
 "He's your pal, you tell me.",,276596,0,0,0,100,0,4,0,0,0,0,0,0,0,0
+"Ravel traitor! Your Reshii Ribbon will be ours, Locus-Walker!","Ravel traitor! Your Reshii Ribbon will be ours, Locus-Walker!",276885,0,0,0,68,0,4,284752,284753,25,0,0,0,0,0
+,You can't mean to try to ally with those murderers!,276945,0,0,0,100,0,4,0,285347,1,0,0,0,0,0
+,"Oh, probably because they know the truth about how K'aresh was really destroyed.",276946,0,0,0,100,0,4,0,0,1,0,0,0,0,0
+What is she talking about? Dimensius destroyed K'aresh in the Devouring.,,276947,0,0,0,100,0,4,0,0,1,0,0,0,0,0
+"Much as I would like to see them pay, Xal'atath is right.",,276948,0,0,0,100,0,4,284756,0,1,0,0,0,0,0
+"They are fierce warriors, and would be useful in the battle to come.",,276949,0,0,0,100,0,4,284757,0,1,0,0,0,0,0
+We. We who?,,276950,0,0,0,100,0,4,0,0,1,0,0,0,0,0
+"We, the Ravel, Om'resh. We used the power of the Reshii Ribbons to shatter the world. To save it! To save everyone...",,276951,0,0,0,100,0,4,0,0,1,0,0,0,0,0
+The Ravel... you mean... Om'bera and you and... She never told me.,,276952,0,0,0,100,0,4,0,0,1,0,0,0,0,0
+"Our bodies, gone. Our world, sundered.",,277011,0,0,0,100,0,4,0,0,1,0,0,0,0,0
+But we survived! And Dimensius was stopped.,,277012,0,0,0,100,0,4,0,0,1,0,0,0,0,0
+How... how could you make that choice for all of us?!,,277013,0,0,0,100,0,4,0,0,1,0,0,0,0,0
 The kaja'mite contains and stabilizes the Black Blood.,,277071,0,0,0,70,0,4,271142,0,0,0,0,0,0,0
 This will fix the Dark Heart?,,277072,0,0,0,70,0,4,271143,0,0,0,0,0,0,0
 And all of his improved weapons designs too.,,277073,0,0,0,70,0,4,271144,0,0,0,0,0,0,0
 No witnesses.,,277074,0,0,0,70,0,4,271145,0,0,0,0,0,0,0
+,The Tabiqa ritual is for communing with the Worldsoul. K'aresh is dead!,277219,0,0,0,356,0,4,0,284819,1,0,0,0,0,0
+,The brokers want you to think it is their technomancy that makes the eco-domes bloom.,277220,0,0,0,100,0,4,0,285683,1,0,0,0,0,0
+,We could be oracles again.,277221,0,0,0,100,0,4,0,284822,1,0,0,0,0,0
+,"If K'aresh is silent, I will find my own revenge.",277493,0,0,0,100,0,4,0,284823,1,0,0,0,0,0
 Fire in the hole!,,277704,0,0,0,102,0,6,271697,0,0,0,0,0,0,0
 "He's broken audio playback, but just temporarily",,277737,0,0,5,102,0,6,271751,0,0,0,0,0,0,0
+,Come. We have much to discuss.,278067,0,0,1,324,0,7,0,276787,0,0,0,0,0,0
+,"As for you, my capable courier... return to your storyteller, with my thanks.",278068,0,0,1,324,0,7,0,276788,0,0,0,0,0,0
 ,Where are the others?,278157,0,0,0,326,0,4,0,272394,0,0,0,0,0,0
 "Coming here, revealing ourselves to the mortals, getting caught in their affairs.",,278158,0,0,0,326,0,4,272395,0,0,0,0,0,0,0
 ,how can we not answer?,278160,0,0,0,326,0,4,0,272396,0,0,0,0,0,0
@@ -9025,8 +9058,10 @@ We've been over this.,,279805,0,0,0,324,0,4,0,0,0,0,0,0,0,0
 They're not gonna just up and leave their home like we did.,,279806,0,0,0,324,0,4,0,0,0,0,0,0,0,0
 "Undermine ain't worth it, Renzik. We left to find something better.",,279807,0,0,0,324,0,7,276351,0,0,0,0,0,0,0
 [DEPRECATED] We left to find something better.,,279808,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+The Lich King. A figure so horrible that his very legacy defies remembrance.,,279809,0,0,0,324,0,7,277059,0,1,0,0,0,0,0
 "You're Monte Gazlowe, damn it. BUILD something better!",,279810,0,0,0,324,0,4,0,0,0,0,0,0,0,0
 [ DEPRECATED] BUILD something better!,,279812,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+Perhaps we should recall instead the prince who had yet to become king.,,279813,0,0,0,324,0,7,277060,0,1,0,0,0,0,0
 If anyone can fix this town...,,279814,0,0,0,324,0,4,0,0,0,0,0,0,0,0
 it's you.,,279815,0,0,0,324,0,4,0,0,0,0,0,0,0,0
 Take the shot.,,279818,0,0,0,374,0,4,274238,0,0,0,0,0,0,0
@@ -9041,6 +9076,13 @@ No...,,279845,0,0,0,374,0,4,274244,0,0,0,0,0,0,0
 ,"<Sadistic, maniacal laughter>",279848,0,0,0,374,0,4,0,274247,0,0,0,0,0,0
 Kill 'em all!,,279849,0,0,0,374,0,4,274248,0,0,0,0,0,0,0
 Triple hazard pay for whoever brings me Gazlowe's head!,,279850,0,0,0,374,0,4,274249,0,0,0,0,0,0,0
+"Ah, my son.",,279939,0,0,0,324,0,7,277106,0,1,0,0,0,0,0
+You no longer need to sacrifice for your people.,,279940,0,0,0,324,0,7,277107,0,1,0,0,0,0,0
+You no longer need to bear the weight of your crown.,,279941,0,0,0,324,0,7,277108,0,1,0,0,0,0,0
+I've taken care of everything.,,279942,0,0,0,324,0,7,277109,0,1,0,0,0,0,0
+"What is this? What are you doing, my son?",,279943,0,0,0,324,0,7,277110,0,1,0,0,0,0,0
+"Succeeding you, father.",,279944,0,0,0,324,0,7,277111,0,1,0,0,0,0,0
+Urgh!,,279945,0,0,0,324,0,7,277112,0,1,0,0,0,0,0
 <screaming angrily> ,,280080,0,0,0,102,0,4,274666,0,0,0,0,0,0,0
 <grunt>,,280081,0,0,0,102,0,4,274667,0,0,0,0,0,0,0
 Worthless hunk of junk!,,280082,0,0,0,70,0,4,274668,0,0,0,0,0,0,0
@@ -9076,5 +9118,397 @@ I was just about to send that on to Xal'atath.,,280113,0,0,0,374,0,6,274711,0,0,
 <groans in frustration>,,280116,0,0,0,374,0,6,274714,0,0,0,0,0,0,0
 No need to be cautious Brann. I see some treasure over there!,,280237,0,0,0,324,0,4,0,0,0,0,0,0,0,0
 Don't step there-,,280238,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+The heroes of Azeroth sought to arm themselves with the greatest weapons ever forged.,,280687,0,0,0,324,0,4,276802,0,1005,0,0,0,0,0
+Care to stay longer today?,,280734,0,0,0,324,0,7,277084,0,0,0,0,0,0,0
+"Thousands of years ago, a group of Highborne night elves were exiled by their druidic kin for practicing forbidden arcane magic.",,280983,0,0,0,68,0,7,277920,0,0,0,0,0,0,0
+"These ""high elves"" sailed to the Eastern Kingdoms, where they founded the nation of Quel'Thalas.",,280984,0,0,0,68,0,7,277921,0,0,0,0,0,0,0
+"At the heart of their civilization stood the Sunwell, a font of arcane power that sustained their people and fueled their sorcery.",,280985,0,0,0,68,0,7,277922,0,0,0,0,0,0,0
+"Though they warred with the neighboring Amani trolls, the high elves enjoyed many millennia of relative peace and prosperity.",,280986,0,0,0,68,0,7,277923,0,0,0,0,0,0,0
+But that came to an end when Arthas and his army of the undead marched upon Quel'Thalas.,,280987,0,0,0,68,0,7,277924,0,0,0,0,0,0,0
+"Without the Sunwell, the blood elves had to drain magic from other sources. But doing so ravaged their minds and bodies over time.",,280988,0,0,0,68,0,7,277925,0,0,0,0,0,0,0
+"Kael'thas knew that if they did not find a new source of magic, his people would be doomed.",,280989,0,0,0,68,0,7,277926,0,0,0,0,0,0,0
+"Going to desperate lengths, Kael'thas imprisoned a naaru--a being of pure Light--and had his magisters siphon its holy power.",,280990,0,0,0,68,0,7,277927,0,0,0,0,0,0,0
+"When even that did not prove enough, Kael'thas pledged the sacred Sunwell to the demonic Burning Legion in exchange for fel magic.",,280991,0,0,0,68,0,7,277928,0,0,0,0,0,0,0
+Heroes of the Horde and the Alliance stormed the Sunwell and prevented the demons from summoning their dark masters.,,280992,0,0,0,68,0,7,277929,0,0,0,0,0,0,0
+"And then, a miracle took place. The same naaru the blood elves had held captive sacrificed itself to cleanse and restore the Sunwell.",,280993,0,0,0,68,0,7,277930,0,0,0,0,0,0,0
+"Now a font of holy Light, the Sunwell once again sustained the blood elves, ending their ill-fated quest for a new source of magic.",,280994,0,0,0,68,0,7,277931,0,0,0,0,0,0,0
+Never again would they delve into dark sorcery or place the Sunwell in peril. But that vow would soon be put to the test...,,280995,0,0,0,68,0,7,277932,0,0,0,0,0,0,0
+"Who are the ethereals? Enshrouded in mystery, we first encountered them in Outland--but that was not where they originated.",,281022,0,0,1,324,0,7,276742,0,0,0,0,0,0,0
+"Their own world, K'aresh, was destroyed long ago by a monstrous creature of the Void.",,281023,0,0,0,324,0,7,276743,0,0,0,0,0,0,0
+"Left to their own devices, the ethereals traveled the cosmos in search of trade, knowledge... and vengeance for their beloved home.",,281024,0,0,0,324,0,7,276744,0,0,0,0,0,0,0
+,The Ravel's heresy halted the Devouring. Dimensius did not finish his meal.,281887,0,0,0,356,0,4,0,284827,1,0,0,0,0,0
+,I have tried for ages. There has been nothing but silence.,281916,0,0,0,356,0,4,0,284829,1,0,0,0,0,0
+,You and I know the truth. There can be no life without K'aresh.,281917,0,0,0,356,0,4,0,284828,1,0,0,0,0,0
+,You could commune with K'aresh again! Show your people you are still strong. Then I will put that accursed ribbon to righteous use.,281918,0,0,0,356,0,4,0,284830,1,0,0,0,0,0
+,You are mere pestilence parading as lords.,282663,0,0,0,326,0,6,0,282309,0,0,0,0,0,0
+But that was not all Xal'atath said.,,282664,0,0,0,358,0,6,284532,0,0,0,0,0,0,0
+,The offer stands.,282665,0,0,0,326,0,6,0,282310,0,0,0,0,0,0
+,I cannot believe you would partner with her. She's trying to kill me!,283502,0,0,0,372,0,4,0,284717,0,0,0,0,0,0
+,We've all tried to kill each other.,283504,0,0,0,372,0,4,0,284718,0,0,0,0,0,0
+,Focus on the Void Lord who will devour us all if he emerges.,283506,0,0,0,372,0,4,0,284719,0,0,0,0,0,0
+You have every reason to hate her. For now we need to work together.,,283517,0,0,0,372,0,4,284720,0,0,0,0,0,0,0
+,"Dimensius was smashed into as many shards as K'aresh, but you've allowed the Shadowguard to piece him back together.",283518,0,0,0,372,0,4,0,284721,0,0,0,0,0,0
+,I should just end her! Why are you protecting her Locus-Walker?,283519,0,0,0,372,0,4,0,284722,0,0,0,0,0,0
+,"That means if you kill me, then you destroy Azeroth.",283520,0,0,0,372,0,4,0,284724,0,0,0,0,0,0
+,That would be my next stop if I were a Void Lord.,283521,0,0,0,372,0,4,0,284725,0,0,0,0,0,0
+"It pains me to admit, but if we are to get you and the champion anywhere near Dimensius then we need her expertise.",,283523,0,0,0,372,0,4,284723,0,0,0,0,0,0,0
+I am not asking you to trust her. I'm asking you to trust me.,,283525,0,0,0,372,0,4,284726,0,0,0,0,0,0,0
+"Set aside your hunt, Windrunner. You will see why this is necessary.",,283526,0,0,0,372,0,4,284727,0,0,0,0,0,0,0
+Why did you tell her? This was a secret we said we would keep!,,283575,0,0,0,324,0,4,284701,0,0,0,0,0,0,0
+,"Alleria would have pieced it together eventually. She's dramatic, not stupid.",283576,0,0,0,324,0,4,0,284702,0,0,0,0,0,0
+,Better to control when she has her little outburst.,283577,0,0,0,324,0,4,0,284703,0,0,0,0,0,0
+I should have been the one to tell her! It was my burden to share.,,283578,0,0,0,324,0,4,284704,0,0,0,0,0,0,0
+,"Returning home has made you sentimental, sorcerer. When did you ever care about your legacy and friends?",283579,0,0,0,324,0,4,0,284705,0,0,0,0,0,0
+,"You walk a dark, lonely path to save us from the Void.",283580,0,0,0,324,0,4,0,284706,0,0,0,0,0,0
+,"Your elf student will see the bigger picture, in time.",283581,0,0,0,324,0,4,0,284707,0,0,0,0,0,0
+,Stop wallowing. Go and defeat the Void Lord before he devours us all.,283582,0,0,0,324,0,4,0,284708,0,0,0,0,0,0
+,At least one of you lot has figured out their priorities.,283583,0,0,0,324,0,4,0,284709,0,0,0,0,0,0
+,Enough! Make sure he succeeds. I have been to the Maw. I know what the Void fears.,283584,0,0,0,324,0,4,0,284710,0,0,0,0,0,0
+,I'm sure you do.,283585,0,0,0,324,0,4,0,284711,0,0,0,0,0,0
+,Then go. I have my investment to protect.,283586,0,0,0,324,0,4,0,284712,0,0,0,0,0,0
+"I must talk to you before we cross the threshold, Windrunner.",,283808,0,0,0,324,0,4,284904,0,0,0,0,0,0,0
+When you behold the Void Lord you will understand. You will know why my actions were necessary.,,283809,0,0,0,324,0,4,284905,0,0,0,0,0,0,0
+,"No, Locus-Walker. I won't.",283810,0,0,0,324,0,4,0,284906,0,0,0,0,0,0
+,"You became a monster to defeat Dimensius. You sacrificed your world, your loved ones... I would never do that!",283811,0,0,0,324,0,4,0,284907,0,0,0,0,0,0
+There was no other way!,,283812,0,0,0,324,0,4,284908,0,0,0,0,0,0,0
+,That's what you keep telling me.,283813,0,0,0,324,0,4,0,284909,0,0,0,0,0,0
+,"We lied and manipulated our way to this victory, because that is how she does things!",283815,0,0,0,324,0,4,0,284910,0,0,0,0,0,0
+,"You think you've escaped the Void, that you are its master.",283817,0,0,0,324,0,4,0,284911,0,0,0,0,0,0
+,"But every dark whisper in my head confirms that you are lost. You are the Void's creature, no better than Xal'atath.",283818,0,0,0,324,0,4,0,284912,0,0,0,0,0,0
+Windrunner...,,283819,0,0,0,324,0,4,284913,0,0,0,0,0,0,0
+,I will follow $n into that manaforge. For Azeroth! For K'aresh. For all the worlds unknown who we will spare this cruel fate.,283820,0,0,0,324,0,4,0,284914,0,0,0,0,0,0
+,"Then we are done. You are no longer my teacher, no longer my compatriot... No longer my friend.",283821,0,0,0,324,0,4,0,284915,0,0,0,0,0,0
+Alleria...,,283823,0,0,0,324,0,4,284916,0,0,0,0,0,0,0
+,"Lead on, $n. Dimensius awaits.",283824,0,0,0,324,0,4,0,284917,0,0,0,0,0,0
+They wouldn't kill me. Left me to rot. Cowards.,,283862,0,0,0,342,0,6,281491,0,0,0,0,0,0,0
+How did you find me?,,283863,0,0,0,342,0,6,281492,0,0,0,0,0,0,0
+The Red Dawn left orc weapons at the ambush to fool your people.,,283864,0,0,0,342,0,6,281493,0,0,0,0,0,0,0
+But they did not fool us. We knew the weapons came from Ar'gorok.,,283865,0,0,0,342,0,6,281494,0,0,0,0,0,0,0
+"Geya'rah, Eitrigg--your honor humbles me. You didn't...",,283866,0,0,0,342,0,6,281495,0,0,0,0,0,0,0
+"No time to get sappy on us, Danath. We've seen what's coming.",,283867,0,0,0,342,0,6,281500,0,0,0,0,0,0,0
+Faerin went to warn your people.,,283868,0,0,0,342,0,6,281497,0,0,0,0,0,0,0
+Then she is in grave danger!,,283869,0,0,0,342,0,6,281498,0,0,0,0,0,0,0
+"Only someone in Stromgarde, someone close to me, could have orchestrated the ambush.",,283871,0,0,0,342,0,6,281496,0,0,0,0,0,0,0
+Then we must go to her aid.,,283872,0,0,0,342,0,6,281501,0,0,0,0,0,0,0
+,Ah! Stop this! Danath fought to save all of Azeroth!,283873,0,0,0,358,0,6,0,281502,0,0,0,0,0,0
+,He sold us out so the Alliance and Horde could wage war in Khaz Algar!,283874,0,0,0,358,0,6,0,281503,0,0,0,0,0,0
+,You'll never understand.,283876,0,0,0,358,0,6,0,281505,0,0,0,0,0,0
+,The Red Dawn will rise again!,283877,0,0,0,358,0,6,0,281506,0,0,0,0,0,0
+No.,,283878,0,0,0,358,0,6,281507,0,0,0,0,0,0,0
+Our history will read:,,283879,0,0,0,358,0,6,281508,0,0,0,0,0,0,0
+"Faerin, true daughter of the Arathi--",,283880,0,0,0,358,0,6,281509,0,0,0,0,0,0,0
+,<Marran gasps.>,283881,0,0,0,358,0,6,0,281510,0,0,0,0,0,0
+--allowed Marran to live without her title and name.,,283882,0,0,0,358,0,6,281511,0,0,0,0,0,0,0
+The Red Dawn vanished from the Highlands. Forever.,,283883,0,0,0,358,0,6,281512,0,0,0,0,0,0,0
+,This. This is not over.,283884,0,0,0,358,0,6,0,281943,0,0,0,0,0,0
+,"Hmm. We do not have the resources for a manhunt, Faerin.",283885,0,0,0,358,0,6,0,281514,0,0,0,0,0,0
+,<Faerin growls in frustration.>,283886,0,0,0,358,0,6,0,287000,0,0,0,0,0,0
+,To rescue the Lord of Stromgarde? I thought you were in charge here?,283887,0,0,0,358,0,6,0,281516,0,0,0,0,0,0
+,"Aha. I think we can drop this charade now, Veronica.",283888,0,0,0,358,0,6,0,281517,0,0,0,0,0,0
+,You. You're behind this. The Red Dawn. Danath's disappearance.,283889,0,0,0,358,0,6,0,281518,0,0,0,0,0,0
+,"Yes, and now that my uncle is gone, I'm free to do what I wish.",283890,0,0,0,358,0,6,0,287001,0,0,0,0,0,0
+,Footmen!,283891,0,0,0,358,0,6,0,286999,0,0,0,0,0,0
+,Stop this madness! You're all Arathi!,283892,0,0,0,358,0,6,0,281521,0,0,0,0,0,0
+,Huh. And I thought you were once. Now you'll suffer for not joining our cause.,283893,0,0,0,358,0,6,0,281522,0,0,0,0,0,0
+I'm sorry Stromgarde was not what you expected.,,283894,0,0,0,356,0,6,281523,0,0,0,0,0,0,0
+,You were right. I was... naive.,283895,0,0,0,356,0,6,0,281524,0,0,0,0,0,0
+"No, Faerin. I was wrong.",,283896,0,0,0,356,0,6,281536,0,0,0,0,0,0,0
+,Wrong? How?,283897,0,0,0,356,0,6,0,281526,0,0,0,0,0,0
+I said Thoradin's Wall was just a wall.,,283898,0,0,0,356,0,6,281527,0,0,0,0,0,0,0
+But what it represents does exist--in you.,,283899,0,0,0,356,0,6,281528,0,0,0,0,0,0,0
+,I don't see...,283900,0,0,0,356,0,6,0,281529,0,0,0,0,0,0
+You have been a guiding light.,,283901,0,0,0,356,0,6,281530,0,0,0,0,0,0,0
+Saving my life. Bringing us together. Reminding me of my true mission.,,283902,0,0,0,356,0,6,281531,0,0,0,0,0,0,0
+You look to the past. But you are our future. And I am glad of that.,,283903,0,0,0,356,0,6,281532,0,0,0,0,0,0,0
+,Perhaps... perhaps the new dawn is not what Marran wanted...,283904,0,0,0,356,0,6,0,281533,0,0,0,0,0,0
+,"But us, returning here for our people.",283905,0,0,0,356,0,6,0,281534,0,0,0,0,0,0
+Hmm. I hope you are right.,,283906,0,0,0,356,0,6,281535,0,0,0,0,0,0,0
+,You are a prisoner. Why does Colonel Nials defer to you?,283907,0,0,0,374,0,6,0,281537,0,0,0,0,0,0
+,"You should know names carry weight, Faerin Lothar.",283908,0,0,0,374,0,6,0,281538,0,0,0,0,0,0
+,"Despite your... elven blood, a great Arathi warrior returning gives us hope.",283909,0,0,0,374,0,6,0,281539,0,0,0,0,0,0
+,That those dissatisfied with Lord Danath Trollbane's rule...,283910,0,0,0,374,0,6,0,281545,0,0,0,0,0,0
+,With famine and unrest...,283911,0,0,0,374,0,6,0,281540,0,0,0,0,0,0
+,"Will rise with a ""new dawn.""",283912,0,0,0,374,0,6,0,281541,0,0,0,0,0,0
+,"And that when they do, you'll be a part of it!",283913,0,0,0,374,0,6,0,281542,0,0,0,0,0,0
+,You... you're part of the Red Dawn. I'll never join them. I'd never go against Danath.,283914,0,0,0,374,0,6,0,281543,0,0,0,0,0,0
+,You say that now. But you'll see it my way. In time.,283915,0,0,0,374,0,6,0,281544,0,0,0,0,0,0
+,"The people who attacked Newstead called themselves ""Defias."" Who are they?",283976,0,0,0,324,0,10,0,281689,0,0,0,0,0,0
+"Defias? Hm. I... haven't heard that name in awhile. Their story is a little sad, actually.",,283980,0,0,0,324,0,10,281830,0,0,0,0,0,0,0
+,What do you mean? What happened?,283981,0,0,0,324,0,10,0,281696,0,0,0,0,0,0
+"After the Second War, Stormwind was heavily damaged.",,283982,0,0,0,324,0,10,281829,0,0,0,0,0,0,0
+"The Stonemason's Guild was contracted to rebuild it, but Stormwind's corrupt House of Nobles denied them payment.",,283983,0,0,0,324,0,10,281828,0,0,0,0,0,0,0
+"They rioted. And in the riot, the queen was accidentally struck and killed.",,283986,0,0,0,324,0,10,281825,0,0,0,0,0,0,0
+They were driven from the city and became bandits. The VanCleef family became their leaders.,,283987,0,0,0,324,0,10,281832,0,0,0,0,0,0,0
+"I had thought that the Defias were dead along with the VanCleefs, but... that may have been wishful thinking.",,283988,0,0,0,324,0,10,281833,0,0,0,0,0,0,0
+,I don't condone banditry... but I can understand their frustration.,283989,0,0,0,324,0,10,0,281705,0,0,0,0,0,0
+"I suppose. If they'd been paid, they wouldn't have become bandits.",,283990,0,0,0,324,0,10,281834,0,0,0,0,0,0,0
+But you can't just throw away law and order if you don't get your way--like Marran's supporters are doing now.,,283991,0,0,0,324,0,10,281835,0,0,0,0,0,0,0
+,"That... is a good point. Hmm. Thank you, Captain.",283992,0,0,0,324,0,10,0,281836,0,0,0,0,0,0
+,"Karga, do you know much about the Scarlet Crusade?",283994,0,0,0,68,0,10,0,281715,0,0,0,0,0,0
+,Only what I have heard from the elders in Hammerfall.,283995,0,0,0,68,0,10,0,281853,0,0,0,0,0,0
+,I know they have no love for the Horde--or the Alliance.,283996,0,0,0,68,0,10,0,281717,0,0,0,0,0,0
+,"The Scarlet Crusade holds twisted beliefs. They want to eradicate our allies, the undead.",283997,0,0,0,68,0,10,0,281718,0,0,0,0,0,0
+,But they also believe that the Alliance has failed to protect humanity.,283998,0,0,0,68,0,10,0,281719,0,0,0,0,0,0
+,The belief in human superiority seems... prevalent here.,284001,0,0,0,68,0,10,0,281722,0,0,0,0,0,0
+,Feh. This is the Arathi Highlands. Where have you been? Under a rock?,284002,0,0,0,68,0,10,0,282354,0,0,0,0,0,0
+,"You could say that, yes.",284003,0,0,0,68,0,10,0,281724,0,0,0,0,0,0
+,"Seeing Hammerfall and talking to your people has been an eye-opening experience, Eitrigg.",284004,0,0,1,324,0,10,0,281800,0,0,0,0,0,0
+,Harboring refugees no matter their creed... my people would do the same.,284005,0,0,1005,324,0,4,0,281801,0,0,0,0,0,0
+I do not doubt that. Both of our peoples have suffered through dark times.,,284006,0,0,1005,324,0,4,281802,0,0,0,0,0,0,0
+"We may live here in peace now, but this site was once witness to unspeakable horrors.",,284007,0,0,1022,324,0,4,281803,0,0,0,0,0,0,0
+The Alliance imprisoned many orcs here in an internment camp.,,284008,0,0,1005,324,0,4,281804,0,0,0,0,0,0,0
+"We liberated and claimed it, naming it after our fallen warchief, Orgrim Doomhammer.",,284009,0,0,1,324,0,4,281805,0,0,0,0,0,0,0
+,The Alliance held your people here? In an internment camp? And yet you harbor human refugees?,284010,0,0,1,324,0,4,0,281806,0,0,0,0,0,0
+"And yet. Lamplighter, there have been far worse crimes committed against my people. Such is war.",,284011,0,0,1,324,0,4,281807,0,0,0,0,0,0,0
+"But our teachings say if we are wronged, we can cause more suffering, or end it. We now choose to end the cycle.",,284012,0,0,1005,324,0,4,281808,0,0,0,0,0,0,0
+,"I think that my people could learn a great deal from yours, Eitrigg. Thank you for welcoming me here.",284013,0,0,1005,324,0,4,0,281809,0,0,0,0,0,0
+,I have struggled for an eon. Now my oath is fulfilled. K'aresh lives once more.,284151,0,0,0,324,0,4,0,284926,0,0,0,0,0,0
+,I'm no philosopher or oracle. Is this fragile Worldsoul worth all that I did to bring it back?,284152,0,0,0,324,0,4,0,284927,0,0,0,0,0,0
+,My people are still cursed with these bodies. Many of them follow the Nexus-King deeper into the Void.,284153,0,0,0,324,0,4,0,284928,0,0,0,0,0,0
+,But K'aresh lives. An impossible dream that you achieved. Thank you.,284154,0,0,0,324,0,4,0,284929,0,0,0,0,0,0
+,I think there is a moment to sit and take in the view.,284155,0,0,0,324,0,4,0,284930,0,0,0,0,0,0
+,Enough introspection. There is work to be done. The Trust will need to protect this new wonder.,284156,0,0,0,324,0,4,0,284931,0,0,0,0,0,0
+,And the Harbinger is still out there. She will come for your world.,284157,0,0,0,324,0,4,0,284932,0,0,0,0,0,0
+,Rule 11. There is no rest for heroes.,284158,0,0,0,324,0,4,0,284933,0,0,0,0,0,0
+,It seems the insects have acclimated to our environment. Your task is complete. You may leave.,284180,0,0,0,324,0,10,0,282679,0,0,0,0,0,0
+,"But there may still be issues. So far, they've been thriving--but the queen needs honey to eat.",284181,0,0,0,324,0,10,0,282680,0,0,0,0,0,0
+,"They will make honey from the plants here, will they not?",284182,0,0,0,324,0,10,0,282681,0,0,0,0,0,0
+,"Well yes, but these plants are foreign, and so is their pollen.",284183,0,0,0,324,0,10,0,282682,0,0,0,0,0,0
+,"There's no telling what kind of honey the pollen will make--if it's nutritionally adequate or if the queen will even like the flavor, for that matter!",284184,0,0,0,324,0,10,0,282683,0,0,0,0,0,0
+,Ah. I had not taken that into consideration.,284185,0,0,0,324,0,10,0,282684,0,0,0,0,0,0
+,"Of course, I could always stay here and continue their maintenance...",284186,0,0,0,324,0,10,0,282685,0,0,0,0,0,0
+,"And continue to sample our plant life, I assume.",284187,0,0,0,324,0,10,0,282686,0,0,0,0,0,0
+,"It would be such a pity if the efforts to import them were wasted, would it not?",284188,0,0,0,324,0,10,0,282687,0,0,0,0,0,0
+,Very well. You may remain. But do not forget why you are here--the cultivation of life is of utmost importance.,284189,0,0,0,324,0,10,0,282688,0,0,0,0,0,0
+,And do not expect monetary compensation.,284190,0,0,0,324,0,10,0,282689,0,0,0,0,0,0
+,We'll just trade service and fostering for scientific study and call it even!,284191,0,0,0,324,0,10,0,282690,0,0,0,0,0,0
+,At least her cleverness will be put to good use.,284192,0,0,0,324,0,10,0,282691,0,0,0,0,0,0
+Gosh... this is the prettiest cavern I've ever seen!,,284193,0,0,0,324,0,10,282703,0,0,0,0,0,0,0
+,"Cavern... of course. You are the scent specialist, correct?",284194,0,0,0,324,0,10,0,282704,0,0,0,0,0,0
+Sure am! Nobody better in my kith.,,284195,0,0,0,324,0,10,282705,0,0,0,0,0,0,0
+,This will be far more challenging than you are accustomed to.,284196,0,0,0,324,0,10,0,282706,0,0,0,0,0,0
+"Oh I can smell it from here! Little musky, mmm, hint of spice--can I have samples? Can we trade?",,284197,0,0,0,324,0,10,282707,0,0,0,0,0,0,0
+,For samples? No need. Consider it payment for your services.,284198,0,0,0,324,0,10,0,282708,0,0,0,0,0,0
+"Aw heck, this is gonna be fun! Point me at what you want done and I'll get started.",,284199,0,0,0,324,0,10,282709,0,0,0,0,0,0,0
+,"I have many tasks in mind for you, small one. But I believe you will want to settle in first.",284200,0,0,0,324,0,10,0,282710,0,0,0,0,0,0
+"All I need is a little corner to rest my legs, nothing fancy--there's so many scents here! Is that plant a flowering one? Can I have some pollen?",,284201,0,0,0,324,0,10,282711,0,0,0,0,0,0,0
+,"Yes, yes, in due time. For now, please find a suitable corner. We'll begin shortly.",284202,0,0,0,324,0,10,0,282712,0,0,0,0,0,0
+"I can't wait! This dirt is so strange! It's parched, but the scent is so strong. I'll need some of that too!",,284203,0,0,0,324,0,10,282713,0,0,0,0,0,0,0
+,I suppose his enthusiasm must be appreciated.,284204,0,0,0,324,0,10,0,282714,0,0,0,0,0,0
+Long way from Azeroth. So how'd a creature like you hear about a creature like me?,,284205,0,0,0,324,0,10,282692,0,0,0,0,0,0,0
+,"Your reputation is not limited to Azeroth, Master Nesingwary. Indeed, your prose has traveled far across the cosmos.",284206,0,0,0,324,0,10,0,282693,0,0,0,0,0,0
+My prose? Don't tell me you've been readin' my work!,,284207,0,0,0,324,0,10,282694,0,0,0,0,0,0,0
+,Indeed. And I believe your skills are exactly what we require here.,284208,0,0,0,324,0,10,0,282695,0,0,0,0,0,0
+"Flattering as that is, my tales are all about the hunt--and this place doesn't look like it's in need of any culling.",,284209,0,0,0,324,0,10,282696,0,0,0,0,0,0,0
+,"Ah, but your time in the Azure Span has taught you more, has it not? A hunter is nothing without his prey--and that cycle must be maintained.",284210,0,0,0,324,0,10,0,282697,0,0,0,0,0,0
+,I know you understand its importance.,284211,0,0,0,324,0,10,0,282698,0,0,0,0,0,0
+That I do. Little odd that you're so familiar with the exploits that I haven't jotted down.,,284212,0,0,0,324,0,10,282699,0,0,0,0,0,0,0
+,"Consider it a specialized interest, nothing more. Once you have settled in, I will personally give you a tour of the facilities.",284213,0,0,0,324,0,10,0,282700,0,0,0,0,0,0
+,"Also, I have a book that is missing its author's signature.",284214,0,0,0,324,0,10,0,282701,0,0,0,0,0,0
+Well we can't have that.,,284215,0,0,0,324,0,10,282702,0,0,0,0,0,0,0
 Bring it down!,,285272,0,0,0,358,0,4,282457,0,0,0,0,0,0,0
 No more Gallywix!,,285273,0,0,0,342,0,4,282453,0,0,0,0,0,0,0
+,Pathetic.,286344,0,0,0,326,0,6,0,283811,0,0,0,0,0,0
+You shall only watch this world as it gains untold power without you.,,286347,0,0,0,326,0,6,283812,0,0,0,0,0,0,0
+You shall never lay claim to it.,,286348,0,0,0,326,0,6,283813,0,0,0,0,0,0,0
+The inevitable.,,286350,0,0,0,358,3000,6,283814,0,0,0,0,0,0,0
+,You need only reach out and claim it.,286351,0,0,0,358,0,6,0,283815,0,0,0,0,0,0
+,I... I'm not sure what to say.,286914,0,0,0,324,0,4,0,284946,0,0,0,0,0,0
+,"Locus-Walker was my mentor, my comrade, my friend.",286915,0,0,0,324,0,4,0,284947,0,0,0,0,0,0
+,"Since I first embraced the power of the Void, he was there helping me to control and understand it.",286916,0,0,0,324,0,4,0,284948,0,0,0,0,0,0
+,"He alone supported me when my allies and family pushed me away. He saw what mattered in people, for good or ill.",286920,0,0,0,324,0,4,0,284949,0,0,0,0,0,0
+,He--He was my dearest friend. But when he died...,286922,0,0,0,324,0,4,0,284950,0,0,0,0,0,0
+,"His past with the Ravel, the secrets of his ancient fight against Dimensius... I was so angry at him.",286924,0,0,0,324,0,4,0,284951,0,0,0,0,0,0
+,I warned him! I did nothing but warn him about the path we walked down with Xal'atath. He wouldn't listen.,286925,0,0,0,324,0,4,0,284952,0,0,0,0,0,0
+,She killed him because he trusted her. Because he understood who she really was.,286926,0,0,0,324,0,4,0,284953,0,0,0,0,0,0
+,So this is my oath. I will hunt Xal'atath down. I will find justice for Locus-Walker.,286927,0,0,0,324,0,4,0,284954,0,0,0,0,0,0
+,I will prevent her from becoming the new All-Devouring.,286928,0,0,0,324,0,4,0,284955,0,0,0,0,0,0
+,"Alleria, to make an oath on K'aresh is no small thing. Are you prepared to take on such a vendetta?",286929,0,0,0,324,0,4,0,284956,0,0,0,0,0,0
+,I am. I have seen the lengths you have gone to to fulfill your oaths.,286930,0,0,0,324,0,4,0,284957,0,0,0,0,0,0
+,I will avenge my friend for all the good he has done in his long life. Even as I struggle to understand and forgive his evil.,286932,0,0,0,324,0,4,0,284958,0,0,0,0,0,0
+,"Then we wish all fortune on your hunt, Alleria Windrunner.",286933,0,0,0,324,0,4,0,284959,0,0,0,0,0,0
+,Agh!,287434,0,0,0,326,0,6,0,287095,0,0,0,0,0,0
+,Aaaagh!,287435,0,0,0,358,3000,6,0,287094,0,0,0,0,0,0
+,"With our old Stromic ways forgotten, with famine, unrest, and orcs on our lands, and dwarves and elves in our cities.",288137,0,0,0,374,0,6,0,285929,0,0,0,0,0,0
+,"All will rise up and embrace a ""new dawn.""",288138,0,0,0,374,0,6,0,285930,0,0,0,0,0,0
+,"And that when they do, I hope you'll be a part of it, Faerin.",288139,0,0,0,374,0,6,0,285931,0,0,0,0,0,0
+,I would like to see Stromgarde as it was. But your promises are empty. And I would never betray Danath.,288140,0,0,0,374,0,6,0,285932,0,0,0,0,0,0
+,"But us, returning here for our people, whether from Stromgarde or Hammerfall--Horde, or Alliance.",288141,0,0,0,356,0,6,0,285933,0,0,0,0,0,0
+,Is that...,288151,0,0,0,358,0,6,0,285970,0,0,0,0,0,0
+Thoradin's Wall?,,288152,0,0,0,358,0,6,285971,0,0,0,0,0,0,0
+Yes.,,288153,0,0,0,358,0,6,285954,0,0,0,0,0,0,0
+,Then the stories and legends I read as a child were...,288157,0,0,0,358,0,6,0,285955,0,0,0,0,0,0
+,True.,288158,0,0,0,358,0,6,0,285956,0,0,0,0,0,0
+"Stories are just stories, Faerin.",,288159,0,0,0,358,0,6,285957,0,0,0,0,0,0,0
+And that wall is just a wall.,,288160,0,0,0,358,0,6,285958,0,0,0,0,0,0,0
+,"I know Arathi history is embellished, Danath.",288161,0,0,0,358,0,6,0,285959,0,0,0,0,0,0
+,But are you not proud of your heritage?,288162,0,0,0,358,0,6,0,285960,0,0,0,0,0,0
+Yes.,,288163,0,0,0,358,0,6,285961,0,0,0,0,0,0,0
+"But pride in our ""legends"" foments Stromic superiority.",,288164,0,0,0,358,0,6,285962,0,0,0,0,0,0,0
+And reasons to strike at our neighbors.,,288165,0,0,0,358,0,6,285963,0,0,0,0,0,0,0
+,I understand.,288166,0,0,0,358,0,6,0,285964,0,0,0,0,0,0
+,Among my people some still distrust outsiders.,288167,0,0,0,358,0,6,0,285965,0,0,0,0,0,0
+,I had thought your people...,288168,0,0,0,358,0,6,0,285966,0,0,0,0,0,0
+Going to Khaz Algar was unpopular in Stromgarde.,,288169,0,0,0,358,0,6,285967,0,0,0,0,0,0,0
+But the Sons of Lothar promote tolerance and mercy--,,288170,0,0,0,358,0,6,285968,0,0,0,0,0,0,0
+,Help! Bandits!,288171,0,0,0,358,0,6,0,285969,0,0,0,0,0,0
+,For Arathor!,289343,0,0,0,358,0,6,0,287580,0,0,0,0,0,0
+Do not make her a martyr.,,289376,0,0,0,358,0,6,287616,0,0,0,0,0,0,0
+<sighs>,,289378,0,0,0,358,0,6,287614,0,0,0,0,0,0,0
+,Xal'atath claims the Ravel destroyed K'aresh.,290104,0,0,0,374,0,4,0,288357,0,0,0,0,0,0
+,"Is she lying, or are you?",290105,0,0,0,374,0,4,0,288358,0,0,0,0,0,0
+Windrunner...,,290106,0,0,0,374,0,4,288359,0,0,0,0,0,0,0
+The Ravel knew our world would be devoured.,,290107,0,0,0,374,0,4,288360,0,0,0,0,0,0,0
+The Harbinger promised a means to spare us.,,290108,0,0,0,374,0,4,288361,0,0,0,0,0,0,0
+There was no saving our world!,,290109,0,0,0,374,0,4,288362,0,0,0,0,0,0,0
+Why not use it as a weapon?,,290110,0,0,0,374,0,4,288363,0,0,0,0,0,0,0
+,You doomed your people--at her behest?,290111,0,0,0,374,0,4,0,288364,0,0,0,0,0,0
+,<chuckles>,290112,0,0,0,374,0,4,0,288365,0,0,0,0,0,0
+,There would be far less regret had it been successful.,290113,0,0,0,374,0,4,0,288366,0,0,0,0,0,0
+It was our only way to survive.,,290114,0,0,0,374,0,4,288367,0,0,0,0,0,0,0
+You have to trust me!,,290115,0,0,0,374,0,4,288368,0,0,0,0,0,0,0
+,Grah!,290116,0,0,0,374,0,4,0,288369,0,0,0,0,0,0
+,I have no more trust to give you.,290117,0,0,0,374,0,4,0,288370,0,0,0,0,0,0
+,Any of you.,290118,0,0,0,374,0,4,0,288371,0,0,0,0,0,0
+,I will die with honor!,290119,0,0,0,326,0,4,0,288372,0,0,0,0,0,0
+,I will die oath-bound!,290120,0,0,0,326,0,4,0,288373,0,0,0,0,0,0
+,Be quiet.,290121,0,0,0,326,0,4,0,288374,0,0,0,0,0,0
+,No more posturing.,290122,0,0,0,358,0,4,0,288375,0,0,0,0,0,0
+,"Before you fought for the Nexus-King,",290123,0,0,0,326,0,4,0,288376,0,0,0,0,0,0
+,you were an oracle of K'aresh.,290124,0,0,0,326,0,4,0,288377,0,0,0,0,0,0
+,Which oath takes precedence?,290125,0,0,0,358,0,4,0,288378,0,0,0,0,0,0
+,K'aresh.,290126,0,0,0,326,0,4,0,288379,0,0,0,0,0,0
+,"Here he is,",290127,0,0,0,326,0,4,0,288380,0,0,0,0,0,0
+,fading and near extinction.,290128,0,0,0,326,0,4,0,288381,0,0,0,0,0,0
+,But he can still be saved...,290129,0,0,0,326,0,4,0,288382,0,0,0,0,0,0
+,The Exchange!,290130,0,0,0,326,0,4,0,288383,0,0,0,0,0,0
+,"A soul will pass through K'aresh and emerge reborn,",290131,0,0,0,326,0,4,0,288384,0,0,0,0,0,0
+,unburdened...,290132,0,0,0,326,0,4,0,288385,0,0,0,0,0,0
+,And K'aresh will be strengthened.,290133,0,0,0,326,0,4,0,288386,0,0,0,0,0,0
+,My life for K'aresh.,290134,0,0,0,358,0,4,0,288387,0,0,0,0,0,0
+,"Petals and pollen, K'aresh is reborn anew.",290135,0,0,0,358,0,4,0,288388,0,0,0,0,0,0
+,It is time!,290136,0,0,0,326,0,4,0,288389,0,0,0,0,0,0
+,Present your Reshii Ribbons.,290137,0,0,0,358,0,4,0,288390,0,0,0,0,0,0
+,I will fulfill my word.,290138,0,0,0,358,0,4,0,288391,0,0,0,0,0,0
+,I can't.,290139,0,0,0,326,0,4,0,288392,0,0,0,0,0,0
+,It's madness to trust her with this power!,290140,0,0,0,326,0,4,0,288393,0,0,0,0,0,0
+Dimensius is almost upon us!,,290141,0,0,0,326,0,4,288394,0,0,0,0,0,0,0
+How many more worlds must be destroyed?,,290142,0,0,0,326,0,4,288395,0,0,0,0,0,0,0
+,Time grows short.,290143,0,0,0,326,0,4,0,288396,0,0,0,0,0,0
+,"Combine your ribbon, or...",290144,0,0,0,326,0,4,0,288397,0,0,0,0,0,0
+,Use it to destroy me--,290145,0,0,0,326,0,4,0,288398,0,0,0,0,0,0
+,As it once destroyed K'aresh.,290146,0,0,0,326,0,4,0,288399,0,0,0,0,0,0
+,"Choose, Alleria!",290147,0,0,0,326,0,4,0,288400,0,0,0,0,0,0
+Alleria...,,290148,0,0,0,326,0,4,288401,0,0,0,0,0,0,0
+Please.,,290149,0,0,0,326,0,4,288402,0,0,0,0,0,0,0
+<groans painfully>,,290150,0,0,0,326,0,4,288403,0,0,0,0,0,0,0
+Devour...,,290151,0,0,0,358,0,4,288404,0,0,0,0,0,0,0
+,Arrrrrrrgh!,290152,0,0,0,358,0,4,0,288405,0,0,0,0,0,0
+,The Shadowguard would have won if not for your ally's warning.,290153,0,0,0,374,0,4,0,288406,0,0,0,0,0,0
+,It's time we were introduced.,290154,0,0,0,374,0,4,0,288407,0,0,0,0,0,0
+,But Alleria...,290155,0,0,0,374,0,4,0,288408,0,0,0,0,0,0
+,We've already met.,290156,0,0,0,374,0,4,0,288409,0,0,0,0,0,0
+,You!,290157,0,0,0,374,0,4,0,288410,0,0,0,0,0,0
+No!,,290158,0,0,0,374,0,4,288411,0,0,0,0,0,0,0
+We need her!,,290159,0,0,0,374,0,4,288412,0,0,0,0,0,0,0
+,I see you haven't changed at all.,290160,0,0,0,374,0,4,0,288413,0,0,0,0,0,0
+,You have joined forces with her?,290161,0,0,0,374,0,4,0,288414,0,0,0,0,0,0
+,Have you lost your mind?,290162,0,0,0,374,0,4,0,288415,0,0,0,0,0,0
+We are desperate.,,290163,0,0,0,374,0,4,288416,0,0,0,0,0,0,0
+"If Dimensius is revived, then all worlds will be devoured!",,290164,0,0,0,374,0,4,288417,0,0,0,0,0,0,0
+,"You broke my Dark Heart, Alleria.",290165,0,0,0,374,0,4,0,288418,0,0,0,0,0,0
+,"Without it, I cannot prevent Dimensius's return.",290166,0,0,0,374,0,4,0,288419,0,0,0,0,0,0
+,At least... not on my own.,290167,0,0,0,374,0,4,0,288420,0,0,0,0,0,0
+,This is madness.,290168,0,0,0,374,0,4,0,288421,0,0,0,0,0,0
+,We cannot trust her!,290169,0,0,0,374,0,4,0,288422,0,0,0,0,0,0
+I'm not asking you to trust her.,,290170,0,0,0,374,0,4,288423,0,0,0,0,0,0,0
+I'm asking you to trust me.,,290171,0,0,0,374,0,4,288424,0,0,0,0,0,0,0
+,<groans painfully>,290189,0,0,0,358,0,4,0,288437,0,0,0,0,0,0
+<groans painfully>,,290190,0,0,0,358,0,4,288438,0,0,0,0,0,0,0
+<groans painfully>,<groans painfully>,290191,0,0,0,358,0,4,0,0,0,0,0,0,0,0
+<groans painfully>,<groans painfully>,290192,0,0,0,358,0,4,0,0,0,0,0,0,0,0
+,Salhadaar survived?,290193,0,0,0,358,0,4,0,288443,0,0,0,0,0,0
+Oracles of K'aresh!,,290194,0,0,0,358,0,4,288444,0,0,0,0,0,0,0
+You dare defy your king?,,290195,0,0,0,358,0,4,288445,0,0,0,0,0,0,0
+You dare break your oath?!,,290196,0,0,0,358,0,4,288446,0,0,0,0,0,0,0
+,King Salhadaar...,290197,0,0,0,358,0,4,0,288447,0,0,0,0,0,0
+,You died! And our oath died with you!,290199,0,0,0,358,0,4,0,288448,0,0,0,0,0,0
+"No. With Dimensius as my master, I have been remade in the Void.",,290200,0,0,0,358,0,4,288449,0,0,0,0,0,0,0
+Your oath to me still stands!,,290201,0,0,0,358,0,4,288450,0,0,0,0,0,0,0
+"Honor it now, and slay the Ravel as you swore to do!",,290202,0,0,0,358,0,4,288451,0,0,0,0,0,0,0
+,How could we fight for you? You serve the All-Devouring!,290203,0,0,0,358,0,4,0,288452,0,0,0,0,0,0
+"And by sacred oath, so do all of you.",,290204,0,0,0,358,0,4,288453,0,0,0,0,0,0,0
+Obey. Or die as oath-breakers.,,290205,0,0,0,358,0,4,288454,0,0,0,0,0,0,0
+,<sighs>,290206,0,0,0,358,0,4,0,288455,0,0,0,0,0,0
+,Oracles... Wastelanders...,290207,0,0,0,358,0,4,0,288456,0,0,0,0,0,0
+,We... have no choice.,290208,0,0,0,358,0,4,0,288457,0,0,0,0,0,0
+,Kill the Ravel and their followers!,290209,0,0,0,358,0,4,0,288458,0,0,0,0,0,0
+,Fulfill your oath!,290210,0,0,0,358,0,4,0,288459,0,0,0,0,0,0
+,K'aresh is--,290212,0,0,0,358,0,4,0,288460,0,0,0,0,0,0
+,K'aresh is--,290213,0,0,0,358,0,4,0,288461,0,0,0,0,0,0
+,Gah! I sense nothing!,290214,0,0,0,358,0,4,0,288462,0,0,0,0,0,0
+,You lied!,290215,0,0,0,358,0,4,0,288463,0,0,0,0,0,0
+,There is no Worldsoul here!,290217,0,0,0,358,0,4,0,288464,0,0,0,0,0,0
+,"Eons of wandering have starved your once great power, oracle.",290218,0,0,0,358,0,4,0,288465,0,0,0,0,0,0
+,<groans painfully>,290219,0,0,0,358,0,4,0,288466,0,0,0,0,0,0
+,Traitor!,290220,0,0,0,358,0,4,0,288467,0,0,0,0,0,0
+,Oath-breaker!,290221,0,0,0,358,0,4,0,288468,0,0,0,0,0,0
+,The Worldsoul is as weak as you are.,290222,0,0,0,358,0,4,0,288469,0,0,0,0,0,0
+,You need more power to commune!,290223,0,0,0,358,0,4,0,288470,0,0,0,0,0,0
+,<strained yell>,290224,0,0,0,358,0,4,0,288471,0,0,0,0,0,0
+,Feast!,290225,0,0,0,358,0,4,0,288472,0,0,0,0,0,0
+,Touch the fading heart of your world!,290226,0,0,0,358,0,4,0,288473,0,0,0,0,0,0
+,K'aresh...,290227,0,0,0,358,0,4,0,288474,0,0,0,0,0,0
+,<gasps>,290228,0,0,0,358,0,4,0,288475,0,0,0,0,0,0
+,I heard...,290229,0,0,0,358,0,4,0,288476,0,0,0,0,0,0
+,K'aresh.,290230,0,0,0,358,0,4,0,288477,0,0,0,0,0,0
+,"By my unbroken oaths,",290231,0,0,0,358,0,4,0,288478,0,0,0,0,0,0
+,We fight to restore K'aresh.,290232,0,0,0,358,0,4,0,288479,0,0,0,0,0,0
+Doom...,,290233,0,0,0,374,0,4,288480,0,0,0,0,0,0,0
+Dimensius the All-Devouring...,,290234,0,0,0,374,0,4,288481,0,0,0,0,0,0,0
+His return grows ever closer!,,290235,0,0,0,374,0,4,288482,0,0,0,0,0,0,0
+,Invaders!,290236,0,0,0,374,0,4,0,288483,0,0,0,0,0,0
+They raid our energy to feed their master.,,290237,0,0,0,374,0,4,288484,0,0,0,0,0,0,0
+Champion!,,290238,0,0,0,374,0,4,288485,0,0,0,0,0,0,0
+Windrunner!,,290239,0,0,0,374,0,4,288486,0,0,0,0,0,0,0
+We have a city to save.,,290240,0,0,0,374,0,4,288487,0,0,0,0,0,0,0
+,"We know you serve the Ravel, intruder.",290241,0,0,0,326,0,4,0,288488,0,0,0,0,0,0
+,And we swore to King Salhadaar that we would slay all of their minions.,290242,0,0,0,326,0,4,0,288489,0,0,0,0,0,0
+,Then it's fortunate he's dead.,290243,0,0,0,358,0,4,0,288490,0,0,0,0,0,0
+,That voice...,290244,0,0,0,358,2000,4,0,288491,0,0,0,0,0,0
+,The Harbinger!,290245,0,0,0,358,0,4,0,288492,0,0,0,0,0,0
+,There's no need for that.,290246,0,0,0,326,0,4,0,288493,0,0,0,0,0,0
+,Not when we seek to end Dimensius for good.,290247,0,0,0,326,0,4,0,288494,0,0,0,0,0,0
+,Though we will require the Reshii Ribbons you took from the Ravel corpses.,290248,0,0,0,326,0,4,0,288495,0,0,0,0,0,0
+,No! They used those accursed ribbons to destroy our world!,290249,0,0,0,326,0,4,0,288496,0,0,0,0,0,0
+,We were powerless to stop them.,290250,0,0,0,326,0,4,0,288497,0,0,0,0,0,0
+,But we will fulfill our oath to kill them!,290251,0,0,0,326,0,4,0,288498,0,0,0,0,0,0
+,And your failure will yet remain.,290252,0,0,0,326,0,4,0,288499,0,0,0,0,0,0
+,This broken world is not yet finished...,290253,0,0,0,326,0,4,0,288500,0,0,0,0,0,0
+,But it will be if the All-Devouring returns.,290254,0,0,0,326,0,4,0,288501,0,0,0,0,0,0
+,Help me annihilate Dimensius.,290255,0,0,0,326,0,4,0,288502,0,0,0,0,0,0
+,The Ravel can always come next.,290256,0,0,0,358,0,4,0,288503,0,0,0,0,0,0
+,We will hear you out.,290257,0,0,0,326,0,4,0,288504,0,0,0,0,0,0
+,For now.,290258,0,0,0,358,0,4,0,288505,0,0,0,0,0,0
+Time grows short.,,290259,0,0,0,374,0,4,288506,0,0,0,0,0,0,0
+Dimensius the All-Devouring stirs.,,290260,0,0,0,374,0,4,288507,0,0,0,0,0,0,0
+,How?,290261,0,0,0,374,0,4,0,288508,0,0,0,0,0,0
+,"Dimensius was slain in the Netherstorm,",290262,0,0,0,374,0,4,0,288509,0,0,0,0,0,0
+,along with Nexus-King Salhadaar.,290263,0,0,0,374,0,4,0,288510,0,0,0,0,0,0
+"Like the K'areshi people,",,290264,0,0,0,374,0,4,288511,0,0,0,0,0,0,0
+the All-Devouring was merely shattered and dispersed.,,290265,0,0,0,374,0,4,288512,0,0,0,0,0,0,0
+"On every world the Shadowguard assaulted,",,290266,0,0,0,374,0,4,288513,0,0,0,0,0,0,0
+they searched for fragments of their master.,,290267,0,0,0,374,0,4,288514,0,0,0,0,0,0,0
+I have a new ally who revealed the Shadowguard's methods and treacheries to me.,,290268,0,0,0,374,0,4,288515,0,0,0,0,0,0,0
+Come.,,290269,0,0,0,374,0,4,288516,0,0,0,0,0,0,0
+We are on the hunt.,,290270,0,0,0,374,0,4,288517,0,0,0,0,0,0,0
+,My home.,291822,0,0,0,326,0,4,0,289837,0,0,0,0,0,0
+,"Once teeming with life, brought to ruin.",291823,0,0,0,326,0,4,0,289839,0,0,0,0,0,0
+,"But you, my esteemed colleague...",291824,0,0,0,326,0,4,0,289840,0,0,0,0,0,0
+,Look what you have accomplished.,291825,0,0,0,326,0,4,0,289842,0,0,0,0,0,0
+,It is not the same as the home I remember.,291826,0,0,0,326,0,4,0,289844,0,0,0,0,0,0
+,"But as the future evolves, so too must we...",291827,0,0,0,326,0,4,0,289845,0,0,0,0,0,0
+,"And in this, there is beauty.",291828,0,0,0,326,0,4,0,289846,0,0,0,0,0,0
+,"Thanks to you, new life has taken its first breaths here.",291829,0,0,0,326,0,4,0,289847,0,0,0,0,0,0
+,"And for that, K'aresh and I will be forever grateful.",291830,0,0,0,358,0,4,0,289848,0,0,0,0,0,0
+,"the oracles of the Wastes will be your army, Harbinger.",292746,0,0,0,358,0,4,0,291500,0,0,0,0,0,0

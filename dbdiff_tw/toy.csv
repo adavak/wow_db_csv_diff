@@ -885,7 +885,7 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200寶藏： |r 寶箱|n|cFFFFD200區域：|r澤斯克拉密庫,1305,204257,0,-1
 |cFFFFD200寶藏： |r 寶箱|n|cFFFFD200區域：|r澤斯克拉密庫,1306,204262,0,-1
 |cFFFFD200商人：|r艾蜜莉亞‧貝勒克|n|cFFFFD200區域：|r甦醒海岸|n|cFFFFD200費用：|r5|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,1307,199900,0,2
-寶藏：過度巨大的骷髏|n|cFFFFD200區域：|r澤斯克拉密庫,1308,203852,0,-1
+|cFFFFD200寶藏：|r過度巨大的骷髏|n|cFFFFD200區域：|r澤斯克拉密庫,1308,203852,0,-1
 |cFFFFD200專業技能：|r巨龍群島工程學|n,1309,201930,0,3
 ,1310,204389,4,-1
 |cFFFFD200世界事件：|r貴族花園,1311,204675,0,2
@@ -995,7 +995,8 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200區域：|r蒼藍高地,1491,224783,0,0
 |cFFFFD200寶藏：|r「織網補給品」|n|cFFFFD200區域：|r阿茲-卡罕特,1493,225347,0,0
 |cFFFFD200專業技能：|r卡茲阿爾加工程學,1494,221964,0,-1
-|cFFFFD200任務：|r先驅者之手澤克維爾|n|cFFFFD200區域：|r多恩諾加,1495,225547,4,1
+"|cFFFFD200任務：|r先驅者之手澤克維爾
+|cFFFFD200區域：|r多恩諾加",1495,225547,4,1
 ,1496,225641,0,-1
 |cFFFFD200寶藏：|r博學大師的獎勵|n|cFFFFD200區域：|r聖落之地,1497,225659,0,0
 |cFFFFD200商人：|r芬利‧莫戈頓爵士|n|cFFFFD200區域：|r多恩諾加|n|cFFFFD200花費：|r500|Hcurrency:2803|h|TInterface\ICONS\INV_Misc_ElvenCoins.blp:0|t|h,1498,225910,4,2
@@ -1039,7 +1040,7 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200商人：|r神秘的供應商|n|cFFFFD200區域：|r海妖島|n|cFFFFD200花費：|r750|Hcurrency:3090|h|TInterface\ICONS\INV_Siren_Isle_FlameBlessed_Iron.BLP:0|t|h,1541,235015,0,2
 |cFFFFD200促銷：|r《潘達利亞之謎》經典版,1542,235288,2,7
 |cFFFFD200商人：|r索威金|n|cFFFFD200區域：|r海妖島|n|cFFFFD200花費：|r750|Hcurrency:3090|h|TInterface\ICONS\INV_Siren_Isle_FlameBlessed_Iron.BLP:0|t|h,1543,234473,0,2
-,1545,235016,2,-1
+|cFFFFD200商人：|r芬利‧莫戈頓爵士|n|cFFFFD200區域：|r多恩諾加|n|cFFFFD200花費：|r5000|Hcurrency:2803|h|TInterface\ICONS\INV_Misc_ElvenCoins.blp:0|t|h|n,1545,235016,0,2
 |cFFFFD200商人：|r羅可‧拉茲砰|n|n|cFFFFD200區域：|r幽坑城,1548,235670,0,2
 |cFFFFD200商人：|r船務長哈蒂|n|n|cFFFFD200區域：|r幽坑城,1549,235671,0,2
 |cFFFFD200商人：|r實驗室助理萊茲莉|n|n|cFFFFD200區域：|r幽坑城,1550,235669,0,2
@@ -1067,3 +1068,22 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200區域：|r聖落之地
 |cFFFFD200花費：|r5000|Hcurrency:2815|h|TInterface\ICONS\SPELL_AZERITE_ESSENCE14.BLP:0|t|h",1578,239693,0,2
 |cFFFFD200商人：|r丹妮爾‧垂釣|n|cFFFFD200區域：|r機械岡|n|cFFFFD200花費：|r10|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,1579,167698,1,2
+|cFFFFD200掉落：|r「巧達」|n|cFFFFD200區域：|r凱瑞西|n,1582,242323,0,0
+|cFFFFD200促銷|r,1583,242534,2,7
+|cFFFFD200商人：|r里諾‧傑克森|n|cFFFFD200區域：|r多恩諾加,1584,243056,4,2
+,1587,244888,0,-1
+|cFFFFD200商人：|r啤酒節商人|n|cFFFFD200花費：|r200|TINTERFACE\ICONS\INV_MISC_COIN_01.BLP:0|t,1591,245946,0,-1
+|cFFFFD200寶藏：|r收發室配送|n|cFFFFD200區域：|r凱瑞西,1592,245970,0,0
+|cFFFFD200任務：|r我來，我見，我為維娜里|n|cFFFFD200區域：|r特洛古斯裂隙|n,1593,245567,0,1
+,1594,245631,0,-1
+|cFFFFD200商人：|r楚布羅|n|cFFFFD200區域：|r波拉勒斯港|n|cFFFFD200花費：|r1000|Hcurrency:1166|h|TInterface\ICONS\PVECurrency-Justice.blp:0|t|h|n|n|cFFFFD200商人：|r楚布羅|n|cFFFFD200區域：|r祖達薩|n|cFFFFD200花費：|r1000|Hcurrency:1166|h|TInterface\ICONS\PVECurrency-Justice.blp:0|t|h,1595,245942,0,2
+|cFFFFD200商人：|r楚布羅|n|cFFFFD200區域：|r祖達薩|n|cFFFFD200花費：|r1000|Hcurrency:1166|h|TInterface\ICONS\PVECurrency-Justice.blp:0|t|h|n|n|cFFFFD200商人：|r楚布羅|n|cFFFFD200區域：|r波拉勒斯港|n|cFFFFD200花費：|r1000|Hcurrency:1166|h|TInterface\ICONS\PVECurrency-Justice.blp:0|t|h,1596,246227,0,2
+|cFFFFD200掉落：|r『吞盡者』迪曼修斯|n|cFFFFD200區域：|r法力熔爐歐美加,1597,246565,0,0
+|cFFFFD200任務：|r擊敗奇維扎|n|cFFFFD200區域：|r多恩諾加,1599,244470,4,1
+|cFFFFD200商人：|r里諾‧傑克森|n|cFFFFD200區域：|r多恩諾加,1600,244792,4,2
+|cFFFFD200任務：|r像我一樣|n|cFFFFD200陣營：|r法力熔爐破壞者,1602,249713,6,-1
+|cFFFFD200商人：|r莎達尼絲|n|cFFFFD200區域：|r凱瑞西|n|cFFFFD200花費：|r3|Hcurrency:3303|h|TInterface\ICONS\INV_Misc_Coin_08.blp:0|t|h,1603,246903,0,2
+|cFFFFD200商人：|r莎達尼絲|n|cFFFFD200區域：|r凱瑞西|n|cFFFFD200花費：|r3|Hcurrency:3303|h|TInterface\ICONS\INV_Misc_Coin_08.blp:0|t|h,1604,246905,0,2
+|cFFFFD200商人：|r莎達尼絲|n|cFFFFD200區域：|r凱瑞西|n|cFFFFD200花費：|r3|Hcurrency:3303|h|TInterface\ICONS\INV_Misc_Coin_08.blp:0|t|h,1605,246908,0,2
+|cFFFFD200商人：|r莎達尼絲|n|cFFFFD200區域：|r凱瑞西|n|cFFFFD200花費：|r3|Hcurrency:3303|h|TInterface\ICONS\INV_Misc_Coin_08.blp:0|t|h,1606,246907,0,2
+|cFFFFD200商人：|r莎達尼絲|n|cFFFFD200區域：|r凱瑞西|n|cFFFFD200花費：|r3|Hcurrency:3303|h|TInterface\ICONS\INV_Misc_Coin_08.blp:0|t|h,1610,250722,0,2

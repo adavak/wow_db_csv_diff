@@ -3468,7 +3468,7 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 
 慢慢地攻击对手1到2次，每次造成[StandardDamage(1,1)]点[School()]伤害。
 
-如果使用者先攻击，则额外攻击一次。",1339043,8,0,0,0
+如果使用者后攻击，则额外攻击一次。",1339043,8,0,0,0
 2403,生命释放,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
 造成[StandardDamage(1,1)]点[School()]伤害。

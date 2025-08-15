@@ -887,7 +887,7 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200宝藏：|r宝箱|n|cFFFFD200地区：|r兹斯克拉宝库,1305,204257,0,-1
 |cFFFFD200宝藏：|r宝箱|n|cFFFFD200地区：|r兹斯克拉宝库,1306,204262,0,-1
 |cFFFFD200商人出售：|r艾米莉亚·贝洛克|n|cFFFFD200地区：|r觉醒海岸|n|cFFFFD200价格：|r5|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,1307,199900,0,2
-宝藏：过壮的骷髅|n|cFFFFD200地区：|r兹斯克拉宝库,1308,203852,0,-1
+|cFFFFD200宝藏：|r过壮的骷髅|n|cFFFFD200地区：|r兹斯克拉宝库,1308,203852,0,-1
 |cFFFFD200专业技能：|r巨龙群岛工程学|n,1309,201930,0,3
 ,1310,204389,4,-1
 |cFFFFD200世界事件：|r复活节,1311,204675,0,2
@@ -997,7 +997,8 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200地区：|r碧蓝林海,1491,224783,0,0
 |cFFFFD200宝藏： |r“纺织材料”|n|cFFFFD200区域： |r艾基-卡赫特,1493,225347,0,0
 |cFFFFD200专业技能：|r卡兹阿加工程学,1494,221964,0,-1
-|cFFFFD200任务：|r泽克维尔，先驱之手|n|cFFFFD200地区：|r多恩诺嘉尔,1495,225547,4,1
+"|cFFFFD200任务：|r泽克维尔，先驱之手
+|cFFFFD200地区：|r多恩诺嘉尔",1495,225547,4,1
 ,1496,225641,0,-1
 |cFFFFD200宝藏：|r博学者的奖赏|n|cFFFFD200地区：|r陨圣峪,1497,225659,0,0
 |cFFFFD200商人出售：|r芬利·莫格顿爵士|n|cFFFFD200地区：|r多恩诺嘉尔|n|cFFFFD200价格：|r500|Hcurrency:2803|h|TInterface\ICONS\INV_Misc_ElvenCoins.blp:0|t|h,1498,225910,4,2
@@ -1041,7 +1042,7 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200商人出售：|r戴兜帽的供应商|n|cFFFFD200地区：|r海妖岛|n|cFFFFD200价格：|r750|Hcurrency:3090|h|TInterface\ICONS\INV_Siren_Isle_FlameBlessed_Iron.BLP:0|t|h,1541,235015,0,2
 |cFFFFD200特殊：|r“熊猫人之谜”,1542,235288,2,7
 |cFFFFD200商人出售：|r索伊兹|n|cFFFFD200地区：|r海妖岛|n|cFFFFD200价格：|r750|Hcurrency:3090|h|TInterface\ICONS\INV_Siren_Isle_FlameBlessed_Iron.BLP:0|t|h,1543,234473,0,2
-,1545,235016,2,-1
+|cFFFFD200商人出售：|r芬利·莫格顿爵士|n|cFFFFD200地区：|r多恩诺嘉尔|n|cFFFFD200价格：|r5000|Hcurrency:2803|h|TInterface\ICONS\INV_Misc_ElvenCoins.blp:0|t|h|n,1545,235016,0,2
 |cFFFFD200商人出售：|r洛可·笑轰|n|n|cFFFFD200地区：|r安德麦,1548,235670,0,2
 |cFFFFD200商人出售：|r水手长哈迪|n|n|cFFFFD200地区：|r安德麦,1549,235671,0,2
 |cFFFFD200商人出售：|r实验室助理拉兹丽|n|n|cFFFFD200地区：|r安德麦,1550,235669,0,2
@@ -1069,3 +1070,22 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200地区：|r陨圣峪
 |cFFFFD200价格|r5000|Hcurrency:2815|h|TInterface\ICONS\SPELL_AZERITE_ESSENCE14.BLP:0|t|h",1578,239693,0,2
 |cFFFFD200商人出售：|r丹妮尔·渔钓|n|cFFFFD200地区：|r麦卡贡|n|cFFFFD200价格：|r10|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t,1579,167698,1,2
+|cFFFFD200掉落：|r“杂烩”|n|cFFFFD200地区：|r卡雷什|n,1582,242323,0,0
+|cFFFFD200特殊|r,1583,242534,2,7
+|cFFFFD200商人出售：|r雷诺·杰克逊|n|cFFFFD200地区：|r多恩诺嘉尔,1584,243056,4,2
+,1587,244888,0,-1
+|cFFFFD200商人出售：|r美酒节商人|n|cFFFFD200价格：|r200|TINTERFACE\ICONS\INV_MISC_COIN_01.BLP:0|t,1591,245946,0,-1
+|cFFFFD200宝藏：|r收发室配送物|n|cFFFFD200地区：|r卡雷什,1592,245970,0,0
+|cFFFFD200任务：|r威来，威见，威·娜莉|n|cFFFFD200地区：|r泰洛古斯裂隙|n,1593,245567,0,1
+,1594,245631,0,-1
+|cFFFFD200商人出售：|r彻布鲁|n|cFFFFD200地区：|r伯拉勒斯港|n|cFFFFD200价格：|r1000|Hcurrency:1166|h|TInterface\ICONS\PVECurrency-Justice.blp:0|t|h|n|n|cFFFFD200商人出售：|r彻布鲁|n|cFFFFD200地区：|r祖达萨|n|cFFFFD200价格：|r1000|Hcurrency:1166|h|TInterface\ICONS\PVECurrency-Justice.blp:0|t|h,1595,245942,0,2
+|cFFFFD200商人出售：|r彻布鲁|n|cFFFFD200地区：|r祖达萨|n|cFFFFD200价格：|r1000|Hcurrency:1166|h|TInterface\ICONS\PVECurrency-Justice.blp:0|t|h|n|n|cFFFFD200商人出售：|r彻布鲁|n|cFFFFD200地区：|r伯拉勒斯港|n|cFFFFD200价格：|r1000|Hcurrency:1166|h|TInterface\ICONS\PVECurrency-Justice.blp:0|t|h,1596,246227,0,2
+|cFFFFD200掉落：|r诸界吞噬者迪门修斯|n|cFFFFD200地区：|r法力熔炉：欧米伽,1597,246565,0,0
+|cFFFFD200任务：|r击败凯威扎|n|cFFFFD200地区：|r多恩诺嘉尔,1599,244470,4,1
+|cFFFFD200商人出售：|r雷诺·杰克逊|n|cFFFFD200地区：|r多恩诺嘉尔,1600,244792,4,2
+|cFFFFD200任务：|r同道中人|n|cFFFFD200阵营：|r法力熔炉破袭队,1602,249713,6,-1
+|cFFFFD200商人出售：|r莎德安妮丝|n|cFFFFD200地区：|r卡雷什|n|cFFFFD200价格：|r3|Hcurrency:3303|h|TInterface\ICONS\INV_Misc_Coin_08.blp:0|t|h,1603,246903,0,2
+|cFFFFD200商人出售：|r莎德安妮丝|n|cFFFFD200地区：|r卡雷什|n|cFFFFD200价格：|r3|Hcurrency:3303|h|TInterface\ICONS\INV_Misc_Coin_08.blp:0|t|h,1604,246905,0,2
+|cFFFFD200商人出售：|r莎德安妮丝|n|cFFFFD200地区：|r卡雷什|n|cFFFFD200价格：|r3|Hcurrency:3303|h|TInterface\ICONS\INV_Misc_Coin_08.blp:0|t|h,1605,246908,0,2
+|cFFFFD200商人出售：|r莎德安妮丝|n|cFFFFD200地区：|r卡雷什|n|cFFFFD200价格：|r3|Hcurrency:3303|h|TInterface\ICONS\INV_Misc_Coin_08.blp:0|t|h,1606,246907,0,2
+|cFFFFD200商人出售：|r莎德安妮丝|n|cFFFFD200地区：|r卡雷什|n|cFFFFD200价格：|r3|Hcurrency:3303|h|TInterface\ICONS\INV_Misc_Coin_08.blp:0|t|h,1610,250722,0,2

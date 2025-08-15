@@ -2,7 +2,7 @@ Field_11_0_0_54935_000_lang,ID,Field_11_0_0_54935_002,GossipXUIDisplayInfoID
 |cnWHITE_FONT_COLOR:遺失的珍寶|r|n從入侵的狗頭人手中奪回被偷走的珍寶！,3,122390,51
 |cnWHITE_FONT_COLOR:侵入的狗頭人|r|n狗頭人已經佔領了克里格瓦之眠，必須把他們趕出去！,4,122392,51
 |cnWHITE_FONT_COLOR:達格蘭出任務|r|n達格蘭‧索瑞森二世想找人來幫他進行實戰訓練。,5,122393,51
-|cnWHITE_FONT_COLOR:NYI|r|n,6,122394,51
+|cnWHITE_FONT_COLOR:搞怪蠟燭|r|n史奇克聽說暗融留下了一些搞怪蠟燭。他跑來找，卻反而找到虛無！,6,122394,51
 |cnWHITE_FONT_COLOR:黑暗儀式|r|n黑夜教團正在進行一個腐化這個區域的可恨儀式！,7,122376,59
 |cnWHITE_FONT_COLOR:凱隆襲擊|r|n偉大的凱隆正在襲擊夜暮聖所，他需要你的幫助！,8,122377,59
 |cnWHITE_FONT_COLOR:信號雜音|r|n完成遇害燈火者的任務，並從黑夜教團手中拯救人質。,9,122378,59
@@ -14,7 +14,7 @@ Field_11_0_0_54935_000_lang,ID,Field_11_0_0_54935_002,GossipXUIDisplayInfoID
 |cnWHITE_FONT_COLOR:失落的礦工|r|n拯救一群遭蘑菇人囚禁的土靈礦工。,15,122386,50
 |cnWHITE_FONT_COLOR:散播腐朽|r|n一名祈倫托法師正試著擊退蘑菇人的腐朽勢力。,16,122387,50
 |cnWHITE_FONT_COLOR:探險家競賽|r|n探險者協會的成員將在洞穴深處來一場友誼競爭。,17,122388,50
-|cnWHITE_FONT_COLOR:NYI|r|n,18,122389,50
+|cnWHITE_FONT_COLOR:傳送器震顫|r|n協助多話的工程師修復他的傳送網路。,18,122389,50
 |cnWHITE_FONT_COLOR:失蹤的豬|r|n農夫的豬在洞穴中失蹤了，需要把牠找回來。,19,122332,58
 |cnWHITE_FONT_COLOR:大尋寶|r|n迪奈爾大廚將舉辦一場尋寶活動。,20,122333,58
 |cnWHITE_FONT_COLOR:NYI|r|n,21,122334,58
@@ -66,3 +66,13 @@ Field_11_0_0_54935_000_lang,ID,Field_11_0_0_54935_002,GossipXUIDisplayInfoID
 |cnWHITE_FONT_COLOR:第三方行動|r|n幫助苟雅女士不讓寶貴的黑血落入加里維克斯的手中。,76,133788,60
 |cnWHITE_FONT_COLOR:泵浦制動|r|n幫助帕姆西和團隊破壞加里維克斯的泵浦作業。,77,133792,54
 |cnWHITE_FONT_COLOR:挫挫銳氣|r|n利用奈幽蟲族火力來放倒哥布林機甲。,78,133850,57
+|cnWHITE_FONT_COLOR:取回聖物|r|n協助取回以太族從蒼藍高地掠奪的神器。,79,136927,69
+|cnWHITE_FONT_COLOR:暗影之翼|r|n救援被入侵的以太族注入虛無的藍龍。,80,136928,69
+|cnWHITE_FONT_COLOR:以牙還牙|r|n使用以太族自己的基礎設施擊退他們。,81,136929,69
+|cnWHITE_FONT_COLOR:料理災難|r|n一名哥布林廚師想要利用區域內的潛在資源。,82,137352,65
+|cnWHITE_FONT_COLOR:鱷魚放生|r|n將幽坑城下水道的鱷魚放回牠們的自然棲地，協助保護這個物種。,83,137516,66
+|cnWHITE_FONT_COLOR:騎士任務|r|n狗頭人騎士包圍住一隻兇猛的野獸，需要協助追蹤到牠的巢穴。,84,137714,65
+|cnWHITE_FONT_COLOR:拆彈|r|n「安全地」棄置堆在下水道中的不穩定爆裂物。,85,138372,66
+|cnWHITE_FONT_COLOR:暗箭難防|r|n奇維扎只歡迎最值得、最魯莽的目標到她家。,86,34450,70
+|cnWHITE_FONT_COLOR:進入『帷幕市集』塔札維許！|r|n|n在帷幕市集殺出一條血路，阻止索利亞獲取力量。,107,92044,75
+|cnWHITE_FONT_COLOR:甬道之門騙局|r|n重建寶庫的甬道之門網絡。瓦解其中的以太族部隊！,118,138779,69

@@ -2,7 +2,7 @@ Field_11_0_0_54935_000_lang,ID,Field_11_0_0_54935_002,GossipXUIDisplayInfoID
 |cnWHITE_FONT_COLOR:丢失的纪念品|r|n从入侵的狗头人那里夺回失窃的纪念品！,3,122390,51
 |cnWHITE_FONT_COLOR:成群的狗头人|r|n狗头人已经占领了克莱格瓦之眠，快把他们赶出去！,4,122392,51
 |cnWHITE_FONT_COLOR:达格兰的郊游|r|n达格兰·索瑞森二世正在寻求实地训练方面的帮助。,5,122393,51
-|cnWHITE_FONT_COLOR:NYI|r|n,6,122394,51
+|cnWHITE_FONT_COLOR:滑稽的蜡烛|r|n斯奎克听说暗索留下了一些滑稽的蜡烛。他为找蜡烛而来，找到的却是虚空！,6,122394,51
 |cnWHITE_FONT_COLOR:黑暗仪式|r|n玄夜会正在进行一场亵渎的仪式，想要腐化这片区域！,7,122376,59
 |cnWHITE_FONT_COLOR:凯隆的突击|r|n崇高者凯隆打算对夜幕圣所发起突袭，需要你驰援相助！,8,122377,59
 |cnWHITE_FONT_COLOR:信号杂音|r|n完成死去燃灯者的遗志，从玄夜会那里营救人质。,9,122378,59
@@ -14,7 +14,7 @@ Field_11_0_0_54935_000_lang,ID,Field_11_0_0_54935_002,GossipXUIDisplayInfoID
 |cnWHITE_FONT_COLOR:失踪的矿工|r|n营救一群被真菌人抓住的土灵矿工。,15,122386,50
 |cnWHITE_FONT_COLOR:腐朽蔓延|r|n一位肯瑞托法师正在驱散真菌人散布的腐朽。,16,122387,50
 |cnWHITE_FONT_COLOR:探险者角逐|r|n探险者协会的成员在洞穴内展开了一场友好的比赛。,17,122388,50
-|cnWHITE_FONT_COLOR:NYI|r|n,18,122389,50
+|cnWHITE_FONT_COLOR:传送器异动|r|n协助话痨工程师修复传送网络。,18,122389,50
 |cnWHITE_FONT_COLOR:丢失的猪猡|r|n一个农民的猪在洞穴中失踪了，得把它们找回来。,19,122332,58
 |cnWHITE_FONT_COLOR:超级寻宝游戏|r|n大厨迪奈雷正在举办一场寻宝游戏。,20,122333,58
 |cnWHITE_FONT_COLOR:NYI|r|n,21,122334,58
@@ -66,3 +66,13 @@ Field_11_0_0_54935_000_lang,ID,Field_11_0_0_54935_002,GossipXUIDisplayInfoID
 |cnWHITE_FONT_COLOR:第三方经营|r|n帮助郭雅夫人，不要让加里维克斯染指珍贵的黑血。,76,133788,60
 |cnWHITE_FONT_COLOR:紧急停工|r|n协助帕姆希和她的班底，破坏加里维克斯的泵送作业。,77,133792,54
 |cnWHITE_FONT_COLOR:裁撤精简|r|n凭借蛛魔的火力击毁地精机甲。,78,133850,57
+|cnWHITE_FONT_COLOR:遗物回收|r|n协助夺回虚灵从碧蓝档案馆中盗走的神器,79,136927,69
+|cnWHITE_FONT_COLOR:蒙影之翼|r|n营救被虚灵入侵者灌注虚空之力的蓝色幼龙,80,136928,69
+|cnWHITE_FONT_COLOR:穷追猛打|r|n利用虚灵的设施，以其人之道还治其人之身。,81,136929,69
+|cnWHITE_FONT_COLOR:美食大灾难|r|n一名地精大厨灵光乍现，决定发掘这一区域中尚未开发的资源。,82,137352,65
+|cnWHITE_FONT_COLOR:放归鳄鱼|r|n将安德麦的下水道鳄鱼放生到自然栖息地中，协助保护这一种群。,83,137516,66
+|cnWHITE_FONT_COLOR:骑士的使命|r|n狗头人骑士将凶恶的野兽逼入了绝境，但还需要帮手来追查它的巢穴。,84,137714,65
+|cnWHITE_FONT_COLOR:炸药爆翻天|r|n“安全地”处置堆存在下水道中的不稳定炸药。,85,138372,66
+|cnWHITE_FONT_COLOR:黑暗中的尖刀|r|n凯威扎邀请最值得挑战、最有勇无谋的目标登门做客。,86,34450,70
+|cnWHITE_FONT_COLOR:进入塔扎维什，帷纱集市！|r|n|n在帷纱集市中突破障碍，阻止索·莉亚对力量的图谋。,107,92044,75
+|cnWHITE_FONT_COLOR:界门奇谋|r|n重建魔馆的界门网络，从内部瓦解虚灵的部队！,118,138779,69
