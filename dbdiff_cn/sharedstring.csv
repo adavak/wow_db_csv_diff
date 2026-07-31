@@ -76,7 +76,7 @@ String_lang,ID,Flags
 需要“$@spellname108558”天赋,1039,0
 需要“$@spellname386997”天赋,1041,0
 需要“$@spellname375982”天赋,1042,0
-需要“$@spellname200071”天赋或“$@spellname73685”天赋,1043,0
+需要“$@spellname73685”天赋,1043,0
 需要“$@spellname51564”天赋,1044,0
 需要“$@spellname79206”天赋,1045,0
 需要“$@spellname210689”天赋,1046,0
@@ -88,7 +88,7 @@ String_lang,ID,Flags
 需要“$@spellname5484”天赋,1053,0
 需要“$@spellname106898”天赋,1054,0
 需要“$@spellname274837”天赋,1055,0
-需要“$@spellname80313”天赋,1056,0
+需要“$@spellname1253799”天赋,1056,0
 需要“$@spellname202770”天赋或“$@spellname274281”天赋,1057,0
 需要“$@spellname204066”天赋,1058,0
 需要“$@spellname203964”天赋,1059,0
@@ -118,7 +118,7 @@ String_lang,ID,Flags
 需要“$@spellname382440”天赋,1084,0
 需要“$@spellname55342”天赋,1085,0
 需要“$@spellname365350”天赋,1086,0
-需要“$@spellname12472”天赋,1087,0
+需要“$@spellname205021”天赋,1087,0
 需要“$@spellname190319”天赋,1088,0
 需要“$@spellname384581”天赋,1089,0
 需要“$@spellname2948”天赋,1090,0
@@ -137,7 +137,7 @@ String_lang,ID,Flags
 需要“$@spellname114165”天赋或“$@spellname148039”天赋,1103,0
 需要“$@spellname384376”天赋,1104,0
 需要“$@spellname53595”天赋或“$@spellname204019”天赋,1105,0
-需要“$@spellname387174”天赋,1106,0
+需要“$@spellname375576”天赋,1106,0
 需要“$@spellname375576”天赋,1107,0
 需要“$@spellname6940”天赋,1108,0
 需要“$@spellname190784”天赋,1109,0
@@ -151,6 +151,7 @@ String_lang,ID,Flags
 需要“$@spellname232893”天赋和“$@spellname198793”天赋,1118,0
 需要“$@spellname373481”天赋,1119,0
 用更高物品等级的火花再造此物品会永久移除用S.A.D.添加的插槽。|n|n你确定要继续吗？,1120,1
+至暗之夜,1121,1
 等级 2,1123,0
 等级 3,1124,0
 等级 4,1125,0
@@ -181,8 +182,27 @@ String_lang,ID,Flags
 分栏4,1150,0
 分栏5,1151,0
 分栏6,1152,0
+制造普通品质的宝箱,1153,1
 测试,1154,1
 材料,1155,0
 使用新赛季的纹章再造这件物品将永久移除添加的插槽。|n|n你确定要继续吗？,1156,0
 虚空仓库1,1157,0
 虚空仓库2,1158,0
+需要“$@spellname385627”天赋,1172,0
+需要“$@spellname201900”天赋,1173,0
+你尚未与这位神灵建立羁绊……,1202,1
+通过仪式场地最终首领掉落解锁。,1203,0
+Unlocked via a TBD - Manifestations.,1204,0
+Unlocked via a TBD - Magical Alarm Bells.,1205,0
+"Unlocked via a TBD - Shrines, Portals, Obelisks.",1206,0
+Unlocked via a TBD - Extra Mobs.,1207,0
+Unlocked via a TBD - Banners.,1208,0
+Unlocked via a TBD - Rares.,1209,0
+Unlocked via a TBD - Bonus Area.,1210,0
+需要“$@spellname205022”天赋,1211,0
+需要“$@spellname31687”天赋,1212,0
+,1213,0
+达到%d级以提升等级,1217,0
+需要“$@spellname53351”天赋,1218,0
+仪式场地,1229,0
+传送门目的地：,1232,0

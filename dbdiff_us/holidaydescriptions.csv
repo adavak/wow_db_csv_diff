@@ -14,7 +14,7 @@ Visit the Alliance camp outside Ironforge, or the Horde camp outside Orgrimmar, 
 11,"After the sun sets, the end of Midsummer is celebrated, with an hourly firework extravaganza.
 
 To watch the show, visit any capital city or Booty Bay."
-12,"Show an orphan what the hero's life is like!  Visit Orphan Matron Nightingale in Stormwind, Orphan Matron Battlewail in Orgrimmar, Orphan Matron Mercy in Shattrath, Orphan Matron Aria in Dalaran, Caretaker Padae in Dazar'alor, or Orphan Matron Westerson in Boralus and make a child's dream come true."
+12,"Show an orphan what the hero's life is like!  Visit Orphan Matron Nightingale in Stormwind, Orphan Matron Battlewail in Orgrimmar, Orphan Matron Mercy in Shattrath, Orphan Matron Aria in Dalaran, Caretaker Padae in Dazar'alor, Orphan Matron Westerson in Boralus, or Ullna in Dornogal and make a child's dream come true."
 13,"Greatfather Winter is visiting the cities of Ironforge and Orgrimmar, courtesy of Smokywood Pastures.  And throughout Azeroth, it is the season to be jolly!"
 14,"The feast of Noblegarden has arrived.  The proving grounds of each race, the place where young heroes first test their strength, each holds cleverly hidden treasure eggs.  How many can you find?"
 15,"Hallow's End celebrates the break of the Forsaken from the Scourge.
@@ -23,7 +23,7 @@ Fun and mischief reign as the Innkeepers of Azeroth give treats, and tricks, to 
 16,The Harvest Festival is a time to commemorate those  who have sacrificed their lives to help friends and allies.  Feasts are held outside Orgrimmar and Ironforge in honor of these fallen heroes.
 17,"Every year the druids of Moonglade hold a celebration of their city's great triumph over an ancient evil. During the Lunar Festival, citizens of Azeroth have the opportunity to honor their elders by celebrating their sage wisdom, sharing in magnificent feasts, and of course... shooting lots of fireworks!"
 18,"Started by the dwarves, Brewfest is now a worldwide celebration of brews and good times."
-21,"Captain Demeza sails to the goblin town of Booty Bay and recruits land-lovers into her buccaneer ranks.
+21,"Captain DeMeza sails to the goblin town of Booty Bay and recruits land-lovers into her buccaneer ranks.
 
 Visit her or her henchmen in the capital cities if the pirate's life is for you!"
 22,The battle for Alterac Valley grows intense.  Greater honor is given to those who pledge sword to their liege and battle in Alterac.
@@ -46,7 +46,7 @@ Horde Zeppelins leave from outside Orgrimmar and Undercity.
 See you in Northrend..."
 81,"During the Day of the Dead, people gather in graveyards to celebrate with and cherish the spirits of those they have lost.
 
-One can find the festivities in the cemeteries of any major city, where celebrants cook, dance, don costumes, and more."
+One can find the festivities in the cemeteries of many major cities, where celebrants cook, dance, don costumes, and more."
 101,Pilgrim's Bounty is a time to reflect upon one's good fortune and share with all around you.
 121,The battle for the Isle of Conquest grows intense.  Greater honor is given to those who pledge sword to their liege and battle upon the Isle.
 141,Test test
@@ -210,7 +210,7 @@ Who is behind it all? Seek the Preservationists and help them find out! New secr
 446,
 447,"Yet again, the Bronze Dragonflight has discovered growing disturbances in the timeways, with several rapidly intersecting our own!
 
-For completing consecutive Timewalking dungeons you will gain Knowledge of Timeways, increasing your experience gained temporarily. Also, for a limited time, the Timewalking quest in Dornogal from Archivist Frithrun will offer an increased reward - an all new, Heroic level Cache of Nerubian Treasures."
+For completing consecutive Timewalking dungeons you will gain Knowledge of Timeways, increasing your experience gained temporarily. Also, for a limited time, the Timewalking quest in Silvermoon from Archmage Aethas Sunreaver will offer an increased reward - an all new, Heroic level Cache of Quel'Thalas Treasures."
 448,The Riders of Azeroth invite skyriders to compete in races throughout Northrend! Talk to Lord Andestrasz in Valdrakken for more information.
 449,The Riders of Azeroth invite skyriders to compete in races throughout Pandaria! Talk to Lord Andestrasz in Valdrakken for more information.
 450,The Riders of Azeroth invite skyriders to compete in races throughout The Broken Isles! Talk to Lord Andestrasz in Valdrakken for more information.
@@ -242,6 +242,7 @@ Swap yer Plunder at the Plunderstore for booty from Keg Leg's private stash incl
 478,Players may now use the Raid Finder to access the fourth section of Liberation of Undermine: The Chrome King.
 479,Players may now confront Chrome King Gallywix in Story Mode.
 480,Soridormi and the Bronze Dragonflight arrive to help adventurers return to the time of the Horrific Visions of Stormwind and Orgrimmar. Their goal is to try and learn more from the void's attack in the past to use in the current battle for Azeroth.
+481,The infinite dragonflight is investigating the history of the Broken Isles. Replay the Legion expansion with new seasonal abilities and rewards!
 482,"Disrupt Manaforge Omega's operations, or else risk a reborn Dimensius feasting on reality itself."
 483,"While this event is active, players level 10 or higher may access a special Timewalking Dungeon Finder queue, which scales dungeons and rewards to your level to revisit past dungeons from the Battle for Azeroth expansion."
 484,"Earn bonus experience and reputation on your adventures in Azeroth, and find mysterious fortunes in the Dragon Isles and Khaz Algar!"
@@ -252,3 +253,21 @@ Swap yer Plunder at the Plunderstore for booty from Keg Leg's private stash incl
 489,Players may now use the Raid Finder to access the third section of Manaforge Omega: Heart of Darkness.
 490,"Players may now confront Dimensius, the All-Devouring in Story Mode."
 491,Hostile Titan constructs have surfaced in many of the dark recesses of Khaz Algar. We must deal with the threat they pose.
+492,"While this event is active, players level 10 or higher may access a special Timewalking Dungeon Finder queue, which scales dungeons and rewards to your level to revisit past dungeons from the Shadowlands expansion."
+493,"While this event is active, players level 10 or higher may access a special Timewalking Dungeon Finder queue, which scales dungeons and rewards to your level to revisit past dungeons from the Dragonflight expansion."
+495,"The whispers have grown louder, and the shadows deeper. Xal'atath now seeks to unleash the might of the Voidspire."
+496,Players may now use the Raid Finder to access the first section of The Voidspire: Weapons of the Void.
+497,Players may now use the Raid Finder to access the second section of The Voidspire: Fanatics of the Light.
+498,Players may now use the Raid Finder to access the third section of The Voidspire: Crown of the Cosmos.
+499,Players may now confront Crown of the Cosmos in Story Mode.
+500,Mythic difficulty of The Voidspire raid awaits the boldest of adventurers.
+501,"Confront Chimaerus, the Undreamt God, before its suffering and rage spills out into Harandar."
+502,Players may now use the Raid Finder to access The Dreamrift.
+504,Mythic difficulty of The Dreamrift raid awaits the boldest of adventurers.
+505,March on the Sunwell with Arator the Redeemer and Lady Liadrin before the light of the blood elves is lost forever.
+506,Players may now use the Raid Finder to access March on Quel'Danas.
+507,Players may now confront Midnight Falls in Story Mode.
+508,Mythic difficulty of the March on Quel'Danas raid awaits the boldest of adventurers.
+509,"Join the Darkspear trolls as they celebrate individuality and identity! Race up Kalimdor and across the Eastern Kingdoms, from Echo Isles to Silvermoon!"
+510,"While this event is active, the final boss of each Midnight dungeon awards an extra item when defeated."
+511,Players may now access Sporefall on all difficulties.

@@ -1,0 +1,11 @@
+Name_lang,Description_lang,ID,TriggerEnum,Flags
+,,1,1,3
+,,2,2,0
+位置,|cnHIGHLIGHT_FONT_COLOR:所有位置：|r這套服裝適用於所有位置。優先排序針對特定位置的服裝。|n|n|cnHIGHLIGHT_FONT_COLOR:休息區域：|r非戰鬥區域，例如城鎮和社區。|n|n|cnHIGHLIGHT_FONT_COLOR:房屋：|r戰隊的房屋。|n|n|cnHIGHLIGHT_FONT_COLOR:角色選擇：|r在戰隊營地和獨立視角的顯示模型。|n|n|cnHIGHLIGHT_FONT_COLOR:世界：|r戶外戰鬥區域。,3,3,4
+移動,選擇適用於這套服裝的移動類型。,4,4,4
+專精,選擇適用於這套服裝的專精。,5,5,4
+裝備套裝,選擇適用於這套服裝的裝備套裝。,6,6,4
+種族形態,選擇適用於這套服裝的種族形態。,7,7,4
+,,9,8,0
+天氣,選擇適用於這套服裝的天氣狀況。,11,9,4
+時段,選擇適用於這套服裝的時段。,12,10,4

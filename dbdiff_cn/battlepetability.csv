@@ -2856,7 +2856,7 @@ Deals [StandardDamage(getProcIndex(PROC_ON_SWAP_IN), 1)] damage when swapping in
 当这个效果结束时，你的当前宠物会受到[StandardDamage(3,1)]点[School()]伤害，并在[duration(3,2)]轮内无法逃跑。",236271,5,0,1118,0
 2064,茶话会,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
 
-瞬间攻击敌人，对敌人的所有宠物造成[StandardDamage(1,7)]点[School()]伤害。",132802,3,0,0,0
+瞬间攻击敌人的队伍两次，第一次攻击对敌人的所有宠物造成[StandardDamage(1,1)]点[School()]伤害，第二次攻击造成[StandardDamage(1,4)]点[School()]伤害。",132802,3,0,0,0
 2065,小憩,"进入睡眠状态，首轮回复[StandardHealing(1,1,2066)]点生命值，第二轮回复[StandardHealing(2,1,2066)]点生命值，第三轮回复[StandardHealing(3,1,2066)]点生命值。
 
 处于小憩状态时，你不能切换宠物。",132156,7,5,0,2
@@ -3824,3 +3824,6 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 立即造成[StandardDamage(1,1)]点[School()]伤害，在黑暗天气下外加[StandardDamage(1,3)]点伤害。随后，使用者必须重新充能2轮。
 
 在充能过程中，你无法做出任何其它动作。",6238556,5,0,0,0
+2539,邪能新星,"[StandardAccuracy(1,1)] |cffffffff命中几率|r
+
+召唤邪能冲击波，对所有敌方宠物造成[StandardDamage(1,1)]点[School()]伤害。",135795,6,3,0,0

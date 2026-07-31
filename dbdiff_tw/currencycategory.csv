@@ -21,12 +21,16 @@ ID,Name_lang,Flags,ExpansionID,ParentCategoryID
 248,Torghast UI (Hidden),4,8,0
 250,巨龍軍團,16,9,257
 251,Dragon Racing UI (Hidden),4,9,0
-252,巨牙海民 - 漁網(隱藏),4,9,0
+252,巨牙海民 - 漁網（隱藏）,4,9,0
 253,Test Subcategory 1,4,8,256
 254,Test Subcategory 2,4,8,253
 255,Test Subcategory 3,4,8,245
 256,Test Subcategory 4,4,8,245
 257,遺物,16,0,0
-260,地心之戰,0,10,0
+260,地心之戰,16,10,257
 263,第2季,0,10,260
+264,至暗之夜,0,11,0
 265,第3季,0,10,260
+266,時光奔走,16,10,1
+268,第1季,0,11,264
+278,地點分數介面（隱藏）,4,11,0

@@ -1,0 +1,11 @@
+Name_lang,Description_lang,ID,TriggerEnum,Flags
+,,1,1,3
+,,2,2,0
+地点,|cnHIGHLIGHT_FONT_COLOR:所有位置：|r这个外观方案在所有位置都可使用。为特定位置分配的外观方案将优先使用。|n|n|cnHIGHLIGHT_FONT_COLOR:休息区域：|r城镇和住宅区等非战斗区域。|n|n|cnHIGHLIGHT_FONT_COLOR:住宅：|r你的战团住宅。|n|n|cnHIGHLIGHT_FONT_COLOR:角色选择：|r战团营地或单独查看时显示。|n|n|cnHIGHLIGHT_FONT_COLOR:世界：|r户外战斗区域。,3,3,4
+移动,选择这个外观方案适用的移动类型。,4,4,4
+专精,选择这个外观方案适用的专精。,5,5,4
+装备配置方案,选择这个外观方案适用的装备配置方案。,6,6,4
+种族形态,选择这个外观方案适用的种族形态。,7,7,4
+,,9,8,0
+天气,选择这个外观方案适用的天气条件。,11,9,4
+当日时间,选择这个外观方案适用的当日时间。,12,10,4

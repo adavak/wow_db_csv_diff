@@ -1,5 +1,5 @@
 ID,Name_lang,TotemCategoryType,TotemCategoryMask
-1,剝皮小刀 (OLD),1,1
+1,剝皮小刀（OLD）,1,1
 2,大地圖騰,2,1
 3,風之圖騰,2,2
 4,火焰圖騰,2,4
@@ -9,9 +9,9 @@ ID,Name_lang,TotemCategoryType,TotemCategoryMask
 8,符文附魔棒,24,65536
 9,符文附魔棒,24,65536
 10,符文附魔棒,24,65536
-11,礦工鋤 (OLD),21,1
+11,礦工鋤（OLD）,21,1
 12,點金石,22,1
-13,鐵匠之錘 (OLD),23,1
+13,鐵匠之錘（OLD）,23,1
 14,魔光扳手,24,1
 15,地精微調器,24,2
 21,大師圖騰,2,15

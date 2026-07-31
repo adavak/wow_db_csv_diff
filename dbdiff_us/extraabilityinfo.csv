@@ -1,4 +1,4 @@
-ID,TutorialText_lang,SpellID,ActionBarOverrideSpellID,SpellLabel,UiTextureKitID,UiPriority
+ID,TutorialText_lang,SpellID,ActionBarOverrideSpellID,LabelID,UiTextureKitID,UiPriority
 1,Garrison Zone ability unlocked!|n|nYou can drag this to your action bar.,161691,170108,0,5289,0
 2,Kyrian zone ability unlocked!|n|nYou can drag this to your action bar.,313347,313335,0,5290,100
 3,Kyrian zone ability unlocked!|n|nYou can drag this to your action bar.,326526,326532,0,5290,200
@@ -81,3 +81,9 @@ ID,TutorialText_lang,SpellID,ActionBarOverrideSpellID,SpellLabel,UiTextureKitID,
 86,,464027,464028,0,5421,0
 87,,464035,464037,0,5421,0
 90,G-99 Breakneck unlocked!|n|nYou can drag this to your action bar.,1215279,1215281,0,5295,100
+91,Timerunning ability unlocked!|n|nYou can drag this to your action bar.,1232808,0,4935,5556,104
+92,,1288547,1294817,0,5290,0
+93,,1293797,1294817,0,5290,0
+94,,1294091,1294891,0,5290,0
+95,,1287466,1297804,0,5290,0
+96,,1297857,1297858,0,5290,0

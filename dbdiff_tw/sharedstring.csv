@@ -76,7 +76,7 @@ String_lang,ID,Flags
 需要$@spellname108558天賦,1039,0
 需要$@spellname386997天賦,1041,0
 需要$@spellname375982天賦,1042,0
-需要$@spellname200071天賦或$@spellname73685天賦,1043,0
+需要$@spellname73685天賦,1043,0
 需要$@spellname51564天賦,1044,0
 需要$@spellname79206天賦,1045,0
 需要$@spellname210689天賦,1046,0
@@ -88,7 +88,7 @@ String_lang,ID,Flags
 需要$@spellname5484天賦,1053,0
 需要$@spellname106898天賦,1054,0
 需要$@spellname274837天賦,1055,0
-需要$@spellname80313天賦,1056,0
+需要$@spellname1253799天賦,1056,0
 需要$@spellname202770天賦或$@spellname274281天賦,1057,0
 需要$@spellname204066天賦,1058,0
 需要$@spellname203964天賦,1059,0
@@ -118,7 +118,7 @@ String_lang,ID,Flags
 需要$@spellname382440天賦,1084,0
 需要$@spellname55342天賦,1085,0
 需要$@spellname365350天賦,1086,0
-需要$@spellname12472天賦,1087,0
+需要$@spellname205021天賦,1087,0
 需要$@spellname190319天賦,1088,0
 需要$@spellname384581天賦,1089,0
 需要$@spellname2948天賦,1090,0
@@ -137,7 +137,7 @@ String_lang,ID,Flags
 需要$@spellname114165天賦或$@spellname148039天賦,1103,0
 需要$@spellname384376天賦,1104,0
 需要$@spellname53595天賦或$@spellname204019天賦,1105,0
-需要$@spellname387174天賦,1106,0
+需要$@spellname375576天賦,1106,0
 需要$@spellname375576天賦,1107,0
 需要$@spellname6940天賦,1108,0
 需要$@spellname190784天賦,1109,0
@@ -151,6 +151,7 @@ String_lang,ID,Flags
 需要$@spellname232893天賦和$@spellname198793天賦,1118,0
 需要$@spellname373481天賦,1119,0
 以物品等級更高的火花重新製作這個物品後，將會永久移除S.A.D.增加的插槽。|n|n確定要繼續嗎？,1120,1
+至暗之夜,1121,1
 等級2,1123,0
 等級3,1124,0
 等級4,1125,0
@@ -181,8 +182,27 @@ String_lang,ID,Flags
 分頁4,1150,0
 分頁5,1151,0
 分頁6,1152,0
+製作普通寶箱,1153,1
 測試,1154,1
 材料,1155,0
 以較新賽季的徽章重新製作此物品將會永久移除增加的插槽。|n|n你確定要繼續嗎？,1156,0
 虛空倉庫1,1157,0
 虛空倉庫2,1158,0
+需要$@spellname385627天賦,1172,0
+需要$@spellname201900天賦,1173,0
+你尚未與此羅亞締結連結…,1202,1
+透過儀式地點最終首領的掉落物解鎖。,1203,0
+Unlocked via a TBD - Manifestations.,1204,0
+Unlocked via a TBD - Magical Alarm Bells.,1205,0
+"Unlocked via a TBD - Shrines, Portals, Obelisks.",1206,0
+Unlocked via a TBD - Extra Mobs.,1207,0
+Unlocked via a TBD - Banners.,1208,0
+Unlocked via a TBD - Rares.,1209,0
+Unlocked via a TBD - Bonus Area.,1210,0
+需要$@spellname205022天賦,1211,0
+需要$@spellname31687天賦,1212,0
+,1213,0
+達到%d級以提高等級,1217,0
+需要$@spellname53351天賦,1218,0
+儀式地點,1229,0
+傳送門目的地：,1232,0

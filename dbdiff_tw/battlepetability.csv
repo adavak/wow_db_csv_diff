@@ -2855,7 +2855,7 @@ ID,Name_lang,Description_lang,IconFileDataID,PetTypeEnum,Cooldown,BattlePetVisua
 當此效果結束時，你當前的寵物受到[StandardDamage(3,1)]點[School()]傷害，且無法逃離戰場，持續[duration(3,2)]輪。",236271,5,0,1118,0
 2064,茶會,"[StandardAccuracy(1,1)]|cffffffff命中機率|r
 
-在眨眼間攻擊敵人，對所有敵方寵物造成[StandardDamage(1,7)]點[School()]傷害。",132802,3,0,0,0
+在眨眼間攻擊敵人兩次，第一次攻擊對所有敵方寵物造成[StandardDamage(1,1)]點[School()]傷害，第二次攻擊造成[StandardDamage(1,4)]點[School()]傷害。",132802,3,0,0,0
 2065,小睡時間,"陷入沉睡，第一輪恢復[StandardHealing(1,1,2066)]點生命力，第二輪恢復[StandardHealing(2,1,2066)]點生命力，然後第三輪恢復[StandardHealing(3,1, 2066)]點生命力。
 
 在休眠期間，你無法切換寵物。",132156,7,5,0,2
@@ -3829,3 +3829,6 @@ Apply an aura of reflection to the enemy team, causing them to suffar damage equ
 立即造成[StandardDamage(1,1)]點[School()]傷害，若天氣是黑暗，則外加[StandardDamage(1,3)]點傷害。使用之後，使用者必須充能兩回合。
 
 充能時，你無法執行其他行動。",6238556,5,0,0,0
+2539,魔化新星,"[StandardAccuracy(1,1)]|cffffffff命中機率|r
+
+召喚一道魔能波動，對所有敵方寵物造成[StandardDamage(1,1)]點[School()]傷害。",135795,6,3,0,0

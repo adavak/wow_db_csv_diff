@@ -92,13 +92,13 @@ Fish Up Items on the Dragon Isles,,95,141125,100,0,0
 /love at Fallen Dragons,Emote /love at 2 fallen dragons inside of their raid.,97,141887,50,0,0
 Obtain a Spring-Themed Toy,,98,141941,50,0,0
 Noblegarden: Eat Noblegarden Chocolates in Iskaara,From {EventStartDate} - {EventEndDate} eat Noblegarden Chocolates in Iskaara on the Dragon Isles.,99,141949,100,0,0
-Noblegarden: Use Spring Flowers in an Arena or Battleground,From {EventStartDate} - {EventEndDate} use Spring Flowers on an opposing player in an arena or battleground.,100,141951,100,0,0
+Noblegarden: Use Spring Flowers on an Enemy in an Arena or Battleground,From {EventStartDate} - {EventEndDate} use Spring Flowers on an opposing player in an arena or battleground.,100,141951,100,0,0
 Noblegarden: Collect Brightly Colored Eggs,From {EventStartDate} - {EventEndDate} collect Brightly Colored Eggs.,101,141953,100,0,0
 Photograph Legendary Fishers,Photograph legendary fishers during cataloging world quests on the Dragon Isles.,102,141960,50,0,0
 Complete Cataloging World Quests,Complete cataloging world quests on the Dragon Isles.,103,141971,50,0,0
 Obtain Elemental Overflow,Obtain Elemental Overflow from creatures affected by Primalist Storms on the Dragon Isles.,104,141979,100,0,0
 Complete Dragonriding Courses on the Dragon Isles,Speak to a Bronze Timekeeper on the Dragon Isles.,105,141981,100,0,0
-Noblegarden: Place Eggs,From {EventStartDate} - {EventEndDate} place 12 Intricately-Painted Eggs or 1 Magnificently-Painted Egg.,106,141983,50,0,0
+Noblegarden: Place Eggs,From {EventStartDate} - {EventEndDate} place 12 Intricately-Painted Eggs or 1 Magnificently-Painted Egg.,106,141983,100,0,0
 March of the Tadpoles: Complete A Gift From Your Tadpole,On {EventStartDate} complete the quest A Gift From Your Tadpole.,107,141986,150,0,0
 Complete the Optional Ohn'ahran Plains Storylines,,108,141988,150,0,0
 Defeat Grand Hunt Bosses,Defeat Maruuk Centaur Grand Hunt bosses on the Dragon Isles.,109,141997,100,0,0
@@ -157,8 +157,8 @@ Children's Week: Land Lunkers with a Harpoon Alongside an Orphan,From {EventStar
 Children's Week: Complete 4 Storylines,From {EventStartDate} - {EventEndDate} complete the following Children's Week quests:,167,144000,100,164,0
 Children's Week: /cheer at Paera Finebreeze Alongside an Orphan,From {EventStartDate} - {EventEndDate} emote /cheer at Paera Finebreeze in Iskaara while you have an orphan alongside you.,168,144011,50,0,0
 Children's Week: Complete Mythic+ Dungeons Alongside an Orphan,From {EventStartDate} - {EventEndDate} complete Mythic+ dungeons while you have an orphan alongside you.,169,144013,100,0,0
-Spring Balloon Festival: Complete a Hot Air Balloon Ride,From {EventStartDate} - {EventEndDate} hop into a hot air balloon and enjoy the whole ride.,170,144015,100,0,0
-Glowcap Festival: Witness the Rise and Fall of Fshoo,On {EventStartDate} help keep the great Fshoo alive as long as possible in Sporeggar in Zangarmarsh.,171,144017,150,0,0
+Spring Balloon Festival: Complete a Hot Air Balloon Ride,From {EventStartDate} - {EventEndDate} hop into a hot air balloon and enjoy the whole ride.,170,144015,200,0,0
+Glowcap Festival: Witness the Rise and Fall of Fshoo,On {EventStartDate} help keep the great Fshoo alive as long as possible in Sporeggar in Zangarmarsh.,171,144017,200,0,0
 Darkmoon Faire: Complete Tonk Commander,"From 7/6 - 7/12 complete the quest ""Tonk Commander"" on Darkmoon Faire Island.",172,144021,75,0,0
 Darkmoon Faire: Balloon + Pony = Fun,From 1/5 - 1/11 ride a Darkmoon Pony around Darkmoon Faire Island while holding a balloon.,173,144028,50,0,0
 Squeaky Duck Fishing,Use the Crate of Bobbers: Squeaky Duck toy and then fish up items on the Dragon Isles.,174,144039,50,0,0
@@ -187,7 +187,7 @@ Win 5 Battlegrounds,,198,145211,200,0,0
 Test - Time Walking Dungeon,,199,145215,500,0,0
 Catch Fish in Pandaria,,200,145221,100,0,-40
 Timewalking: Defeat Pandaria Pet Tamers,From {EventStartDate} - {EventEndDate} defeat 3 of the following Pandaria Master Tamers:,201,145232,100,0,0
-Thousand Boat Bash: Create a Small Boat,From {EventStartDate} - {EventEndDate} complete Thousand Boat Bash quests to acquire and combine parts into a Small Boat.,202,145239,100,0,0
+Thousand Boat Bash: Create a Small Boat,From {EventStartDate} - {EventEndDate} travel to Thousand Needles in Kalimdor and complete Thousand Boat Bash quests to acquire and combine parts into a Small Boat.,202,145239,100,0,0
 Thousand Boat Bash: Sail Around the Dragon Isles,From {EventStartDate} - {EventEndDate} use a Small Boat to sail around the Dragon Isles.,203,145241,150,0,0
 Darkmoon Faire: Complete Firebird's Challenge,"From 6/1 - 6/7 complete the quest ""Firebird's Challenge"" at the Darkmoon Faire.",205,145281,50,0,0
 Darkmoon Faire: Use the Flaming Hoop Toy on Darkmoon Faire Island,From 5/4 - 5/10 use the Flaming Hoop toy on Darkmoon Faire Island.,206,145285,50,0,0
@@ -249,13 +249,13 @@ Help Brulee Win the Snail Race,Assist Brulee the snail in the Glimmerogg races i
 Complete 1 Dragonriding Rally Courses on the Dragon Isles,Speak to a Bronze Timekeeper at an active rally location on the Dragon Isles.,265,146543,100,0,0
 Trial of Style: Earn 20 Trial of Style Tokens,From {EventStartDate} - {EventEndDate} earn Trial of Style Tokens by participating in the Trial of Style.,266,146545,25,0,0
 Trial of Style: Earn 300 Trial of Style Tokens,From {EventStartDate} - {EventEndDate} earn Trial of Style Tokens by participating in the Trial of Style.,267,146547,200,61,0
-"Trial of Style: Complete 2 ""Work It"" Quests","From {EventStartDate} - {EventEndDate} complete ""Work It"" quests on the Dragon Isles or Khaz Algar.",268,146549,25,0,0
-"Trial of Style: Complete 10 ""Work It"" Quests","From {EventStartDate} - {EventEndDate} complete ""Work It"" quests on the Dragon Isles or Khaz Algar.",269,146551,100,268,0
+"Trial of Style: Complete 2 ""Work It"" Quests","From {EventStartDate} - {EventEndDate} complete ""Work It"" quests.",268,146549,25,0,0
+"Trial of Style: Complete 10 ""Work It"" Quests","From {EventStartDate} - {EventEndDate} complete ""Work It"" quests.",269,146551,100,268,0
 Trial of Style: Take First Place,From {EventStartDate} - {EventEndDate} take first place in a Trial of Style competition.,270,146553,100,0,0
-Trial of Style: /awe at a Winning Outfit Display,From {EventStartDate} - {EventEndDate} emote /awe at a Winning Outfit display at the Trading Post in Stormwind or Orgrimmar.,271,146559,25,0,0
-"Free T-Shirt Day: Loot 1 Free ""T-Shirts""","On {EventStartDate} loot free ""T-Shirts"" in Stormwind or Orgrimmar.",272,146561,50,0,0
-"Free T-Shirt Day: Loot 7 Free ""T-Shirts""","On {EventStartDate} loot free ""T-Shirts"" in Stormwind or Orgrimmar.",273,146563,70,272,0
-"Free T-Shirt Day: /flex at an Opposite Faction Player While Wearing a Free ""T-Shirt""","On {EventStartDate} emote /flex at an opposite faction player while wearing a free ""T-Shirt"".",274,146565,80,0,0
+Trial of Style: /awe at a Winning Outfit Display,From {EventStartDate} - {EventEndDate} emote /awe at a Winning Outfit display at the Trading Post in Stormwind or Orgrimmar.,271,146559,50,0,0
+"Free T-Shirt Day: Loot 1 Free ""T-Shirts""","On {EventStartDate} loot free ""T-Shirts"" in Stormwind or Orgrimmar.",272,146561,75,0,0
+"Free T-Shirt Day: Loot 7 Free ""T-Shirts""","On {EventStartDate} loot free ""T-Shirts"" in Stormwind or Orgrimmar.",273,146563,75,272,0
+"Free T-Shirt Day: /flex at an Opposite Faction Player While Wearing a Free ""T-Shirt""","On {EventStartDate} emote /flex at an opposite faction player while wearing a free ""T-Shirt"".",274,146565,100,0,0
 Darkmoon Faire: Loot a Pit Fighter Trinket,From 9/7 - 9/13 loot a Pit Fighter trinket during the Darkmoon Deathmatch on Darkmoon Faire Island.,275,146567,200,0,-60
 Darkmoon Faire: Participate in the Blight Boar Concert,From 7/6 - 7/12  participate in the Blight Boar concert on Darkmoon Faire Island.,276,146767,150,0,0
 Darkmoon Faire: Complete 1 Darkmoon Race,From 10/5 - 10/11 complete races at the Darkmoon Boardwalk on Darkmoon Faire Island.,277,146769,50,0,0
@@ -271,7 +271,6 @@ Complete 1 Little Scales Daycare Daily Quest,Complete daily quests at Little Sca
 Complete 5 Little Scales Daycare Daily Quests,Complete daily quests at Little Scales Daycare in Valdrakken.,287,146937,100,286,0
 Obtain Flightstones,,288,147005,100,0,0
 Create Shadowflame Crests,Collect Shadowflame Crest fragments and create any type of Shadowflame Crest.,289,147009,150,0,0
-Trading Post Test,Trading Post Test,290,147073,1000,0,0
 Kalimdor Cup: Complete 5 Dragonriding Courses,From {EventStartDate} - {EventEndDate} speak to a Bronze Timekeeper on Kalimdor.,291,147096,100,0,0
 Kalimdor Cup: Complete 10 Dragonriding Courses,From {EventStartDate} - {EventEndDate} speak to a Bronze Timekeeper on Kalimdor.,292,147098,150,291,0
 Kalimdor Cup: Complete 20 Dragonriding Courses,From {EventStartDate} - {EventEndDate} speak to a Bronze Timekeeper on Kalimdor.,293,147100,200,292,0
@@ -318,7 +317,7 @@ Defeat 15 Rare Elites Empowered by the Dreamsurge,Defeat rare elites in the curr
 Collect 100 Dreamsurge Coalescence,Collect Dreamsurge Coalescence from activities in Dreamsurged zones around the Dragon Isles.,334,147875,100,0,0
 Complete the Reconciliation Storyline,"Speak with Scalecommander Emberthal in Valdrakken to begin the quest ""A Single Wing"".",335,147877,100,0,0
 Timewalking: Complete 1 Mists of Pandaria Timewalking Dungeon,From {EventStartDate} - {EventEndDate} complete Mists of Pandaria Timewalking dungeons.,336,147879,25,0,0
-Timewalking: Complete 5 Mists of Pandaria Timewalking Dungeon,From {EventStartDate} - {EventEndDate} complete Mists of Pandaria Timewalking dungeons.,337,145198,100,336,0
+Timewalking: Complete 5 Mists of Pandaria Timewalking Dungeons,From {EventStartDate} - {EventEndDate} complete Mists of Pandaria Timewalking dungeons.,337,145198,100,336,0
 Collect 250 Dreamsurge Coalescence,Collect Dreamsurge Coalescence from activities in Dreamsurged zones around the Dragon Isles.,339,149014,150,334,0
 Defeat Rare Elites Empowered by the Dreamsurge,Defeat rare elites in the currently Dreamsurged zone of the Dragon Isles.,340,147886,100,0,0
 Darkmoon Faire: Complete It's Hammer Time,"From 5/4 - 5/10 complete the quest ""It's Hammer Time"" on Darkmoon Faire Island.",341,147895,50,0,0
@@ -345,7 +344,7 @@ Brewfest: Participate in a Chowdown,From {EventStartDate} - {EventEndDate} parti
 Complete Dragonriding World Quests in the Forbidden Reach,Speak to a Bronze Timekeeper on the Dragon Isles.,364,148098,100,0,0
 Complete Advanced Dragonriding Races on the Dragon Isles,"Complete Advanced dragonriding races in the Waking Shores, Ohn'ahran Plains, Azure Span, and Thaldraszus.",365,148100,100,0,0
 Darkmoon Faire: Wear a Fish Head to the Dungeons,From 9/1 - 9/7 use the Dungeon Finder tool to complete a dungeon while wearing a Severed Crimsonscale Head or Severed Azurefin Head fished up on the Darkmoon Faire island.,366,148102,100,0,-30
-Great Gnomeregan Run: Complete the Great Gnomeregan Run as a Level 10 or under Gnome in a Pink Shirt,On {EventStartDate} join the footrace at New Tinkertown in Dun Morogh as a level 1-10 gnome or mechagnome while wearing a Pink Mageweave Shirt.,367,148104,150,0,-30
+Great Gnomeregan Run: Complete the Great Gnomeregan Run as a Level 15 or under Gnome in a Pink Shirt,On {EventStartDate} join the footrace at New Tinkertown in Dun Morogh as a level 1-15 gnome or mechagnome while wearing a Pink Mageweave Shirt.,367,148104,150,0,-30
 "Gather 50 herbs, ores, or skins on the Dragon Isles",,368,148528,50,0,0
 "Gather 250 herbs, ores, or skins on the Dragon Isles",,369,148743,100,368,0
 Complete 2 of the following Dragonriding World Quests,,370,148532,100,0,0
@@ -500,16 +499,16 @@ Complete 15 World Quests in War Mode,,530,154039,50,0,0
 Dragon Isles Alchemy: Make a Discovery,"As an alchemist, discover a new Dragon Isles recipe through experimentation.",531,154041,50,0,0
 Sample the Dragonflight Scenarios,"Complete a Time Rift, Community Feast, and Superbloom event.",532,154043,100,0,0
 Love is in the Air: Complete All 6 Daily Quests,From {EventStartDate} - {EventEndDate} complete all of the following daily quests:,533,154051,100,0,0
-Love is in the Air: Complete the Crown Chemical Co. Storyline,From {EventStartDate} - {EventEndDate} complete all of the following quests:,534,154061,100,0,0
-Love is in the Air: Donate to the Artisan's Consortium,From {EventStartDate} - {EventEndDate} give a significant donation to the Artisan's Consortium at the Gala of Gifts.,535,154065,25,0,0
-Love is in the Air: Discover True Relief,"From {EventStartDate} - {EventEndDate} reach 250 stacks of Relieving Frustration by attacking dummies during the quest ""The Gift of Relief"".",536,154067,50,0,0
-Love is in the Air: Throw Rose Petals on Players,From {EventStartDate} - {EventEndDate} throw a Handful of Rose Petals on each of the following classes:,537,154069,50,0,0
-Love is in the Air: Launch Pink Fireworks While Wearing a Rose,From {EventStartDate} - {EventEndDate} launch 5 Pink Brightbursts while wearing a colored rose from the Gala of Gifts.,538,154083,25,0,0
-Love is in the Air: Love Yourself,From {EventStartDate} - {EventEndDate} complete The Gift of Self-Care three different ways.,539,154085,100,0,0
-Lunar Festival: Complete the Lunar Preservation Quest,From {EventStartDate} - {EventEndDate} speak to Myrael Lunarbloom in Moonglade to begin the quest.,540,154089,50,0,0
-Lunar Festival: Collect an Elder's Moonstone,From {EventStartDate} - {EventEndDate} find an Elder's Moonstone in a Lucky Red Envelope given by Elders across Azeroth.,541,154091,50,0,0
+Love is in the Air: Complete the Crown Chemical Co. Storyline,From {EventStartDate} - {EventEndDate} complete all of the following quests:,534,154061,80,0,0
+Love is in the Air: Donate to the Artisan's Consortium,From {EventStartDate} - {EventEndDate} give a significant donation to the Artisan's Consortium at the Gala of Gifts.,535,154065,50,0,0
+Love is in the Air: Discover True Relief,"From {EventStartDate} - {EventEndDate} reach 250 stacks of Relieving Frustration by attacking dummies during the quest ""The Gift of Relief"".",536,154067,70,0,0
+Love is in the Air: Throw Rose Petals on Players,From {EventStartDate} - {EventEndDate} throw a Handful of Rose Petals on each of the following classes:,537,154069,70,0,0
+Love is in the Air: Launch Pink Fireworks While Wearing a Rose,From {EventStartDate} - {EventEndDate} launch 5 Pink Brightbursts while wearing a colored rose from the Gala of Gifts.,538,154083,70,0,0
+Love is in the Air: Love Yourself,From {EventStartDate} - {EventEndDate} complete The Gift of Self-Care three different ways.,539,154085,80,0,0
+Lunar Festival: Complete the Lunar Preservation Quest,From {EventStartDate} - {EventEndDate} speak to Myrael Lunarbloom in Moonglade to begin the quest.,540,154089,60,0,0
+Lunar Festival: Collect an Elder's Moonstone,From {EventStartDate} - {EventEndDate} find an Elder's Moonstone in a Lucky Red Envelope given by Elders across Azeroth.,541,154091,90,0,0
 Lunar Festival: Collect 10 Elder's Moonstones,From {EventStartDate} - {EventEndDate} find 10 Elder's Moonstones in Lucky Red Envelopes given by Elders across Azeroth.,542,154093,150,541,0
-Lunar Festival: Eat a Dumpling and Shoot Fireworks,From {EventStartDate} - {EventEndDate} eat a Festival Dumpling and shoot a Festival Firecracker.,543,154095,25,0,0
+Lunar Festival: Eat a Dumpling and Shoot Fireworks,From {EventStartDate} - {EventEndDate} eat a Festival Dumpling and shoot a Festival Firecracker.,543,154095,80,0,0
 Darkmoon Faire: Win 1 Arcade Game,From 8/3 - 8/9 win 1 of the following arcade games on Darkmoon Faire Island.,544,154101,50,0,0
 Darkmoon Faire: Win 5 Arcade Games,From 8/3 - 8/9 win 5 of the following arcade games on Darkmoon Faire Island.,545,154105,100,544,0
 Complete Follower Dungeons as Each Role,"Complete follower dungeons as a tank, healer, and damage dealer.",546,154140,100,0,0
@@ -519,7 +518,7 @@ Trading Post Anniversary: Purchase a New Transmog from the Trading Post,,549,154
 Trading Post Anniversary: Play With Your New Toy,Use one of the following toys from last year's Trading Post catalog:,550,154152,25,0,0
 Trading Post Anniversary: Win Pet Battles with Trading Post Pets,Win pet battles using at least one pet from last year's Trading Post catalog.,551,154156,50,0,0
 Trading Post Anniversary: Celebrate with Food and Dance,Eat Goblin Gumbo and use the D.I.S.C.O. toy.,552,154158,25,0,0
-Love is in the Air: Picnic at the Scenic Getaways,From {EventStartDate} - {EventEndDate} share a Romantic Picnic Basket at each of the locations offered by the Scenic Getaway Portal.,553,154162,50,0,0
+Love is in the Air: Picnic at the Scenic Getaways,From {EventStartDate} - {EventEndDate} share a Romantic Picnic Basket at each of the locations offered by the Scenic Getaway Portal.,553,154162,100,0,0
 Host an Ember Court,"As a member of the Venthyr covenant, speak to Foreman Flatfinger in Sinfall to unlock the Ember Court.",554,154196,50,0,0
 Host 5 Ember Courts,"As a member of the Venthyr covenant, speak to Foreman Flatfinger in Sinfall to unlock the Ember Court.",555,154198,100,554,0
 "Take a S.E.L.F.I.E. with a Tiara, Top Hat, or Monocle",Speak to Arielle Snapflash in Stormwind or Vivica Starshot in Orgrimmar to acquire a S.E.L.F.I.E. Camera.,556,154204,25,0,0
@@ -550,10 +549,10 @@ Noblegarden: Complete 2 Daily Quests,From {EventStartDate} - {EventEndDate} comp
 Noblegarden: Complete 6 Daily Quests,From {EventStartDate} - {EventEndDate} complete Noblegarden daily quests.,581,156762,50,580,0
 Noblegarden: Complete the Duck Storyline,From {EventStartDate} - {EventEndDate} speak to Zinnia Brooks in Goldshire or Sylnaria Fareflame in Razor Hill to being this storyline.,582,156764,50,0,0
 Noblegarden: Defeat Daetan Swiftplume,From {EventStartDate} - {EventEndDate} defeat Daetan Swiftplume.,583,156801,50,0,0
-Noblegarden: Complete 12 Daily Quests,From {EventStartDate} - {EventEndDate} complete Noblegarden daily quests.,584,156777,50,581,0
+Noblegarden: Complete 12 Daily Quests,From {EventStartDate} - {EventEndDate} complete Noblegarden daily quests.,584,156777,100,581,0
 Noblegarden: Complete a Dragonflight Dungeon While Wearing Spring Reveler's Collection,"From {EventStartDate} - {EventEndDate} complete a Dragonflight dungeon while wearing either a Spring Reveler's Dress, Spring Reveler's Sun Hat or Spring Reveler's Attire.",585,156779,50,0,0
 /chicken at a Guard while Disguised as a Thistleleaf,Emote /chicken at a Stormwind City Guard or Orgrimmar Grunt while under the effects of the Thistleleaf Branch.,586,156856,100,0,-40
-Darkmoon Faire: Earn 5 Darkmoon Prize Tickets,From 4/6 - 4/12 earn Darkmoon Prize Tickets from the Darkmoon Faire.,588,156858,75,0,0
+Darkmoon Faire: Earn 5 Darkmoon Prize Tickets,From {EventStartDate} - {EventEndDate} earn Darkmoon Prize Tickets from the Darkmoon Faire.,588,156858,75,0,0
 Darkmoon Faire: Complete Test Your Strength,From 9/7 - 9/13 complete the quest Test Your Strength on Darkmoon Faire Island.,589,156861,125,0,-60
 Darkmoon Faire: Defeat the Pet Tamers,From 5/4 - 5/10 defeat the Master Tamers on Darkmoon Faire Island.,590,156864,75,0,0
 Draenei: Complete the Heritage Armor Storyline,"As a draenei, complete the following heritage armor quests:",591,156867,100,0,0
@@ -647,59 +646,59 @@ Loot Pact Treasures,"On Khaz Algar loot Weave-Rat Caches, Memorial Treasures, or
 Pact Rumors Completed,On Khaz Algar complete pact rumors.,680,166831,100,0,0
 Loot a Nerubian Caravan,On Khaz Algar loot a Nerubian caravan.,681,166833,100,0,0
 Obtain Valorstones,,682,166858,75,0,0
-Upgrade Items Using Valorstones,,683,166860,75,0,0
-Complete Weekly Gathering Quests,Speak to a gathering profession trainer in the Forgegrounds in Dornogal.,684,166862,100,0,0
+Upgrade Items Using Dawncrests,,683,166860,75,0,0
+Complete Weekly Gathering Quests,Speak to a gathering profession trainer in the Bazaar in Silvermoon.,684,166862,100,0,0
 Hallow's End: Visit Candy Buckets in Khaz Algar,From {EventStartDate} - {EventEndDate} collect Handful of Treats from Candy Buckets in Khaz Algar.,685,167905,50,0,-50
 Gain 10 Levels as a non-Evoker Dracthyr,,686,168562,100,0,0
 "Complete ""Forward, To Adventure!""","Complete the quest ""Forward, To Adventure!"" by creating a non-Evoker Dracthyr.",687,168564,100,0,0
 Anniversary: Complete 3 Anniversary Quests,From {EventStartDate} - {EventEndDate} complete Anniversary quests in the world.,688,168656,20,0,0
-Anniversary: Complete 10 Anniversary Quests,From {EventStartDate} - {EventEndDate} complete Anniversary quests in the world.,689,168658,80,688,0
-Anniversary: Complete 20 Anniversary Quests,From {EventStartDate} - {EventEndDate} complete Anniversary quests in the world.,690,168660,100,689,0
+Anniversary: Complete 10 Anniversary Quests,From {EventStartDate} - {EventEndDate} complete Anniversary quests in the world.,689,168658,25,688,0
+Anniversary: Complete 20 Anniversary Quests,From {EventStartDate} - {EventEndDate} complete Anniversary quests in the world.,690,168660,25,689,0
 Anniversary: Ring the Displaced Scarab Gong,From {EventStartDate} - {EventEndDate} ring the Displaced Scarab Gong.,691,168662,10,0,0
 Anniversary: Defeat 5 Anniversary World Bosses,From {EventStartDate} - {EventEndDate} defeat Anniversary World Bosses.,692,168664,50,0,0
-Anniversary: Defeat 15 Anniversary World Bosses,From {EventStartDate} - {EventEndDate} defeat Anniversary World Bosses.,693,168666,100,692,0
+Anniversary: Defeat 15 Anniversary World Bosses,From {EventStartDate} - {EventEndDate} defeat Anniversary World Bosses.,693,168666,50,692,0
 Anniversary: Participate 4 times in a Story,From {EventStartDate} - {EventEndDate} participate in a story told by Lorewalker Cho.,694,168668,20,0,0
 Anniversary: Participate 10 times in a Story,From {EventStartDate} - {EventEndDate} participate in a story told by Lorewalker Cho.,695,168670,20,694,0
-Anniversary: Participate 20 times in a Story,From {EventStartDate} - {EventEndDate} participate in a story told by Lorewalker Cho.,696,168672,60,695,0
-Anniversary: Complete the Blackrock Depths Raid,From {EventStartDate} - {EventEndDate} complete the Blackrock Depths Raid.,697,168674,50,0,0
-Anniversary: Complete 5 Blackrock Depths Raids,From {EventStartDate} - {EventEndDate} complete the Blackrock Depths Raid.,698,168676,100,697,0
-Anniversary: Complete the Codex of Chromie Scenario,From {EventStartDate} - {EventEndDate} complete the Codex of Chromie scenario.,699,168678,50,0,0
-Anniversary: Complete 5 Codex of Chromie Scenarios,From {EventStartDate} - {EventEndDate} complete the Codex of Chromie scenario.,700,168680,100,699,0
+Anniversary: Participate 20 times in a Story,From {EventStartDate} - {EventEndDate} participate in a story told by Lorewalker Cho.,696,168672,20,695,0
+Anniversary: Complete the Blackrock Depths Raid,From {EventStartDate} - {EventEndDate} complete the Blackrock Depths Raid.,697,168674,25,0,0
+Anniversary: Complete 5 Blackrock Depths Raids,From {EventStartDate} - {EventEndDate} complete the Blackrock Depths Raid.,698,168676,50,697,0
+Anniversary: Complete the Codex of Chromie Scenario,From {EventStartDate} - {EventEndDate} complete the Codex of Chromie scenario.,699,168678,25,0,0
+Anniversary: Complete 5 Codex of Chromie Scenarios,From {EventStartDate} - {EventEndDate} complete the Codex of Chromie scenario.,700,168680,50,699,0
 Anniversary: Listen to a Story,From {EventStartDate} - {EventEndDate} listen to a story told by Lorewalker Cho.,701,168682,20,0,0
-Anniversary: Listen to 3 Stories,From {EventStartDate} - {EventEndDate} listen to a story told by Lorewalker Cho.,702,168684,80,701,0
+Anniversary: Listen to 3 Stories,From {EventStartDate} - {EventEndDate} listen to a story told by Lorewalker Cho.,702,168684,40,701,0
 "Anniversary: Complete ""A Time to Reflect""","From {EventStartDate} - {EventEndDate} complete the quest ""A Time to Reflect"" in Tanaris.",703,168686,10,0,0
-"Anniversary: Complete ""A Time to Reflect"" 4 Times","From {EventStartDate} - {EventEndDate} complete the quest ""A Time to Reflect"" in Tanaris.",704,168689,40,703,0
+"Anniversary: Complete ""A Time to Reflect"" 4 Times","From {EventStartDate} - {EventEndDate} complete the quest ""A Time to Reflect"" in Tanaris.",704,168689,25,703,0
 Anniversary: Use a Portal 3 Times,From {EventStartDate} - {EventEndDate} travel to 3 locations using the portals near the photo booth in Tanaris.,705,168692,20,0,0
 Anniversary: Defeat 3 Pet Tamers,From {EventStartDate} - {EventEndDate} defeat the Pet Tamers at the festival grounds in Tanaris.,706,168694,50,0,0
 Anniversary: Defeat 9 Pet Tamers,From {EventStartDate} - {EventEndDate} defeat the Pet Tamers at the festival grounds in Tanaris.,707,168696,50,706,0
 Anniversary: Match 1 Mount,From {EventStartDate} - {EventEndDate} match mounts in the Mount Mania event at the festival grounds in Tanaris.,708,168709,10,0,0
-Anniversary: Match 5 Mounts,From {EventStartDate} - {EventEndDate} match mounts in the Mount Mania event at the festival grounds in Tanaris.,709,168711,40,708,0
-Anniversary: Match 10 Mounts,From {EventStartDate} - {EventEndDate} match mounts in the Mount Mania event at the festival grounds in Tanaris.,710,168713,100,709,0
+Anniversary: Match 5 Mounts,From {EventStartDate} - {EventEndDate} match mounts in the Mount Mania event at the festival grounds in Tanaris.,709,168711,20,708,0
+Anniversary: Match 10 Mounts,From {EventStartDate} - {EventEndDate} match mounts in the Mount Mania event at the festival grounds in Tanaris.,710,168713,50,709,0
 Anniversary: Cast 5 Votes,From {EventStartDate} - {EventEndDate} cast votes in the Fashion Frenzy event at the festival grounds in Tanaris.,711,168715,10,0,0
-Anniversary: Cast 10 Votes,From {EventStartDate} - {EventEndDate} cast votes in the Fashion Frenzy event at the festival grounds in Tanaris.,712,168717,40,711,0
-Anniversary: Cast 15 Votes,From {EventStartDate} - {EventEndDate} cast votes in the Fashion Frenzy event at the festival grounds in Tanaris.,713,168719,100,712,0
+Anniversary: Cast 10 Votes,From {EventStartDate} - {EventEndDate} cast votes in the Fashion Frenzy event at the festival grounds in Tanaris.,712,168717,20,711,0
+Anniversary: Cast 15 Votes,From {EventStartDate} - {EventEndDate} cast votes in the Fashion Frenzy event at the festival grounds in Tanaris.,713,168719,50,712,0
 "Timewalking: Gather Herbs, Ores, Skins, or Fish in Kalimdor and the Eastern Kingdoms","From {EventStartDate} - {EventEndDate} gather herbs, ores, skins, or fish in Kalimdor and the Eastern Kingdoms.",714,168725,100,0,0
 Timewalking: Complete Quests in Kalimdor and the Eastern Kingdoms,From {EventStartDate} - {EventEndDate} complete quests in Kalimdor and the Eastern Kingdoms.,715,168729,100,0,0
 Timewalking: Complete 1 Classic Timewalking Dungeon,From {EventStartDate} - {EventEndDate} complete Classic Timewalking dungeons.,716,168731,25,0,0
-Timewalking: Complete 5 Classic Timewalking Dungeon,From {EventStartDate} - {EventEndDate} complete Classic Timewalking dungeons.,717,168739,100,716,0
+Timewalking: Complete 5 Classic Timewalking Dungeons,From {EventStartDate} - {EventEndDate} complete Classic Timewalking dungeons.,717,168739,100,716,0
 Timewalking: Defeat Classic Pet Tamers,From {EventStartDate} - {EventEndDate} defeat 3 of the following Kalimdor and Eastern Kingdoms Master Tamers:,718,168747,100,0,0
 Anniversary: Complete 3 Secret of Azeroth,From {EventStartDate} - {EventEndDate} complete the Secrets of Azeroth.,719,168783,20,0,0
 Anniversary: Complete 5 Secret of Azeroth,From {EventStartDate} - {EventEndDate} complete the Secrets of Azeroth.,720,168785,80,719,0
-Anniversary: Slide around the Ice Rink,During the Anniversary event slide around the ice rink at the festival grounds in Tanaris.,721,168792,10,0,0
-Anniversary: Enjoy Some Classic Food,During the Anniversary eat Leeroy's Spicy Friend Chicken and Tigule's Strawberry Ice Cream.,722,168796,10,0,0
-Anniversary: Change the Photobooth Background,"During the Anniversary, change the background of the photobooth at the festival grounds in Tanaris.",723,168799,10,0,0
-Anniversary: Use a Prop While at a Vista Point,During the Anniversary use a prop from the Prop Chest at a Vista Point.,724,168801,10,0,0
+Anniversary: Slide around the Ice Rink,From {EventStartDate} - {EventEndDate} slide around the ice rink at the festival grounds in Tanaris.,721,168792,10,0,0
+Anniversary: Enjoy Some Classic Food,From {EventStartDate} - {EventEndDate} eat Leeroy's Spicy Friend Chicken and Tigule's Strawberry Ice Cream.,722,168796,10,0,0
+Anniversary: Change the Photobooth Background,From {EventStartDate} - {EventEndDate} change the background of the photobooth at the festival grounds in Tanaris.,723,168799,10,0,0
+Anniversary: Use a Prop While at a Vista Point,From {EventStartDate} - {EventEndDate} use a prop from the Prop Chest at a Vista Point.,724,168801,10,0,0
 Anniversary: Gain a New Title,During the Anniversary obtain a new title from Notary Grably at the festival grounds in Tanaris.,725,168803,10,0,0
-Anniversary: Mirror Your Pet,During the Anniversary use the Pet Mirror from Petra at the festival grounds in Tanaris.,726,168807,25,0,0
-Anniversary: Wear a Costume,During the Anniversary find and use a Replica Weapon at the festival grounds in Tanaris.,727,168809,25,0,0
-Anniversary: Ride a Balloon,During the Anniversary ride a balloon around the festival grounds in Tanaris.,728,168811,10,0,0
-Anniversary: Complete a Hearthstone Match,"During the Anniversary, complete a Hearthstone Match at the festival grounds in Tanaris.",729,168813,25,0,0
+Anniversary: Mirror Your Pet,From {EventStartDate} - {EventEndDate} use the Pet Mirror from Petra at the festival grounds in Tanaris.,726,168807,10,0,0
+Anniversary: Wear a Costume,From {EventStartDate} - {EventEndDate} find and use a Replica Weapon at the festival grounds in Tanaris.,727,168809,10,0,0
+Anniversary: Ride a Balloon,From {EventStartDate} - {EventEndDate} ride a balloon around the festival grounds in Tanaris.,728,168811,10,0,0
+Anniversary: Complete a Hearthstone Match,From {EventStartDate} - {EventEndDate} complete a Hearthstone Match at the festival grounds in Tanaris.,729,168813,25,0,0
 Anniversary: /thanks at Madam Gosu,During the Anniversary emote /thanks to Madam Gosu at the festival grounds in Tanaris.,730,168815,10,0,0
-Anniversary: Earn 1 Vote in the Fashion Frenzy,Earn votes in the Fashion Frenzy event at the festival grounds in Tanaris.,731,169029,10,0,0
-Anniversary: Earn 10 Vote in the Fashion Frenzy,Earn votes in the Fashion Frenzy event at the festival grounds in Tanaris.,732,169031,40,731,0
+Anniversary: Earn 1 Vote in the Fashion Frenzy,From {EventStartDate} - {EventEndDate} earn votes in the Fashion Frenzy event at the festival grounds in Tanaris.,731,169029,10,0,0
+Anniversary: Earn 10 Vote in the Fashion Frenzy,From {EventStartDate} - {EventEndDate} earn votes in the Fashion Frenzy event at the festival grounds in Tanaris.,732,169031,20,731,0
 Anniversary: Ride all the Balloons,"During the Anniversary, ride each color of balloon for 30 seconds around the festival grounds in Tanaris.",733,169033,40,0,0
 Anniversary: Enjoy Some Newer Food,"During the Anniversary, eat the newer foods.",734,169156,20,0,0
-Anniversary: Explore the Area as a Pet,During the Anniversary use the Pet Mirror from Petra and interact with objects around the festival grounds in Tanaris.,735,169164,40,0,0
+Anniversary: Explore the Area as a Pet,From {EventStartDate} - {EventEndDate} use the Pet Mirror from Petra and interact with objects around the festival grounds in Tanaris.,735,169164,10,0,0
 Anniversary: /wave to Selected Visitors,During the Anniversary emote /wave to specific visitors at the festival grounds in Tanaris.,736,169172,25,0,0
 Anniversary: Use the 20th Anniversary Balloon Chest in Dornogal,Purchase the 20th Anniversary Balloon Chest toy from Carl Goodup in the celebration area in Tanaris.,737,169191,20,0,0
 Eastern Kingdoms Cup: Complete 5 Dragonriding Courses,From {EventStartDate} - {EventEndDate} speak to a Bronze Timekeeper in the Eastern Kingdoms.,738,169731,100,0,0
@@ -746,8 +745,8 @@ Kick Cans in Undermine,Kick Discarded Cans in Undermine.,778,206847,30,0,0
 Launch Fireworks in Undermine,Launch fireworks using the firework clusters found throughout Undermine.,779,206858,30,0,0
 /Dance at the Plunder Party,Emote /dance while at the Plunder Party in Undermine.,780,206862,20,0,0
 /Luck at the Gallagio,Emote /luck at while at the Gallagio in Undermine.,781,206864,20,0,0
-Trial of Style: Complete a Competition Under Max Level,From {EventStartDate} - {EventEndDate} complete a Trial of Style event while under the maximum level.,782,206882,75,0,0
-Noblegarden: Collect Brightly Colored Eggs Under Max Level,From {EventStartDate} - {EventEndDate} collect Brightly Colored Eggs while under the maximum level.,783,206884,50,0,0
+Trial of Style: Complete a Competition Under Max Level,From {EventStartDate} - {EventEndDate} complete a Trial of Style event while under the maximum level.,782,206882,100,0,0
+Noblegarden: Collect Brightly Colored Eggs Under Max Level,From {EventStartDate} - {EventEndDate} collect Brightly Colored Eggs while under the maximum level.,783,206884,100,0,0
 Reach Level 80,Level up any character to level 80.,786,209231,25,0,0
 Dastardly Duos: Win a Match,From {EventStartDate} - {EventEndDate} win a Dastardly Duos match.,787,209233,20,0,0
 Dastardly Duos: Win 5 Matches,From {EventStartDate} - {EventEndDate} win Dastardly Duos matches.,788,209235,20,787,0
@@ -768,7 +767,7 @@ Horrific Visions Revisited: Defeat 15 Bosses,Defeat bosses in Corrupted or Lost 
 Horrific Visions Revisited: Defeat 30 Bosses,Defeat bosses in Corrupted or Lost areas.,803,209336,50,802,0
 Horrific Visions Revisited: Complete Clear,Defeat all the bosses in a Horrific Vision.,804,209338,50,0,0
 Horrific Visions Revisited: Complete Clear with Masks,Defeat all the bosses in a Horrific Vision while wearing 2 masks.,805,209340,50,0,0
-Complete Weekly Dungeon Quests,Speak to Biergoth in Dornogal.,806,209346,50,0,0
+Complete Weekly Dungeon Quests,Speak to Halduron Brightwing in Silvermoon.,806,209346,50,0,0
 Win Duels in Khaz Algar,Win a duel against another player in Dornogal and Undermine.,807,209348,100,0,0
 Children's Week: Complete Delves Alongside an Orphan,From {EventStartDate} - {EventEndDate} complete delves while you have an orphan alongside you.,808,209413,100,0,0
 Complete Bountiful Delves,,809,209423,50,0,0
@@ -798,7 +797,7 @@ Brewfest: Complete 6 Brewfest Banquets,From {EventStartDate} - {EventEndDate} co
 Brewfest: Complete 12 Brewfest Banquets,From {EventStartDate} - {EventEndDate} complete Brewfest Banquets outside Ironforge or Orgrimmar.,834,213605,50,833,-50
 Brewfest: Complete 6 Bar Tab Barrel Quests,From {EventStartDate} - {EventEndDate} complete Bar Tab Barrel quests in the world.,835,213608,50,0,-50
 Pirates' Day: Listen to a Joke from Brin,"From {EventStartDate} - {EventEndDate} hear a joke from ""Bad News"" Brin in the Wild Shore.",836,213612,80,0,0
-Darkmoon Faire: /dance with a Blighthead While Wearing a Mask,From 10/5 - 10/11 emote /dance with a Blighthead while wearing a Blighthead Mask on Darkmoon Island.,837,214193,50,0,-60
+Darkmoon Faire: /dance with a Blighthead While Wearing a Mask or Using Glowsticks,From 10/5 - 10/11 emote /dance with a Blighthead while wearing a Blighthead Mask or using Glowsticks on Darkmoon Island.,837,214193,50,0,-60
 "Complete ""Up and Up""","Complete the PvP world quest ""Up and Up"".",838,214345,50,0,0
 Complete Phase Diving World Quests,,839,214347,100,0,0
 Complete Phase Diving Treasures,,840,214349,50,0,0
@@ -813,3 +812,121 @@ Kill Tazavesh Scurriers,,847,214424,30,0,0
 /Pet a Golden Purrkin,Emote /pet at a Golden Purrkin while in Tazavesh.,849,214428,30,0,0
 "Priest: Complete ""I am the Creator and Destroyer""",As a Priest complete the following quests:,850,214430,50,0,0
 Complete Warrant Quests,,851,214432,50,0,0
+Darkmoon Faire: Earn 15 Darkmoon Prize Tickets,From {EventStartDate} - {EventEndDate} earn Darkmoon Prize Tickets from the Darkmoon Faire.,852,216346,75,588,0
+Legion Remix: Gain 10 Class Levels,Level up on any Timerunner character.,853,217910,50,0,0
+Legion Remix: Gain 30 Class Levels,Level up on any Timerunner character.,854,217912,100,853,0
+"Legion Remix: Earn 1,000 Bronze",Earn Bronze with a Timerunner.,855,217926,50,0,0
+"Legion Remix: Earn 15,000 Bronze",Earn Bronze with a Timerunner.,856,217928,50,855,0
+"Legion Remix: Earn 25,000 Bronze",Earn Bronze with a Timerunner.,857,217930,75,856,0
+Legion Remix: Complete 5 World Quests,Complete World Quests with a Timerunner.,858,217945,50,0,0
+"Legion Remix: Earn 1,000 Infinite Power",Earn Infinite Power with a Timerunner.,859,217947,50,0,0
+"Legion Remix: Earn 10,000 Infinite Power",Earn Infinite Power with a Timerunner.,860,217949,50,859,0
+"Legion Remix: Earn 50,000 Infinite Power",Earn Infinite Power with a Timerunner.,861,217951,75,860,0
+Legion Remix: Complete 5 Infinite Research Quests,Complete Infinite Research quests with a Timerunner.,862,217957,50,0,0
+Legion Remix: Complete 15 Infinite Research Quests,Complete Infinite Research quests with a Timerunner.,863,217959,50,862,0
+Legion Remix: Complete 30 Infinite Research Quests,Complete Infinite Research quests with a Timerunner.,864,217961,50,863,0
+Legion Remix: Complete a Lesser Invasion Point,Complete a Lesser Invasion Point on Argus with a Timerunner.,865,217963,50,0,0
+Legion Remix: Complete a Greater Invasion Point,Complete a Greater Invasion Point on Argus with a Timerunner.,866,217977,50,0,0
+Legion Remix: Complete the Infinitely Different Storyline,"As a Timerunner, complete the following quests:",867,217984,50,0,0
+Legion Remix: Complete 3 Legion Assaults,Complete Legion Assaults in the Broken Isles with a Timerunner.,868,218001,50,0,0
+Legion Remix: Defeat 10 Empowered Enemies,Defeat empowered enemies in Heroic World Tier as a Legion Timerunner.,869,218006,50,0,0
+Legion Remix: Defeat 25 Empowered Enemies,Defeat empowered enemies in Heroic World Tier as a Legion Timerunner.,870,218008,50,869,0
+Legion Remix: Complete 5 Dungeons or Raids,,871,218014,100,0,0
+Legion Remix: Activate 5 Timewarped Obelisks,Activate Timewarped Obelisks as a Legion Timerunner.,872,218048,50,0,0
+Legion Remix: Defeat 3 Lost Legion Infernals,,873,218050,50,0,0
+Legion Remix: Defeat 9 Lost Legion Infernals,,874,218053,50,873,0
+Pilgrim's Bounty: Turkey Domination,"From {EventStartDate} - {EventEndDate}, quickly kill Wild Turkeys in Elwynn Forest, Tirisfal Glades, Ohn'ahran Plains or Isle of Dorn to gain Turkey Domination.",875,218056,150,0,-70
+Feast of Winter Veil: Win a Pet Battle with the Tiny Snow Buddy,From {EventStartDate} - {EventEndDate} win a pet battle with the Tiny Snow Buddy.,876,219745,100,0,0
+Feast of Winter Veil: Throw a Snowball as a Jubilant Snowman,From {EventStartDate} - {EventEndDate} throw a Snowball as a Jubilant Snowman.,877,219749,50,0,0
+"Timewalking: Gather Herbs, Ores, Skins, or Fish in the Shadowlands","From {EventStartDate} - {EventEndDate} gather herbs, ores, skins, or fish in the Shadowlands.",878,219757,100,0,0
+Timewalking: Complete Quests in the Shadowlands,From {EventStartDate} - {EventEndDate} complete quests in the Shadowlands.,879,219761,100,0,0
+Timewalking: Defeat Shadowlands Raid Bosses,From {EventStartDate} - {EventEndDate} defeat bosses in Shadowlands raids.,880,219763,100,0,0
+Timewalking: Complete 1 Shadowlands Timewalking Dungeon,From {EventStartDate} - {EventEndDate} complete Shadowlands Timewalking dungeons.,881,219765,25,0,0
+Timewalking: Complete 5 Shadowlands Timewalking Dungeons,From {EventStartDate} - {EventEndDate} complete Shadowlands Timewalking dungeons.,882,219775,100,881,0
+Timewalking: Defeat Shadowlands Pet Tamers,From {EventStartDate} - {EventEndDate} defeat 3 of the following Shadowlands Master Tamers:,883,219785,100,0,0
+Brawler's Guild: Defeat 1 Brawler's Guild Boss,,884,219802,25,0,0
+Brawler's Guild: Defeat 5 Brawler's Guild Bosses,,885,219804,25,884,0
+Brawler's Guild: Defeat 10 Brawler's Guild Bosses,,886,219806,50,885,0
+Brawler's Guild: Defeat 20 Brawler's Guild Bosses,,887,219808,100,886,0
+Lorewalking: Complete the Elves of Quel'thalas Campaign,,888,219830,50,0,0
+Final Surge: Complete Midnight Dungeons,From {EventStartDate} - {EventEndDate} complete Midnight dungeons.,889,222542,150,0,0
+Complete a PvP World Quest in Midnight,,890,222551,50,0,0
+Win a Horde versus Alliance Slayer's Rise World Event,Participate in the Slayer's Rise event in northern Voidstorm.,891,222553,50,0,0
+Defeat 1 Midnight World Boss,,892,222559,50,0,0
+Defeat 4 Midnight World Bosses,,893,222564,50,892,0
+Twilight Ascension! Defeat 5 Event Bosses,,894,222569,50,0,0
+Twilight Ascension! Defeat 10 Event Bosses,,895,222571,50,894,0
+Twilight Ascension! Complete 1 World Quest,,896,222573,50,0,0
+Twilight Ascension! Complete 4 World Quests,,897,222575,50,896,0
+Twilight Ascension! Complete A Weekly Quest,,898,222579,50,0,0
+Twilight Ascension! Obtain Twilight's Blade Insignias,,899,222582,50,0,0
+Twilight Ascension! Complete the Cult Within Storyline,Complete the following quests:,900,222584,100,0,0
+Twilight Ascension! /hug Magister Umbric or Grand Magister Rommath,Emote /hug Magister Umbric or Grand Magister Rommath.,901,222637,30,0,0
+Twilight Ascension! /salute Magister Umbric or Grand Magister Rommath,Emote /salute Magister Umbric or Grand Magister Rommath.,902,222639,30,0,0
+Slay Players in Slayer's Rise,Slay players in the Slayer's Rise event in northern Voidstorm.,903,222641,50,0,0
+Twilight Ascension! /love at Materialist Ophinell and Armorer Kalinovan,Emote /love at Materialist Ophinell and Armorer Kalinovan.,904,222643,30,0,0
+Open a Spectral Battle Chest,Open a Spectral Battle Chest in the Slayer's Rise event in northern Voidstorm.,905,222659,50,0,0
+Loot a Bounty in War Mode,Loot a bounty from slain players in Midnight while in War Mode.,906,222662,50,0,0
+Loot a War Supply Chest in War Mode,Loot a War Supply Chest in Midnight while in War Mode.,907,222664,50,0,0
+"Complete a ""Sparks of War"" Quest","Complete a ""Sparks of War"" quest in Midnight.",913,222666,50,0,0
+"Complete Any ""Fortify the Runestones"" Quest",,914,222681,50,0,0
+Obtain Latent Arcana,,915,222686,50,0,0
+/Bow at Lord Saltheril,Emote /bow at Lord Saltheril.,916,222688,30,0,0
+Obtain Unalloyed Abundance,,917,222690,50,0,0
+Catch Fish With Abyss Anglers,Speak to Depthdiver Jeju on the Zul'Aman Depths shore to begin catching fish.,918,222692,50,0,0
+Gain a Blessing from the Altar of Blessings,Gain a Blessing from the Altar of Blessings in Amani'Zar Village.,919,222694,50,0,0
+Discover the Legends of the Haranir,Discover the lore objects found within the Legends of the Haranir relic stories.,920,222696,50,0,0
+Complete 1 Prey Hunt,,921,222698,50,0,0
+Complete 5 Prey Hunts,,922,222700,50,921,0
+Obtain Remnants of Anguish,"While hunting prey, collect Remnants of Anguish from fallen enemies.",923,222702,50,0,0
+Complete A Quest From an Arcantina Visitor,Complete quests from any of the visitors in the Arcantina.,924,222704,50,0,0
+Collect Fun Arcantina Items,"Obtain Potions, Pygmy Oils, Reflecting Prisms or Savory Deviate Delights from the Arcantina.",925,222714,50,0,0
+Toast Visitors in the Arcantina,Share a Toasting Brew in the Arcantina with the various visitors.,926,222730,50,0,0
+Earn Reputation Throughout Midnight,,927,222732,70,0,0
+Complete a Stormarion Assault,,928,222741,50,0,0
+Collect Stormarion Cores,,929,222749,50,0,0
+Complete a Stormarion Assault Daily Quest,Complete one of the following quests:,930,222751,50,0,0
+Darkspear Dash: Participate in the Darkspear Dash,On {EventStartDate} join the footrace at Echo Isles in Durotar.,931,222935,100,0,-30
+Darkspear Dash: Complete the Dash as a low level Troll in Style,On {EventStartDate} join the footrace at Echo Isles in Durotar as a level 1-15 Darkspear or Zandalari troll while wearing the Darkspear Dash Tabard.,932,222937,150,0,-30
+Experience the Rainbow,"Use toys to cast a rainbow, dance a rainbow, and roll like a rainbow.",933,222939,75,0,0
+Learn about Wild Pets from Hawkrancher Saman,Speak to Hawkrancher Saman in Silvermoon to complete the following quests:,934,223259,100,0,0
+Thousand Boat Bash: Sail Around Silvermoon,From {EventStartDate} - {EventEndDate} use a Small Boat to sail around Silvermoon City.,935,223827,100,0,0
+AAA - (DNT - JZB Test),JZB Test,936,224030,6,0,0
+AAA - (DNT - JZB Test) 2,JZB Test,937,224038,7,0,0
+Legion Remix: Mix Up,"The timelines have bent once more, granting the efforts of some to all.",938,224084,650,0,0
+Decor Duel: Participate in 1 Game,Participate in 1 Decor Duel game.,939,224838,20,0,0
+Decor Duel: Participate in 5 Games,Participate in 5 Decor Duel games.,940,224840,20,939,0
+Decor Duel: Participate in 10 Games,Participate in 10 Decor Duel games.,941,224842,20,940,0
+Decor Duel: Tag 1 Player,Tag 1 player in Decor Duel.,942,224844,20,0,0
+Decor Duel: Tag 10 Players,Tag 10 players in Decor Duel.,943,224846,20,942,0
+Decor Duel: Tag 20 Players,Tag 20 players in Decor Duel.,944,224848,20,943,0
+Decor Duel: Stun 5 Players,Stun 5 players in Decor Duel.,945,224850,20,0,0
+Decor Duel: Stun 15 Players,Stun 15 players in Decor Duel.,946,224854,20,945,0
+Housing: Complete A Weekly Quest,,947,224856,50,0,0
+"Complete Any ""Void Assault"" Quest",Speak to Kul'amara the Fierce or Ranger Captain Lilatha in Silvermoon to begin a Void Assault quest.,948,224998,50,0,0
+Void Assaults: Complete 5 Void Strikes,,949,225015,50,0,0
+Void Assaults: Complete 10 Void Strikes,,950,225018,50,949,0
+Void Assaults: Complete 25 Void Strikes,,951,225040,100,950,0
+Complete 1 Ritual Site,,952,225043,50,0,0
+Complete 5 Ritual Sites,,953,225045,50,952,0
+Complete 10 Ritual Sites,,954,225047,100,953,0
+Obtain 50 Field Accolades,Collect Field Accolades from Void Assaults and Ritual Sites.,955,225049,25,0,0
+Obtain 200 Field Accolades,Collect Field Accolades from Void Assaults and Ritual Sites.,956,225051,50,955,0
+Obtain 500 Field Accolades,Collect Field Accolades from Void Assaults and Ritual Sites.,957,225053,100,956,0
+/salute at the Void Assault vendors,Emote /salute at the Void Assault vendors.,958,225055,50,0,0
+Void Assaults: Defeat 20 Corrupted Creatures,Defeat corrupted creatures in Void Assaults.,959,225195,50,0,0
+Void Assaults: Fly Through 10 Enemies,Fly Through 10 Enemies in Void Strikes.,960,225197,25,0,0
+Midsummer Fire Festival: Honor the Flames of Midnight,From {EventStartDate} - {EventEndDate} honor the flames of Midnight.,961,229337,100,0,0
+Midsummer Fire Festival: Fly through 10 Sun Blossoms,From {EventStartDate} - {EventEndDate} fly through Sun Blossoms.,962,229343,50,0,0
+Midsummer Fire Festival: Fly through 30 Sun Blossoms,From {EventStartDate} - {EventEndDate} fly through Sun Blossoms.,963,229345,50,962,0
+Void Assaults: Defeat 5 rare creatures in Val or Naigtal,Defeat rare creatures found in Val or Naigtal.,964,229347,50,0,0
+Void Assaults: Defeat 15 rare creatures in Val or Naigtal,Defeat rare creatures found in Val or Naigtal.,965,229355,50,964,0
+Void Assaults: Defeat 30 rare creatures in Val or Naigtal,Defeat rare creatures found in Val or Naigtal.,966,229357,100,965,0
+Lorewalking: Complete the Loa Campaign,,967,229363,50,0,0
+"Complete ""The Legacy of the Amani"" Storyline",Complete the following quests:,968,229365,100,0,0
+Housing: Take a Ride on a Public Transport in a Neighborhood,Take a ride on the public carriage or communal cart in a neighborhood.,969,229407,30,0,0
+/wave at Decor Vendors in a Neighborhood,Emote /wave at the decor vendors in a neighborhood.,970,229409,50,0,0
+"Complete ""A Fiery Blast from the Past"" Storyline",Complete the following quests:,971,229423,100,0,0
+Void Assaults: Complete 2 Bonus Objectives in Naigtal or Val,,972,229440,50,0,0
+Void Assaults: Complete 5 Bonus Objectives in Naigtal or Val,,973,229442,50,972,0
+/amaze at the Trading Post,Emote /amaze at the Trading Post merchants and their wares.,974,229444,30,0,0
