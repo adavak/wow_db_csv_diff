@@ -5325,6 +5325,7 @@ ID,Name_lang,HordeName_lang,Duration,EffectArg[0],EffectArg[1],EffectArg[2],Flag
 8614,Farstrider's Hawkeye |A:Professions-ChatIcon-Quality-12-Tier1:20:20|a,,0,1262337,0,0,0,0,0,0,0,120,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,80
 8615,Farstrider's Hawkeye |A:Professions-ChatIcon-Quality-12-Tier2:20:20|a,,0,1262339,0,0,0,0,0,0,0,120,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,80
 8638,Grand Line,,0,1269475,0,0,0,0,0,0,2066208,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,50
+8646,JWA - Enchant - Test,,0,0,0,0,0,0,0,0,1392911,0,0,0,50000,0,0,0,759,0,0,30,0,0,0,0,0,0,0,0,0
 8649,Conjured Illusory Adornment - Blooming Light,,1200,1236743,0,0,0,0.286758,0,0,876916,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,80
 8650,Conjured Illusory Adornment - Nature's Embrace,,1200,1236744,0,0,0,0.286758,0,0,132848,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,80
 8651,Conjured Illusory Adornment - Voidtouched,,1200,1236745,0,0,0,0.286758,0,0,4914669,0,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,80
@@ -5334,4 +5335,9 @@ ID,Name_lang,HordeName_lang,Duration,EffectArg[0],EffectArg[1],EffectArg[2],Flag
 8684,+$k1 Primary Stat and opponent's failed interrupt attempts grant Precognition,,0,71,377360,0,160,0.683883,0,0,0,80,0,0,0,0,0,0,0,0,0,1,0,5,3,0,-7,0,0,0,80
 8685,+$k1 Primary Stat and +$435550s1% Damage Reduction when affected by Crowd Control,,0,71,435550,0,160,0.683883,0,0,0,80,0,0,0,0,0,0,0,0,0,1,0,5,3,0,-7,0,0,0,80
 8686,+$k1 Primary Stat and getting snared increases damage of your next attack by $411132s1 per stack,,0,71,411126,0,160,0.683883,0,0,0,80,0,0,0,0,0,0,0,0,0,1,0,5,3,0,-7,0,0,0,80
+8688,Rite of the Hash'ey |A:Professions-ChatIcon-Quality-12-Tier1:20:20|a,,0,1297651,0,0,32,0,0,0,0,120,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,80
+8689,Rite of the Hash'ey |A:Professions-ChatIcon-Quality-12-Tier2:20:20|a,,0,1297652,0,0,32,0,0,0,0,120,0,0,0,0,0,0,0,0,0,1,0,3,0,0,0,0,0,0,80
+8697,Venomcoil,,0,0,0,0,0,0,0,0,1392920,0,0,0,50000,0,0,0,750,0,0,30,0,0,0,0,0,0,0,0,0
+8702,R0CKY,,0,1297523,3,0,1,0,0,0,0,10,500,0,0,0,23,0,0,2910,1,1,0,7,0,0,0,0,0,0,90
 8704,Summer Sun Blossom,,0,0,0,0,0,0,0,0,135263,0,0,0,0,0,0,0,763,0,0,1,0,0,0,0,0,0,0,0,60
+8705,[DNT] 12.1 Delves - Corrosive - ZGS TEST,,0,1301266,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,0,0,0,0,0,0,60

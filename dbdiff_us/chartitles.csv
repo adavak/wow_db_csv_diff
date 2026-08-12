@@ -627,8 +627,101 @@ ID,Name_lang,Name1_lang,Mask_ID,Flags
 916,Contract Killer %s,Contract Killer %s,639,0
 917,Star Savior %s,Star Savior %s,640,0
 918,%s Bronzebeard,%s Bronzebeard,641,0
+919,"%s, Thorn of Twilight","%s, Thorn of Twilight",642,0
+920,"%s, Definitely Not a Cultist","%s, Definitely Not a Cultist",643,0
 924,%s of the Twilight Star,%s of the Twilight Star,644,0
+925,Khaz Algar Enthusiast %s,Khaz Algar Enthusiast %s,645,0
+926,Chronoscholar %s,Chronoscholar %s,646,0
 927,Ba'%s,Ba'%s,647,0
 928,Zo'%s,Zo'%s,648,0
 929,Om'%s,Om'%s,649,0
+935,Loa-Speaker %s,Loa-Speaker %s,740,0
 937,Delver %s,Delver %s,650,0
+938,Galactic Marshal %s,Galactic Marshal %s,651,0
+940,Galactic Warlord %s,Galactic Warlord %s,652,0
+942,Galactic Legend %s,Galactic Legend %s,653,0
+944,Galactic Gladiator %s,Galactic Gladiator %s,654,0
+967,%s the Umbral,%s the Umbral,655,0
+968,%s the Umbral Hero,%s the Umbral Hero,656,0
+969,%s the Furnished,%s the Furnished,657,0
+970,%s the Infernal,%s the Infernal,658,0
+971,%s of the Infinite Chaos,%s of the Infinite Chaos,659,0
+974,[PH] %s,[PH] %s,660,0
+975,[PH] %s,[PH] %s,661,0
+976,%s the Venomous Hero,%s the Venomous Hero,662,0
+977,%s the Venomous,%s the Venomous,663,0
+1019,Voidslayer %s,Voidslayer %s,664,0
+1020,Honorary Hara'ti %s,Honorary Hara'ti %s,665,0
+1021,Brawl Star %s,Brawl Star %s,666,0
+1026,"%s, Life of the Party","%s, Life of the Party",667,0
+1027,"%s, Famed Slayer of the Undreamt","%s, Famed Slayer of the Undreamt",668,0
+1028,"%s, Azeroth's Vanguard","%s, Azeroth's Vanguard",669,0
+1035,"%s, Teacher of Strong","%s, Teacher of Strong",670,0
+1036,Mind-Seeker %s,Mind-Seeker %s,671,0
+1042,"%s, Famed Slayer of the Voidspire","%s, Famed Slayer of the Voidspire",676,0
+1043,"%s, Famed Slayer of the Dark Naaru","%s, Famed Slayer of the Dark Naaru",677,0
+1046,Dawnbringer %s,Dawnbringer %s,678,0
+1048,Dream-Eater %s,Dream-Eater %s,679,0
+1049,"%s, Chronicler of the Haranir","%s, Chronicler of the Haranir",680,0
+1056,Scourgebane %s,Scourgebane %s,681,0
+1057,"%s, Top Student","%s, Top Student",682,0
+1058,Despair Defier %s,Despair Defier %s,683,0
+1060,Windrunner Mediator %s,Windrunner Mediator %s,684,0
+1061,"%s, Nexus Navigator","%s, Nexus Navigator",685,0
+1062,Maisaran Soultender %s,Maisaran Soultender %s,686,0
+1064,Terrace Terror %s,Terrace Terror %s,687,0
+1069,%s the Ominous,%s the Ominous,688,0
+1070,"%s, Fabled Vanquisher of Nullaeus","%s, Fabled Vanquisher of Nullaeus",689,0
+1072,Spirebane %s,Spirebane %s,690,0
+1078,Treasure Seeker %s,Treasure Seeker %s,691,0
+1199,Thalassian Alchemist %s,Thalassian Alchemist %s,741,0
+1200,Thalassian Blacksmith %s,Thalassian Blacksmith %s,742,0
+1201,Thalassian Enchanter %s,Thalassian Enchanter %s,743,0
+1202,Thalassian Engineer %s,Thalassian Engineer %s,744,0
+1203,Thalassian Scribe %s,Thalassian Scribe %s,745,0
+1204,Thalassian Jewelcrafter %s,Thalassian Jewelcrafter %s,746,0
+1205,Thalassian Leatherworker %s,Thalassian Leatherworker %s,747,0
+1206,Thalassian Tailor %s,Thalassian Tailor %s,748,0
+1207,Darkspear Dasher %s,Darkspear Dasher %s,749,4
+1209,Thalassian Miner %s,Thalassian Miner %s,750,0
+1210,Thalassian Herbalist %s,Thalassian Herbalist %s,751,0
+1211,Thalassian Skinner %s,Thalassian Skinner %s,752,0
+1212,"%s, the Singular","%s, the Singular",753,0
+1215,Dustlord %s,Dustlord %s,754,0
+1221,Preyseeker %s,Preyseeker %s,755,0
+1231,Volunteer %s,Volunteer %s,756,0
+1233,Caring Citizen %s,Caring Citizen %s,757,0
+1234,"%s, The Backbone of the Realm","%s, The Backbone of the Realm",758,0
+1235,"%s, The Philanthropist","%s, The Philanthropist",759,0
+1236,"%s, The Everlasting","%s, The Everlasting",760,0
+1237,"%s, World Apex","%s, World Apex",761,0
+1238,Azeroth's Top Ten Youth %s,Azeroth's Top Ten Youth %s,762,0
+1239,Model of the Era %s,Model of the Era %s,763,0
+1240,Big Brother %s,Big Brother %s,764,0
+1242,"%s, Mrglgrgl of Grglmrgl","%s, Mrglgrgl of Grglmrgl",766,0
+1286,Venomous Gladiator %s,Venomous Gladiator %s,767,0
+1287,Venomous Legend %s,Venomous Legend %s,768,0
+1288,Venomous Marshal %s,Venomous Marshal %s,769,0
+1289,Venomous Warlord %s,Venomous Warlord %s,770,0
+1291,Ritual Breaker %s,Ritual Breaker %s,771,0
+1306,Void Breacher %s,Void Breacher %s,772,0
+1307,%s the Umbral Contender,%s the Umbral Contender,773,0
+1308,Snake Eater %s,Snake Eater %s,774,0
+1310,%s the Poisonous,%s the Poisonous,775,0
+1311,"%s, Fabled Vanquisher of Azta'rec","%s, Fabled Vanquisher of Azta'rec",776,0
+1314,%s the Cursebreaker,%s the Cursebreaker,777,0
+1315,"%s, Hash'ura of Zul'jarra","%s, Hash'ura of Zul'jarra",778,0
+1316,Briny %s,Briny %s,779,0
+1319,"%s, Voice of the Fangs","%s, Voice of the Fangs",781,0
+1320,"%s, Nalorakk's Favored","%s, Nalorakk's Favored",782,0
+1321,Street Sovereign %s,Street Sovereign %s,783,0
+1322,"%s, Eyes of the Vale","%s, Eyes of the Vale",784,0
+1323,Voidscar Champion %s,Voidscar Champion %s,785,0
+1324,"%s, the Uncrowned Conqueror","%s, the Uncrowned Conqueror",786,0
+1325,"%s, Flame of Life","%s, Flame of Life",787,0
+1326,"%s, Wrath of Sethraliss","%s, Wrath of Sethraliss",788,0
+1327,Bloodsworn Mariner %s,Bloodsworn Mariner %s,789,0
+1328,"%s, Famed Slayer of Ula'tek","%s, Famed Slayer of Ula'tek",790,0
+1329,"%s, Venom's End","%s, Venom's End",791,0
+1331,"%s, Servant of Astalor","%s, Servant of Astalor",792,0
+1333,%s the Snake,%s the Snake,794,0

@@ -4072,10 +4072,10 @@ Raise them up as one.... draw out the corruption from the Dark Titan's blade!,,1
 ,I am sure the regent lord will be pleased to learn of your interest. Are you ready to depart?,143481,0,0,1,70,0,0,0,94838,0,0,0,0,0,0
 ,"It would be an honor, Lady Liadrin. Oculeth has the coordinates to your capital. I will gather Silgryn and Valtrois, and meet you in Silvermoon.",143482,0,0,1,70,0,0,0,94894,0,0,0,0,0,0
 ,"Drown these insects, my children. Show yourselves worthy of my pride.",143539,0,0,1,68,0,0,0,107010,0,0,0,0,0,0
-"Brothers and sisters of Zandalar, de time has come to cut off de heads of dese traitors who have sworn demselves to Zul.",,143553,0,0,1,68,0,0,109700,0,0,0,0,0,0,0
-"Gonk, loa of de hunt, lead your followers to de Temple of de Prophet and slay any foes you find. Flush our enemies out into de open.",,143554,0,0,25,68,0,0,109701,0,0,0,0,0,0,0
-"Pa'ku, loa of de winds, take to de skies and seek out de heretics. Divine their goals and meet us at de temple.",,143555,0,0,0,68,0,0,109702,0,0,0,0,0,0,0
-"Rezan, let's go hunting.",,143557,0,0,0,68,0,0,109703,0,0,0,0,0,0,0
+"Brothers and sisters of Zandalar, de time has come to cut off de heads of dese traitors who have sworn demselves to Zul.",,143553,0,0,1,100,10900,4,109700,0,0,0,0,0,0,0
+"Gonk, Loa of de Hunt, lead your followers to de Temple of de Prophet and slay any foes you find. Flush our enemies out into de open.",,143554,0,0,25,100,13200,4,109701,0,0,0,0,0,0,0
+"Pa'ku, Loa of de Winds, take to de skies and seek out de heretics. Divine their goals and meet us at de temple.",,143555,0,0,0,100,10864,4,109702,0,0,0,0,0,0,0
+"Rezan, let's go hunting.",,143557,0,0,0,100,5100,4,109703,0,0,0,0,0,0,0
 For Zandalar!,,143558,0,0,22,68,0,0,109704,0,0,0,0,0,0,0
 "PLACEHOLDER SCENE - Hezrel reveals G'huun being an old god, being experimented upon, and reveals blood trolls want to destroy Zuldazar in order to free G'huun. No way of fixing current containment, must protect Zuldazar. Ateena, blood troll matriarch, arrives, badly damages Hezrel, and prepares to strike.","PLACEHOLDER SCENE - Hezrel talks about G'huun being an old god, being experimented upon, and reveals blood trolls want to destroy Zuldazar in order to free G'huun. No way of fixing current containment, must protect Zuldazar. Ateena, blood troll matriarch, arrives, badly damages Hezrel, and prepares to strike",143650,0,0,0,70,0,0,0,0,0,0,0,0,0,0
 "The ritual complete, a creature coalesced before the hero.","The ritual complete, a creature coalesced before the hero.",144064,0,0,0,78,0,0,0,0,0,0,0,0,0,0
@@ -8852,6 +8852,23 @@ And that is why it should be you who starts putting the pieces back together.,,2
 "I need rest, Jaina. But... I promise I won't stay away for long.",,272869,0,0,0,4,0,10,268160,0,0,0,0,0,0,0
 ,Meryl can assist me. Aethas should have a key role as well. I will go back and speak to them.,272870,0,0,0,4,0,4,0,268167,0,0,0,0,0,0
 "Thank you, Jaina. And good luck.",,272871,0,0,0,4,0,4,268170,0,0,0,0,0,0,0
+,Dad... can you tell me about her?,273505,0,0,0,324,0,4,0,296731,0,0,0,0,0,0
+Your mother?,,273506,0,0,0,324,0,4,296730,0,0,0,0,0,0,0
+,I don't even remember what she looked like or sounded like. I was so young when she left us.,273507,0,0,0,324,0,4,0,296729,0,0,0,0,0,0
+"For that, all you need do is look in a mirror, my little pearl.",,273508,0,0,0,324,0,4,296728,0,0,0,0,0,0,0
+"Her eyes were your eyes. There are days when you laugh, and for a moment, I think she has returned.",,273509,0,0,0,324,0,4,296727,0,0,0,0,0,0,0
+"And that--it is not an excuse. But it is why I held on to you so tightly, sometimes.",,273511,0,0,0,324,0,4,296726,0,0,0,0,0,0,0
+"Both you and her share that. You are free, and wild, and sometimes infuriating, but I cherish you equally.",,273513,0,0,0,324,0,4,296725,0,0,0,0,0,0,0
+"And no matter how far the breeze carries you, I will always be here to welcome you home.",,273514,0,0,0,324,0,4,296724,0,0,0,0,0,0,0
+,I'm glad we can remember her together.,273965,0,0,0,324,0,4,0,296723,0,0,0,0,0,0
+,And... I love you too.,273966,0,0,0,324,0,4,0,296722,0,0,0,0,0,0
+,I am glad we were able to reignite the isle's love for the festival.,273969,0,0,0,324,0,4,0,296720,0,0,0,0,0,0
+Even if it means having hozen attendees?,,273970,0,0,0,324,0,4,296719,0,0,0,0,0,0,0
+,It is heartening to see that Kee Kee and Jia have built a friendship together.,273971,0,0,11,324,0,4,0,297615,0,0,0,0,0,0
+,But I do feel terrible for assuming the worst of the hozen. I should have paid attention to the evidence in front of me.,273972,0,0,0,324,0,4,0,296717,0,0,0,0,0,0
+We managed to sort it out and smooth ruffled fur... everyone's ruffled fur.,,273973,0,0,11,324,0,4,296716,0,0,0,0,0,0,0
+,"Thank goodness! I'm very glad you are here to keep me balanced, Ji.",273974,0,0,0,324,0,4,0,296715,0,0,0,0,0,0
+We balance each other. And I treasure that just as much as I treasure you.,,273975,0,0,0,324,0,4,296714,0,0,0,0,0,0,0
 Eternally sealed...,,274047,0,0,0,326,0,6,276832,0,0,0,0,0,0,0
 ,Eternally?,274048,0,0,0,326,0,6,0,276833,0,0,0,0,0,0
 ,"This is not the end of the game, only the beginning...",274049,0,0,0,326,0,6,0,276834,0,0,0,0,0,0
@@ -9116,6 +9133,7 @@ I was just about to send that on to Xal'atath.,,280113,0,0,0,374,0,6,274711,0,0,
 "Not holding out or nothing, I swear.",,280114,0,0,0,374,0,6,274717,0,0,0,0,0,0,0
 <grunts>,,280115,0,0,0,374,0,6,274713,0,0,0,0,0,0,0
 <groans in frustration>,,280116,0,0,0,374,0,6,274714,0,0,0,0,0,0,0
+"I must warn you, friend. This is not a tale for the faint of heart.",,280216,0,0,0,324,0,7,277058,0,1,0,0,0,0,0
 No need to be cautious Brann. I see some treasure over there!,,280237,0,0,0,324,0,4,0,0,0,0,0,0,0,0
 Don't step there-,,280238,0,0,0,324,0,4,0,0,0,0,0,0,0,0
 The heroes of Azeroth sought to arm themselves with the greatest weapons ever forged.,,280687,0,0,0,324,0,4,276802,0,1005,0,0,0,0,0
@@ -9143,6 +9161,49 @@ Never again would they delve into dark sorcery or place the Sunwell in peril. Bu
 ,You are mere pestilence parading as lords.,282663,0,0,0,326,0,6,0,282309,0,0,0,0,0,0
 But that was not all Xal'atath said.,,282664,0,0,0,358,0,6,284532,0,0,0,0,0,0,0
 ,The offer stands.,282665,0,0,0,326,0,6,0,282310,0,0,0,0,0,0
+"The dark naaru within you, mother... I never understood just how exhausting it must be to maintain control over it.",,283024,0,0,1005,68,0,7,300925,0,0,0,0,0,0,0
+,"For you, my son, I could endure anything. I know at times, I have been somewhat... cold.",283025,0,0,1,68,0,7,0,300936,0,0,0,0,0,0
+"But you need to understand. You can't protect me from what's out there. And you can't scare me away, either. My fight is by your side.",,283026,0,0,1005,68,0,7,300941,0,0,0,0,0,0,0
+,"I need you to hear me, Arator. Understand, it's not the naaru within me that creates the distance between us.",283033,0,0,5,68,0,7,0,300935,0,0,0,0,0,0
+,Alleria gazes at Arator with a mournful expression and then looks away.,283036,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+A naaru! Dead! Now we're to trust this monstrosity?,,283057,0,0,1,68,0,4,301167,0,0,0,0,0,0,0
+,"No, but we need them. They've had every opportunity to betray us.",283058,0,0,1,68,0,4,0,301168,0,0,0,0,0,0
+And they will.,,283059,0,0,1,68,0,4,301169,0,0,0,0,0,0,0
+Have you learned nothing from K'aresh? What did your mentor's trust in the Void bring him?,,283060,0,0,1,68,0,4,301170,0,0,0,0,0,0,0
+,Careful. The Void never offers fair choices. Locus-Walker understood that better than anyone.,283061,0,0,1,68,0,4,0,301171,0,0,0,0,0,0
+,"After his demise, I asked myself again and again what I could have done to prevent it.",283062,0,0,1,68,0,4,0,301172,0,0,0,0,0,0
+,But then I came to realize what Locus-Walker knew from the start. It didn't matter that Xal'atath was always going to turn on us.,283063,0,0,1,68,0,4,0,301173,0,0,0,0,0,0
+Eyes forward!,,283089,0,0,0,324,0,7,300647,0,0,0,0,0,0,0
+The portal!,,283090,0,0,0,324,0,7,300648,0,0,0,0,0,0,0
+,This--this power! It's like nothing I've ever--ha! Ahahaha!!,283091,0,0,0,324,0,7,0,300649,0,0,0,0,0,0
+Control yourselves!,,283092,0,0,5,324,0,7,300650,0,0,0,0,0,0,0
+,"Tell me of Silvermoon, Arator. How bad was it?",283126,0,0,6,324,0,7,0,300693,0,0,0,0,0,0
+"Honestly, if not for the Light forces intervening when they did, we would have lost everything.",,283127,0,0,1005,324,0,7,300694,0,0,0,0,0,0,0
+"He... I fear the Light... blinds him, mother. In his rage, he... he struck down an innocent.",,283128,0,0,1005,324,0,7,300696,0,0,0,0,0,0,0
+That... doesn't matter now. What matters is that if the Light can turn someone like him wrathful...,,283129,0,0,274,324,0,7,300698,0,0,0,0,0,0,0
+,You fear succumbing to it yourself.,283130,0,0,1005,324,0,7,0,300699,0,0,0,0,0,0
+"I already did, fighting the Void. You see these embers I bear? I burned myself in wrath. They remain as a reminder.",,283131,0,0,1,324,0,7,300700,0,0,0,0,0,0,0
+That there's something... wrong with the Light.,,283132,0,0,1,324,0,7,300702,0,0,0,0,0,0,0
+That thought terrifies me more than the Void ever could.,,283133,0,0,1005,324,0,7,300703,0,0,0,0,0,0,0
+,Of what?,283134,0,0,6,324,0,7,0,300701,0,0,0,0,0,0
+Earn your keep. Tell us more.,,283147,0,0,1,324,0,7,300888,0,0,0,0,0,0,0
+"But of course, it is the right of the victor to take from the defeated. On this world, and on every other.",,283148,0,0,1,452,0,7,300903,0,0,0,0,0,0,0
+"You stand upon a land ruled by predation. Here, the strong thrive and the weak sustain them.",,283149,0,0,1,452,0,7,300879,0,0,0,0,0,0,0
+"The recent arrival of Xal'atath was, for a time, an entertaining shake up. But her vision for your world--for all of our cosmos--is terribly dull.",,283150,0,0,1,452,0,7,300800,0,0,0,0,0,0,0
+"Darkness. Endless, yawning, monotonous darkness.",,283151,0,0,1,452,0,7,300855,0,0,0,0,0,0,0
+She brought you to heel? How like the endless armies of the Void to suffer from disorder.,,283152,0,0,1,324,0,7,300889,0,0,0,0,0,0,0
+Too true. I prefer the thrash and struggle. The delights of stark contrast. There is no foe so thrilling as one strong in the Light.,,283153,0,0,1,452,0,7,300843,0,0,0,0,0,0,0
+"So pious. You are a curious creature, aren't you? A nathrezim, all wreathed in gold? Must be quite the story.",,283154,0,0,1,452,0,7,300907,0,0,0,0,0,0,0
+Belief is our strength. You believe in nothing.,,283155,0,0,1,324,0,7,300831,0,0,0,0,0,0,0
+"So aggressive. This world suits you, Lothraxion.",,283156,0,0,1,452,0,7,300812,0,0,0,0,0,0,0
+"Away for but a moment and the vermin move in. You were right to alert me, Decimus.",,283350,0,0,1,324,0,4,301111,0,0,0,0,0,0,0
+"Do keep our magnificent lord entertained, friends. I'd so hate for him to lose interest.",,283351,0,0,0,452,0,4,301110,0,0,0,0,0,0,0
+I warned you! This was always their plot!,,283352,0,0,1,324,0,4,301109,0,0,0,0,0,0,0
+(Delighted) I see why Decimus is so fascinated by you mortals.,,283369,0,0,0,326,0,4,0,0,0,0,0,0,0,0
+Decimus? My mantle...,,283370,0,0,0,326,0,4,0,0,0,0,0,0,0,0
+"It suits me, yes? I'd like to savor this moment, but there is so much to do. ",,283371,0,0,0,326,0,4,0,0,0,0,0,0,0,0
+"Although, what is victory without a feast?",,283372,0,0,0,326,0,4,0,0,0,0,0,0,0,0
+As for my dear guests...,,283373,0,0,0,326,0,4,0,0,0,0,0,0,0,0
 ,I cannot believe you would partner with her. She's trying to kill me!,283502,0,0,0,372,0,4,0,284717,0,0,0,0,0,0
 ,We've all tried to kill each other.,283504,0,0,0,372,0,4,0,284718,0,0,0,0,0,0
 ,Focus on the Void Lord who will devour us all if he emerges.,283506,0,0,0,372,0,4,0,284719,0,0,0,0,0,0
@@ -9306,8 +9367,43 @@ That I do. Little odd that you're so familiar with the exploits that I haven't j
 ,"Consider it a specialized interest, nothing more. Once you have settled in, I will personally give you a tour of the facilities.",284213,0,0,0,324,0,10,0,282700,0,0,0,0,0,0
 ,"Also, I have a book that is missing its author's signature.",284214,0,0,0,324,0,10,0,282701,0,0,0,0,0,0
 Well we can't have that.,,284215,0,0,0,324,0,10,282702,0,0,0,0,0,0,0
+"How DARE you step into the Magisters' Terrace, Umbric! You nearly destroyed us all, just like I knew you would!",,284272,0,0,5,324,0,7,300631,0,0,0,0,0,0,0
+"I have confidence in the strength of myself and my allies. Something you noticeably lack, Rommath.",,284273,0,0,1,324,0,7,300632,0,0,0,0,0,0,0
+Confidence? Arrogance! The same arrogance that transformed those poor souls who follow you into void monstrosities!,,284274,0,0,5,324,0,7,300633,0,0,0,0,0,0,0
+We are not monsters. We are in control. We are ren'dorei.,,284275,0,0,1,324,0,7,300634,0,0,0,0,0,0,0
+"Enough. It was a risk to let them near the Sunwell, yes. But we will not win this war without taking risks. The ren'dorei have not wavered yet. ",,284277,0,0,274,324,0,7,300635,0,0,0,0,0,0,0
+"Yet. We shall see if this ""mission"" succeeds. ",,284280,0,0,1,324,0,7,300637,0,0,0,0,0,0,0
+At least try to make it back alive.,,284282,0,0,1005,324,0,7,300639,0,0,0,0,0,0,0
+"Umbric is finding a way into the Voidstorm. Once we have it, the Vanguard can launch a direct attack and end this threat once and for all.",,285027,0,0,0,324,0,1,300054,0,0,0,0,0,0,0
+His help is deeply appreciated. I only wish word of it had arrived under better circumstances.,,285028,0,0,0,324,0,1,300055,0,0,0,0,0,0,0
+What do you mean?,,285030,0,0,0,324,0,1,300056,0,0,0,0,0,0,0
+We've news from Suncrown. The Lightbloom has all but devoured the village.,,285033,0,0,0,324,0,1,300057,0,0,0,0,0,0,0
+Lady Liadrin left the moment we heard. Meet her and get any survivors out of there.,,285034,0,0,0,324,0,1,300058,0,0,0,0,0,0,0
+We'll make haste.,,285035,0,0,0,324,0,1,300059,0,0,0,0,0,0,0
+"I will head there myself as soon as matters here are settled. Take care, both of you.",,285036,0,0,0,324,0,1,300060,0,0,0,0,0,0,0
+The Sunwell holds the Voidstorm at bay for now. But its current state cannot be sustained forever.,,285180,0,0,1,324,0,10,299863,0,0,0,0,0,0,0
+"And there's no telling how it could be affecting the rest of Eversong, especially the Lightbloom. We need an alternative course of action.",,285181,0,0,1,324,0,10,299864,0,0,0,0,0,0,0
+We ren'dorei can aid you in finding one. Grant us entry into Silvermoon--,,285184,0,0,1,324,0,10,299865,0,0,0,0,0,0,0
+Absolutely not! Your mere presence would risk defiling the Sunwell with Void magic.,,285185,0,0,1,324,0,10,299866,0,0,0,0,0,0,0
+"Then it seems we have nothing more to discuss. I'll continue my research in Tranquillien, should you choose to see reason.",,285186,0,0,1,324,0,10,299867,0,0,0,0,0,0,0
+The Grand Magister is right about one thing--protecting the Sunwell is our top priority. The Vanguard of the Light will see to its defense.,,285187,0,0,1,324,0,10,299868,0,0,0,0,0,0,0
+"Your aid was timely and welcome, Turalyon. But remember that Silvermoon and the Sunwell belong to the sin'dorei. You are guests in our fair city.",,285188,0,0,1,324,0,10,299869,0,0,0,0,0,0,0
+"Guests, allies, and saviors, Lor'themar. Rest assured that we will guard your city and your people with the full strength of the Light.",,285189,0,0,1,324,0,10,299870,0,0,0,0,0,0,0
+"These creatures seem Light-blessed, but they're so... vicious.",,285219,0,0,0,326,0,1,299917,0,0,0,0,0,0,0
+,They claimed this as their territory. We are now encroaching.,285220,0,0,0,326,0,1,0,299918,0,0,0,0,0,0
+"Fairbreeze is fine, for now. But this Lightbloom is teeming with creatures driven by the Light.",,285234,0,0,0,324,0,10,299936,0,0,0,0,0,0,0
+They're killing people! I've never seen the Light act like this.,,285235,0,0,0,324,0,10,299937,0,0,0,0,0,0,0
+The Light only threatens that which warrants reckoning.,,285237,0,0,0,324,0,10,299938,0,0,0,0,0,0,0
+That's not what's happening here.,,285238,0,0,0,324,0,10,299939,0,0,0,0,0,0,0
+If Fairbreeze is safe--the Voidstorm still looms.,,285241,0,0,0,324,0,10,299940,0,0,0,0,0,0,0
+"Despite Rommath's vocal opposition, I have decided to reach out to Magister Umbric and tap his expertise with the Void.",,285242,0,0,0,324,0,10,299941,0,0,0,0,0,0,0
 Bring it down!,,285272,0,0,0,358,0,4,282457,0,0,0,0,0,0,0
 No more Gallywix!,,285273,0,0,0,342,0,4,282453,0,0,0,0,0,0,0
+,"If the only way to stop one monster is to work with another, what choice is there?",285465,0,0,1,324,0,7,0,300851,0,0,0,0,0,0
+,"Who, Arator?",285483,0,0,1005,324,0,7,0,300697,0,0,0,0,0,0
+,"I see. And your father, is he well?",285485,0,0,6,324,0,7,0,300695,0,0,0,0,0,0
+Quickly! To Suncrown--I only hope it's not too late.,,285895,0,0,669,324,0,1,300061,0,0,0,0,0,0,0
+It's the fight. I know.,,285902,0,0,1,324,0,7,300906,0,0,0,0,0,0,0
 ,Pathetic.,286344,0,0,0,326,0,6,0,283811,0,0,0,0,0,0
 You shall only watch this world as it gains untold power without you.,,286347,0,0,0,326,0,6,283812,0,0,0,0,0,0,0
 You shall never lay claim to it.,,286348,0,0,0,326,0,6,283813,0,0,0,0,0,0,0
@@ -9327,6 +9423,10 @@ The inevitable.,,286350,0,0,0,358,3000,6,283814,0,0,0,0,0,0,0
 ,I am. I have seen the lengths you have gone to to fulfill your oaths.,286930,0,0,0,324,0,4,0,284957,0,0,0,0,0,0
 ,I will avenge my friend for all the good he has done in his long life. Even as I struggle to understand and forgive his evil.,286932,0,0,0,324,0,4,0,284958,0,0,0,0,0,0
 ,"Then we wish all fortune on your hunt, Alleria Windrunner.",286933,0,0,0,324,0,4,0,284959,0,0,0,0,0,0
+Help me fill these containers with just the right portions of this magical dust.,Help me fill these containers with just the right portions of this magical dust.,287075,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+It's hard to imagine any of that now. It's just... broken. Gone. Nothing left but echoes.,,287156,0,0,274,324,0,10,300038,0,0,0,0,0,0,0
+Vereesa used to tell me stories of this place. They held festivals--her brother Lirath would play. The air was filled with laughter and song.,,287158,0,0,274,324,0,10,300037,0,0,0,0,0,0,0
+Was my mother one of those that filled the air with laughter? Did Sylvanas sing? Were my grandparents...,,287161,0,0,1,324,0,10,300039,0,0,0,0,0,0,0
 ,Agh!,287434,0,0,0,326,0,6,0,287095,0,0,0,0,0,0
 ,Aaaagh!,287435,0,0,0,358,3000,6,0,287094,0,0,0,0,0,0
 ,"With our old Stromic ways forgotten, with famine, unrest, and orcs on our lands, and dwarves and elves in our cities.",288137,0,0,0,374,0,6,0,285929,0,0,0,0,0,0
@@ -9352,9 +9452,23 @@ And reasons to strike at our neighbors.,,288165,0,0,0,358,0,6,285963,0,0,0,0,0,0
 Going to Khaz Algar was unpopular in Stromgarde.,,288169,0,0,0,358,0,6,285967,0,0,0,0,0,0,0
 But the Sons of Lothar promote tolerance and mercy--,,288170,0,0,0,358,0,6,285968,0,0,0,0,0,0,0
 ,Help! Bandits!,288171,0,0,0,358,0,6,0,285969,0,0,0,0,0,0
+We made it! Light preserve us.,,289052,0,0,0,324,0,4,308240,0,0,0,0,0,0,0
+,Turalyon is rallying the survivors to the Sunwell chamber.,289053,0,0,0,324,0,4,0,308241,0,0,0,0,0,0
+,We will beseech the Light once more to help us push back the Devouring Host.,289054,0,0,0,324,0,4,0,308242,0,0,0,0,0,0
+,The Sunwell brought us salvation before. We must have faith that it will happen again.,289056,0,0,0,324,0,4,0,308243,0,0,0,0,0,0
+,"[CUT, DO NOT RECORD] We will give of our strength and faith to the Light. It will defend us against this evil.",289057,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+"Or how lonely it's been for you, protecting us from it.",,289221,0,0,1,324,0,7,300837,0,0,0,0,0,0,0
+Stop. Don't apologize for--,,289224,0,0,1,324,0,7,300899,0,0,0,0,0,0,0
+"What comes, mother, we will face together.",,289225,0,0,1,324,0,7,300900,0,0,0,0,0,0,0
 ,For Arathor!,289343,0,0,0,358,0,6,0,287580,0,0,0,0,0,0
 Do not make her a martyr.,,289376,0,0,0,358,0,6,287616,0,0,0,0,0,0,0
 <sighs>,,289378,0,0,0,358,0,6,287614,0,0,0,0,0,0,0
+,"If I've learned anything from fighting beside your father, it's that the Light is strongest when rooted in love and compassion.",289561,0,0,1,324,0,7,0,300705,0,0,0,0,0,0
+,"Those two things, Arator, just happen to be your greatest strengths. Stay true to yourself--",289562,0,0,1,324,0,7,0,300706,0,0,0,0,0,0
+"And wrath cannot overtake me. Heh. Your counsel is comforting, mother.",,289563,0,0,1005,324,0,7,300707,0,0,0,0,0,0,0
+,"Well, I have had a thousand years of practice, kid.",289564,0,0,11,324,0,7,0,300708,0,0,0,0,0,0
+"The artifacts of Anasterian? We thought these lost, taken by the Lich King.",,289961,0,0,603,324,0,4,305755,0,0,0,0,0,0,0
+,I wish to return them to their home--our home.,289962,0,0,603,324,0,4,0,305756,0,0,0,0,0,0
 ,Xal'atath claims the Ravel destroyed K'aresh.,290104,0,0,0,374,0,4,0,288357,0,0,0,0,0,0
 ,"Is she lying, or are you?",290105,0,0,0,374,0,4,0,288358,0,0,0,0,0,0
 Windrunner...,,290106,0,0,0,374,0,4,288359,0,0,0,0,0,0,0
@@ -9502,6 +9616,19 @@ they searched for fragments of their master.,,290267,0,0,0,374,0,4,288514,0,0,0,
 I have a new ally who revealed the Shadowguard's methods and treacheries to me.,,290268,0,0,0,374,0,4,288515,0,0,0,0,0,0,0
 Come.,,290269,0,0,0,374,0,4,288516,0,0,0,0,0,0,0
 We are on the hunt.,,290270,0,0,0,374,0,4,288517,0,0,0,0,0,0,0
+Your commanders have learned that an expedition bound for the Dragon Isles has been shipwrecked on a deserted island.,,290954,0,0,0,350,0,6,298428,0,0,0,0,0,0,0
+"Puny dragon! With the power of your soul, we will control the blue one!",,290970,0,0,0,326,0,6,298002,0,0,0,0,0,0,0
+"His name is Kalecgos, you insufferable oaf! Release me or suffer the consequences!",,290971,0,0,0,326,0,6,297990,0,0,0,0,0,0,0
+"[CUT, DO NOT RECORD] Those ogres used some form of ancient shadow magic to capture us. They took Kalecgos elsewhere.",,291011,0,0,0,326,0,6,0,0,0,0,0,0,0,0
+"[CUT, DO NOT RECORD] From what I overheard, they are performing a ritual that will place him fully under their control.",,291012,0,0,0,326,0,6,0,0,0,0,0,0,0,0
+"[CUT, DO NOT RECORD] And there it is. If they complete that ritual, Kalecgos will be theirs to command!",,291013,0,0,0,326,0,6,0,0,0,0,0,0,0,0
+"[CUT, DO NOT RECORD] Then there's no time to waste. We'll rescue the rest of the expedition and lay siege to the citadel.",,291014,0,0,0,326,0,6,0,0,0,0,0,0,0,0
+"[CUT, DO NOT RECORD] These ogres will face the fury of the Horde. Lok-tar ogar!",,291015,0,0,0,326,0,6,0,0,0,0,0,0,0,0
+,"[CUT, DO NOT RECORD] Then we must make haste. We'll rescue the rest of the expedition and launch an assault on the citadel.",291016,0,0,0,358,8000,6,0,0,0,0,0,0,0,0
+,"[CUT, DO NOT RECORD] We cannot allow Kalecgos to suffer this grim fate! For the Alliance!",291017,0,0,0,326,0,6,0,0,0,0,0,0,0,0
+Seek him out in Tranquillien. Reach out when you have more to share.,,291429,0,0,0,324,0,10,299942,0,0,0,0,0,0,0
+,I know nothing of what threatens from the sky. But I know much of what threatens from below.,291431,0,0,0,324,0,10,0,299951,0,0,0,0,0,0
+,"I will continue to explore this. When you are ready to examine the root of the issue, return to me.",291436,0,0,0,324,0,10,0,299952,0,0,0,0,0,0
 ,My home.,291822,0,0,0,326,0,4,0,289837,0,0,0,0,0,0
 ,"Once teeming with life, brought to ruin.",291823,0,0,0,326,0,4,0,289839,0,0,0,0,0,0
 ,"But you, my esteemed colleague...",291824,0,0,0,326,0,4,0,289840,0,0,0,0,0,0
@@ -9511,4 +9638,1027 @@ We are on the hunt.,,290270,0,0,0,374,0,4,288517,0,0,0,0,0,0,0
 ,"And in this, there is beauty.",291828,0,0,0,326,0,4,0,289846,0,0,0,0,0,0
 ,"Thanks to you, new life has taken its first breaths here.",291829,0,0,0,326,0,4,0,289847,0,0,0,0,0,0
 ,"And for that, K'aresh and I will be forever grateful.",291830,0,0,0,358,0,4,0,289848,0,0,0,0,0,0
+Seek out Umbric in Tranquillien. Reach out when you have more to share.,,292250,0,0,0,324,0,10,299943,0,0,0,0,0,0,0
+,There is tension between Arator and his elders. I understand this well.,292251,0,0,0,324,0,10,0,299946,0,0,0,0,0,0
+,"I may not be welcome where I hail from. To leave, to work with outsiders... the idea did not sit well with my elders.",292252,0,0,0,324,0,10,0,299947,0,0,0,0,0,0
+,But we cannot hope to save our world by hiding from it. My goddess called. And I had to answer.,292253,0,0,0,324,0,10,0,299948,0,0,0,0,0,0
+,Arator--I did not expect to find such similarities with those of the surface world.,292255,0,0,0,324,0,10,0,299949,0,0,0,0,0,0
+,"Perhaps... of all things, truth is the hardest to see.",292256,0,0,0,324,0,10,0,299950,0,0,0,0,0,0
+I suppose it's useless to think about it.,,292527,0,0,0,324,0,10,300040,0,0,0,0,0,0,0
 ,"the oracles of the Wastes will be your army, Harbinger.",292746,0,0,0,358,0,4,0,291500,0,0,0,0,0,0
+,It is not like you to avoid conflict.,293889,0,0,0,324,0,7,0,300523,0,0,0,0,0,0
+,Have your fangs dulled since I was gone?,293890,0,0,0,324,0,7,0,300524,0,0,0,0,0,0
+,"Don't test me, little sprout. I know when to roar and when to wait.",293891,0,0,0,324,0,7,0,300525,0,0,0,0,0,0
+,"I could have pitted my pride against Ruia, but alone what good would it do?",293892,0,0,0,324,0,7,0,300526,0,0,0,0,0,0
+,You are as strong as any.,293893,0,0,0,324,0,7,0,300527,0,0,0,0,0,0
+,"First you left, then the roots of Teldrassil burned. Now the elders barely consider me one of them.",293894,0,0,0,324,0,7,0,300528,0,0,0,0,0,0
+,Should I not have heeded the goddess's call?,293895,0,0,0,324,0,7,0,300529,0,0,0,0,0,0
+,You did what needed to be done. I have always told you to trust your instincts.,293896,0,0,0,324,0,7,0,300530,0,0,0,0,0,0
+,All I ask is that you trust mine. We must regain their faith in you.,293897,0,0,0,324,0,7,0,300531,0,0,0,0,0,0
+,"And know that I will always defend you, even if you do not see.",293898,0,0,0,324,0,7,0,300532,0,0,0,0,0,0
+"Orweyna, it is good to see you back. To see you well.",,293901,0,0,0,324,0,10,301377,0,0,0,0,0,0,0
+,And you. I hope you have forgiven me. ,293902,0,0,0,324,0,10,0,301378,0,0,0,0,0,0
+It is not you who needs forgiveness. ,,293903,0,0,0,324,0,10,301379,0,0,0,0,0,0,0
+Aln'hara has asked too much of you. ,,293904,0,0,0,324,0,10,301380,0,0,0,0,0,0,0
+,She was hurting. She is hurting.,293905,0,0,0,324,0,10,0,301381,0,0,0,0,0,0
+She is a goddess. She should not have made you walk this path. Not...,,293906,0,0,0,324,0,10,301383,0,0,0,0,0,0,0
+,Alone?,293907,0,0,0,324,0,10,0,301384,0,0,0,0,0,0
+,"Aln'hara did ask much of me, and I asked much of you.",293908,0,0,0,324,0,10,0,301385,0,0,0,0,0,0
+,"You followed my path, only as far as you were meant to. ",293909,0,0,0,324,0,10,0,301386,0,0,0,0,0,0
+,And I was never alone.,293910,0,0,0,324,0,10,0,301387,0,0,0,0,0,0
+Lor'themar. What we saw out there. The Light drove the rutaani to zealotry and madness...,,293958,0,0,0,324,0,4,305503,0,0,0,0,0,0,0
+"Watch your tone, Halduron. Blasphemy doesn't suit a man of your stature.",,293959,0,0,0,324,0,4,305504,0,0,0,0,0,0,0
+He was speaking to his Lord-Regent.,,293960,0,0,0,324,0,4,305505,0,0,0,0,0,0,0
+"We assume benevolent motives, but have seen the Light used by the wicked before. ",,293961,0,0,0,324,0,4,305506,0,0,0,0,0,0,0
+"Without the Light, your precious city, all of Azeroth would have been lost!",,293962,0,0,0,324,0,4,305510,0,0,0,0,0,0,0
+"No one is questioning the Light's grace, Turalyon. Least of all the sin'dorei!",,293963,0,0,0,324,0,4,305511,0,0,0,0,0,0,0
+We seek to avoid its--corruption. The Light being turned against us.,,293964,0,0,0,324,0,4,305512,0,0,0,0,0,0,0
+"We are your friends, Turalyon--your family.",,293965,0,0,0,324,0,4,305513,0,0,0,0,0,0,0
+"...Family. Of course. The Lightbloom is an anomaly, but nothing that should diminish our faith in the Light.",,293966,0,0,0,324,0,4,305514,0,0,0,0,0,0,0
+Well... I've been giving it some thought. I'd like to hang it on the wall here. As a reminder.,,294155,0,0,0,326,0,4,306050,0,0,0,0,0,0,0
+This was not how I planned this adventure to end. But I think it's a fitting tribute.,,294156,0,0,0,326,0,4,0,0,0,0,0,0,0,0
+Bah! Terrible idea! Worst I've ever heard.,,294157,0,0,274,326,0,4,306047,0,1,0,0,0,0,0
+"We can all break, but we can put ourselves back together, and emerge stronger for it.",,294158,0,0,0,326,0,4,306049,0,0,0,0,0,0,0
+"He has a point, lad. A good shield like that yearns to protect a soldier, so they can protect others.",,294160,0,0,0,326,0,4,306045,0,0,0,0,0,0,0
+I... But it's not my shield.,,294161,0,0,0,326,0,4,306044,0,0,0,0,0,0,0
+"As a bold new recruit, you have joined a rescue mission led by the dragons Wrathion and Kalecgos.",,294251,0,0,0,350,0,6,298429,0,0,0,0,0,0,0
+It now falls to you to find the lost expedition and see them safely to the Dragon Isles.,,294252,0,0,0,350,0,6,298430,0,0,0,0,0,0,0
+"To have a fine piece of equipment like that, well made, well repaired, languish on the wall until it rusts? That's shameful.",,294546,0,0,1,326,0,4,306046,0,0,0,0,0,0,0
+,You struck down our son?,295380,0,0,603,324,0,4,0,309436,0,0,0,0,0,0
+It was an accident. A terrible accident. Seeing Arator wounded like that...,,295381,0,0,0,324,0,4,322624,0,0,0,0,0,0,0
+"Thank the Light he survived. He has forgiven me for it, and we have put it behind us.",,295382,0,0,0,324,0,4,322625,0,0,0,0,0,0,0
+,No! What has happened to you? How could you attack Arator?,295384,0,0,0,324,0,4,0,309433,0,0,0,0,0,0
+It wasn't Arator I was attacking. He leapt in front of a blow meant for a sworn enemy.,,295385,0,0,0,324,0,4,322626,0,0,0,0,0,0,0
+,"I am often reminded, mostly by people who serve the Light, of the danger I represent.",295388,0,0,0,324,0,4,0,309431,0,0,0,0,0,0
+,"The Void screams at me to do horrible things. I suppress it, because I could never bear to hurt Arator.",295389,0,0,0,324,0,4,0,309430,0,0,0,0,0,0
+,"But you, in your Light-blind wrath, struck him down! You gave yourself to the Light, and our son was the casualty!",295392,0,0,0,324,0,4,0,309429,0,0,0,0,0,0
+"What happened at the Amani Pass was my failing, not the Light's. I will not renounce it.",,295394,0,0,1022,324,0,4,322628,0,0,0,0,0,0,0
+,"Do not lose yourself to it, either. Arator needs his father. I need my love.",295395,0,0,0,324,0,4,0,309427,0,0,0,0,0,0
+,"You must decide if you wield the Light, or if it wields you.",295397,0,0,0,324,0,4,0,309426,0,0,0,0,0,0
+"The Arathi Highlands, once bitterly contested,",,295416,0,0,0,350,0,6,298431,0,0,0,0,0,0,0
+have seen a tenuous ceasefire between the Horde and the Alliance.,,295417,0,0,0,350,0,6,298432,0,0,0,0,0,0,0
+"But though the armistice brought a measure of peace,",,295418,0,0,0,350,0,6,298433,0,0,0,0,0,0,0
+"Danath, ye old bastard. I gotta say, it felt good to fight alongside ye again.",,295456,0,0,0,324,0,10,300306,0,0,0,0,0,0,0
+"Reminds you of old times, doesn't it?",,295457,0,0,0,324,0,4,300307,0,0,0,0,0,0,0
+Old times an' far-off places. Khaz Algar...,,295460,0,0,0,324,0,4,300308,0,0,0,0,0,0,0
+Beyond the Dark Portal...,,295461,0,0,0,324,0,4,301178,0,0,0,0,0,0,0
+a new threat has thrown the region into chaos.,,295519,0,0,0,350,0,6,298434,0,0,0,0,0,0,0
+"Stromgarde is under siege,",,295520,0,0,0,350,0,6,298435,0,0,0,0,0,0,0
+You're quiet. That's entirely unlike you.,,295552,0,0,0,324,0,4,300336,0,0,0,0,0,0,0
+Just thinkin' about our first venture for the Argent Crusade. Remember?,,295553,0,0,0,324,0,4,300337,0,0,0,0,0,0,0
+Of course I do. You ran off and got yourself captured.,,295554,0,0,0,324,0,4,300338,0,0,0,0,0,0,0
+And I almost lost my life for it... in a way.,,295555,0,0,0,324,0,4,300339,0,0,0,0,0,0,0
+"There was no way I would have let them fashion a death knight out of you, Giddy. Never.",,295557,0,0,0,324,0,4,300340,0,0,0,0,0,0,0
+I know. But--have you ever spoken to any of the Ebon Blade?,,295559,0,0,0,324,0,4,300341,0,0,0,0,0,0,0
+"A few times. They're grim, but focused I suppose.",,295560,0,0,0,324,0,4,300342,0,0,0,0,0,0,0
+"Sometimes I wonder what would've become of me... do you think they remember who they were, before? Do they miss it?",,295563,0,0,0,324,0,4,300343,0,0,0,0,0,0,0
+"I don't know. But I do know this: when you're stricken with terrible circumstances, sometimes the only way to cope is to distract yourself. Keep yourself busy.",,295565,0,0,0,324,0,4,300344,0,0,0,0,0,0,0
+"And perhaps the reason they're so driven, so determined... perhaps they're just trying to forget what they've lost.",,295566,0,0,0,324,0,4,300345,0,0,0,0,0,0,0
+"Somehow I don't think they'd ever admit it, even if that's true.",,295567,0,0,0,324,0,4,300347,0,0,0,0,0,0,0
+"I'll always be grateful you were there for me, Tarenar. I like bein' me.",,295569,0,0,0,324,0,4,300348,0,0,0,0,0,0,0
+"Aye. I'm surprised ye are here to tell the tale, if I'm being honest?",,295647,0,0,0,324,0,4,301180,0,0,0,0,0,0,0
+I beg your pardon? Wasn't it you who first volunteered to scout the Dark Portal?,,295649,0,0,0,324,0,10,301182,0,0,0,0,0,0,0
+Well...,,295650,0,0,0,324,0,10,301181,0,0,0,0,0,0,0
+Wasn't it you whose flying time came within seconds of being ended by Ner'zhul?,,295651,0,0,0,324,0,10,301191,0,0,0,0,0,0,0
+"Oh aye, I still owe ye a pint or two for savin' me from that.",,295652,0,0,0,324,0,10,301192,0,0,0,0,0,0,0
+And how many times while we were stranded in Outland did you do something to give me more white hair...,,295656,0,0,0,324,0,10,301193,0,0,0,0,0,0,0
+"All right, I'm a daredevil. But that's not what I meant. We're gettin' up there, Danath. How old are ye now?",,295657,0,0,0,324,0,10,301195,0,0,0,0,0,0,0
+A lord never tells.,,295658,0,0,0,324,0,10,301196,0,0,0,0,0,0,0
+Not keen on talkin' 'bout it either. But lookin' back on everythin'. Our time in Outland. There's a lot to be proud of.,,295659,0,0,0,324,0,10,301197,0,0,0,0,0,0,0
+And friends made to be thankful for.,,295660,0,0,0,324,0,10,301198,0,0,0,0,0,0,0
+I'll drink tae that. Are ye buyin'?,,295661,0,0,0,324,0,10,301199,0,0,0,0,0,0,0
+Didn't you just say you owed me a pint or two?,,295662,0,0,0,324,0,10,301200,0,0,0,0,0,0,0
+Right. 'Spose I did say that.,,295663,0,0,0,324,0,10,301202,0,0,0,0,0,0,0
+,"You have lived through each Warchief in turn, as I have.",295743,0,0,0,324,0,4,0,300321,0,0,0,0,0,0
+"And past it. The age of the Warchief is over, it seems.",,295744,0,0,0,324,0,4,300325,0,0,0,0,0,0,0
+,Does this please you?,295745,0,0,0,324,0,4,0,300326,0,0,0,0,0,0
+In some ways. Thrall... Thrall was a good leader. Cairne Bloodhoof believed in his vision for the Horde.,,295746,0,0,0,324,0,4,300327,0,0,0,0,0,0,0
+,But the Warchief who came after Thrall... I still mourn the day he struck down Cairne.,295747,0,0,0,324,0,4,0,300328,0,0,0,0,0,0
+"As do I. Garrosh Hellscream was... well, I know you share my opinion of him.",,295748,0,0,0,324,0,4,300329,0,0,0,0,0,0,0
+,"Vol'jin's rule was far better received. He was wise, clever. Strong.",295749,0,0,0,324,0,4,0,300330,0,0,0,0,0,0
+But short-lived. As for who came after...,,295750,0,0,0,324,0,4,300331,0,0,0,0,0,0,0
+,Let us speak of more pleasant things.,295751,0,0,0,324,0,4,0,300332,0,0,0,0,0,0
+Such as the strength of the Warsong under your lead?,,295752,0,0,0,324,0,4,300333,0,0,0,0,0,0,0
+,The Warsong were always strong. I only reminded them of it.,295753,0,0,0,324,0,4,0,300334,0,0,0,0,0,0
+"You restored the honor Hellscream took from them. That is worth recognition, and celebration. Let us drink to that.",,295754,0,0,0,324,0,4,300335,0,0,0,0,0,0,0
+"It's a surprise and a pleasure that you are here and well, Timear. But... I'm sure you knew we'd meet again.",,295756,0,0,0,324,0,10,301235,0,0,0,0,0,0,0
+I did. But... it's unfortunate I could not foresee the fall of Dalaran... or the Kirin Tor.,,295758,0,0,0,324,0,10,301238,0,0,0,0,0,0,0
+Do not burden yourself with blame. No one could have predicted this. The world is changing. War is changing.,,295759,0,0,0,324,0,10,301239,0,0,0,0,0,0,0
+You're right. It's not like how it used to be. Remember the Isle of Thunder?,,295760,0,0,0,324,0,10,301242,0,0,0,0,0,0,0
+"Yes, it seemed simpler then. We had a plan, and we executed it. We stormed the beachhead...",,295762,0,0,0,324,0,10,301243,0,0,0,0,0,0,0
+"We established a forward base. We gained ground, we lost ground.",,295763,0,0,0,324,0,10,301244,0,0,0,0,0,0,0
+We fought the Thunder King's generals until we were at his doorstep.,,295764,0,0,0,324,0,10,301245,0,0,0,0,0,0,0
+"Honestly, what you describe sounds very similar to what happened on the beaches of Khaz Algar.",,295765,0,0,0,324,0,10,301250,0,0,0,0,0,0,0
+Really? Were you there? I had no idea--,,295766,0,0,0,324,0,10,301253,0,0,0,0,0,0,0
+"No, I answered Aethas's summons to Khaz Algar once I was able. He was there at Dalaran's fall.",,295767,0,0,0,324,0,10,301254,0,0,0,0,0,0,0
+Aethas? Leader of the Sunreavers? Hmph. I received the summons as well. But I will not respond to a Sunreaver still.,,295768,0,0,0,324,0,10,301255,0,0,0,0,0,0,0
+"They were our adversaries on the Isle of Thunder--and elsewhere. But times are changing, Lan.",,295769,0,0,0,324,0,10,301256,0,0,0,0,0,0,0
+Look around you. Orcs... worgen...,,295770,0,0,0,324,0,10,301257,0,0,0,0,0,0,0
+Trolls. I fought hard against the Zandalari. It is strange to me that they now fight alongside the Alliance.,,295771,0,0,0,324,0,10,301258,0,0,0,0,0,0,0
+You're right. Times have changed. War hasn't. But gaining so many allies... perhaps one day war will be a thing of the past.,,295772,0,0,0,324,0,10,301259,0,0,0,0,0,0,0
+,We took on those enemies... and our victory was hard worn--yard won... *hic*  hard won. You know what I mean...,295790,0,0,5,324,0,4,0,300349,0,0,0,0,0,0
+,See! Look at this one! Got it rescuing a naive adventurer from the Faithless.,295792,0,0,0,324,0,4,0,300351,0,0,0,0,0,0
+"Ha! Okay, friend. You're very tough. Put your arm down. I'm the old war dog. Look--this one is from the Second War and the Third War--even my scars have scars.",,295797,0,0,1069,324,0,4,300372,0,0,0,0,0,0,0
+,"Between Azeroth bleeding into the desert and being harried by sethrak, undead pirates, and angry naga, our simple caravan life became plagued by horrors.",295800,0,0,1,324,0,4,0,300373,0,0,0,0,0,0
+"Now ya want to compare horrors? Drustvar, covered in witches. Stormsong, a tentacle problem... I was holding down the harbor in Boralus, but I heard some things.",,295802,0,0,6,324,0,4,300388,0,0,0,0,0,0,0
+,"It felt so long... the vulpera fighting alone to protect the sands. We were happy to sit out the wars of man, then the 7th Legion decided to attack our caravans.",295805,0,0,1005,324,0,4,0,300389,0,0,0,0,0,0
+"*ahem* Can we agree that both sides hit a patch of bad sea? We were misguided, but together we were able to right the ship.",,295806,0,0,1005,324,0,4,300390,0,0,0,0,0,0,0
+Had the Alliance not arrived... I wouldn't want to imagine it. We battened down the hatches and overlooked the darkness forming in our berth.,,295807,0,0,1,324,0,4,300484,0,0,0,0,0,0,0
+,We lost sight of the greater horizon. I saw the next threat to the caravans. I had to take the fight to them... then we met the Horde.,295808,0,0,1,324,0,4,0,300485,0,0,0,0,0,0
+,"We found a new family, bound by trust and support. We learned home is having a safe place to return, and the world opened before us.",295809,0,0,1,324,0,4,0,300486,0,0,0,0,0,0
+"And we realized that by accepting help, a little light can drive out the darkness.",,295810,0,0,1,324,0,4,300487,0,0,0,0,0,0,0
+,It is wild! Momentous events threw us together and brought some unexpected revelations.,295812,0,0,603,324,0,4,0,300488,0,0,0,0,0,0
+War always brings change--it's up to us to steer what comes next. Varok's choice... We take that hope...,,295815,0,0,273,324,0,4,300489,0,0,0,0,0,0,0
+,And that strength... to build a better tomorrow.,295817,0,0,1069,324,0,4,0,300490,0,0,0,0,0,0
+"I don't see war as a good thing, but I see some of my past self in you.",,295818,0,0,1,324,0,4,300492,0,0,0,0,0,0,0
+,"You know, they used to call me the Fury of the Vulpera! It fit when I was charging into battle, blades drawn--but these days, it feels a bit... heavy for everyday use.",295819,0,0,1005,324,0,4,0,300499,0,0,0,0,0,0
+"Yeah. I hope this time when I say, ""I've survived my last war,"" it holds true.",,295820,0,0,1005,324,0,4,300511,0,0,0,0,0,0,0
+You said my domination spell didn't work the first time we met.,,295825,0,0,0,324,0,10,301260,0,0,0,0,0,0,0
+"For the last time, I am not dominated.",,295827,0,0,0,324,0,10,301261,0,0,0,0,0,0,0
+And yet you are still following me around. The day we met you slew that lovely lady I was speaking to.,,295828,0,0,0,324,0,10,301262,0,0,0,0,0,0,0
+I'm already dead. Gallantry is not in your repertoire. Why did you intervene?,,295829,0,0,0,324,0,10,301264,0,0,0,0,0,0,0
+"I'd been observing you for some time. Despite your apparent ineptitude, you did survive the Broken Shore.",,295830,0,0,0,324,0,10,301265,0,0,0,0,0,0,0
+And?,,295831,0,0,0,324,0,10,301266,0,0,0,0,0,0,0
+And you meddle with fel magic as though it is an interesting plaything. Which it is not.,,295832,0,0,0,324,0,10,301267,0,0,0,0,0,0,0
+"And you embrace the fel, yet you're so strangely bitter about it. Amusing.",,295833,0,0,0,324,0,10,301268,0,0,0,0,0,0,0
+"Are you admitting you enjoy my company, warlock?",,295836,0,0,0,324,0,10,301269,0,0,0,0,0,0,0
+I'd rather die. Again.,,295837,0,0,0,324,0,10,301270,0,0,0,0,0,0,0
+It was an imp mother. And she was about to slay you.,,295875,0,0,0,324,0,10,301263,0,0,0,0,0,0,0
+The Sons of Lothar? You?,,295904,0,0,0,324,0,10,301011,0,0,0,0,0,0,0
+I am... just as surprised. This is not a day I thought would come.,,295906,0,0,0,324,0,10,301012,0,0,0,0,0,0,0
+"Yes. A few scant years ago, if the patrons here had met, it would not be a lively pub but a charnel house.",,295908,0,0,0,324,0,10,301015,0,0,0,0,0,0,0
+I hope that's not regret I hear in your voice.,,295909,0,0,0,324,0,10,301016,0,0,0,0,0,0,0
+Heavens no. This is the peace we--and my children--worked for. I hope they get to live in it.,,295911,0,0,0,324,0,10,301017,0,0,0,0,0,0,0
+Your children are warriors then? Like you?,,295912,0,0,0,324,0,10,301019,0,0,0,0,0,0,0
+"My daughter, Lorna, has fought by my side from the beginning--as part of the Gilnean Liberation Front.",,295977,0,0,0,324,0,10,301033,0,0,0,0,0,0,0
+,You're not sitting near the fire?,295978,0,0,0,324,0,10,0,301273,0,0,0,0,0,0
+,"Na, girl. Not since Hyjal, and the Firelands.",295979,0,0,0,324,0,10,0,301274,0,0,0,0,0,0
+,Oh? I didn't know you fought with us there.,295980,0,0,0,324,0,10,0,301275,0,0,0,0,0,0
+,All de druids were there. I wouldn't abandon that sacred place. But I don't need ta be thinkin' of those times.,295981,0,0,0,324,0,10,0,301276,0,0,0,0,0,0
+,"The flames were bad, but we won.",295982,0,0,0,324,0,10,0,301277,0,0,0,0,0,0
+,De hatred was more oppressive than de heat. And de Druids of de Flame returned.,295983,0,0,0,324,0,10,0,301278,0,0,0,0,0,0
+,De hunger for power dat brought dem to Ragnaros brought dem to Fyrakk.,295984,0,0,0,324,0,10,0,301279,0,0,0,0,0,0
+,They didn't have enough power. We crushed them both times.,295985,0,0,0,324,0,10,0,301280,0,0,0,0,0,0
+,"Dey burned de Dream. Dey may have lost, but so did we.",295986,0,0,0,324,0,10,0,301281,0,0,0,0,0,0
+,"What we lost will heal, and we will too.",295987,0,0,0,324,0,10,0,301282,0,0,0,0,0,0
+,Let me bring you a cold drink. There is more than one way to beat the heat.,295988,0,0,0,324,0,10,0,301283,0,0,0,0,0,0
+"A soldier in her own right, she served with me.",,295989,0,0,0,324,0,10,301054,0,0,0,0,0,0,0
+"She is my rock. My center. She accepted me as worgen, saved our king, and tempered my want for revenge.",,295995,0,0,0,324,0,10,301086,0,0,0,0,0,0,0
+She deserves a world of peace.,,295996,0,0,0,324,0,10,301108,0,0,0,0,0,0,0
+"My family has endured great tragedy. But I am proud to speak the name of my son, Ariok.",,296003,0,0,0,324,0,10,301140,0,0,0,0,0,0,0
+Ariok's path is his own. But he fought at my side against the Blackrock and sacrificed his health and sanity for his allies.,,296010,0,0,0,324,0,10,301154,0,0,0,0,0,0,0
+"He still suffers from a terrible affliction, but we have recently come to an understanding.",,296027,0,0,0,324,0,10,301155,0,0,0,0,0,0,0
+"If I could heal him, I would. If I could heal this world...",,296028,0,0,0,324,0,10,301156,0,0,0,0,0,0,0
+Having children... it changes your perspective. You want to leave the world a better place.,,296029,0,0,0,324,0,10,301157,0,0,0,0,0,0,0
+I hope to my ancestors we are.,,296030,0,0,0,324,0,10,301159,0,0,0,0,0,0,0
+I'll drink to that. To Lorna and Ariok. To a better world.,,296031,0,0,0,324,0,10,301160,0,0,0,0,0,0,0
+,I'm sad we haven't gone on more missions together for the Uncrowned!,296182,0,0,0,324,0,10,0,301213,0,0,0,0,0,0
+,Missions for... removing crowns from corrupt mayors and the like!,296183,0,0,0,324,0,10,0,301214,0,0,0,0,0,0
+,Don't shout! We don't want any of these patrons compromising our organization.,296184,0,0,0,324,0,10,0,301217,0,0,0,0,0,0
+,"I'm testing them to see what they have on us! You know I've bugged every inch of this place, right?",296185,0,0,0,324,0,10,0,301218,0,0,0,0,0,0
+,That isn't our directive! We are supposed to gather ourselves here before rejoining the others.,296186,0,0,0,324,0,10,0,301222,0,0,0,0,0,0
+,"My bugs caught you scouting from the shadows too, you know.",296187,0,0,0,324,0,10,0,301223,0,0,0,0,0,0
+,I'm... not used to relaxation. I find comfort in using my skills to protect my people.,296188,0,0,0,324,0,10,0,301225,0,0,0,0,0,0
+,"And I find comfort in my machines! We just can't turn our brains off, can we?",296189,0,0,0,324,0,10,0,301226,0,0,0,0,0,0
+,"We are more alike than I thought, even if we go about things differently.",296190,0,0,0,324,0,10,0,301227,0,0,0,0,0,0
+,I'd really love to hear more about your stealth training.,296191,0,0,0,324,0,10,0,301228,0,0,0,0,0,0
+,And I would love to learn about these inventions of yours.,296192,0,0,0,324,0,10,0,301231,0,0,0,0,0,0
+,To fast friendship and shared paths!,296193,0,0,0,324,0,10,0,301233,0,0,0,0,0,0
+,"Here's to many peaceful days ahead! Speaking of which, my friend, what should we do tomorrow?",296831,0,0,1,324,0,4,0,300512,0,0,0,0,0,0
+"You are a soldier of the mighty Horde--a disparate band of cultures united in their pursuit of freedom, honor, and glory.",,296846,0,0,0,334,0,6,298426,0,0,0,0,0,0,0
+You are a soldier of the noble Alliance--a coalition of kingdoms upholding the ideals of valor and justice across Azeroth.,,296856,0,0,0,334,0,6,298425,0,0,0,0,0,0,0
+We've fought together for a thousand years. Do you not trust me?,,297412,0,0,1,324,0,7,300810,0,0,0,0,0,0,0
+,"I do, Lothraxion. When Decimus does betray us, I trust you to put them down.",297413,0,0,1,324,0,7,0,300852,0,0,0,0,0,0
+Your father refused the legacy. It's yours if you want it.,,297938,0,0,0,326,0,4,306043,0,0,0,0,0,0,0
+It does feel right.,,297944,0,0,0,326,0,4,306042,0,0,0,0,0,0,0
+"I'll do it. Faol told me that the Silver Hand was meant to protect the defenseless, during war as well as peace.",,297946,0,0,0,326,0,4,306041,0,0,0,0,0,0,0
+"Maybe I can help to demonstrate that service to others, as Dezco has. This reforged shield can be a reminder to me, as I protect Azeroth.",,297947,0,0,0,326,0,4,306040,0,0,0,0,0,0,0
+Thank you. All of you. I won't let you down.,,297949,0,0,0,326,0,4,306039,0,0,0,0,0,0,0
+Arator! Has Umbric agreed to lend his aid?,,298107,0,0,0,324,0,10,300026,0,0,0,0,0,0,0
+In due time. I have dire news--the Twilight's Blade infiltrated Tranquillien.,,298110,0,0,0,324,0,10,300027,0,0,0,0,0,0,0
+"What's worse is they had a map of Eversong, marked with targets--Tranquillien was only their first stop.",,298115,0,0,0,324,0,10,300028,0,0,0,0,0,0,0
+Traitors on our doorstep. How can they betray their own people?,,298121,0,0,0,324,0,10,300029,0,0,0,0,0,0,0
+"They're afraid, father. You know the Void preys on fear.",,298123,0,0,0,324,0,10,300030,0,0,0,0,0,0,0
+"The last time the Sunwell was threatened like this, the sin'dorei were nearly wiped out.",,298129,0,0,0,324,0,10,300031,0,0,0,0,0,0,0
+"Then this time, we'll ensure that cult is wiped out. See it done, Arator.",,298131,0,0,0,324,0,10,300032,0,0,0,0,0,0,0
+Not before we help Umbric secure Windrunner Village. We'll strike once everyone is safe.,,298137,0,0,0,324,0,10,300033,0,0,0,0,0,0,0
+My mother... I haven't heard from her in weeks.,,298172,0,0,0,324,0,10,300041,0,0,0,0,0,0,0
+"We don't speak often, but it just feels different this time. With everything that's happened, that storm in the sky, the Void...",,298174,0,0,0,324,0,10,300042,0,0,0,0,0,0,0
+"Worry solves nothing. What we need is a sword and a capable hand, and I've both of those.",,298176,0,0,0,324,0,10,300043,0,0,0,0,0,0,0
+Still... I wish I'd seen this place while it still lived.,,298178,0,0,0,324,0,10,300044,0,0,0,0,0,0,0
+The Amani were only the source of a bigger problem.,,298300,0,0,0,324,0,1,300080,0,0,0,0,0,0,0
+The Lightbloom has never acted like this before. The forests had only small pockets of growth.,,298301,0,0,0,324,0,1,300081,0,0,0,0,0,0,0
+"But the moment the Sunwell surged--it changed everything. Every pocket of Lightbloom has grown into dense thickets, teeming with strange wildlife.",,298302,0,0,0,324,0,1,300082,0,0,0,0,0,0,0
+I cannot leave this unchecked. Lor'themar said you had someone knowledgeable with you in Fairbreeze?,,298303,0,0,0,324,0,1,300083,0,0,0,0,0,0,0
+"I need to speak with them. My expertise lies with the forests. This problem, I can surely solve.",,298304,0,0,0,324,0,1,300084,0,0,0,0,0,0,0
+"The other issues... well, you've proven yourself competent many times over. Take care.",,298305,0,0,0,324,0,1,300085,0,0,0,0,0,0,0
+"I'd heard this land belonged to the Amani, long ago. I hadn't really thought about it beyond recorded history.",,298405,0,0,1120,324,0,10,300095,0,0,0,0,0,0,0
+But these ancient bones--there must be generations of Amani buried here. Resting where no one can reach them.,,298406,0,0,1120,324,0,10,300096,0,0,0,0,0,0,0
+"We elves do not revere our ancestors as the orcs do, but we still honor our dead.",,298407,0,0,669,324,0,10,300097,0,0,0,0,0,0,0
+The Amani cannot even do that much. We've taken it away from them. Little wonder they hold such hatred for elvenkind.,,298408,0,0,1120,324,0,10,300098,0,0,0,0,0,0,0
+We should get moving.,,298409,0,0,669,324,0,10,300099,0,0,0,0,0,0,0
+"Is everything all right, Lady Liadrin? You've said little since we arrived.",,298663,0,0,0,324,0,10,300374,0,0,0,0,0,0,0
+,My apologies--my thoughts are with the Sunwell. I did not expect it to react with such... force.,298665,0,0,0,324,0,10,0,300375,0,0,0,0,0,0
+"You ask, and the Light provides. Need it be more complicated than that?",,298666,0,0,0,324,0,10,300376,0,0,0,0,0,0,0
+"She speaks of the Sunwell, not the Light.",,298668,0,0,0,324,0,10,300377,0,0,0,0,0,0,0
+Your fount was blessed by the heart of a naaru. It is one and the same.,,298670,0,0,0,324,0,10,300378,0,0,0,0,0,0,0
+"I suggest you hold your tongue, High Exarch. That ""fount"" you so blithely pretend to understand predates the existence of human civilization.",,298671,0,0,0,324,0,10,300379,0,0,0,0,0,0,0
+"And in all that time, I have never heard of the Sunwell reacting with that kind of... aggression. Liadrin, what was that beam of light?",,298673,0,0,0,324,0,10,300380,0,0,0,0,0,0,0
+,"I wish I knew. It holds back the Void, yet I still wonder... if the Sunwell is capable of such power, what else will it do?",298674,0,0,0,324,0,10,0,300381,0,0,0,0,0,0
+"That question worries me, Liadrin. Is it wrong for it to do so?",,298675,0,0,0,324,0,10,300382,0,0,0,0,0,0,0
+,The effects of the Sunwell have never been malicious. It has blessed Eversong's forests with small groves of Lightbloom for years.,298676,0,0,0,324,0,10,0,300383,0,0,0,0,0,0
+"Small at first, but Fairbreeze now reports a problem. If the Sunwell is aggressive, what of the Lightbloom?",,298678,0,0,0,324,0,10,300384,0,0,0,0,0,0,0
+"These worries will lead you nowhere, Regent Lord. As long as the Vanguard maintains the connection to the Sunwell, the Light will see us through.",,298679,0,0,0,324,0,10,300385,0,0,0,0,0,0,0
+Have faith. That is all that is needed from you.,,298680,0,0,0,324,0,10,300386,0,0,0,0,0,0,0
+"Perhaps you should save your words for when they are asked for, High Exarch. I suspect they would be better received.",,298681,0,0,0,324,0,10,300387,0,0,0,0,0,0,0
+We embrace a unity you could never understand.,,298742,0,0,1,324,0,7,300839,0,0,0,0,0,0,0
+I became worthy of the Light. Such strength of will is beyond you.,,298743,0,0,1,324,0,7,300854,0,0,0,0,0,0,0
+"You've always been reckless, Umbric. You leave calamity and ruin in your wake.",,298758,0,0,1,324,0,7,300638,0,0,0,0,0,0,0
+,"He was a friend, once. Before I followed the goddess's visions to the world above.",299016,0,0,0,324,0,7,0,305518,0,0,0,0,0,0
+,He was supposed to walk with us. But he chose the rift instead.,299017,0,0,0,324,0,7,0,305519,0,0,0,0,0,0
+,He turned his back on his friends. He closed his mind to the goddess.,299018,0,0,0,324,0,7,0,305520,0,0,0,0,0,0
+,And he chose to abandon me.,299019,0,0,0,324,0,7,0,305521,0,0,0,0,0,0
+,To think I ever accused you of casting away your faith in the Goddess.,299020,0,0,0,324,0,7,0,305568,0,0,0,0,0,0
+You have always heard her Song with clarity. I was called to serve in other ways.,,299021,0,0,0,324,0,7,305570,0,0,0,0,0,0,0
+You find your faith by listening. I must practice mine by remembering. ,,299022,0,0,0,324,0,7,305571,0,0,0,0,0,0,0
+"I know she sings, even if I cannot hear her.",,299023,0,0,0,324,0,7,305572,0,0,0,0,0,0,0
+"I was called to the path of the Shul'ka, but not like you were called to yours. I hope you can understand that.",,299024,0,0,0,324,0,7,305573,0,0,0,0,0,0,0
+,"I do, now. I am sorry it took me so long.",299025,0,0,0,324,0,7,0,305574,0,0,0,0,0,0
+"Few understand the strength of our faith. They fear it, because it differs from their own.",,299026,0,0,0,324,0,7,305575,0,0,0,0,0,0,0
+"But we serve her, all the same.",,299027,0,0,0,324,0,7,305576,0,0,0,0,0,0,0
+,I will see you again.,299028,0,0,0,324,0,7,0,305577,0,0,0,0,0,0
+That is unwise. This place brings you much pain.,,299029,0,0,0,324,0,7,305578,0,0,0,0,0,0,0
+,"As does losing my friend. Goddess guide you, Shul'ka Amarakk.",299030,0,0,0,324,0,7,0,305579,0,0,0,0,0,0
+"You cannot buy absolution, Vereesa. What you did was unforgivable.",,299418,0,0,1022,324,0,4,305757,0,0,0,0,0,0,0
+,I am not here seeking forgiveness. Silvermoon is under attack. I intend to defend it.,299419,0,0,1005,324,0,4,0,305758,0,0,0,0,0,0
+High King Anasterian's death heralded an age of mistrust and anger. This is what the Void feeds upon.,,299421,0,0,1005,324,0,4,305759,0,0,0,0,0,0,0
+Was Anasterian's sacrifice in vain? Did he die so that his people would turn on each other rather than unite to defend their home?,,299427,0,0,603,324,0,4,305760,0,0,0,0,0,0,0
+The Amani crossed a line. We need to make sure their encroachment has ended.,,299537,0,0,0,324,0,10,303761,0,0,0,0,0,0,0
+"Lady Liadrin is in Zul'Aman now, looking into the situation. She'll need backup.",,299538,0,0,0,324,0,10,303762,0,0,0,0,0,0,0
+The Lightbloom is still an ever-present threat.,,299539,0,0,0,324,0,10,303763,0,0,0,0,0,0,0
+Your... contact has been investigating the overgrowth. Perhaps she has found something of value.,,299540,0,0,0,324,0,10,303764,0,0,0,0,0,0,0
+The Sunwell can only be empowered for so long. Those who are maintaining its current state are under immense strain.,,299541,0,0,0,324,0,10,303765,0,0,0,0,0,0,0
+"Turalyon, how does our army fare?",,299542,0,0,0,324,0,10,303766,0,0,0,0,0,0,0
+The Vanguard... stands at the ready. But even we cannot hold the line should the Sunwell falter.,,299543,0,0,0,324,0,10,303767,0,0,0,0,0,0,0
+Welcome Home,Welcome Home,299925,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+"The Silver Covenant drew a line in the sand, and then soaked it in blood.",,300493,0,0,603,324,0,4,305761,0,0,0,0,0,0,0
+,"We are here to prevent more blood from spilling. In spite of all that has happened between us, can you deny that is what Anasterian would have wanted?",300494,0,0,1,324,0,4,0,305762,0,0,0,0,0,0
+"No... I cannot. This is far from over, Windrunner... but for the sake of our High King, you may enter Silvermoon.",,300495,0,0,1005,324,0,4,305763,0,0,0,0,0,0,0
+"Dimensius was defeated, but Locus-Walker learned a terrible lesson in the process--one that had been learned by Gallywix, Queen Ansurek, Aelric Leid, and High Speaker Eirich in turn.",,300922,0,0,0,324,0,4,306626,0,0,0,0,0,0,0
+"No matter how tempting the offer, no matter how desperate the cause--in the end, Xal'atath served only her own purposes.",,300923,0,0,0,324,0,4,306627,0,0,0,0,0,0,0
+"With the Dark Heart in her possession and charged with the power of Dimensius, all that remains is to wait and see where--and when--she will strike.",,300924,0,0,0,324,0,4,306628,0,0,0,0,0,0,0
+,Atal'Aman has fallen.,301498,0,0,1005,324,0,4,0,309220,0,0,0,0,0,0
+No thanks to all of you!,,301500,0,0,1005,324,0,4,309221,0,0,0,0,0,0,0
+,We are under attack. De Vilebranch--,301501,0,0,1,324,0,4,0,309222,0,0,0,0,0,0
+,No time for barin' our tusks. We need a plan. Torundo?,301502,0,0,1005,324,0,4,0,309223,0,0,0,0,0,0
+Not many Amani made it back here.,,301503,0,0,274,324,0,4,309224,0,0,0,0,0,0,0
+,De Revantusk also suffered heavy losses.,301504,0,0,1,324,0,4,0,309226,0,0,0,0,0,0
+I have sent out a call to my people. We will see.,,301505,0,0,1005,324,0,4,309227,0,0,0,0,0,0,0
+,Forgive me...,301506,0,0,274,324,0,4,0,309228,0,0,0,0,0,0
+,But what about the loa? Can you not call upon them to aid you?,301507,0,0,6,324,0,4,0,309229,0,0,0,0,0,0
+De loa? Dey abandoned us long ago.,,301508,0,0,1005,324,0,4,309230,0,0,0,0,0,0,0
+We never needed them. We can rely on our own strength!,,301509,0,0,1,324,0,4,309231,0,0,0,0,0,0,0
+,I ask again for your assistance. We've got to make a stand.,301510,0,0,1,324,0,4,0,309232,0,0,0,0,0,0
+,Make ready what you can.,301511,0,0,1005,324,0,4,0,309233,0,0,0,0,0,0
+The Light... we must trust in the Light. We must.,,301641,0,0,0,324,0,10,309649,0,0,0,0,0,0,0
+and Hammerfall has suffered heavy losses.,,301757,0,0,0,334,0,6,310068,0,0,0,0,0,0,0
+You have answered the call for aid,,301758,0,0,0,334,0,6,310069,0,0,0,0,0,0,0
+and stand ready to join the fight.,,301759,0,0,0,334,0,6,310070,0,0,0,0,0,0,0
+Band together with the Horde and the Alliance,,301760,0,0,0,334,0,6,310071,0,0,0,0,0,0,0
+to secure the Arathi Highlands!,,301761,0,0,0,334,0,6,310072,0,0,0,0,0,0,0
+Uh... me thank. You take plans... and no tell anyone what I try get inside. OK?,,302029,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+"Kalecgos is here somewhere, captured in his dragon form.",,302254,0,0,0,326,0,4,311494,0,0,0,0,0,0,0
+These idiotic ogres are trying to start a ritual,,302255,0,0,0,326,0,4,311497,0,0,0,0,0,0,0
+to gain control of him and his magic!,,302256,0,0,0,326,0,4,311498,0,0,0,0,0,0,0
+And there it is.,,302257,0,0,0,326,0,4,311499,0,0,0,0,0,0,0
+Kalecgos and his power will be theirs if these rituals finish!,,302258,0,0,0,326,0,4,311500,0,0,0,0,0,0,0
+,I will do what I can to slow down their magic while our forces disrupt these foul rituals.,302259,0,0,0,326,0,4,0,311501,0,0,0,0,0,0
+,We will not let Kalecgos fall to such beasts.,302260,0,0,0,326,0,4,0,311503,0,0,0,0,0,0
+,For the Alliance!,302261,0,0,0,326,0,4,0,311504,0,0,0,0,0,0
+"Kalecgos is here somewhere, captured in his dragon form.",,302262,0,0,0,326,0,4,311505,0,0,0,0,0,0,0
+These idiotic ogres are trying to start a ritual,,302263,0,0,0,326,0,4,311507,0,0,0,0,0,0,0
+to gain control of him and his magic!,,302264,0,0,0,326,0,4,311508,0,0,0,0,0,0,0
+And there it is.,,302265,0,0,0,326,0,4,311509,0,0,0,0,0,0,0
+Kalecgos and his power will be theirs if these rituals finish!,,302266,0,0,0,326,0,4,311510,0,0,0,0,0,0,0
+We will not leave Kalecgos to this grim fate.,,302267,0,0,0,326,0,4,311345,0,0,0,0,0,0,0
+These ogres will face the fury of the Horde.,,302268,0,0,0,326,0,4,311346,0,0,0,0,0,0,0
+Lok-tar ogar!,,302269,0,0,0,326,0,4,311347,0,0,0,0,0,0,0
+What?,,302285,0,0,0,358,0,4,311394,0,0,0,0,0,0,0
+,Yu'lon!,302286,0,0,0,358,0,4,0,311396,0,0,0,0,0,0
+Yu'lon!,,302287,0,0,0,358,0,4,311397,0,0,0,0,0,0,0
+"Slow down, my friend!",,302288,0,0,0,358,0,4,311398,0,0,0,0,0,0,0
+Where are we...,,302289,0,0,0,358,0,4,311399,0,0,0,0,0,0,0
+By Shao'hao's beard!,,302290,0,0,0,358,0,4,311512,0,0,0,0,0,0,0
+,Cho!,302291,0,0,0,358,0,4,0,311400,0,0,0,0,0,0
+,What are you waiting for? Come on!,302292,0,0,0,358,0,4,0,311401,0,0,0,0,0,0
+Shen-zin Su...,,302293,0,0,0,358,0,4,311402,0,0,0,0,0,0,0
+I do not know what I have done to deserve this honor.,,302294,0,0,0,358,0,4,311403,0,0,0,0,0,0,0
+,(laughing with joy),302295,0,0,0,358,0,4,0,311404,0,0,0,0,0,0
+,He just wanted to come home too!,302296,0,0,0,358,0,4,0,311405,0,0,0,0,0,0
+,"And from my home to yours, Lorewalker.",302297,0,0,0,358,0,4,0,311406,0,0,0,0,0,0
+,Welcome.,302298,0,0,0,358,0,4,0,311407,0,0,0,0,0,0
+,Rhonin--,302336,0,0,0,374,0,4,0,311436,0,0,0,0,0,0
+Vereesa!,,302337,0,0,0,374,0,4,311438,0,0,0,0,0,0,0
+,Arator...?!,302338,0,0,0,374,0,4,0,311439,0,0,0,0,0,0
+,Where are you?,302339,0,0,0,374,0,4,0,311440,0,0,0,0,0,0
+,(painful groan),302340,0,0,0,374,0,4,0,311441,0,0,0,0,0,0
+,No...,302341,0,0,0,374,0,4,0,311443,0,0,0,0,0,0
+,The screams...,302342,0,0,0,374,0,4,0,311444,0,0,0,0,0,0
+,The horror.,302343,0,0,0,374,0,4,0,311445,0,0,0,0,0,0
+,Stop!,302344,0,0,0,374,0,4,0,311446,0,0,0,0,0,0
+,It's too much!,302345,0,0,0,374,0,4,0,311447,0,0,0,0,0,0
+,I cannot bear to see this!,302346,0,0,0,374,0,4,0,311448,0,0,0,0,0,0
+,Stop! Stop!,302347,0,0,0,374,0,4,0,311449,0,0,0,0,0,0
+,NOOOO!!!,302348,0,0,0,374,0,4,0,311450,0,0,0,0,0,0
+Shal'na! Come back to us.,,302349,0,0,0,374,0,4,311451,0,0,0,0,0,0,0
+,(singing in Thalassian),302496,0,0,0,358,0,4,0,0,0,0,0,0,0,0
+,"Vendel'o eranu,",302497,0,0,0,358,0,4,0,0,0,0,0,0,0,0
+,"Vendel'o eranu,",302498,0,0,0,358,0,4,0,0,0,0,0,0,0,0
+,ashal'anore.,302499,0,0,0,358,0,4,0,0,0,0,0,0,0,0
+,Sin'dorei--,302500,0,0,0,358,0,4,0,0,0,0,0,0,0,0
+,Elu'meniel mal alann.,302501,0,0,0,326,0,4,0,0,0,0,0,0,0,0
+,Sin'dorei--,302502,0,0,0,358,0,4,0,0,0,0,0,0,0,0
+,(grunting in pain),302511,0,0,0,374,0,4,0,311836,0,0,0,0,0,0
+,(gasping),302512,0,0,0,374,0,4,0,311838,0,0,0,0,0,0
+,(panicked cry),302513,0,0,0,374,0,4,0,311840,0,0,0,0,0,0
+,(panicked cry),302514,0,0,0,374,0,4,0,311841,0,0,0,0,0,0
+,(grunts),302515,0,0,0,374,0,4,0,311842,0,0,0,0,0,0
+,"I was in the Void... unmoored. Until I felt your call, Magister.",302540,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+,Trolls were one of the first to bargain with the loa for protection or power.,302653,0,0,1005,324,0,8,0,336877,0,0,0,0,0,0
+,What are the loa?,302655,0,0,0,324,0,8,0,336874,0,0,0,0,0,0
+,"Many call them Wild Gods, but to the trolls they're loa. They come from the Emerald Dream, usually in the shapes of Azeroth's wild creatures.",302656,0,0,0,324,0,8,0,336875,0,0,0,0,0,0
+,The loa often watch over the animals they share their shape with. Some also connect with the mortal races of Azeroth.,302657,0,0,0,324,0,8,0,336876,0,0,0,0,0,0
+,"The Loa of Kings, Rezan, chose the Zandalari king to receive his blessings.",302658,0,0,0,324,0,4,0,336883,0,0,0,0,0,0
+,With Rezan by his side it seemed King Rastakhan would rule forever.,302659,0,0,0,324,0,8,0,336884,0,0,0,0,0,0
+,Each tribe's nature is reflected in the loa they bargain with.,302661,0,0,1005,324,0,8,0,336878,0,0,0,0,0,0
+,"Nobody could challenge the king while Rezan lived, but the traitor Prophet Zul had a plan.",302662,0,0,0,324,0,8,0,336885,0,0,0,0,0,0
+"You did it, champion!",,303188,0,0,0,326,0,4,313165,0,0,0,0,0,0,0
+The civilians escaped the Devouring Host!,,303190,0,0,0,326,0,4,313167,0,0,0,0,0,0,0
+Vanguard of the Light!,,303201,0,0,0,326,0,4,313170,0,0,0,0,0,0,0
+We make our stand at the gate!,,303202,0,0,0,326,0,4,313172,0,0,0,0,0,0,0
+For Azeroth!,,303203,0,0,0,326,0,4,313173,0,0,0,0,0,0,0
+For the Light!,,303204,0,0,0,326,0,4,313174,0,0,0,0,0,0,0
+"Arator, wait!",,303205,0,0,0,326,0,4,313175,0,0,0,0,0,0,0
+I must escort these civilians to the docks and get them to safety.,,303207,0,0,0,326,0,4,313176,0,0,0,0,0,0,0
+There are still many unaccounted for.,,303208,0,0,0,326,0,4,313177,0,0,0,0,0,0,0
+We cannot abandon them to the Void.,,303209,0,0,0,326,0,4,313178,0,0,0,0,0,0,0
+"Of course, Lor'themar.",,303212,0,0,0,326,0,4,313179,0,0,0,0,0,0,0
+We'll do everything in our power to safeguard them.,,303214,0,0,0,326,0,4,313180,0,0,0,0,0,0,0
+Surely the High Exarch can spare us for a moment to save some lives.,,303216,0,0,0,358,0,4,313181,0,0,0,0,0,0,0
+"Ah, now here is one whose actions ring out over Azeroth. An orc of many names - Warchief, shaman, Thrall. And to his closest companions, Go'el.",,303359,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+"Thrall is the architect of the new Horde. His efforts helped the orcs reclaim their honor and traditions, but he also brought outsiders giving them solidarity against a world that defied their existence.",,303360,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+I could fill hours with the story of his heroics. So I will try to keep this brief.,,303361,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+"Thrall's life starts in tragedy. His parents were betrayed by their own kin when he was just an infant, leaving him orphaned.",,303366,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+It was the humans of Lordaeron that found him - and their hatred of the orcs from the Second War ran deep.,,303367,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+"Once free of the humans' chains, Thrall made contact with his lost kin. Under their tutelage, he came to a decision.",,303372,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+"He would make a home for the orcs on Azeroth, not one born of war and hostility--but one where his kin could truly live to their greatest potential.",,303373,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+"Along his journeys, Thrall met the Frostwolf shaman, Drek'thar, who introduced him to his potential for shamanism.",,303379,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+Honored to be connected with his ancestors in such a way--Thrall did not hesitate to improve his skills and follow the traditions of his blood clan.,,303380,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+It was his calling as a Shaman that was the driving factor for his passing of the mantle of Warchief.,,303381,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+"No longer hiding - Thrall did not wish to retake the mantle of warchief. Instead, he endeavored to protect those who would bring Horde into the future he envisioned.",,303391,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+"The chieftain of the Horde aligned Tauren, Baine Bloodhoof, had been detained. For the crime of wishing for peace.",,303392,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+"With Saurfang and a champion of the Horde's help, Thrall once more fought to break into the gates of Orgrimmar.",,303393,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+"My own people, captured by the ethereals and their life force siphoned to power these turrets.",,303659,0,0,0,358,0,4,315110,0,0,0,0,0,0,0
+I could scarcely believe it until I saw it with my own eyes.,,303660,0,0,0,358,0,4,315111,0,0,0,0,0,0,0
+"We must rescue them, $n!",,303661,0,0,0,358,0,4,315112,0,0,0,0,0,0,0
+The Devouring Host has been drawing out Vanguard forces and picking them off.,,303662,0,0,0,358,0,4,315115,0,0,0,0,0,0,0
+They won't last long without rescue.,,303663,0,0,0,358,0,4,315116,0,0,0,0,0,0,0
+Look! One of the Vanguard officers has been captured!,,303664,0,0,0,358,0,4,315120,0,0,0,0,0,0,0
+"I've been trying to track these beasts, but their use of void portals makes it nearly impossible.",,303665,0,0,0,358,0,4,315121,0,0,0,0,0,0,0
+,"Well done, Zul'jarra!",303666,0,0,0,358,0,4,0,315122,0,0,0,0,0,0
+,Kinduru was right about you.,303667,0,0,0,358,0,4,0,315124,0,0,0,0,0,0
+,All this time... You were right here!,303668,0,0,0,358,0,4,0,315125,0,0,0,0,0,0
+,Why didn't you answer us?!,303669,0,0,0,358,0,4,0,315126,0,0,0,0,0,0
+,"Because of your grandfather, Zul'jin.",303670,0,0,0,358,0,4,0,315130,0,0,0,0,0,0
+,"And that snake of a witch doctor, Malacrass.",303671,0,0,0,358,0,4,0,315132,0,0,0,0,0,0
+,"Long ago, we loa would choose a champion among the Amani.",303672,0,0,0,358,0,4,0,315134,0,0,0,0,0,0
+,"A ""hash'ey"" to wield our power for the good of their people.",303673,0,0,0,358,0,4,0,315135,0,0,0,0,0,0
+,Zul'jin wanted to use that power again.,303674,0,0,0,358,0,4,0,315136,0,0,0,0,0,0
+,"Not to serve his people, but to slaughter his enemies.",303675,0,0,0,358,0,4,0,315137,0,0,0,0,0,0
+,We would not grant such a blessing.,303676,0,0,0,358,0,4,0,315138,0,0,0,0,0,0
+,"So he had Malacrass steal it from us and make their own false, abhorrent hash'ey.",303677,0,0,0,358,0,4,0,315139,0,0,0,0,0,0
+,But our own champions raided the temple city and stopped them.,303678,0,0,0,358,0,4,0,315144,0,0,0,0,0,0
+,So now all Amani must suffer for my grandfather's mistakes?,303679,0,0,0,358,0,4,0,315145,0,0,0,0,0,0
+,If you don't help us fight de cult...,303680,0,0,0,358,0,4,0,315146,0,0,0,0,0,0
+,"You passed my trial, Zul'jarra.",303681,0,0,0,358,0,4,0,315147,0,0,0,0,0,0
+,You have my favor.,303682,0,0,0,358,0,4,0,315148,0,0,0,0,0,0
+,Now you just need the others.,303683,0,0,0,358,0,4,0,315149,0,0,0,0,0,0
+,Need dem for what?,303685,0,0,0,358,0,4,0,315150,0,0,0,0,0,0
+,To become the first hash'ey in generations.,303686,0,0,0,358,0,4,0,315151,0,0,0,0,0,0
+,What else?,303687,0,0,0,358,0,4,0,315152,0,0,0,0,0,0
+,(cackles),303688,0,0,0,358,0,4,0,315153,0,0,0,0,0,0
+,Prove to the loa that you are not your grandfather!,303689,0,0,0,358,0,4,0,315154,0,0,0,0,0,0
+,Triumph where he failed!,303690,0,0,0,358,0,4,0,315155,0,0,0,0,0,0
+,"Become hash'ey, a true hash'ey, and wield the power of the loa in defense of Zul'Aman!",303691,0,0,0,358,0,4,0,315156,0,0,0,0,0,0
+"He kidnapped Sir Finley!
+
+We have to help him.",,303709,0,0,0,324,0,4,0,0,603,0,0,0,0,0
+Tell me what happened.,Tell me what happened.,303710,0,0,0,324,0,4,0,0,1,0,0,0,0,0
+"This, though! What an interesting little specimen for my collection.",,303740,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+I'll be watching.,,303741,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+"A human, how pedestrian. I find myself awash in them these days.",,303742,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+Let him go!,,303751,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+I'll show you...,,303754,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+Help! Finley's been kidnapped!,,303756,0,0,603,324,0,4,0,0,0,0,0,0,0,0
+,Valeera sighs.,303772,0,0,6,324,0,4,0,0,0,0,0,0,0,0
+,Of course.,303773,0,0,1,324,0,4,0,0,0,0,0,0,0,0
+Vanguard!,,304069,0,0,0,374,0,4,316020,0,0,0,0,0,0,0
+Redouble your efforts!,,304070,0,0,0,374,0,4,316021,0,0,0,0,0,0,0
+Today the Void learns the power of Light is supreme!,,304071,0,0,0,374,0,4,316022,0,0,0,0,0,0,0
+,(laughs),304073,0,0,0,374,0,4,0,316023,0,0,0,0,0,0
+,The old warrior thinks this will be his crowning achievement.,304075,0,0,0,374,0,4,0,316025,0,0,0,0,0,0
+"Show yourself, witch!",,304076,0,0,0,374,0,4,316028,0,0,0,0,0,0,0
+,A paladin staring down the might of the Void with only the absolute conviction that he is right.,304077,0,0,0,374,0,4,0,316030,0,0,0,0,0,0
+(effort),,304078,0,0,0,374,0,4,316032,0,0,0,0,0,0,0
+,So brave in the Light.,304079,0,0,0,374,0,4,0,316033,0,0,0,0,0,0
+,How will you fare lost in the Void?,304080,0,0,0,374,0,4,0,316034,0,0,0,0,0,0
+(effort),,304081,0,0,0,374,0,4,316035,0,0,0,0,0,0,0
+,You are only fragile mortals.,304082,0,0,0,374,0,4,0,316036,0,0,0,0,0,0
+(effort),,304083,0,0,0,374,0,4,316037,0,0,0,0,0,0,0
+,You never had a chance.,304084,0,0,0,374,0,4,0,316038,0,0,0,0,0,0
+,(laughs),304085,0,0,0,374,0,4,0,316039,0,0,0,0,0,0
+I see now why Xal'atath is so fascinated by you mortals.,,304086,0,0,0,326,0,4,316042,0,0,0,0,0,0,0
+(grunts in pain),,304087,0,0,0,326,0,4,316043,0,0,0,0,0,0,0
+Decimus?,,304088,0,0,0,326,0,4,316044,0,0,0,0,0,0,0
+My mantle...,,304089,0,0,0,326,0,4,316045,0,0,0,0,0,0,0
+"It suits me, yes?",,304090,0,0,0,454,0,4,316046,0,0,0,0,0,0,0
+(painful scream),,304091,0,0,0,358,0,4,316047,0,0,0,0,0,0,0
+Now for the victory feast.,,304092,0,0,0,454,0,4,316048,0,0,0,0,0,0,0
+As for my dear guests...,,304093,0,0,0,486,0,4,316049,0,0,0,0,0,0,0
+Pardon the deception.,,304094,0,0,0,454,0,4,316050,0,0,0,0,0,0,0
+You made an exquisite distraction.,,304095,0,0,0,454,0,4,316051,0,0,0,0,0,0,0
+A distraction?!,,304096,0,0,0,326,0,4,316052,0,0,0,0,0,0,0
+I will annihilate you!,,304097,0,0,0,326,0,4,316053,0,0,0,0,0,0,0
+,"Lothraxion, hold!",304098,0,0,0,326,0,4,0,316054,0,0,0,0,0,0
+,We have what we need to finish this.,304099,0,0,0,326,0,4,0,316055,0,0,0,0,0,0
+And you still need me--,,304100,0,0,0,454,0,4,316056,0,0,0,0,0,0,0
+--only a domanaar can use the mantle.,,304101,0,0,0,454,0,4,316057,0,0,0,0,0,0,0
+Surely I mentioned that?,,304102,0,0,0,454,0,4,316065,0,0,0,0,0,0,0
+How many betrayals before you see the truth?!,,304103,0,0,0,326,0,4,316058,0,0,0,0,0,0,0
+He is playing us for fools!,,304105,0,0,0,326,0,4,316059,0,0,0,0,0,0,0
+,Decimus is not our enemy!,304106,0,0,0,326,0,4,0,316060,0,0,0,0,0,0
+You are blind.,,304107,0,0,0,326,0,4,316061,0,0,0,0,0,0,0
+You are ALL blind!,,304108,0,0,0,326,0,4,316062,0,0,0,0,0,0,0
+I will tear the Nexus-Points apart,,304109,0,0,0,326,0,4,316063,0,0,0,0,0,0,0
+and end this accursed storm once and for all!,,304111,0,0,0,326,0,4,316064,0,0,0,0,0,0,0
+,"Our goddess, Aln'hara, once rested in the Cradle roots above.",304112,0,0,0,374,0,4,0,323316,0,0,0,0,0,0
+,But she was taken.,304113,0,0,0,374,0,4,0,323317,0,0,0,0,0,0
+,"What remains is the land of Harandar,",304114,0,0,0,374,0,4,0,323318,0,0,0,0,0,0
+,"the echo of her song,",304115,0,0,0,374,0,4,0,323319,0,0,0,0,0,0
+,and the radiance of her will.,304116,0,0,0,374,0,4,0,323320,0,0,0,0,0,0
+,"Before history was recorded,",304117,0,0,0,326,0,4,0,316073,0,0,0,0,0,0
+,the song of Aln'hara called us to this land.,304118,0,0,0,326,0,4,0,316074,0,0,0,0,0,0
+,"We arrived to find the goddess missing,",304119,0,0,0,326,0,4,0,316075,0,0,0,0,0,0
+,and her land in turmoil.,304120,0,0,0,326,0,4,0,316077,0,0,0,0,0,0
+,"For generations, we protected these lands",304121,0,0,0,326,0,4,0,316078,0,0,0,0,0,0
+,and the roots of the great trees that form it.,304122,0,0,0,326,0,4,0,316079,0,0,0,0,0,0
+,"We kept her land, and ourselves, hidden from the outside world.",304123,0,0,0,326,0,4,0,316080,0,0,0,0,0,0
+,Now a new generation prepares to take up this task and guard Harandar.,304124,0,0,0,326,0,4,0,316081,0,0,0,0,0,0
+,But every tree is more than just its roots.,304125,0,0,0,326,0,4,0,316082,0,0,0,0,0,0
+,The Zur'ashar spoke of a great tragedy and shame.,304127,0,0,0,375,0,4,0,316083,0,0,0,0,0,0
+,I have seen nothing to shame us.,304128,0,0,0,375,0,4,0,316084,0,0,0,0,0,0
+,You have not yet seen the journey to its end.,304129,0,0,0,375,0,4,0,316085,0,0,0,0,0,0
+,Aln'hara's song was just an echo.,304130,0,0,0,375,0,4,0,316086,0,0,0,0,0,0
+,The goddess was gone when they arrived.,304131,0,0,0,375,0,4,0,316087,0,0,0,0,0,0
+,"Without her, the land was falling apart.",304132,0,0,0,375,0,4,0,316088,0,0,0,0,0,0
+,"After all the trials, and journeys, we hoped to find purpose.",304133,0,0,0,375,0,4,0,316089,0,0,0,0,0,0
+,Instead we found discord and death.,304134,0,0,0,375,0,4,0,316090,0,0,0,0,0,0
+,We blamed the missing goddess.,304135,0,0,0,375,0,4,0,316091,0,0,0,0,0,0
+,We blamed the land.,304136,0,0,0,375,0,4,0,316092,0,0,0,0,0,0
+,We blamed each other.,304138,0,0,0,375,0,4,0,316093,0,0,0,0,0,0
+,"The goddess's absence was not a tragedy,",304139,0,0,0,375,0,4,0,316094,0,0,0,0,0,0
+,but a trial--,304140,0,0,0,375,0,4,0,316095,0,0,0,0,0,0
+,One we failed.,304141,0,0,0,375,0,4,0,316096,0,0,0,0,0,0
+,"When at last we found our way,",304142,0,0,0,375,0,4,0,316097,0,0,0,0,0,0
+,the elders feared what would happen if we returned to the surface.,304144,0,0,0,375,0,4,0,316098,0,0,0,0,0,0
+,So...,304145,0,0,0,375,0,4,0,316099,0,0,0,0,0,0
+,They forbade it.,304146,0,0,0,375,0,4,0,316100,0,0,0,0,0,0
+,But we can't stay hidden forever.,304147,0,0,0,375,0,4,0,316102,0,0,0,0,0,0
+(growls),,304151,0,0,0,358,0,4,0,0,0,0,0,0,0,0
+Halazzi will speak with you now.,,304152,0,0,0,358,0,4,316105,0,0,0,0,0,0,0
+Kit of the Amani. Pride of their pride.,,304153,0,0,0,358,0,4,316107,0,0,0,0,0,0,0
+You have pierced the veil and found me.,,304154,0,0,0,358,0,4,316108,0,0,0,0,0,0,0
+,It was you who created the fog.,304155,0,0,0,358,0,4,0,316109,0,0,0,0,0,0
+,You were trying to hide the Witherbark from the Vilebranch.,304156,0,0,0,358,0,4,0,316110,0,0,0,0,0,0
+(growls),,304157,0,0,0,358,0,4,0,0,0,0,0,0,0,0
+"Despite Zul'jin's betrayal, I silently watched over my Witherbark.",,304158,0,0,0,358,0,4,316112,0,0,0,0,0,0,0
+,"Halazzi, Zul'Aman is under attack.",304160,0,0,0,358,0,4,0,316113,0,0,0,0,0,0
+,I have come here on de path of de hash'ey.,304161,0,0,0,358,0,4,0,316114,0,0,0,0,0,0
+,Give me a trial so dat I can win ya favor.,304162,0,0,0,358,0,4,0,316115,0,0,0,0,0,0
+Trial? There is no trial.,,304163,0,0,0,358,0,4,316116,0,0,0,0,0,0,0
+,But... We need--,304164,0,0,0,358,0,4,0,316117,0,0,0,0,0,0
+You learned to prowl.,,304165,0,0,0,358,0,4,316118,0,0,0,0,0,0,0
+You used cunning to see what is hidden.,,304166,0,0,0,358,0,4,316119,0,0,0,0,0,0,0
+You saved my Witherbark children.,,304167,0,0,0,358,0,4,316120,0,0,0,0,0,0,0
+No trial could earn my favor more.,,304168,0,0,0,358,0,4,316121,0,0,0,0,0,0,0
+(roars),,304169,0,0,0,358,0,4,0,0,0,0,0,0,0,0
+What was hidden has been revealed.,,304170,0,0,0,358,0,4,316123,0,0,0,0,0,0,0
+There are further trials ahead.,,304171,0,0,0,358,0,4,316124,0,0,0,0,0,0,0
+May you hear your prey before they hear you.,,304172,0,0,0,358,0,4,316125,0,0,0,0,0,0,0
+You invaded our land.,,304174,0,0,0,326,0,4,316126,0,0,0,0,0,0,0
+You killed my people.,,304175,0,0,0,326,0,4,316127,0,0,0,0,0,0,0
+For what?,,304176,0,0,0,326,0,4,316128,0,0,0,0,0,0,0
+To conquer?,,304177,0,0,0,326,0,4,316129,0,0,0,0,0,0,0
+To claim what was never yours?,,304178,0,0,0,326,0,4,316130,0,0,0,0,0,0,0
+"This is what you fear, isn't it?",,304179,0,0,0,326,0,4,316131,0,0,0,0,0,0,0
+"Not the blade, but what it contains.",,304180,0,0,0,326,0,4,316132,0,0,0,0,0,0,0
+The Light...,,304181,0,0,0,326,0,4,316133,0,0,0,0,0,0,0
+"Some say a comfort,",,304182,0,0,0,326,0,4,316134,0,0,0,0,0,0,0
+but so easily honed into this.,,304183,0,0,0,326,0,4,316135,0,0,0,0,0,0,0
+(effort),,304184,0,0,0,326,0,4,316136,0,0,0,0,0,0,0
+There is the fear.,,304185,0,0,0,326,0,4,316137,0,0,0,0,0,0,0
+What do you think?,,304186,0,0,0,326,0,4,316138,0,0,0,0,0,0,0
+Anything to say?,,304187,0,0,0,326,0,4,316139,0,0,0,0,0,0,0
+(effort),,304188,0,0,0,326,0,4,316140,0,0,0,0,0,0,0
+I didn't think so.,,304189,0,0,0,326,0,4,316141,0,0,0,0,0,0,0
+"Aelric Leid was once a proud Lamplighter, yet over time, he found both his hope and his faith began to fade. Beledar was no beacon. There was no Sacred Flame to be found.",,304693,0,0,0,324,0,4,317701,0,0,0,0,0,0,0
+"The Light had abandoned them all long ago, but the darkness offered freedom and power. And so he formed the Order of Night, recruiting the fearful and faithless to his cause.",,304694,0,0,0,324,0,4,317702,0,0,0,0,0,0,0
+Xal'atath reached out and made a deal with Aelric--power in return for turning the Sacred Flame of Hallowfall's dawntowers into Darkfire.,,304695,0,0,0,324,0,4,317703,0,0,0,0,0,0,0
+"When at last the forces of Azeroth came for Queen Ansurek and her people, Xal'atath did nothing to stop them.",,304696,0,0,0,324,0,4,317708,0,0,0,0,0,0,0
+"On the brink of death, Ansurek called out to the Harbinger, but Xal'atath held no pity for the fallen Queen. In the end, the nerubian leader was simply not enough.",,304697,0,0,0,324,0,4,317709,0,0,0,0,0,0,0
+"And with her dying breath, Ansurek learned the true lesson of the Void--only the strongest survived. Those that did not were worth neither mourning nor remembering.",,304698,0,0,0,324,0,4,317710,0,0,0,0,0,0,0
+"The titans had failsafes in place to punish their disobedient children. From the oceans, a colossal titan machine arose to enact their wrath.",,304699,0,0,0,324,0,4,317705,0,0,0,0,0,0,0
+"A new generation of recently trained Stormriders took to the skies to defend the Isle of Dorn. Fighting as one, they defeated the colossus and proved their worth to all.",,304700,0,0,0,324,0,4,317706,0,0,0,0,0,0,0
+"With the factions united and once more under the careful watch of the renewed Stormriders, the earthen were able to lend their aid to Azeroth's united forces.",,304701,0,0,0,324,0,4,317707,0,0,0,0,0,0,0
+I was wondering where I'd left that.,,304847,0,0,0,326,0,4,317656,0,0,0,0,0,0,0
+This was your doing?,,304848,0,0,0,326,0,4,317657,0,0,0,0,0,0,0
+What of the people here?,,304849,0,0,0,326,0,4,317658,0,0,0,0,0,0,0
+You said you wanted them safe!,,304850,0,0,0,326,0,4,317660,0,0,0,0,0,0,0
+And I do.,,304851,0,0,0,326,0,4,317661,0,0,0,0,0,0,0
+"Look at the sky, Magister.",,304852,0,0,0,326,0,4,317662,0,0,0,0,0,0,0
+You know what resides there!,,304853,0,0,0,326,0,4,317663,0,0,0,0,0,0,0
+You know the fear it brings.,,304854,0,0,0,326,0,4,317664,0,0,0,0,0,0,0
+The uncertainty.,,304855,0,0,0,326,0,4,317667,0,0,0,0,0,0,0
+And when it unleashes--and it WILL unleash...,,304856,0,0,0,326,0,4,317668,0,0,0,0,0,0,0
+The Twilight's Blade will stand on the side of survival.,,304857,0,0,0,326,0,4,317671,0,0,0,0,0,0,0
+Won't you?,,304858,0,0,0,326,0,4,317673,0,0,0,0,0,0,0
+I will not bend to you--,,304859,0,0,0,326,0,4,317675,0,0,0,0,0,0,0
+--or the Void!,,304860,0,0,0,326,0,4,317676,0,0,0,0,0,0,0
+"Tranquillien will join us, or die.",,304862,0,0,0,326,0,4,317678,0,0,0,0,0,0,0
+And you with it.,,304864,0,0,0,326,0,4,317679,0,0,0,0,0,0,0
+,Akil'zon will make quick work of dis mess.,305115,0,0,1,324,0,4,0,0,0,0,0,0,0,0
+,He's always trouble. Remember our trip to de coast? Little Zul'jan tried to swim across de strait! You were so mad!,305184,0,0,1,324,0,10,0,337498,0,0,0,0,0,0
+,"Uncle, I'm sorry I wasn't there to protect you. I should not have made Zul'jan your responsibility.",305186,0,0,1,324,0,10,0,337497,0,0,0,0,0,0
+"Mistress? I am here, as summoned.",,305195,0,0,0,326,0,4,318143,0,0,0,0,0,0,0
+Nothing.,,305196,0,0,0,326,0,4,318144,0,0,0,0,0,0,0
+"Never nothing, mortal.",,305197,0,0,0,326,0,4,318145,0,0,0,0,0,0,0
+The Void closes its jaws around the throat of your world...,,305198,0,0,0,326,0,4,318146,0,0,0,0,0,0,0
+You cannot hope to be worthy of its hunger.,,305199,0,0,0,326,0,4,318147,0,0,0,0,0,0,0
+I... I AM!,,305200,0,0,0,326,0,4,318148,0,0,0,0,0,0,0
+My followers and I have sown chaos and-and mistrust between the Sunwell's defenders!,,305201,0,0,0,326,0,4,318149,0,0,0,0,0,0,0
+As we were bidden!,,305202,0,0,0,326,0,4,318150,0,0,0,0,0,0,0
+(laughs),,305203,0,0,0,326,0,4,318151,0,0,0,0,0,0,0
+"Mere child's play, elf.",,305204,0,0,0,326,0,4,318152,0,0,0,0,0,0,0
+The real work commences over the mountains.,,305205,0,0,0,326,0,4,318153,0,0,0,0,0,0,0
+And within the Void itself--,,305206,0,0,0,326,0,4,318154,0,0,0,0,0,0,0
+--in case any of you have forgotten.,,305207,0,0,0,326,0,4,318155,0,0,0,0,0,0,0
+(laughs),,305208,0,0,0,326,0,4,318156,0,0,0,0,0,0,0
+You wretches speak of your works and worth...,,305209,0,0,0,326,0,4,318157,0,0,0,0,0,0,0
+Scrabbling for the Mistress' favor.,,305210,0,0,0,326,0,4,318158,0,0,0,0,0,0,0
+"Forgetting all the while, that in the end...",,305211,0,0,0,326,0,4,318159,0,0,0,0,0,0,0
+,All will be devoured.,305212,0,0,0,326,0,4,0,318160,0,0,0,0,0,0
+,"The forces of the Void are gathering from across the cosmos, eager to feed upon this world.",305213,0,0,0,326,0,4,0,318161,0,0,0,0,0,0
+,Soon the true invasion will begin...,305214,0,0,0,326,0,4,0,318162,0,0,0,0,0,0
+,...and the mortals will never see it coming.,305215,0,0,0,326,0,4,0,318163,0,0,0,0,0,0
+,(laughs),305216,0,0,0,326,0,4,0,318164,0,0,0,0,0,0
+,Make ready.,305217,0,0,0,326,0,4,0,318165,0,0,0,0,0,0
+Mistress... do not forsake me!,,305218,0,0,0,326,0,4,318166,0,0,0,0,0,0,0
+,"You did well, my faithful servant.",305219,0,0,0,326,0,4,0,318167,0,0,0,0,0,0
+,"But alas, I have no further use for you.",305220,0,0,0,326,0,4,0,318168,0,0,0,0,0,0
+But... I...,,305221,0,0,0,326,0,4,318169,0,0,0,0,0,0,0
+,(giggles),305222,0,0,0,326,0,4,0,318170,0,0,0,0,0,0
+,Give my regards to Azeroth's champions.,305223,0,0,0,326,0,4,0,318171,0,0,0,0,0,0
+Look out!,,305232,0,0,0,375,0,4,318178,0,0,0,0,0,0,0
+(grunts),,305233,0,0,0,375,0,4,318179,0,0,0,0,0,0,0
+(grunts),,305234,0,0,0,375,0,4,318180,0,0,0,0,0,0,0
+,Arator?,305235,0,0,0,375,0,4,0,318181,0,0,0,0,0,0
+,Lothraxion...?,305236,0,0,0,375,0,4,0,318185,0,0,0,0,0,0
+,What the hell are you doing here?,305237,0,0,0,375,0,4,0,318186,0,0,0,0,0,0
+Mother! Thank the Light...,,305238,0,0,0,375,0,4,318187,0,0,0,0,0,0,0
+I knew you were alive!,,305239,0,0,0,375,0,4,318188,0,0,0,0,0,0,0
+,"It's too dangerous for you here, Arator!",305240,0,0,0,375,0,4,0,318190,0,0,0,0,0,0
+,The Void devours everything it touches.,305241,0,0,0,375,0,4,0,318191,0,0,0,0,0,0
+"We have a mission here, mother.",,305242,0,0,0,375,0,4,318192,0,0,0,0,0,0,0
+And I'll stop at nothing to see it through.,,305244,0,0,0,375,0,4,318193,0,0,0,0,0,0,0
+,I know.,305245,0,0,0,375,0,4,0,318195,0,0,0,0,0,0
+,That's what terrifies me.,305246,0,0,0,375,0,4,0,318196,0,0,0,0,0,0
+,We defeated Nalorakk.,305248,0,0,0,358,0,4,0,318201,0,0,0,0,0,0
+,Now what do we do?,305249,0,0,0,358,0,4,0,318202,0,0,0,0,0,0
+,Nanea? But I...,305250,0,0,0,358,0,4,0,318203,0,0,0,0,0,0
+,Killed me?,305251,0,0,0,358,0,4,0,318204,0,0,0,0,0,0
+,(laughs),305252,0,0,0,358,0,4,0,318205,0,0,0,0,0,0
+,"For years, we have dreamed de dream of de Dreamer.",305253,0,0,0,358,0,4,0,318206,0,0,0,0,0,0
+,An' now we have his mercy.,305254,0,0,0,358,0,4,0,318207,0,0,0,0,0,0
+"And you have my blessing, cub of the Amani,",,305255,0,0,0,358,0,4,318208,0,0,0,0,0,0,0
+"My strength will be your strength, Zul'jarra.",,305256,0,0,0,358,0,4,318209,0,0,0,0,0,0,0
+"Now rise, and receive my favor.",,305257,0,0,0,358,0,4,318210,0,0,0,0,0,0,0
+,We will return to our people.,305258,0,0,0,358,0,4,0,318211,0,0,0,0,0,0
+,"An' when you need us an' Nalorakk,",305259,0,0,0,358,0,4,0,318212,0,0,0,0,0,0
+De coal. De egg! It is ready.,,305260,0,0,0,358,0,4,318220,0,0,0,0,0,0,0
+(shouts with joy),,305261,0,0,0,358,0,4,318221,0,0,0,0,0,0,0
+Jan'alai... She is reborn!,,305262,0,0,0,358,0,4,318224,0,0,0,0,0,0,0
+,Zul'jarra...,305264,0,0,0,358,0,4,0,318225,0,0,0,0,0,0
+,Your grandfather betrayed and killed me.,305265,0,0,0,358,0,4,0,318226,0,0,0,0,0,0
+,Upset the cycle.,305267,0,0,0,358,0,4,0,318227,0,0,0,0,0,0
+,Plunged me into eternal darkness.,305268,0,0,0,358,0,4,0,318229,0,0,0,0,0,0
+,"Forgive us, Jan'alai.",305271,0,0,0,358,0,4,0,318230,0,0,0,0,0,0
+,You have renewed me.,305273,0,0,0,358,0,4,0,318231,0,0,0,0,0,0
+,Your trial has purified the line of Zul'jin.,305275,0,0,0,358,0,4,0,318232,0,0,0,0,0,0
+,A new day dawns. Such is the cycle.,305276,0,0,0,358,0,4,0,318233,0,0,0,0,0,0
+May de inner fire of de Amani never die!,,305277,0,0,0,358,0,4,318235,0,0,0,0,0,0,0
+,You little people and your struggles.,305287,0,0,0,326,0,4,0,318255,0,0,0,0,0,0
+,(chuckles),305288,0,0,0,326,0,4,0,318256,0,0,0,0,0,0
+,Delicious.,305289,0,0,0,326,0,4,0,318257,0,0,0,0,0,0
+,You still believe your heroics can defeat my Devouring Host?,305290,0,0,0,326,0,4,0,318259,0,0,0,0,0,0
+,My forces are as boundless as my power.,305291,0,0,0,326,0,4,0,318261,0,0,0,0,0,0
+,My fun is just beginning.,305292,0,0,0,358,0,4,0,318263,0,0,0,0,0,0
+"Nowhere left to run, voidspawn.",,305297,0,0,0,326,0,4,318281,0,0,0,0,0,0,0
+Indeed. I can see the position I'm in and I can see yours.,,305298,0,0,0,454,0,4,318282,0,0,0,0,0,0,0
+Your elite little cadre need something I have:,,305299,0,0,0,454,0,4,318283,0,0,0,0,0,0,0
+Information on Xal'atath's machinations.,,305300,0,0,0,454,0,4,318284,0,0,0,0,0,0,0
+We need nothing from the likes of you!,,305301,0,0,0,326,0,4,318285,0,0,0,0,0,0,0
+,"Stay your hand, Lothraxion.",305302,0,0,0,326,0,4,0,318286,0,0,0,0,0,0
+,(sighs),305303,0,0,0,326,0,4,0,318287,0,0,0,0,0,0
+,That thing is right.,305304,0,0,0,326,0,4,0,318288,0,0,0,0,0,0
+You would trust such a creature?,,305305,0,0,0,326,0,4,318289,0,0,0,0,0,0,0
+,Not at all.,305306,0,0,0,326,0,4,0,318290,0,0,0,0,0,0
+,But I trust that it wants to survive.,305308,0,0,0,326,0,4,0,318291,0,0,0,0,0,0
+,You will tell us all you know.,305309,0,0,0,326,0,4,0,318292,0,0,0,0,0,0
+,And I will know if you lie.,305310,0,0,0,326,0,4,0,318294,0,0,0,0,0,0
+"Please, fair lady. You may call me Decimus.",,305311,0,0,0,454,0,4,318295,0,0,0,0,0,0,0
+I am at your service.,,305312,0,0,0,486,0,4,318297,0,0,0,0,0,0,0
+,(grunts),305779,0,0,0,374,0,4,0,319311,0,0,0,0,0,0
+,He will see the monster you are.,305780,0,0,0,374,0,4,0,319312,0,0,0,0,0,0
+,And you will drag him into the darkness.,305782,0,0,0,374,0,4,0,319313,0,0,0,0,0,0
+,I never wanted you to see this...,305783,0,0,0,374,0,4,0,319314,0,0,0,0,0,0
+,(grunts),305784,0,0,0,374,0,4,0,319315,0,0,0,0,0,0
+,(breathing heavily),305785,0,0,0,374,0,4,0,319316,0,0,0,0,0,0
+,(grunts),305786,0,0,0,374,0,4,0,319317,0,0,0,0,0,0
+,(shouts),305787,0,0,0,374,0,4,0,319318,0,0,0,0,0,0
+,(screams),305788,0,0,0,374,0,4,0,319319,0,0,0,0,0,0
+,(gasping),305789,0,0,0,374,0,4,0,319320,0,0,0,0,0,0
+,(gasps),305790,0,0,0,374,0,4,0,319321,0,0,0,0,0,0
+,We failed...,305791,0,0,0,374,0,4,0,319322,0,0,0,0,0,0
+I... couldn't stop him.,,305810,0,0,0,374,0,4,319338,0,0,0,0,0,0,0
+,He took them all.,305811,0,0,0,374,0,4,0,319339,0,0,0,0,0,0
+,Perhaps we can catch up.,305813,0,0,0,374,0,4,0,319340,0,0,0,0,0,0
+,I don't understand.,305816,0,0,0,374,0,4,0,319341,0,0,0,0,0,0
+,"Even with de loa, I...",305817,0,0,0,374,0,4,0,319342,0,0,0,0,0,0
+De loa!,,305819,0,0,0,374,0,4,319344,0,0,0,0,0,0,0
+,De Revantusk come to aid de Amani.,305820,0,0,0,374,0,4,0,319345,0,0,0,0,0,0
+De Witherbark come to aid de Amani.,,305821,0,0,0,374,0,4,319346,0,0,0,0,0,0,0
+De Shadowpine come to aid de Amani.,,305822,0,0,0,374,0,4,319347,0,0,0,0,0,0,0
+The loa! They're back.,,305823,0,0,0,374,0,4,319348,0,0,0,0,0,0,0
+All not be lost!,,305824,0,0,0,374,0,4,319349,0,0,0,0,0,0,0
+,Let us take de fight to de Twilight's Blade.,305825,0,0,0,374,0,4,0,319351,0,0,0,0,0,0
+,For de Amani tribes.,305826,0,0,0,374,0,4,0,319352,0,0,0,0,0,0
+,For Zul'Aman!,305827,0,0,0,374,0,4,0,319353,0,0,0,0,0,0
+(grunts),,305828,0,0,0,358,0,4,319360,0,0,0,0,0,0,0
+,(roars),305829,0,0,0,358,0,4,0,319361,0,0,0,0,0,0
+,(grunts),305830,0,0,0,358,0,4,0,319362,0,0,0,0,0,0
+Ah! Sister!,,305831,0,0,0,358,0,4,319363,0,0,0,0,0,0,0
+,Sister? Did you forget I'm de leader of Zul'Aman?,305832,0,0,0,358,0,4,0,319364,0,0,0,0,0,0
+,Is that why you did not listen to me?,305833,0,0,0,358,0,4,0,319365,0,0,0,0,0,0
+,(growls),305834,0,0,0,358,0,4,0,319368,0,0,0,0,0,0
+,Hold. We are not here to fight.,305835,0,0,0,358,0,4,0,319370,0,0,0,0,0,0
+,Then why you be here?,305836,0,0,0,358,0,4,0,319371,0,0,0,0,0,0
+,"Tell me quickly. Before I slice your head from your neck, elf.",305837,0,0,0,358,0,4,0,319372,0,0,0,0,0,0
+,"Long, long ago, a Zandalari troll tried--and failed--to summon Hakkar.",305999,0,0,1,324,0,8,0,336988,1,0,0,0,0,0
+,"Centuries later, the Gurubashi Empire desperately turned to ancient loa to save their empire.",306000,0,0,1,324,0,8,0,337010,0,0,0,0,0,0
+,Hakkar was the loa that answered.,306001,0,0,1,324,0,8,0,337011,0,0,0,0,0,0
+,"The Gurubashi were torn apart not by enemies, but from within.",306002,0,0,1,324,0,8,0,337014,0,0,0,0,0,0
+,"That cult--the Atal'ai--plotted to bring him back in the Temple of Atal'Hakkar, using potent dragon blood.",306003,0,0,1,324,0,8,0,337016,0,0,0,0,0,0
+(grunting),,306280,0,0,0,358,0,4,320140,0,0,0,0,0,0,0
+,(panting),306281,0,0,0,358,0,4,0,320141,0,0,0,0,0,0
+(grunting),,306282,0,0,0,358,0,4,320142,0,0,0,0,0,0,0
+,(grunting),306283,0,0,0,358,0,4,0,320143,0,0,0,0,0,0
+Foolish Amani. You have already lost.,,306284,0,0,0,358,0,4,320144,0,0,0,0,0,0,0
+Your city is in ruins. No one is coming to help you--not even your gods.,,306285,0,0,0,358,0,4,320145,0,0,0,0,0,0,0
+Xal'atath relishes in your anguish and will exalt us when your empire falls.,,306286,0,0,0,358,0,4,320146,0,0,0,0,0,0,0
+,(screams),306287,0,0,0,358,0,4,0,320147,0,0,0,0,0,0
+Don't worry. Your end will come soon.,,306288,0,0,0,358,0,4,320148,0,0,0,0,0,0,0
+,(roars),306289,0,0,0,358,0,4,0,320149,0,0,0,0,0,0
+It's now or never Rommath!,,306302,0,0,0,374,0,4,320150,0,0,0,0,0,0,0
+Rommath!,,306303,0,0,0,374,0,4,320151,0,0,0,0,0,0,0
+(grunts),,306304,0,0,0,374,0,4,320152,0,0,0,0,0,0,0
+More? Fall back!,,306306,0,0,0,374,0,4,320153,0,0,0,0,0,0,0
+For Eversong!,,306309,0,0,0,374,0,4,320154,0,0,0,0,0,0,0
+,Shaladrassil's roots still stand.,306321,0,0,0,374,0,4,0,320155,0,0,0,0,0,0
+,How?,306322,0,0,0,374,0,4,0,320156,0,0,0,0,0,0
+,The Alndust.,306323,0,0,0,374,0,4,0,320157,0,0,0,0,0,0
+,But we need more. The surface needs--,306324,0,0,0,374,0,4,0,320158,0,0,0,0,0,0
+No! We will not leave our home defenseless.,,306325,0,0,0,374,0,4,320159,0,0,0,0,0,0,0
+,We can gather more.,306326,0,0,0,374,0,4,0,320160,0,0,0,0,0,0
+,We cannot risk our people for outsiders.,306327,0,0,0,374,0,4,0,320161,0,0,0,0,0,0
+Some branches can burn.,,306328,0,0,0,374,0,4,320162,0,0,0,0,0,0,0
+Our calling is to protect the roots.,,306329,0,0,0,374,0,4,320163,0,0,0,0,0,0,0
+,"The last time I left, it was about my calling.",306330,0,0,0,374,0,4,0,320164,0,0,0,0,0,0
+,"This time, it is about my friends.",306331,0,0,0,374,0,4,0,320165,0,0,0,0,0,0
+,And I will protect them with or without your aid.,306332,0,0,0,374,0,4,0,320166,0,0,0,0,0,0
+,All too easy.,306334,0,0,0,374,0,4,0,320167,0,0,0,0,0,0
+,No!,306335,0,0,0,374,0,4,0,320168,0,0,0,0,0,0
+,"Each loa represents something important, like fire, hunting, victory, or even war.",306338,0,0,1005,324,0,8,0,336880,0,0,0,0,0,0
+,"This failed attempt was believed to have caused the blood plague that tore through the ancient empire, slaying thousands of trolls.",306361,0,0,1,324,0,8,0,336989,1,0,0,0,0,0
+,He brought glory back to the Gurubashi Empire. But his price was blood. His faithful turned on their own tribes to pay it.,306365,0,0,1,324,0,8,0,337012,0,0,0,0,0,0
+,"Hakkar was eventually defeated, but his cult remained.",306367,0,0,1,324,0,8,0,337015,0,0,0,0,0,0
+"He was raised as a gladiator, shackled to a life of fighting for the amusement of his master.",,306370,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+"Thrall wished to end the cycle of hatred. And with the assistance of not only the orcs, but the Darkspear Trolls and the Bloodhoof tribe, he reformed the Horde into what we know today.",,306371,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+But Thrall did not wish to lead the Horde forever--eventually he handed off the title to pursue a new horizon.,,306372,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+,"The blood came from the dragons that were trying to contain the evil in the temple. Lord Itharius stood outside, helpless to stop the sacrifices.",306535,0,0,0,324,0,8,0,337020,0,0,0,0,0,0
+I still don't know what possessed him to do it. But I did not seek to harm our son. I was acting in service of the Light.,,306862,0,0,0,324,0,4,322627,0,0,0,0,0,0,0
+Umbric. Something has changed in Arator. What happened out there?,,307373,0,0,6,324,0,7,343852,0,0,0,0,0,0,0
+"We pursued our quarry into a rift in the fabric of reality. To survive it, I had to give Arator a haphazard lesson in how to manipulate the Void.",,307374,0,0,0,324,0,7,343853,0,0,0,0,0,0,0
+(efforts),,307557,0,0,0,358,0,4,325026,0,0,0,0,0,0,0
+Vilebranch? Malacrass? We must tell Zul'jarra.,,307877,0,0,1,324,0,1,337296,0,0,0,0,0,0,0
+"She will try to stop me from finding Ula'tek, just like with de lightwood. But we needed de lightwood, and we will need Ula'tek.",,307878,0,0,0,324,0,1,337297,0,0,0,0,0,0,0
+"If de ancient Amani sealed Ula'tek away, it may be too dangerous to unleash.",,307879,0,0,6,324,0,1,337298,0,0,0,0,0,0,0
+De loa will not abandon us!,,307880,0,0,6,324,0,1,337300,0,0,0,0,0,0,0
+Or it may be de weapon we need. For when de elves make war on us. For when de loa abandon us.,,307881,0,0,1,324,0,1,337299,0,0,0,0,0,0,0
+"How can you be sure? They have done it before, ah? Why not put some of that faith in me, Uncle?",,307882,0,0,1,324,0,1,337301,0,0,0,0,0,0,0
+My son...,,307951,0,0,0,358,0,4,326981,0,0,0,0,0,0,0
+"Arator, I...",,307952,0,0,0,358,0,4,326982,0,0,0,0,0,0,0
+I was hoping to...,,307953,0,0,0,358,0,4,326983,0,0,0,0,0,0,0
+That we could--,,307954,0,0,0,358,0,4,326984,0,0,0,0,0,0,0
+Father.,,307955,0,0,0,358,0,4,326985,0,0,0,0,0,0,0
+I know you'd never willingly hurt me.,,307956,0,0,0,358,0,4,326986,0,0,0,0,0,0,0
+"But in that moment,",,307957,0,0,0,358,0,4,326987,0,0,0,0,0,0,0
+you lost control.,,307958,0,0,0,358,0,4,326988,0,0,0,0,0,0,0
+Could you ever forgive me?,,307959,0,0,0,358,0,4,326989,0,0,0,0,0,0,0
+I think...,,307960,0,0,0,358,0,4,326991,0,0,0,0,0,0,0
+It's time you forgave yourself.,,307961,0,0,0,358,0,4,326992,0,0,0,0,0,0,0
+I know what happened the day Lothar fell.,,307962,0,0,0,358,0,4,326993,0,0,0,0,0,0,0
+The guilt--,,307963,0,0,0,358,0,4,326994,0,0,0,0,0,0,0
+--the rage--,,307964,0,0,0,358,0,4,326995,0,0,0,0,0,0,0
+--you've carried all these years...,,307965,0,0,0,358,0,4,326996,0,0,0,0,0,0,0
+It's time to let it go.,,307966,0,0,0,358,0,4,326997,0,0,0,0,0,0,0
+My... my shield.,,307967,0,0,0,358,0,4,326998,0,0,0,0,0,0,0
+How? How did you--,,307968,0,0,0,358,0,4,326999,0,0,0,0,0,0,0
+Take it up again.,,307969,0,0,0,358,0,4,327000,0,0,0,0,0,0,0
+Be the paladin you were born to be.,,307970,0,0,0,358,0,4,327001,0,0,0,0,0,0,0
+I...,,307971,0,0,0,358,0,4,327002,0,0,0,0,0,0,0
+(sighs) I can't.,,307972,0,0,0,358,0,4,327003,0,0,0,0,0,0,0
+That part of me died with Lothar.,,307973,0,0,0,358,0,4,327004,0,0,0,0,0,0,0
+But not all of you.,,307974,0,0,0,358,0,4,327005,0,0,0,0,0,0,0
+"Don't give up hope, father.",,307975,0,0,0,358,0,4,327007,0,0,0,0,0,0,0
+(sighs),,307976,0,0,0,358,0,4,327008,0,0,0,0,0,0,0
+"My son, some things...",,307977,0,0,0,358,0,4,327009,0,0,0,0,0,0,0
+...can't ever be redeemed.,,307978,0,0,0,358,0,4,327010,0,0,0,0,0,0,0
+It was nearly thirty years ago--,,307981,0,0,0,358,0,4,327022,0,0,0,0,0,0,0
+--at the height of the Second War.,,307982,0,0,0,358,0,4,327023,0,0,0,0,0,0,0
+The Battle of Blackrock Mountain.,,307983,0,0,0,358,0,4,327024,0,0,0,0,0,0,0
+History books say we won the battle.,,307984,0,0,0,358,0,4,327025,0,0,0,0,0,0,0
+All I remember... is loss.,,307985,0,0,0,358,0,4,327026,0,0,0,0,0,0,0
+(grunts),,307986,0,0,0,358,0,4,327028,0,0,0,0,0,0,0
+Your father--Turalyon--,,307987,0,0,0,326,0,4,327029,0,0,0,0,0,0,0
+--was squire to Anduin Lothar... Our leader.,,307988,0,0,0,358,5000,4,327030,0,0,0,0,0,0,0
+Our brother.,,307989,0,0,0,358,0,4,327031,0,0,0,0,0,0,0
+Turalyon seemed invincible.,,307990,0,0,0,326,0,4,327032,0,0,0,0,0,0,0
+His shield--his resolve--never wavered.,,307991,0,0,0,326,0,4,327033,0,0,0,0,0,0,0
+Until...,,307992,0,0,0,358,0,4,327034,0,0,0,0,0,0,0
+(roars),,307993,0,0,0,358,0,4,327035,0,0,0,0,0,0,0
+(grunts),,307994,0,0,0,358,0,4,327036,0,0,0,0,0,0,0
+His Light failed.,,307995,0,0,0,326,0,4,327037,0,0,0,0,0,0,0
+(roars),,307996,0,0,0,358,0,4,327038,0,0,0,0,0,0,0
+No. It didn't fail--,,307997,0,0,0,326,0,4,327039,0,0,0,0,0,0,0
+(roars),,307998,0,0,0,358,0,4,327040,0,0,0,0,0,0,0
+(death cries),,307999,0,0,0,358,0,4,327041,0,0,0,0,0,0,0
+(grunts),,308000,0,0,0,358,0,4,327042,0,0,0,0,0,0,0
+It turned into something else.,,308001,0,0,0,326,0,4,327043,0,0,0,0,0,0,0
+(enraged scream),,308002,0,0,0,358,0,4,327044,0,0,0,0,0,0,0
+Lothar's death broke something deep within Turalyon.,,308003,0,0,0,358,5000,4,327045,0,0,0,0,0,0,0
+(battle cries),,308004,0,0,0,358,0,4,327046,0,0,0,0,0,0,0
+"Somethin', lad...",,308005,0,0,0,326,0,4,327047,0,0,0,0,0,0,0
+(shouts),,308006,0,0,0,358,0,4,327048,0,0,0,0,0,0,0
+...that's never really healed.,,308007,0,0,0,326,0,4,327049,0,0,0,0,0,0,0
+(battle cries),,308008,0,0,0,358,0,4,327051,0,0,0,0,0,0,0
+,Enough of this.,308010,0,0,0,358,0,4,0,327056,0,0,0,0,0,0
+,Show yourselves.,308011,0,0,0,358,0,4,0,327057,0,0,0,0,0,0
+,I came here to speak.,308012,0,0,0,358,0,4,0,327058,0,0,0,0,0,0
+,Out of respect.,308013,0,0,0,358,0,4,0,327059,0,0,0,0,0,0
+,But if violence is your intent...,308014,0,0,0,358,0,4,0,327060,0,0,0,0,0,0
+,Respect?,308015,0,0,0,358,0,4,0,327061,0,0,0,0,0,0
+,"You threw that away long ago, Orweyna.",308016,0,0,0,358,0,4,0,327062,0,0,0,0,0,0
+"How many of our sacred traditions have you broken, child?",,308017,0,0,0,358,0,4,327063,0,0,0,0,0,0,0
+,Inviting those outsiders here--,308018,0,0,0,358,0,4,0,327064,0,0,0,0,0,0
+,--profaning this sacred place with their presence.,308019,0,0,0,358,0,4,0,327065,0,0,0,0,0,0
+,They hear the goddess's song as we do!,308020,0,0,0,358,0,4,0,327066,0,0,0,0,0,0
+,They fight to save her!,308021,0,0,0,358,0,4,0,327067,0,0,0,0,0,0
+,Is that NOT who WE are anymore?,308022,0,0,0,358,0,4,0,327068,0,0,0,0,0,0
+,Will you do nothing but skulk in these caves lamenting the withered past?,308023,0,0,0,358,0,4,0,327069,0,0,0,0,0,0
+,(gasps),308024,0,0,0,358,0,4,0,327070,0,0,0,0,0,0
+,Goddess?,308025,0,0,0,358,0,4,0,327071,0,0,0,0,0,0
+"Clearly, the hand of Aln'hara is upon you, child.",,308026,0,0,0,358,0,4,327072,0,0,0,0,0,0,0
+But with it comes hubris. Recklessness.,,308027,0,0,0,358,0,4,327073,0,0,0,0,0,0,0
+Your pride endangers everything we've built here!,,308028,0,0,0,358,0,4,327074,0,0,0,0,0,0,0
+,I HEAR her voice!,308029,0,0,0,358,0,4,0,327075,0,0,0,0,0,0
+,Should I not follow wherever it leads?,308030,0,0,0,358,0,4,0,327076,0,0,0,0,0,0
+,Not if it leads you from us.,308031,0,0,0,358,0,4,0,327077,0,0,0,0,0,0
+"You risked much for us, Zul'jarra, daughter of Zarama.",,308354,0,0,0,326,0,4,327868,0,0,0,0,0,0,0
+"Our sacred bond, so long abused, is restored.",,308355,0,0,0,326,0,4,327869,0,0,0,0,0,0,0
+With the land.,,308356,0,0,0,326,0,4,327870,0,0,0,0,0,0,0
+With your people.,,308357,0,0,0,326,0,4,327871,0,0,0,0,0,0,0
+,Your faithfulness--,308358,0,0,0,326,0,4,0,327872,0,0,0,0,0,0
+,"--your courage--has brought us all together, young hash'ey.",308359,0,0,0,326,0,4,0,327873,0,0,0,0,0,0
+,Hash'ey...,308360,0,0,0,326,0,4,0,327881,0,0,0,0,0,0
+,But I--,308361,0,0,0,326,0,4,0,327882,0,0,0,0,0,0
+(snorts),,308362,0,0,0,326,0,4,327877,0,0,0,0,0,0,0
+IT IS SO.,,308364,0,0,0,326,0,4,327878,0,0,0,0,0,0,0
+Not by OUR decree...,,308365,0,0,0,326,0,4,327879,0,0,0,0,0,0,0
+But by theirs.,,308366,0,0,0,326,0,4,327880,0,0,0,0,0,0,0
+Hash'ey. Hash'ey. Hash'ey...,Hash'ey. Hash'ey. Hash'ey...,308374,0,0,0,358,2870,4,0,0,0,0,0,0,0,0
+"Jan-boy, dis has gone far enough. We must stop following Malacrass's footsteps! Lest we anger de loa.",,308527,0,0,5,324,0,10,337316,0,0,0,0,0,0,0
+"De loa? If we can harness Ula'tek's power, we will not need de loa.",,308528,0,0,6,324,0,10,337317,0,0,0,0,0,0,0
+How can you say dat? De loa made your sister hash'ey! Dey helped us defeat de Twilight's Blade!,,308529,0,0,5,324,0,10,337318,0,0,0,0,0,0,0
+What about when de elves invaded our lands? When de Trollbanes hunted our people? When my grandfather was tortured?,,308530,0,0,6,324,0,10,337319,0,0,0,0,0,0,0
+"And still, we had to beg them to aid us against the Twilight's Blade.",,308531,0,0,1,324,0,10,337320,0,0,0,0,0,0,0
+"No, Uncle. We must take the power we need to protect the Amani, like my grandfather did.",,308532,0,0,1,324,0,10,337324,0,0,0,0,0,0,0
+"Your grandfather led de Amani to catastrophe, Zul'jan!",,308533,0,0,5,324,0,10,337325,0,0,0,0,0,0,0
+My grandfather did what was needed. The Amani stand alone. And the Amani never die.,,308534,0,0,1,324,0,10,337326,0,0,0,0,0,0,0
+Kurdran waves to the bartender.,,308567,0,0,0,324,0,10,0,0,0,0,0,0,0,0
+through the ferocity of your hash'ura's loyalty.,,309035,0,0,0,358,0,4,329140,0,0,0,0,0,0,0
+,we will be there.,309037,0,0,0,358,0,4,0,329141,0,0,0,0,0,0
+,"When our father died, you helped our mother raise us. Told us stories of de loa, taught us what it means to be Amani.",309232,0,0,1,324,0,1,0,337499,0,0,0,0,0,0
+,"Then when de Twilight's Blade nearly beat us, you were de one to put me on de path of de hash'ey.",309234,0,0,1,324,0,10,0,337530,0,0,0,0,0,0
+,You are de reason why de loa came back to us. You never lost faith in dem. And you never lost faith in me.,309235,0,0,1,324,0,10,0,337501,0,0,0,0,0,0
+,"You were a second father to me, Uncle Kinduru. I will miss you. And I hope dat I have made you proud.",309236,0,0,1,324,0,10,0,337503,0,0,0,0,0,0
+"Add a little at a time to each vial till you reach the mark I put on the containers. Once you have the containers filled, let me know and I'll finish crafting the ward.","Add a little at a time to each vial till you reach the mark I put on the containers. Once you have the containers filled, let me know and I'll finish crafting the ward.",309535,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+Move quickly--the dust begins to dissolve as soon as it is poured!,Move quickly--the dust begins to dissolve as soon as it is poured!,309536,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+,"These are shocking revelations. But I have fought beside them, Lor'themar. We share more in common than you may think.",309940,0,0,0,324,0,10,0,337067,0,0,0,0,0,0
+We share a lineage with the trolls? With the Amani? This... this is preposterous!,,309941,0,0,0,324,0,10,337068,0,0,0,0,0,0,0
+And what now? We open our gates to them? Welcome them into the very city they have long sought to burn to the ground?,,309942,0,0,0,324,0,10,337069,0,0,0,0,0,0,0
+,"No one is suggesting that. This is merely a new perspective, a chance to--",309943,0,0,0,324,0,10,0,337070,0,0,0,0,0,0
+,Liadrin. You of all people should understand the pain and loss the Amani have inflicted upon us.,309945,0,0,0,324,0,10,0,337071,0,0,0,0,0,0
+,They destroyed our homes and slaughtered our families. They captured and tortured us when we fought back.,309947,0,0,0,324,0,10,0,337073,0,0,0,0,0,0
+,"I know, Vereesa. Believe me, I know. It... has not been easy for me to move past my anger. But it is a path worth walking.",309949,0,0,0,324,0,10,0,337075,0,0,0,0,0,0
+,Then I admire your grace. You will find I am not as forgiving as a paladin of the Light.,309950,0,0,0,324,0,10,0,337076,0,0,0,0,0,0
+,I will never regard the Amani as kin. Not after they robbed me of my true family.,309951,0,0,0,324,0,10,0,337077,0,0,0,0,0,0
+,"Selama ashal'anore, Blood Knight. Justice for our people.",309952,0,0,0,324,0,10,0,337078,0,0,0,0,0,0
+,I will have to tell the other tribes. They will not be pleased.,309953,0,0,0,324,0,10,0,337055,0,0,0,0,0,0
+"This could be exciting news. We all come from an ancient line of hunters, and guardians of a secret world.",,309954,0,0,0,324,0,10,337057,0,0,0,0,0,0,0
+What does it matter if de elves share dat ancestry?,,309955,0,0,0,324,0,10,337058,0,0,0,0,0,0,0
+"Heh. It matters plenty, Zekhan.",,309956,0,0,0,324,0,10,337059,0,0,0,0,0,0,0
+,Our people have clashed with de elves for millennia. Dey will not let go of old conflicts easily.,309957,0,0,0,324,0,10,0,337060,0,0,0,0,0,0
+If dey even believe what Hagar told us.,,309958,0,0,0,324,0,10,337061,0,0,0,0,0,0,0
+"Most trolls never seen a haranir, never even heard of dem.",,309959,0,0,0,324,0,10,337062,0,0,0,0,0,0,0
+How do we tell a troll who never left de Echo Isles dat de elves are kin to us?,,309960,0,0,0,324,0,10,337064,0,0,0,0,0,0,0
+"De Horde brought many of us together, maybe...",,309961,0,0,0,324,0,10,337065,0,0,0,0,0,0,0
+,"You cannot force a family. Even if we share blood, this will take time.",309962,0,0,0,324,0,10,0,337066,0,0,0,0,0,0
+"This new chapter--the reawakening of the Sunstrider Omnium, the Dawnwell--maybe it has given us a path forward.",,310048,0,0,0,324,0,10,337835,0,0,0,0,0,0,0
+"Not just one path. We have untapped potential to forge our way down many paths, Rommath.",,310049,0,0,0,324,0,10,338007,0,0,0,0,0,0,0
+"Perhaps. After all, walking the same path, over and over and expecting a different destination has only led us to madness.",,310050,0,0,0,324,0,10,337836,0,0,0,0,0,0,0
+Madness is but a singular possibility. Such is the burden of discovery.,,310051,0,0,0,324,0,10,337837,0,0,0,0,0,0,0
+"Discovering burdens is your specialty. But we still need caution, the Omnium--",,310052,0,0,0,324,0,10,337838,0,0,0,0,0,0,0
+"--needs to be studied, Grand Magister, not feared or locked away.",,310053,0,0,0,324,0,10,337839,0,0,0,0,0,0,0
+"I do not fear possibility, Magister Umbric. But I will not allow it to seize our fate yet again.",,310054,0,0,0,324,0,10,337840,0,0,0,0,0,0,0
+"I will, however, trust our people--all our people--to harness and master its potential.",,310055,0,0,0,324,0,10,337841,0,0,0,0,0,0,0
+,"Pertinax will no longer be a problem for us, thanks to our champion here.",310377,0,0,0,324,0,10,0,337621,0,0,0,0,0,0
+And yet... their operations continue unphased. I wonder... Heh he...,,310378,0,0,0,452,0,10,337622,0,0,0,0,0,0,0
+,"Speak, Decimus. Don't play games. What is it?",310379,0,0,0,324,0,10,0,337624,0,0,0,0,0,0
+Extinguishing a domanaar imperator doesn't have the same impact as killing a mortal leader.,,310380,0,0,0,452,0,10,337625,0,0,0,0,0,0,0
+His lieutenants will vie for power. The threat here is hardly extinguished.,,310381,0,0,0,452,0,10,337626,0,0,0,0,0,0,0
+,Then our mission remains. Will you stay or scurry away?,310382,0,0,0,324,0,10,0,337627,0,0,0,0,0,0
+"Oh, you cannot be rid of me so easily, Riftblade.",,310383,0,0,0,452,0,10,337628,0,0,0,0,0,0,0
+"Now that Leth'ir is dead, it is only a matter of time before this operation collapses.",,310384,0,0,0,452,0,10,337609,0,0,0,0,0,0,0
+,Don't celebrate too early. Our scouts found intel that suggests Leth'ir may have exceeded his orders.,310385,0,0,0,324,0,10,0,337611,0,0,0,0,0,0
+,His Hal'hadar superiors are apparently not pleased.,310386,0,0,0,324,0,10,0,337613,0,0,0,0,0,0
+Oh? How dramatic! I do love it when mortals commit mutiny and insubordination.,,310387,0,0,0,452,0,10,337614,0,0,0,0,0,0,0
+,"With Leth'ir out of their way, they'll likely send a replacement. If they haven't already...",310388,0,0,0,324,0,10,0,337618,0,0,0,0,0,0
+"...and no doubt continue their operations, and clean up the mess Leth'ir has left them.",,310389,0,0,0,452,0,10,337619,0,0,0,0,0,0,0
+,Yes. It would seem our dealings with the Hal'hadar are not over yet.,310390,0,0,0,324,0,10,0,337620,0,0,0,0,0,0
+,Lorewalker Cho! Isn't this one of your favorite stories? You can handle this one!,310449,0,0,1,324,0,1,0,337543,0,0,0,0,0,0
+You damn snakes! Let go of me!,,311546,0,0,0,324,0,4,342719,0,0,0,0,0,0,0
+"Umbric, we'd make faster progress if you'd just pull the information from these cultists' minds with the Void.",,311598,0,0,0,324,0,7,343788,0,0,0,0,0,0,0
+"I've seen my mother do it before, and I know you can do it too.",,311599,0,0,0,324,0,7,343789,0,0,0,0,0,0,0
+"I could. But tell me, Arator... how did things play out when Alleria used the Void in that way?",,311600,0,0,0,324,0,7,343790,0,0,0,0,0,0,0
+We... got what we needed. But it was a struggle. One that ended in the death of the ethereal we were questioning.,,311601,0,0,0,324,0,7,343791,0,0,0,0,0,0,0
+Such is the nature of the Void. It is volatile and all-consuming. To wield it comes with immense risk.,,311602,0,0,0,324,0,7,343792,0,0,0,0,0,0,0
+"If I were to use the Void to extract the knowledge we seek, it could very well tear our minds asunder in the process.",,311603,0,0,0,324,0,7,343793,0,0,0,0,0,0,0
+And even if it didn't... what's to stop me from doing it again? I would be shredding the psyches of my foes for the sake of expediency.,,311604,0,0,0,324,0,7,343794,0,0,0,0,0,0,0
+There are those who accuse me--and all void elves--of being monsters. I will not prove them right.,,311605,0,0,0,324,0,7,343795,0,0,0,0,0,0,0
+But Arator is a paladin of the Light. How could he do that without causing a violent reaction?,,311613,0,0,0,324,0,7,343854,0,0,0,0,0,0,0
+I'm tempted to attribute it to sheer luck. Yet both you and I know that Arator possesses a willpower like few others.,,311614,0,0,0,324,0,7,343855,0,0,0,0,0,0,0
+"Though he does not wield the Void, I suspect his determination to find Xal'atath gives him the strength to withstand its presence even while calling upon the Light.",,311615,0,0,0,324,0,7,343856,0,0,0,0,0,0,0
+Let us hope that remains to be true. I've seen what happens when those two forces collide. There is a reason Turalyon and Alleria so often drift apart.,,311616,0,0,0,324,0,7,343857,0,0,0,0,0,0,0
+And Arator is son to both of them. Perhaps in more ways than one.,,311617,0,0,0,324,0,7,343858,0,0,0,0,0,0,0
+"I will keep an eye on him, and guide him when he needs it. Arator has touched the Void... and that seldom happens only once.",,311618,0,0,0,324,0,7,343859,0,0,0,0,0,0,0
+Well... what do you think?,,311845,0,0,0,324,0,4,343567,0,0,0,0,0,0,0
+"All I can say is, you live up to your legacy. This is one to slowly sip on.",,311846,0,0,0,324,0,4,343568,0,0,0,0,0,0,0
+"Ah! Finally, someone who understands! You can't just drink a brew--you savor it.",,311847,0,0,0,324,0,4,343569,0,0,0,0,0,0,0
+Every sip is an adventure. An ale a day keeps the troubles away!,,311848,0,0,0,324,0,4,343570,0,0,0,0,0,0,0
+"Trouble still finds me, my friend, but so does a good pint--usually both at the same time.",,311849,0,0,0,324,0,4,343571,0,0,0,0,0,0,0
+Reminds me of the time I challenged four grummles to an arm wrestling contest.,,311850,0,0,0,324,0,4,343572,0,0,0,0,0,0,0
+"Can't recall who won, but the brew was excellent.",,311851,0,0,0,324,0,4,343573,0,0,0,0,0,0,0
+Haha! I'll one-up you--Booty Bay rum once promised tropical warmth. I woke up to a missing boot.,,311852,0,0,0,324,0,4,343574,0,0,0,0,0,0,0
+That's the mark of a drink with true personality!,,311853,0,0,0,324,0,4,343575,0,0,0,0,0,0,0
+Personality... <hic> more like larceny. Those damn goblins sold it. Haha!,,311855,0,0,0,324,0,4,343576,0,0,0,0,0,0,0
+Ahah! Let me make it up to you--another round!,,311856,0,0,0,324,0,4,343577,0,0,0,0,0,0,0
+"Another round, eh? You are my kind of trouble. I like you, old panda.",,311857,0,0,0,324,0,4,343578,0,0,0,0,0,0,0
+And I like a man who honors a fine brew. Such men are worth trusting.,,311858,0,0,0,324,0,4,343579,0,0,0,0,0,0,0
+To friendship and good brew!,,311859,0,0,0,324,0,4,343580,0,0,0,0,0,0,0
+"To the paths we wander, and the mugs we share!",,311860,0,0,0,324,0,4,343581,0,0,0,0,0,0,0
+,Zul'jan wasn't de easiest brother to live with. Always getting into trouble. Always needing me to pull him out of it.,312767,0,0,1005,324,0,7,0,343902,0,0,0,0,0,0
+,No... I always thought he needed me. But maybe I needed him. To protect him. My little brother--,312768,0,0,1120,324,0,7,0,343903,0,0,0,0,0,0
+,I... have lost many who are dear to me. Some of them to the same Amani whom Zul'jan idolized.,312770,0,0,1120,324,0,7,0,343906,0,0,0,0,0,0
+,"The pain of watching them die, the guilt over not being able to prevent it... I won't pretend that it ever goes away.",312771,0,0,1120,324,0,7,0,343907,0,0,0,0,0,0
+,But I've found what eases it is believing that our loved ones never truly leave us. That they watch over us even now.,312772,0,0,1120,324,0,7,0,343908,0,0,0,0,0,0
+,Perhaps having a ghost over your shoulder isn't always a bad thing. You just have to listen to the right ghosts.,312773,0,0,1120,324,0,7,0,343909,0,0,0,0,0,0
+,Jan always acted like he had a ghost watching over his shoulder. Like he had to make our ancestors proud.,312774,0,0,1120,324,0,7,0,343904,0,0,0,0,0,0
+,"Heh. You be careful, hash'ura. You're starting to sound like an Amani.",312775,0,0,1120,324,0,7,0,343910,0,0,0,0,0,0
+,"Well... maybe that's not such a bad thing, either.",312776,0,0,1120,324,0,7,0,343911,0,0,0,0,0,0
+,I just wish I had told him dat he didn't need to.,312777,0,0,1120,324,0,7,0,343905,0,0,0,0,0,0
+,"To create the emetic, you need to get the balance of venom in each bottle just right.",314965,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+,Add enough doses until you reach the balance point of each bottle.,314966,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+,"Once you start, keep going. If you wait too long, the venom will become diluted.",314967,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+Beginning decryption initialization. Please disable all Hal'hadar security protocols.,,315844,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+Hal'hadar security protocols successfully disabled. Decrypted data transfer complete.,,315845,0,0,0,324,0,4,0,0,0,0,0,0,0,0
+"How are you, Arator?",,316427,0,0,0,326,0,6,351701,0,0,0,0,0,0,0
+Every day is the same.,,316428,0,0,0,326,0,6,351702,0,0,0,0,0,0,0
+"Asking the Light for answers,",,316429,0,0,0,326,0,6,351703,0,0,0,0,0,0,0
+and receiving none.,,316430,0,0,0,326,0,6,351704,0,0,0,0,0,0,0
+I never thanked you for saving my life.,,316431,0,0,0,326,0,6,351705,0,0,0,0,0,0,0
+With your tether in the Voidstorm.,,316432,0,0,0,326,0,6,351706,0,0,0,0,0,0,0
+I'm sorry I could not save your parents.,,316433,0,0,0,326,0,6,351707,0,0,0,0,0,0,0
+(sighs),,316434,0,0,0,326,0,6,351708,0,0,0,0,0,0,0
+"Every time I close my eyes, I see them falling...",,316435,0,0,0,326,0,6,351709,0,0,0,0,0,0,0
+always out of reach.,,316436,0,0,0,326,0,6,351710,0,0,0,0,0,0,0
+Sometimes I have hope that they somehow survived.,,316437,0,0,0,326,0,6,351711,0,0,0,0,0,0,0
+Other times...,,316438,0,0,0,326,0,6,351712,0,0,0,0,0,0,0
+I wish you had let me fall with them.,,316439,0,0,0,358,4000,6,351713,0,0,0,0,0,0,0
+"When I look upon the Void, do you know what I see?",,316440,0,0,0,326,0,6,351714,0,0,0,0,0,0,0
+Nothingness?,,316441,0,0,0,326,0,6,351715,0,0,0,0,0,0,0
+Possibilities.,,316442,0,0,0,326,0,6,351716,0,0,0,0,0,0,0
+Infinite possibilities.,,316443,0,0,0,326,0,6,351717,0,0,0,0,0,0,0
+Through which there is always a way forward.,,316444,0,0,0,326,0,6,351718,0,0,0,0,0,0,0
+You found something.,,316445,0,0,0,326,0,6,351719,0,0,0,0,0,0,0
+A new lead:,,316446,0,0,0,326,0,6,351720,0,0,0,0,0,0,0
+activity in the Twilight's Blade that may point to Xal'atath's whereabouts.,,316447,0,0,0,326,0,6,351721,0,0,0,0,0,0,0
+I want you to investigate it with me.,,316448,0,0,0,326,0,6,351722,0,0,0,0,0,0,0
+Well then.,,316449,0,0,0,326,0,6,351723,0,0,0,0,0,0,0
+"If the Light doesn't have the answers,",,316450,0,0,0,326,0,6,351724,0,0,0,0,0,0,0
+maybe the Void will.,,316451,0,0,0,358,3200,6,351725,0,0,0,0,0,0,0
+,Zul'jan!,316467,0,0,0,358,0,6,0,351793,0,0,0,0,0,0
+"Do not interfere, Sister.",,316468,0,0,0,358,0,6,351794,0,0,0,0,0,0,0
+,Why are you doing this?,316469,0,0,0,358,0,6,0,351795,0,0,0,0,0,0
+,What has Malacrass promised you?,316470,0,0,0,358,0,6,0,351796,0,0,0,0,0,0
+Strength.,,316471,0,0,0,358,0,6,351797,0,0,0,0,0,0,0
+To build the Amani Empire that Grandfather envisioned.,,316472,0,0,0,358,0,6,351798,0,0,0,0,0,0,0
+One that terrifies our enemies. Not one that grovels to trickster spirits.,,316473,0,0,0,358,0,6,351799,0,0,0,0,0,0,0
+,The loa look after us!,316474,0,0,0,358,0,6,0,351800,0,0,0,0,0,0
+The loa failed us!,,316475,0,0,0,358,0,6,351801,0,0,0,0,0,0,0
+"They failed our grandfather, our uncle, and they will fail you too.",,316476,0,0,0,358,0,6,351802,0,0,0,0,0,0,0
+I won't let that happen...,,316477,0,0,0,358,0,6,351803,0,0,0,0,0,0,0
+,"Come home, little brother.",316478,0,0,0,358,0,6,0,351804,0,0,0,0,0,0
+"We are not children anymore, Zul'jarra.",,316479,0,0,0,358,0,6,351805,0,0,0,0,0,0,0
+Stay out of my way.,,316480,0,0,0,358,0,6,351806,0,0,0,0,0,0,0
+,"Zul'jan, stop!",316481,0,0,0,358,0,6,0,351807,0,0,0,0,0,0
+LET GO!,,316482,0,0,0,358,0,6,351808,0,0,0,0,0,0,0
+,(grunts),316483,0,0,0,358,0,6,0,351809,0,0,0,0,0,0
+,(grunts),316931,0,0,0,374,0,6,0,352966,0,0,0,0,0,0
+Tragic!,,316932,0,0,0,374,0,6,352967,0,0,0,0,0,0,0
+How weak have de Amani become...,,316933,0,0,0,374,0,6,352968,0,0,0,0,0,0,0
+that dey beg outsiders to fight their battles?,,316934,0,0,0,374,0,6,352969,0,0,0,0,0,0,0
+No wonder Zul'jan sought my guidance...,,316935,0,0,0,374,0,6,352970,0,0,0,0,0,0,0
+,"MALACRASS, YOU VILE TRAITOR!",316936,0,0,0,374,0,6,0,352971,0,0,0,0,0,0
+,What have you done with my brother?!,316937,0,0,0,374,0,6,0,352974,0,0,0,0,0,0
+(chuckles),,316938,0,0,0,374,0,6,352975,0,0,0,0,0,0,0
+Don't fool yourself.,,316939,0,0,0,374,0,6,352976,0,0,0,0,0,0,0
+You know he was de one who set dis all in motion.,,316940,0,0,0,374,0,6,352977,0,0,0,0,0,0,0
+,(grunts),316941,0,0,0,374,0,6,0,352978,0,0,0,0,0,0
+,No!,316942,0,0,0,374,0,6,0,352979,0,0,0,0,0,0
+,"You've twisted him, just as you twisted our grandfather!",316943,0,0,0,374,0,6,0,352980,0,0,0,0,0,0
+I've put him on de path to true power...,,316944,0,0,0,374,0,6,352981,0,0,0,0,0,0,0
+Something your loa could never provide!,,316945,0,0,0,374,0,6,352982,0,0,0,0,0,0,0
+"Now, sacrifices must be made...",,316946,0,0,0,374,0,6,352983,0,0,0,0,0,0,0
+(screaming),(screaming),316950,0,0,0,374,0,6,0,0,0,0,0,0,0,0
+to restore de might of de great Amani Empire.,,316951,0,0,0,374,0,6,352992,0,0,0,0,0,0,0
+,Let dem go!,316952,0,0,0,374,0,6,0,352993,0,0,0,0,0,0
+(laughs),,316953,0,0,0,374,0,6,352994,0,0,0,0,0,0,0
+"Take dem to de island, Children of Ula'tek!",,316954,0,0,0,374,0,6,352995,0,0,0,0,0,0,0
+(screaming),(screaming),316955,0,0,0,374,0,6,0,0,0,0,0,0,0,0
+,Zul'jan... what have you done?,316956,0,0,0,374,0,6,0,352997,0,0,0,0,0,0
+,Behold!,316959,0,0,0,326,0,6,0,352999,0,0,0,0,0,0
+,The might of our salvation!,316960,0,0,0,358,3000,6,0,353000,0,0,0,0,0,0
+,Ula'tek!,316961,0,0,0,358,3500,6,0,353001,0,0,0,0,0,0
+What is that thing?,,316962,0,0,0,326,0,6,353002,0,0,0,0,0,0,0
+"Sister, make it stop!",,316963,0,0,0,326,0,6,353003,0,0,0,0,0,0,0
+It's too dangerous!,,316964,0,0,0,326,0,6,353004,0,0,0,0,0,0,0
+,Dis is the price of victory!,316965,0,0,0,358,3250,6,0,353005,0,0,0,0,0,0
+,"Upon de bones of each Amani's sacrifice,",316966,0,0,0,326,0,6,0,353006,0,0,0,0,0,0
+,our empire will rise!,316967,0,0,0,358,3700,6,0,353007,0,0,0,0,0,0
+,Malacrass.,316971,0,0,0,374,0,6,0,353008,0,0,0,0,0,0
+,You who shattered the bonds between Amani and loa.,316972,0,0,0,374,0,6,0,353009,0,0,0,0,0,0
+,Begone.,316973,0,0,0,374,0,6,0,353010,0,0,0,0,0,0
+(laughs),,316974,0,0,0,374,0,6,353011,0,0,0,0,0,0,0
+"Oh, I'll be goin'...",,316975,0,0,0,374,0,6,353012,0,0,0,0,0,0,0
+to de one place you can't follow...,,316976,0,0,0,374,0,6,353013,0,0,0,0,0,0,0
+(laughing),,316977,0,0,0,374,0,6,353014,0,0,0,0,0,0,0
+,"We have opened the way, but Malacrass spoke the truth.",316978,0,0,0,374,0,6,0,353015,0,0,0,0,0,0
+,A dark curse puts Atal'Utek beyond the loa's reach.,316979,0,0,0,374,0,6,0,353016,0,0,0,0,0,0
+,Then I must continue without you.,316980,0,0,0,374,0,6,0,353017,0,0,0,0,0,0
+,"I will not leave my people to die,",316981,0,0,0,374,0,6,0,353018,0,0,0,0,0,0
+,or yield my brother to Malacrass without a fight.,316982,0,0,0,374,0,6,0,353019,0,0,0,0,0,0
+,"You are courageous, young hash'ey.",316983,0,0,0,374,0,6,0,353020,0,0,0,0,0,0
+,"As you placed your trust in us, we now place ours in you.",316984,0,0,0,374,0,6,0,353021,0,0,0,0,0,0
+,"RIDE, AMANI!",316985,0,0,0,374,0,6,0,353022,0,0,0,0,0,0
+,We fly for Atal'Utek!,316986,0,0,0,374,0,6,0,353023,0,0,0,0,0,0
+,(grunts),318265,0,0,0,374,0,6,0,355628,0,0,0,0,0,0

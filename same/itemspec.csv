@@ -826,3 +826,4 @@ ID,MinLevel,MaxLevel,ItemType,PrimaryStat,SecondaryStat,SpecializationID
 42419,1,123,5,1,9,255
 42420,1,123,5,40,28,1480
 42421,1,123,5,0,28,1480
+42422,1,123,5,0,13,1480

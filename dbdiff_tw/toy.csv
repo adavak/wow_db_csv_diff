@@ -995,8 +995,7 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200區域：|r蒼藍高地,1491,224783,0,0
 |cFFFFD200寶藏：|r「織網補給品」|n|cFFFFD200區域：|r阿茲-卡罕特,1493,225347,0,0
 |cFFFFD200專業技能：|r卡茲阿爾加工程學,1494,221964,0,-1
-"|cFFFFD200任務：|r先驅者之手澤克維爾
-|cFFFFD200區域：|r多恩諾加",1495,225547,4,1
+|cFFFFD200掉落：|r澤克維爾|n|cFFFFD200區域：|r澤克維爾巢穴,1495,225547,4,-1
 ,1496,225641,0,-1
 |cFFFFD200寶藏：|r博學大師的獎勵|n|cFFFFD200區域：|r聖落之地,1497,225659,0,0
 |cFFFFD200商人：|r芬利‧莫戈頓爵士|n|cFFFFD200區域：|r多恩諾加|n|cFFFFD200花費：|r500|Hcurrency:2803|h|TInterface\ICONS\INV_Misc_ElvenCoins.blp:0|t|h,1498,225910,4,2
@@ -1015,7 +1014,7 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200商人：|r維娜茲安女士|n|cFFFFD200區域：|r阿茲-卡罕特|n|cFFFFD200花費：|r1750|Hcurrency:3056|h|TInterface\ICONS\INV_10_Tailoring_SilkRare_Color3.BLP:0|t|h|n|n|cFFFFD200商人：|r伊特希|n|cFFFFD200區域：|r阿茲-卡罕特|n|cFFFFD200花費：|r1750|Hcurrency:3056|h|TInterface\ICONS\INV_10_Tailoring_SilkRare_Color3.BLP:0|t|h,1512,228705,4,2
 |cFFFFD200商人：|r阿弗絲‧瓦拉弗魯|n|cFFFFD200區域：|r蛛絲城|n|cFFFFD200花費：|r1500|Hcurrency:3056|h|TInterface\ICONS\INV_10_Tailoring_SilkRare_Color3.BLP:0|t|h,1513,228914,0,2
 |cFFFFD200商人：|r歷史學家瑪迪|n|cFFFFD200區域：|r塔納利斯|n|cFFFFD200花費：|r20|Hcurrency:3100|h|TInterface\ICONS\INV_10_DungeonJewelry_Dragon_Necklace_1_Bronze.BLP:0|t|h,1514,228789,0,2
-|cFFFFD200世界任務：|r擊敗幽坑霸主|n|cFFFFD200區域：|r鳴響深淵,1515,230727,4,1
+|cFFFFD200掉落：|r幽坑霸主|n|cFFFFD200區域：|r爆鬥場,1515,230727,4,-1
 |cFFFFD200商人：|r歷史學家瑪迪|n|cFFFFD200區域：|r塔納利斯|n|cFFFFD200花費：|r20|Hcurrency:3100|h|TInterface\ICONS\INV_10_DungeonJewelry_Dragon_Necklace_1_Bronze.BLP:0|t|h|n|n|cFFFFD200商人：|r卡爾‧古德阿|n|cFFFFD200區域：|r塔納利斯|n|cFFFFD200花費：|r20|Hcurrency:3100|h|TInterface\ICONS\INV_10_DungeonJewelry_Dragon_Necklace_1_Bronze.BLP:0|t|h,1516,229828,0,2
 |cFFFFD200《魔獸世界》電競：|r地心之戰第1賽季,1517,232301,2,7
 |cFFFFD200《魔獸世界》電競：|r地心之戰第1賽季,1518,232305,2,7
@@ -1085,7 +1084,7 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200商人：|r楚布羅|n|cFFFFD200區域：|r波拉勒斯港|n|cFFFFD200花費：|r1000|Hcurrency:1166|h|TInterface\ICONS\PVECurrency-Justice.blp:0|t|h|n|n|cFFFFD200商人：|r楚布羅|n|cFFFFD200區域：|r祖達薩|n|cFFFFD200花費：|r1000|Hcurrency:1166|h|TInterface\ICONS\PVECurrency-Justice.blp:0|t|h,1595,245942,0,2
 |cFFFFD200商人：|r楚布羅|n|cFFFFD200區域：|r祖達薩|n|cFFFFD200花費：|r1000|Hcurrency:1166|h|TInterface\ICONS\PVECurrency-Justice.blp:0|t|h|n|n|cFFFFD200商人：|r楚布羅|n|cFFFFD200區域：|r波拉勒斯港|n|cFFFFD200花費：|r1000|Hcurrency:1166|h|TInterface\ICONS\PVECurrency-Justice.blp:0|t|h,1596,246227,0,2
 |cFFFFD200掉落：|r『吞盡者』迪曼修斯|n|cFFFFD200區域：|r法力熔爐歐美加,1597,246565,0,0
-|cFFFFD200任務：|r擊敗奇維扎|n|cFFFFD200區域：|r多恩諾加,1599,244470,4,1
+|cFFFFD200掉落：|r奇維扎|n|cFFFFD200區域：|r虛無剃刀庇護所|n,1599,244470,4,0
 |cFFFFD200商人：|r里諾‧傑克森|n|cFFFFD200區域：|r多恩諾加,1600,244792,4,2
 |cFFFFD200商人：|r唯物主義者歐菲奈爾|n|cFFFFD200區域：|r暮光高地|n|cFFFFD200花費：|r30|Hcurrency:3319|h|TInterface\ICONS\INV12_Twilight_ Blade_Cultist_Insignia.BLP:0|t|h,1601,249468,2,2
 |cFFFFD200任務：|r像我一樣|n|cFFFFD200陣營：|r法力熔爐破壞者,1602,249713,6,-1
@@ -1100,7 +1099,7 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 ,1612,251491,0,-1
 |cFFFFD200商人：|r削切者雪兒|n|cFFFFD200功能：|r豐足|n|cFFFFD200花費：|r6400|Hcurrency:3377|h|TInterface\ICONS\INV_10_Gathering_BioluminescentSpores_Large.BLP:0|t|h|n|n,1613,251633,0,-1
 你覺得馬鈴薯蟾蜍卵是從哪來的？|n,1614,251903,4,10
-|cFFFFD200寶藏：|r|cffA335EE結實的箱子|n|cFFFFD200區域：|r阿塔阿曼,1615,252265,4,0
+|cFFFFD200寶藏：|r結實的箱子|n|cFFFFD200區域：|r阿塔阿曼探究,1615,252265,4,-1
 |cFFFFD200任務：|r亞肯提納|n,1616,253629,0,1
 |cFFFFD200促銷：|r《燃燒的遠征》經典版,1617,254666,2,7
 |cFFFFD200成就：|r傳奇：地心之戰第3賽季|n|cFFFFD200類別：|r競技場,1618,242636,2,-1
@@ -1127,12 +1126,12 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 ,1643,263244,0,-1
 |cFFFFD200促銷：|r《燃燒的遠征》經典版,1644,263489,2,7
 ,1645,263871,0,-1
-|cFFFFD200商人：|r傀儡瓦諾雷|n|cFFFFD200區域：|r銀月城|n|cFFFFD200花費：|r1000|Hcurrency:3392|h|TInterface\ICONS\INV_10_ElementalCombinedFoozles_Blood.BLP:0|t|h,1646,263933,0,2
-|cFFFFD200成就：|r禁忌之雨：五星|n|cFFFFD200類別：|r地城,1647,263975,2,5
+|cFFFFD200商人：|r傀儡伊努|n|cFFFFD200區域：|r銀月城|n|cFFFFD200花費：|r800|Hcurrency:3392|h|TInterface\ICONS\INV_10_ElementalCombinedFoozles_Blood.BLP:0|t|h,1646,263933,0,2
+|cFFFFD200成就：|r禁忌之雨：五星|n|cFFFFD200類別：|r地城,1647,263975,0,5
 |cFFFFD200掉落：|r孢子之殞|n,1648,264313,0,0
 |cFFFFD200掉落：|r孢子之殞|n,1649,264367,0,0
 |cFFFFD200掉落：|r孢子之殞|n,1650,264368,0,0
-|cFFFFD200任務：|r扼殺努萊厄斯|n|cFFFFD200區域：|r銀月城,1651,264413,4,1
+|cFFFFD200掉落：|r努萊厄斯|n|cFFFFD200區域：|r折磨高地,1651,264413,4,0
 |cFFFFD200商人：|r傳送師艾司川迪斯|n|cFFFFD200區域：|r銀月城|n|cFFFFD200花費|r10|Hcurrency:3316|h|TInterface\ICONS\INV_112_RaidTrinkets_VoidPrism.BLP:0|t|h,1652,264414,4,2
 |cFFFFD200商人：|r瑟拉薩達|n|cFFFFD200區域：|r主宰棲所|n|cFFFFD200陣營：|r殺戮者決鬥會 - 尊敬|n|cFFFFD200花費：|r4000|Hcurrency:3316|h|TInterface\ICONS\INV_112_RaidTrinkets_VoidPrism.BLP:0|t|h,1653,264517,4,2
 |cFFFFD200商人：|r傀儡瓦諾雷|n|cFFFFD200區域：|r銀月城|n|cFFFFD200花費：|r600|Hcurrency:3392|h|TInterface\ICONS\INV_10_ElementalCombinedFoozles_Blood.BLP:0|t|h,1654,264666,0,2
@@ -1148,6 +1147,7 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200世界事件：|r偉大的諾姆瑞根路跑|n,1683,267472,0,6
 |cFFFFD200事件：|r裝迷藏競賽,1684,268455,2,6
 |cFFFFD200事件：|r裝迷藏競賽,1685,268456,2,6
+|cFFFFD200掉落：|r|cFFFFD200寶藏：|r故障的法杖|n|cFFFFD200區域：|r盤蛇島|n,1686,268504,0,0
 |cFFFFD200促銷|r,1687,268695,2,9
 |cFFFFD200成就：|r祖阿曼的寶藏|n|cFFFFD200類別：|r至暗之夜,1688,268717,0,5
 |cFFFFD200掉落：|r齊克特|n|cFFFFD200區域：|r盲目谷地（傳奇）|n|n|cFFFFD200掉落：|r挑戰者的儲物箱|n|cFFFFD200區域：|r盲目谷地,1689,268728,0,-1
@@ -1155,5 +1155,23 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200專業技能：|r卡茲阿爾加工程學,1713,248485,2,-1
 |cFFFFD200世界事件：|r兒童週|n|cFFFFD200商人：|r蕾亞‧尼特頓 / 布倫狄雅‧辮錘|n|cFFFFD200區域：|r奧格瑪 / 暴風城|n|cFFFFD200花費：|r1|TINTERFACE\ICONS\INV_Misc_Primitive_toy18.BLP:0|t,1715,272287,0,2
 |cFFFFD200《魔獸世界》電競：|r至暗之夜第1賽季,1717,272339,2,7
+|cFFFFD200專業技能：|r至暗之夜釣魚 - 盤蛇島,1724,274817,2,-1
+|cFFFFD200寶藏：|r包覆鹹水的箱子|n|cFFFFD200區域：|r盤蛇島,1725,274921,0,0
+|cFFFFD200專業技能：|r至暗之夜工程學,1729,275683,2,-1
+|cFFFFD200成就：|r值勤之行：盤蛇島|n|cFFFFD200類別：|r玩家對玩家,1730,275825,0,5
+|cFFFFD200任務：|r追憶毒牙|n|cFFFFD200區域：|r銀月城,1731,275988,4,1
+|cFFFFD200掉落：|r瑞卡拉|n,1732,276207,0,0
+|cFFFFD200商人：|r傳送師艾司川迪斯|n|cFFFFD200區域：|r銀月城|n|n,1733,276189,4,2
+|cFFFFD200商人：|r傀儡瓦諾雷|n|cFFFFD200區域：|r銀月城|n|cFFFFD200花費：|r800|Hcurrency:3392|h|TInterface\ICONS\INV_10_ElementalCombinedFoozles_Blood.BLP:0|t|h,1734,276229,0,2
+|cFFFFD200商人：|r傀儡瓦諾雷|n|cFFFFD200區域：|r銀月城|n|cFFFFD200花費：|r600|Hcurrency:3392|h|TInterface\ICONS\INV_10_ElementalCombinedFoozles_Blood.BLP:0|t|h,1735,276258,0,2
 |cFFFFD200商人：|n|cFFFFD200區域：|n|cFFFFD200花費： ,1736,276370,2,2
 |cFFFFD200商人：|n|cFFFFD200區域：|n|cFFFFD200花費： ,1737,276371,2,1
+|cFFFFD200商人：|r『警戒者』詹莎莉|n|cFFFFD200區域：|r盤蛇島|n|cFFFFD200花費：|r4000|Hcurrency:3316|h|TInterface\ICONS\INV_112_RaidTrinkets_VoidPrism.BLP:0|t|h,1739,276925,0,2
+|cFFFFD200寶藏：|r賈克圖的詛咒之刃|n|cFFFFD200區域：|r盤蛇島,1741,277954,0,0
+|cFFFFD200商人：|r領航員歐圖菈|n|cFFFFD200區域：|r盤蛇島|n|cFFFFD200花費：|r10|Hitem:274595|h|TInterface\ICONS\INV_121_Professions_Fishing_Starfish_Red.BLP:0|t|h750|Hcurrency:3316|h|TInterface\ICONS\INV_112_RaidTrinkets_VoidPrism.BLP:0|t|h,1746,278557,0,2
+|cFFFFD200寶藏：|r遭遺忘者之墓|n|cFFFFD200區域：|r盤蛇島,1747,279021,0,0
+|cFFFFD200寶藏：|r沉沒的潛水員箱子|n|cFFFFD200區域：|r盤蛇島,1748,279052,0,0
+|cFFFFD200寶藏：|r棄置的阿曼尼私掠者儲藏箱|n|cFFFFD200區域：|r盤蛇島,1749,279054,0,0
+|cFFFFD200《魔獸世界》電競：|r至暗之夜第2賽季,1755,279590,2,7
+|cFFFFD200任務：|r堅強的心|n|cFFFFD200區域：|r盤蛇島,1756,280201,0,1
+|cFFFFD200成就：|r歷史學生，嘶|n|cFFFFD200類別：|r至暗之夜,1758,280419,0,5

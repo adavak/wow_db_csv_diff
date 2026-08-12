@@ -94,3 +94,8 @@ ID,Name_lang,LocaleMask,Create_charsetMask,Existing_charsetMask,Flags,Order
 199,Classic Era,0,17,17,0,0
 201,Classic Era,0,0,0,0,0
 202,Anniversary,0,0,0,0,0
+203,Active,0,1,1,0,-50
+204,Legacy,0,1,1,0,-49
+205,Active,0,1,1,0,-50
+206,Legacy,0,1,1,0,-49
+207,Titan-Reforged,0,17,17,0,0
