@@ -1,4 +1,4 @@
-ID,Field_12_0_5_66330_000,RequiredArenaRating,ArenaBracket,Flags,MinFactionID,MinReputation,RequiredAchievement,ItemID[0],ItemID[1],ItemID[2],ItemID[3],ItemID[4],ItemCount[0],ItemCount[1],ItemCount[2],ItemCount[3],ItemCount[4],CurrencyID[0],CurrencyID[1],CurrencyID[2],CurrencyID[3],CurrencyID[4],CurrencyCount[0],CurrencyCount[1],CurrencyCount[2],CurrencyCount[3],CurrencyCount[4]
+ID,Money,RequiredArenaRating,ArenaBracket,Flags,MinFactionID,MinReputation,RequiredAchievement,ItemID[0],ItemID[1],ItemID[2],ItemID[3],ItemID[4],ItemCount[0],ItemCount[1],ItemCount[2],ItemCount[3],ItemCount[4],CurrencyID[0],CurrencyID[1],CurrencyID[2],CurrencyID[3],CurrencyID[4],CurrencyCount[0],CurrencyCount[1],CurrencyCount[2],CurrencyCount[3],CurrencyCount[4]
 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1226,0,0,0,0,1,0,0,0,0
 2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 5,0,0,0,0,0,0,0,26045,26044,0,0,0,40,2,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -7537,12 +7537,12 @@ ID,Field_12_0_5_66330_000,RequiredArenaRating,ArenaBracket,Flags,MinFactionID,Mi
 11728,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3546,0,0,0,0,500,0,0,0,0
 11729,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3546,0,0,0,0,10,0,0,0,0
 11733,0,0,0,0,0,0,0,37829,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-11734,0,0,0,0,0,0,0,37829,0,0,0,0,250,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11734,0,0,0,0,0,0,0,37829,0,0,0,0,125,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 11735,0,0,0,0,0,0,0,37829,0,0,0,0,500,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 11740,0,0,0,0,0,0,0,273000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 11741,0,0,0,0,0,0,0,274481,0,0,0,0,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 11743,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3546,0,0,0,0,50,0,0,0,0
-11750,0,0,0,0,0,0,0,37829,0,0,0,0,150,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11750,0,0,0,0,0,0,0,37829,0,0,0,0,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 11751,0,0,0,0,0,0,0,37829,0,0,0,0,1000,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 11757,0,0,0,0,0,0,0,273000,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 11758,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3405,0,0,0,0,200,0,0,0,0

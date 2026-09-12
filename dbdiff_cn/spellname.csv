@@ -398927,6 +398927,7 @@ ID,Name_lang
 1277814,收集春芳花禅意花园
 1277815,收集春芳花池
 1277817,收集盘魂者天篷
+1277818,收集平整的蛇皮天篷
 1277820,接合塑造者之钳
 1277821,接合塑造者之锤
 1277822,接合塑造者之凿
@@ -399941,6 +399942,7 @@ ID,Name_lang
 1280312,Collect [DNT] [AUTOGEN] 12PH_Leg_7NB_Nightborn_Bookshelf01_filled.M2
 1280313,Collect [DNT] [AUTOGEN] 12PH_Folk_Chandelier02.m2
 1280314,收集乌拉特克仪式独石
+1280315,收集毒液学者的聚焦器
 1280316,黑豹的诡计
 1280317,吞噬精华
 1280318,吞噬精华
@@ -404417,6 +404419,7 @@ ID,Name_lang
 1288727,[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_Opulent_Chandelier02.M2
 1288728,[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_BloodElf_Decor_Chair_Porchswing01.M2
 1288729,收集辛多雷花园秋千
+1288742,收集毒翡翠项链
 1288743,收集羽饰乌拉特克护符
 1288745,收集打开的蛇裔圣物箱
 1288750,排队等待熔火侵攻
@@ -408658,7 +408661,7 @@ ID,Name_lang
 1297214,Cate Test Damage
 1297215,净化毒液喷发
 1297216,毒液巨蛇 - 紫色
-1297217,毒液巨蛇 - 绿色
+1297217,腐蚀毒牙
 1297218,标记追踪
 1297219,标记追踪
 1297220,猩红毒蝮
@@ -413708,6 +413711,12 @@ ID,Name_lang
 1313758,沸腾毒液
 1313800,魔法垃圾
 1313802,屏障完整度
+1313803,汲取屏障
+1313804,汲取屏障
+1313809,抚摸
+1313813,吉莫西
+1313818,反噬
+1313819,反噬
 1313909,[DNT] 恐惧箭
 1313945,腐蚀浪潮
 1313965,守卫的保护
@@ -413801,6 +413810,79 @@ ID,Name_lang
 1315787,Generic Spell
 1315796,Tracking Quest Flag [DNT]
 1315798,不稳定腐化
+1315805,毒蛇呼唤
 1315876,钻地
 1315888,<DNT> 12.0.7 Skip
 1316060,[DNT] Spawn Visuals - Murloc
+1316355,易爆清除
+1316356,易爆清除
+1316357,易爆清除
+1316611,Reevaluate Quest [DNT]
+1316627,[DNT] Summon Mushroom Pad
+1316628,[DNT] Summon Mushroom Pad
+1316630,[DNT] Summon Mushroom Pad
+1316684,[DNT] Summon Mushroom Pad
+1316701,[DNT] Salute!
+1316706,Generic Spell
+1316707,Generic Spell
+1316710,幽魂盘卷
+1316716,滚雷
+1316719,[DNT] Evolution Ritual
+1316721,[DNT] Evolution Ritual
+1316728,诅咒进军
+1316739,Generic Spell
+1316746,精魂行走
+1316793,Generic Spell
+1316795,Generic Spell
+1316796,Generic Spell
+1316797,诅咒进军
+1316798,Generic Spell
+1316834,传送（脱离战斗时）
+1316835,传送（脱离战斗时）
+1316938,手性骨髓移植
+1316939,[DNT] Ping Taplist
+1316944,[DNT] Blood Rain
+1316950,油腻的蛋
+1316952,产卵
+1316958,打开棺材
+1316960,打开棺材
+1316982,地下堡行者的装饰品福袋
+1316988,不良标记
+1317008,Generic Spell
+1317009,Generic Spell
+1317010,Generic Spell
+1317036,毒咒爆击
+1317188,角斗士的荣耀
+1317236,Side 01
+1317237,群体孕育
+1317258,毒液箭雨
+1317287,Generic Spell
+1317289,Generic Spell
+1317434,征服勋章
+1317528,锁定
+1317558,近战
+1317568,Generic Spell
+1317581,毒咒飞升
+1317582,毒咒飞升
+1317585,[DNT] Death Checker
+1317688,心脏防御
+1317723,剧毒孵化
+1317846,变得不活跃
+1317906,Bloodthirsty Gaze
+1317955,凋萎静脉
+1318116,[DNT] Fresh Meat Warning Aura
+1318176,强力猛击
+1318266,[DNT] Backup Despawn
+1318267,[DNT] Backup Despawn Check Aura
+1318271,Generic Spell
+1318272,Generic Spell
+1318291,[DNT] Fall Damage Preventer
+1318313,Generic Spell
+1318329,钙化尸骸
+1318378,[DNT] March of the Damned
+1318382,Generic Spell
+1318387,[DNT] March of the Damned
+1318521,[DNT] Portal Visual
+1318523,传送
+1318543,Leave Vehicle - Teleport - Cancel Aura [DNT]
+1318608,蛇母之怒

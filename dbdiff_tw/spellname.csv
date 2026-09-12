@@ -398918,6 +398918,7 @@ ID,Name_lang
 1277814,收集春綻寧靜花園
 1277815,收集春綻池塘
 1277817,收集纏魂者頂篷
+1277818,收集扁平蛇皮頂篷
 1277820,移植整塑鉗
 1277821,移植整塑錘
 1277822,移植整塑鑿
@@ -399932,6 +399933,7 @@ ID,Name_lang
 1280312,Collect [DNT] [AUTOGEN] 12PH_Leg_7NB_Nightborn_Bookshelf01_filled.M2
 1280313,Collect [DNT] [AUTOGEN] 12PH_Folk_Chandelier02.m2
 1280314,收集烏拉特克儀式石碑
+1280315,收集毒液學者的法器
 1280316,獵豹之詐
 1280317,吞噬精華
 1280318,吞噬精華
@@ -404408,6 +404410,7 @@ ID,Name_lang
 1288727,[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_Opulent_Chandelier02.M2
 1288728,[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_BloodElf_Decor_Chair_Porchswing01.M2
 1288729,收集辛多雷花園鞦韆
+1288742,收集毒玉項鍊
 1288743,收集烏拉特克羽飾護符
 1288745,收集打開的盤蛇聖匣
 1288750,加入熔火入侵佇列
@@ -408649,7 +408652,7 @@ ID,Name_lang
 1297214,Cate Test Damage
 1297215,淨化毒液爆發
 1297216,毒蛇 - 紫色
-1297217,毒蛇 - 綠色
+1297217,腐蝕毒牙
 1297218,旗標追蹤
 1297219,旗標追蹤
 1297220,緋紅毒牙
@@ -413699,6 +413702,12 @@ ID,Name_lang
 1313758,沸騰毒液
 1313800,魔法垃圾
 1313802,屏障完整性
+1313803,吸取屏障
+1313804,吸取屏障
+1313809,撫摸
+1313813,吉摩西
+1313818,回饋
+1313819,回饋
 1313909,[DNT] Dread Bolt
 1313945,腐蝕波
 1313965,看守者之護
@@ -413792,6 +413801,79 @@ ID,Name_lang
 1315787,Generic Spell
 1315796,Tracking Quest Flag [DNT]
 1315798,不穩定的腐化
+1315805,毒蛇之喚
 1315876,鑽地
 1315888,<DNT> 12.0.7 Skip
 1316060,[DNT] Spawn Visuals - Murloc
+1316355,爆裂淨滅
+1316356,爆裂淨滅
+1316357,爆裂淨滅
+1316611,Reevaluate Quest [DNT]
+1316627,[DNT] Summon Mushroom Pad
+1316628,[DNT] Summon Mushroom Pad
+1316630,[DNT] Summon Mushroom Pad
+1316684,[DNT] Summon Mushroom Pad
+1316701,[DNT] Salute!
+1316706,Generic Spell
+1316707,Generic Spell
+1316710,幽魂之纏
+1316716,轟天雷
+1316719,[DNT] Evolution Ritual
+1316721,[DNT] Evolution Ritual
+1316728,亡靈行軍
+1316739,Generic Spell
+1316746,幽魂步伐
+1316793,Generic Spell
+1316795,Generic Spell
+1316796,Generic Spell
+1316797,亡靈行軍
+1316798,Generic Spell
+1316834,傳送（離開戰鬥時）
+1316835,傳送（離開戰鬥時）
+1316938,異構植髓
+1316939,[DNT] Ping Taplist
+1316944,[DNT] Blood Rain
+1316950,油膩的蛋
+1316952,放下蛋
+1316958,打開棺柩
+1316960,打開棺柩
+1316982,探究者的驚奇造型包
+1316988,標記為壞
+1317008,Generic Spell
+1317009,Generic Spell
+1317010,Generic Spell
+1317036,咒毒致命一擊
+1317188,鬥士的特質
+1317236,Side 01
+1317237,群體孵育
+1317258,毒液箭雨
+1317287,Generic Spell
+1317289,Generic Spell
+1317434,征服勳章
+1317528,鎖定
+1317558,近戰
+1317568,Generic Spell
+1317581,咒毒晉升
+1317582,咒毒晉升
+1317585,[DNT] Death Checker
+1317688,心臟防禦
+1317723,劇毒孵育
+1317846,使其靜止
+1317906,Bloodthirsty Gaze
+1317955,荒疫之脈
+1318116,[DNT] Fresh Meat Warning Aura
+1318176,強力猛擊
+1318266,[DNT] Backup Despawn
+1318267,[DNT] Backup Despawn Check Aura
+1318271,Generic Spell
+1318272,Generic Spell
+1318291,[DNT] Fall Damage Preventer
+1318313,Generic Spell
+1318329,鈣化屍體
+1318378,[DNT] March of the Damned
+1318382,Generic Spell
+1318387,[DNT] March of the Damned
+1318521,[DNT] Portal Visual
+1318523,傳送
+1318543,Leave Vehicle - Teleport - Cancel Aura [DNT]
+1318608,蛇母之怒

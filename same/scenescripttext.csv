@@ -2932603,7 +2932603,7 @@ scene:EndScene()"
 				{
 					[""events""] = 
 					{
-						{[""props""] = {animID=adid(1), variation=0, looping=false, speed=0.000, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=4.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
+						{[""props""] = {animID=adid(6), variation=0, looping=false, speed=0.000, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
 						 [24.494] = {},
 						 [26.533] = {},},
 					},
@@ -2932649,7 +2932649,7 @@ scene:EndScene()"
 				{
 					[""events""] = 
 					{
-						{[""props""] = {animID=adid(1), variation=0, looping=false, speed=0.800, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=2.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
+						{[""props""] = {animID=adid(6), variation=0, looping=false, speed=0.800, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
 						 [24.500] = {},
 						 [26.533] = {},},
 					},
@@ -2932681,15 +2932681,6 @@ scene:EndScene()"
 						{[0.000] = {transform={position={x=5109.088, y=-12948.316, z=68.849}, yaw=149.717, pitch=0.000, roll=0.000}},},
 					},
 				},
-				[""Fade""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {alpha=0.000, time=0.000},},
-						{[24.800] = {alpha=1.000, time=0.000},},
-						{[26.533] = {alpha=0.000, time=0.000},},
-					},
-				},
 				[""EquipWeapon""] = 
 				{
 					[""events""] = 
@@ -2932697,13 +2932688,13 @@ scene:EndScene()"
 						{[0.000] = {itemID=iid(153589), MainHand=true, OffHand=false, Ranged=false},},
 					},
 				},
-				[""Animation_UpperBody""] = 
+				[""Fade""] = 
 				{
 					[""events""] = 
 					{
-						{[""props""] = {animID=adid(225), variation=0, looping=true, speed=1.000, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
-						 [24.800] = {},
-						 [26.533] = {},},
+						{[0.000] = {alpha=0.000, time=0.000},},
+						{[24.800] = {alpha=1.000, time=0.000},},
+						{[26.533] = {alpha=0.000, time=0.000},},
 					},
 				},
 				[""MoveSpline""] = 
@@ -2932715,20 +2932706,29 @@ scene:EndScene()"
 						 [26.533] = {position={position={x=5115.398, y=-12952.653, z=68.848}, yaw=149.716, pitch=0.000, roll=0.000}, setEaseInOutSeparately=false, easeInOutFunction=0, easeInOutCurveID=0, easeInFunction=0, easeInCurveID=0, easeOutFunction=0, easeOutCurveID=0},},
 					},
 				},
-				[""Animation_FullBody""] = 
-				{
-					[""events""] = 
-					{
-						{[""props""] = {animID=adid(5), variation=0, looping=true, speed=0.700, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
-						 [24.800] = {},
-						 [26.533] = {},},
-					},
-				},
 				[""Animation_RightHand""] = 
 				{
 					[""events""] = 
 					{
 						{[""props""] = {animID=adid(15), variation=0, looping=true, speed=1.000, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
+						 [24.800] = {},
+						 [26.533] = {},},
+					},
+				},
+				[""Animation_UpperBody""] = 
+				{
+					[""events""] = 
+					{
+						{[""props""] = {animID=adid(225), variation=0, looping=true, speed=1.000, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
+						 [24.800] = {},
+						 [26.533] = {},},
+					},
+				},
+				[""Animation_FullBody""] = 
+				{
+					[""events""] = 
+					{
+						{[""props""] = {animID=adid(5), variation=0, looping=true, speed=0.700, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
 						 [24.800] = {},
 						 [26.533] = {},},
 					},
@@ -2932740,13 +2932740,6 @@ scene:EndScene()"
 		{
 			[""properties""] = 
 			{
-				[""Appearance""] = 
-				{
-					[""events""] = 
-					{
-						{[0.001] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(138096), fileDataID=fid(0), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=true},},
-					},
-				},
 				[""Transform""] = 
 				{
 					[""events""] = 
@@ -2932754,11 +2932747,11 @@ scene:EndScene()"
 						{[0.001] = {transform={position={x=5111.371, y=-12953.115, z=69.160}, yaw=-151.746, pitch=0.000, roll=0.000}},},
 					},
 				},
-				[""GroundSnap""] = 
+				[""Appearance""] = 
 				{
 					[""events""] = 
 					{
-						{[0.001] = {snap=true},},
+						{[0.001] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(138096), fileDataID=fid(0), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=true},},
 					},
 				},
 				[""Fade""] = 
@@ -2932768,6 +2932761,13 @@ scene:EndScene()"
 						{[0.001] = {alpha=0.000, time=0.000},},
 						{[24.800] = {alpha=1.000, time=0.000},},
 						{[26.533] = {alpha=0.000, time=0.000},},
+					},
+				},
+				[""GroundSnap""] = 
+				{
+					[""events""] = 
+					{
+						{[0.001] = {snap=true},},
 					},
 				},
 				[""Animation_Head""] = 
@@ -2933089,18 +2933089,18 @@ scene:EndScene()"
 		{
 			[""properties""] = 
 			{
-				[""GroundSnap""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {snap=false},},
-					},
-				},
 				[""Scale""] = 
 				{
 					[""events""] = 
 					{
 						{[0.000] = {scale=2.000, duration=0.000},},
+					},
+				},
+				[""GroundSnap""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {snap=false},},
 					},
 				},
 				[""Transform""] = 
@@ -2933140,18 +2933140,18 @@ scene:EndScene()"
 			[""properties""] = 
 			{
 		"
-72526,[5] 12.1.0_[PSU]_Shot_1080_IGC,"		[""Scale""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {scale=8.000, duration=0.000},},
-					},
-				},
-				[""GroundSnap""] = 
+72526,[5] 12.1.0_[PSU]_Shot_1080_IGC,"		[""GroundSnap""] = 
 				{
 					[""events""] = 
 					{
 						{[0.000] = {snap=false},},
+					},
+				},
+				[""Scale""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {scale=8.000, duration=0.000},},
 					},
 				},
 				[""Transform""] = 
@@ -2933325,7 +2933325,7 @@ scene:EndScene()"
 				{
 					[""events""] = 
 					{
-						{[""props""] = {animID=adid(1), variation=0, looping=false, speed=0.000, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=4.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
+						{[""props""] = {animID=adid(6), variation=0, looping=false, speed=0.000, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
 						 [26.533] = {},
 						 [28.300] = {},},
 					},
@@ -2933336,18 +2933336,18 @@ scene:EndScene()"
 		{
 			[""properties""] = 
 			{
-				[""GroundSnap""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {snap=false},},
-					},
-				},
 				[""Scale""] = 
 				{
 					[""events""] = 
 					{
 						{[0.000] = {scale=1.000, duration=0.000},},
+					},
+				},
+				[""GroundSnap""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {snap=false},},
 					},
 				},
 				[""Sheathe""] = 
@@ -2933372,6 +2933372,13 @@ scene:EndScene()"
 72528,[1] 12.1.0_[PSU]_Shot_1090_IGC,"showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=true},},
 					},
 				},
+				[""HeadFacingTarget""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {targetActivePlayer=false, target=[[12.1.0_[PSU]_Shot_1090_IGC\_Camera]], vertical=true, offset={x=0.000, y=2.500, z=1.000}, FacingTurnRate=3.000, unclampLookAtPitchAngle=false},},
+					},
+				},
 				[""EquipWeapon""] = 
 				{
 					[""events""] = 
@@ -2933386,13 +2933393,6 @@ scene:EndScene()"
 						{[0.000] = {alpha=0.000, time=0.000},},
 						{[26.533] = {alpha=1.000, time=0.000},},
 						{[28.300] = {alpha=0.000, time=0.000},},
-					},
-				},
-				[""HeadFacingTarget""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {targetActivePlayer=false, target=[[12.1.0_[PSU]_Shot_1090_IGC\_Camera]], vertical=true, offset={x=0.000, y=2.500, z=1.000}, FacingTurnRate=3.000, unclampLookAtPitchAngle=false},},
 					},
 				},
 				[""Animation_UpperBody""] = 
@@ -2933502,13 +2933502,6 @@ scene:EndScene()"
 						{[0.000] = {transform={position={x=5112.842, y=-12977.656, z=68.847}, yaw=40.449, pitch=0.000, roll=0.000}},},
 					},
 				},
-				[""Animation_FullBodyLooping""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {animID=adid(1334), variation=0, looping=false, speed=1.000, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},},
-					},
-				},
 				[""Fade""] = 
 				{
 					[""events""] = 
@@ -2933518,19 +2933511,19 @@ scene:EndScene()"
 						{[28.300] = {alpha=0.000, time=0.000},},
 					},
 				},
+				[""Animation_FullBodyLooping""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {animID=adid(1334), variation=0, looping=false, speed=1.000, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},},
+					},
+				},
 			},
 		},
 		[""c_Troll_Cultist_M_02_Dead""] = 
 		{
 			[""properties""] = 
 			{
-				[""GroundSnap""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {snap=true},},
-					},
-				},
 				[""Appearance""] = 
 				{
 					[""events""] = 
@@ -2933543,6 +2933536,13 @@ scene:EndScene()"
 					[""events""] = 
 					{
 						{[0.000] = {transform={position={x=5107.043, y=-12980.736, z=68.847}, yaw=-54.546, pitch=0.000, roll=-0.000}},},
+					},
+				},
+				[""GroundSnap""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {snap=true},},
 					},
 				},
 				[""Fade""] = 
@@ -2933567,18 +2933567,18 @@ scene:EndScene()"
 		{
 			[""properties""] = 
 			{
-				[""GroundSnap""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {snap=true},},
-					},
-				},
 				[""Appearance""] = 
 				{
 					[""events""] = 
 					{
 						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(138095), fileDataID=fid(0), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=true},},
+					},
+				},
+				[""GroundSnap""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {snap=true},},
 					},
 				},
 				[""Transform""] = 
@@ -2933655,20 +2933655,20 @@ scene:EndScene()"
 						{[28.300] = {alpha=0.000, time=0.000},},
 					},
 				},
-				[""Animation_UpperBody""] = 
-				{
-					[""events""] = 
-					{
-						{[""props""] = {animID=adid(225), variation=0, looping=true, speed=0.700, randomSpeed=true, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
-						 [26.533] = {},
-						 [28.300] = {},},
-					},
-				},
 				[""Animation_RightHand""] = 
 				{
 					[""events""] = 
 					{
 						{[""props""] = {animID=adid(15), variation=0, looping=true, speed=1.000, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
+						 [26.533] = {},
+						 [28.300] = {},},
+					},
+				},
+				[""Animation_UpperBody""] = 
+				{
+					[""events""] = 
+					{
+						{[""props""] = {animID=adid(225), variation=0, looping=true, speed=0.700, randomSpeed=true, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
 						 [26.533] = {},
 						 [28.300] = {},},
 					},
@@ -2933764,6 +2933764,13 @@ scene:EndScene()"
 						{[0.000] = {transform={position={x=5106.972, y=-12970.490, z=68.849}, yaw=-7.263, pitch=0.000, roll=-0.000}},},
 					},
 				},
+				[""EquipWeapon""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {itemID=iid(153589), MainHand=true, OffHand=false, Ranged=false},},
+					},
+				},
 				[""Fade""] = 
 				{
 					[""events""] = 
@@ -2933771,13 +2933778,6 @@ scene:EndScene()"
 						{[0.000] = {alpha=0.000, time=0.000},},
 						{[26.533] = {alpha=1.000, time=0.000},},
 						{[28.300] = {alpha=0.000, time=0.000},},
-					},
-				},
-				[""EquipWeapon""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {itemID=iid(153589), MainHand=true, OffHand=false, Ranged=false},},
 					},
 				},
 				[""Animation_RightHand""] = 
@@ -2933789,15 +2933789,6 @@ scene:EndScene()"
 						 [28.300] = {},},
 					},
 				},
-				[""Animation_UpperBody""] = 
-				{
-					[""events""] = 
-					{
-						{[""props""] = {animID=adid(225), variation=0, looping=true, speed=0.700, randomSpeed=true, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
-						 [26.533] = {},
-						 [28.300] = {},},
-					},
-				},
 				[""MoveSpline""] = 
 				{
 					[""events""] = 
@@ -2933805,6 +2933796,15 @@ scene:EndScene()"
 						{[""props""] = {overrideSpeed=0.000, useCreatureModelOverrideSpeed=false, useModelRunSpeed=true, useModelWalkSpeed=false, yawUsesSplineTangent=true, yawUsesNodeTransform=false, yawBlendDisabled=false, pitchUsesSplineTangent=false, pitchUsesNodeTransform=false, rollUsesNodeTransform=false, teleportToFirstPoint=true},
 						 [26.533] = {position={position={x=5106.971, y=-12970.488, z=68.848}, yaw=-7.263, pitch=0.000, roll=-0.000}, setEaseInOutSeparately=false, easeInOutFunction=0, easeInOutCurveID=0, easeInFunction=0, easeInCurveID=0, easeOutFunction=0, easeOutCurveID=0},
 						 [28.300] = {position={position={x=5120.011, y=-12975.685, z=68.848}, yaw=-7.263, pitch=0.000, roll=-0.000}, setEaseInOutSeparately=false, easeInOutFunction=0, easeInOutCurveID=0, easeInFunction=0, easeInCurveID=0, easeOutFunction=0, easeOutCurveID=0},},
+					},
+				},
+				[""Animation_UpperBody""] = 
+				{
+					[""events""] = 
+					{
+						{[""props""] = {animID=adid(225), variation=0, looping=true, speed=0.700, randomSpeed=true, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
+						 [26.533] = {},
+						 [28.300] = {},},
 					},
 				},
 			},
@@ -2933835,13 +2933835,6 @@ scene:EndScene()"
 						{[0.000] = {transform={position={x=5108.318, y=-12964.372, z=68.849}, yaw=-7.263, pitch=0.000, roll=-0.000}},},
 					},
 				},
-				[""EquipWeapon""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {itemID=iid(153589), MainHand=true, OffHand=false, Ranged=false},},
-					},
-				},
 				[""Fade""] = 
 				{
 					[""events""] = 
@@ -2933851,13 +2933844,11 @@ scene:EndScene()"
 						{[28.300] = {alpha=0.000, time=0.000},},
 					},
 				},
-				[""Animation_UpperBody""] = 
+				[""EquipWeapon""] = 
 				{
 					[""events""] = 
 					{
-						{[""props""] = {animID=adid(225), variation=0, looping=true, speed=0.700, randomSpeed=true, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
-						 [26.533] = {},
-						 [28.300] = {},},
+						{[0.000] = {itemID=iid(153589), MainHand=true, OffHand=false, Ranged=false},},
 					},
 				},
 				[""Animation_RightHand""] = 
@@ -2933865,6 +2933856,15 @@ scene:EndScene()"
 					[""events""] = 
 					{
 						{[""props""] = {animID=adid(15), variation=0, looping=true, speed=1.000, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
+						 [26.533] = {},
+						 [28.300] = {},},
+					},
+				},
+				[""Animation_UpperBody""] = 
+				{
+					[""events""] = 
+					{
+						{[""props""] = {animID=adid(225), variation=0, looping=true, speed=0.700, randomSpeed=true, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
 						 [26.533] = {},
 						 [28.300] = {},},
 					},
@@ -2933884,11 +2933884,11 @@ scene:EndScene()"
 		{
 			[""properties""] = 
 			{
-				[""GroundSnap""] = 
+				[""Scale""] = 
 				{
 					[""events""] = 
 					{
-						{[0.000] = {snap=false},},
+						{[0.000] = {scale=0.800, duration=0.000},},
 					},
 				},
 				[""Appearance""] = 
@@ -2933898,11 +2933898,11 @@ scene:EndScene()"
 						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(0), fileDataID=fid(7725583), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=false},},
 					},
 				},
-				[""Scale""] = 
+				[""GroundSnap""] = 
 				{
 					[""events""] = 
 					{
-						{[0.000] = {scale=0.800, duration=0.000},},
+						{[0.000] = {snap=false},},
 					},
 				},
 				[""Transform""] = 
@@ -2933942,18 +2933942,18 @@ scene:EndScene()"
 						{[0.000] = {snap=true},},
 					},
 				},
-				[""Scale""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {scale=1.500, duration=0.000},},
-					},
-				},
 				[""Appearance""] = 
 				{
 					[""events""] = 
 					{
 						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(0), fileDataID=fid(7725596), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=false},},
+					},
+				},
+				[""Scale""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {scale=1.500, duration=0.000},},
 					},
 				},
 				[""Transform""] = 
@@ -2933985,11 +2933985,11 @@ scene:EndScene()"
 		{
 			[""properties""] = 
 			{
-				[""GroundSnap""] = 
+				[""Scale""] = 
 				{
 					[""events""] = 
 					{
-						{[0.000] = {snap=true},},
+						{[0.000] = {scale=0.700, duration=0.000},},
 					},
 				},
 				[""Appearance""] = 
@@ -2933999,11 +2933999,11 @@ scene:EndScene()"
 						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(0), fileDataID=fid(7725584), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=false},},
 					},
 				},
-				[""Scale""] = 
+				[""GroundSnap""] = 
 				{
 					[""events""] = 
 					{
-						{[0.000] = {scale=0.700, duration=0.000},},
+						{[0.000] = {snap=true},},
 					},
 				},
 				[""Transform""] = 
@@ -2934093,18 +2934093,18 @@ scene:EndScene()"
 						{[0.000] = {snap=true},},
 					},
 				},
-				[""Scale""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {scale=2.000, duration=0.000},},
-					},
-				},
 				[""Appearance""] = 
 				{
 					[""events""] = 
 					{
 						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(0), fileDataID=fid(165551), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=false},},
+					},
+				},
+				[""Scale""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {scale=2.000, duration=0.000},},
 					},
 				},
 				[""Transform""] = 
@@ -2934172,18 +2934172,18 @@ scene:EndScene()"
 		{
 			[""properties""] = 
 			{
+				[""Transform""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {transform={position={x=5108.077, y=-12959.214, z=68.847}, yaw=62.785, pitch=0.000, roll=0.000}},},
+					},
+				},
 				[""Scale""] = 
 				{
 					[""events""] = 
 					{
 						{[0.000] = {scale=1.000, duration=0.000},},
-					},
-				},
-				[""Appearance""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(0), fileDataID=fid(5757211), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=false},},
 					},
 				},
 				[""GroundSnap""] = 
@@ -2934193,11 +2934193,11 @@ scene:EndScene()"
 						{[0.000] = {snap=false},},
 					},
 				},
-				[""Transform""] = 
+				[""Appearance""] = 
 				{
 					[""events""] = 
 					{
-						{[0.000] = {transform={position={x=5108.077, y=-12959.214, z=68.847}, yaw=62.785, pitch=0.000, roll=0.000}},},
+						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(0), fileDataID=fid(5757211), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=false},},
 					},
 				},
 				[""Fade""] = 
@@ -2934251,6 +2934251,13 @@ scene:EndScene()"
 						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(0), fileDataID=fid(5757211), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=false},},
 					},
 				},
+				[""AttachToActor""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {parent=[[12.1.0_[PSU]_Shot_1090_IGC\c_Troll_Cultist_M_01_Dead]], parentAttachment=34, useChildAttachOrientation=true, childAttachment=-1, useTargetOffset=true, targetOffset={position={x=0.000, y=0.000, z=0.000}, yaw=0.000, pitch=0.000, roll=0.000}, transitionTime=0.000, respectGroundSnap=false},},
+					},
+				},
 				[""Fade""] = 
 				{
 					[""events""] = 
@@ -2934260,24 +2934267,17 @@ scene:EndScene()"
 						{[28.300] = {alpha=0.000, time=0.000},},
 					},
 				},
-				[""AttachToActor""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {parent=[[12.1.0_[PSU]_Shot_1090_IGC\c_Troll_Cultist_M_01_Dead]], parentAttachment=34, useChildAttachOrientation=true, childAttachment=-1, useTargetOffset=true, targetOffset={position={x=0.000, y=0.000, z=0.000}, yaw=0.000, pitch=0.000, roll=0.000}, transitionTime=0.000, respectGroundSnap=false},},
-					},
-				},
 			},
 		},
 		[""fx_Poison_Debuff_Chest_03""] = 
 		{
 			[""properties""] = 
 			{
-				[""GroundSnap""] = 
+				[""Scale""] = 
 				{
 					[""events""] = 
 					{
-						{[0.000] = {snap=false},},
+						{[0.000] = {scale=1.300, duration=0.000},},
 					},
 				},
 				[""Appearance""] = 
@@ -2934287,11 +2934287,11 @@ scene:EndScene()"
 						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(0), fileDataID=fid(5757211), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=false},},
 					},
 				},
-				[""Scale""] = 
+				[""GroundSnap""] = 
 				{
 					[""events""] = 
 					{
-						{[0.000] = {scale=1.300, duration=0.000},},
+						{[0.000] = {snap=false},},
 					},
 				},
 				[""Transform""] = 
@@ -2934301,6 +2934301,13 @@ scene:EndScene()"
 						{[0.000] = {transform={position={x=5108.077, y=-12959.214, z=68.847}, yaw=62.785, pitch=0.000, roll=0.000}},},
 					},
 				},
+				[""AttachToActor""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {parent=[[12.1.0_[PSU]_Shot_1090_IGC\c_Troll_Cultist_M_02_Dead]], parentAttachment=34, useChildAttachOrientation=true, childAttachment=-1, useTargetOffset=true, targetOffset={position={x=0.000, y=0.000, z=0.000}, yaw=0.000, pitch=0.000, roll=0.000}, transitionTime=0.000, respectGroundSnap=false},},
+					},
+				},
 				[""Fade""] = 
 				{
 					[""events""] = 
@@ -2934308,13 +2934315,6 @@ scene:EndScene()"
 						{[0.000] = {alpha=0.000, time=0.000},},
 						{[26.533] = {alpha=1.000, time=0.000},},
 						{[28.300] = {alpha=0.000, time=0.000},},
-					},
-				},
-				[""AttachToActor""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {parent=[[12.1.0_[PSU]_Shot_1090_IGC\c_Troll_Cultist_M_02_Dead]], parentAttachment=34, useChildAttachOrientation=true, childAttachment=-1, useTargetOffset=true, targetOffset={position={x=0.000, y=0.000, z=0.000}, yaw=0.000, pitch=0.000, roll=0.000}, transitionTime=0.000, respectGroundSnap=false},},
 					},
 				},
 			},
@@ -2934352,6 +2934352,13 @@ scene:EndScene()"
 						{[0.000] = {transform={position={x=5108.077, y=-12959.214, z=68.847}, yaw=62.785, pitch=0.000, roll=0.000}},},
 					},
 				},
+				[""AttachToActor""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {parent=[[12.1.0_[PSU]_Shot_1090_IGC\c_Aqir_Shadowcaster_Dead]], parentAttachment=34, useChildAttachOrientation=true, childAttachment=-1, useTargetOffset=true, targetOffset={position={x=0.000, y=0.000, z=0.000}, yaw=0.000, pitch=0.000, roll=0.000}, transitionTime=0.000, respectGroundSnap=false},},
+					},
+				},
 				[""Fade""] = 
 				{
 					[""events""] = 
@@ -2934361,24 +2934368,17 @@ scene:EndScene()"
 						{[28.300] = {alpha=0.000, time=0.000},},
 					},
 				},
-				[""AttachToActor""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {parent=[[12.1.0_[PSU]_Shot_1090_IGC\c_Aqir_Shadowcaster_Dead]], parentAttachment=34, useChildAttachOrientation=true, childAttachment=-1, useTargetOffset=true, targetOffset={position={x=0.000, y=0.000, z=0.000}, yaw=0.000, pitch=0.000, roll=0.000}, transitionTime=0.000, respectGroundSnap=false},},
-					},
-				},
 			},
 		},
 		[""fx_Poison_Debuff_Chest_05""] = 
 		{
 			[""properties""] = 
 			{
-				[""Scale""] = 
+				[""GroundSnap""] = 
 				{
 					[""events""] = 
 					{
-						{[0.000] = {scale=1.000, duration=0.000},},
+						{[0.000] = {snap=false},},
 					},
 				},
 				[""Appearance""] = 
@@ -2934388,11 +2934388,11 @@ scene:EndScene()"
 						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(0), fileDataID=fid(5757211), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=false},},
 					},
 				},
-				[""GroundSnap""] = 
+				[""Scale""] = 
 				{
 					[""events""] = 
 					{
-						{[0.000] = {snap=false},},
+						{[0.000] = {scale=1.000, duration=0.000},},
 					},
 				},
 				[""Transform""] = 
@@ -2934431,18 +2934431,18 @@ scene:EndScene()"
 						{[0.000] = {snap=false},},
 					},
 				},
-				[""Scale""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {scale=5.000, duration=0.000},},
-					},
-				},
 				[""Appearance""] = 
 				{
 					[""events""] = 
 					{
 						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(0), fileDataID=fid(1083712), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=false},},
+					},
+				},
+				[""Scale""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {scale=5.000, duration=0.000},},
 					},
 				},
 				[""Transform""] = 
@@ -2934475,18 +2934475,18 @@ scene:EndScene()"
 		{
 			[""properties""] = 
 			{
+				[""Transform""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {transform={position={x=5114.664, y=-12967.703, z=74.932}, yaw=75.457, pitch=0.000, roll=0.000}},},
+					},
+				},
 				[""Scale""] = 
 				{
 					[""events""] = 
 					{
 						{[0.000] = {scale=5.000, duration=0.000},},
-					},
-				},
-				[""Appearance""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(0), fileDataID=fid(1083712), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=false},},
 					},
 				},
 				[""GroundSnap""] = 
@@ -2934496,11 +2934496,11 @@ scene:EndScene()"
 						{[0.000] = {snap=false},},
 					},
 				},
-				[""Transform""] = 
+				[""Appearance""] = 
 				{
 					[""events""] = 
 					{
-						{[0.000] = {transform={position={x=5114.664, y=-12967.703, z=74.932}, yaw=75.457, pitch=0.000, roll=0.000}},},
+						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(0), fileDataID=fid(1083712), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=false},},
 					},
 				},
 				[""Fade""] = 
@@ -2937723,6 +2937723,13 @@ scene:EndScene()"
 						{[0.000] = {snap=true},},
 					},
 				},
+				[""Appearance""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {creatureID=cid(253504), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(0), fileDataID=fid(0), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=true},},
+					},
+				},
 				[""Scale""] = 
 				{
 					[""events""] = 
@@ -2937735,13 +2937742,6 @@ scene:EndScene()"
 					[""events""] = 
 					{
 						{[0.000] = {transform={position={x=5112.252, y=-12951.467, z=71.146}, yaw=-134.745, pitch=0.000, roll=0.000}},},
-					},
-				},
-				[""Appearance""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {creatureID=cid(253504), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(0), fileDataID=fid(0), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=true},},
 					},
 				},
 				[""Fade""] = 
@@ -2937757,7 +2937757,7 @@ scene:EndScene()"
 				{
 					[""events""] = 
 					{
-						{[""props""] = {animID=adid(1), variation=0, looping=false, speed=1.000, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=5.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
+						{[""props""] = {animID=adid(6), variation=0, looping=false, speed=1.000, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
 						 [41.466] = {},
 						 [45.633] = {},},
 					},
@@ -2937768,6 +2937768,13 @@ scene:EndScene()"
 		{
 			[""properties""] = 
 			{
+				[""Scale""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {scale=0.800, duration=0.000},},
+					},
+				},
 				[""GroundSnap""] = 
 				{
 					[""events""] = 
@@ -2937780,13 +2937787,6 @@ scene:EndScene()"
 					[""events""] = 
 					{
 						{[0.000] = {creatureID=cid(253504), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(0), fileDataID=fid(0), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=true},},
-					},
-				},
-				[""Scale""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {scale=0.800, duration=0.000},},
 					},
 				},
 				[""Transform""] = 
@@ -2937810,7 +2937810,7 @@ scene:EndScene()"
 				{
 					[""events""] = 
 					{
-						{[""props""] = {animID=adid(1), variation=0, looping=false, speed=1.000, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=5.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
+						{[""props""] = {animID=adid(6), variation=0, looping=false, speed=1.000, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
 						 [41.466] = {},
 						 [45.633] = {},},
 					},
@@ -2937828,13 +2937828,6 @@ scene:EndScene()"
 						{[0.000] = {snap=true},},
 					},
 				},
-				[""Appearance""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(91910), fileDataID=fid(0), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=true},},
-					},
-				},
 				[""Scale""] = 
 				{
 					[""events""] = 
@@ -2937849,6 +2937842,13 @@ scene:EndScene()"
 						{[0.000] = {transform={position={x=5114.945, y=-12974.954, z=68.983}, yaw=-138.496, pitch=0.000, roll=0.000}},},
 					},
 				},
+				[""Appearance""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(91910), fileDataID=fid(0), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=true},},
+					},
+				},
 				[""Fade""] = 
 				{
 					[""events""] = 
@@ -2937862,7 +2937862,7 @@ scene:EndScene()"
 				{
 					[""events""] = 
 					{
-						{[""props""] = {animID=adid(1), variation=0, looping=false, speed=0.000, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=4.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
+						{[""props""] = {animID=adid(6), variation=0, looping=false, speed=0.000, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
 						 [41.466] = {},
 						 [45.633] = {},},
 					},
@@ -2937873,6 +2937873,20 @@ scene:EndScene()"
 		{
 			[""properties""] = 
 			{
+				[""Appearance""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(91910), fileDataID=fid(0), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=true},},
+					},
+				},
+				[""Scale""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {scale=0.700, duration=0.000},},
+					},
+				},
 				[""Transform""] = 
 				{
 					[""events""] = 
@@ -2937887,20 +2937901,6 @@ scene:EndScene()"
 						{[0.000] = {snap=true},},
 					},
 				},
-				[""Scale""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {scale=0.700, duration=0.000},},
-					},
-				},
-				[""Appearance""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(91910), fileDataID=fid(0), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=true},},
-					},
-				},
 				[""Fade""] = 
 				{
 					[""events""] = 
@@ -2937914,7 +2937914,7 @@ scene:EndScene()"
 				{
 					[""events""] = 
 					{
-						{[""props""] = {animID=adid(1), variation=0, looping=false, speed=0.000, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=4.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
+						{[""props""] = {animID=adid(6), variation=0, looping=false, speed=0.000, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
 						 [41.466] = {},
 						 [45.633] = {},},
 					},
@@ -2937925,10 +2937925,17 @@ scene:EndScene()"
 		{
 			[""properties""] = 
 			{
+				[""Scale""] = 
+				{
+					"
+72567,[2] 12.1.0_[PSU]_Shot_1150_IGC,"[""events""] = 
+					{
+						{[0.000] = {scale=0.700, duration=0.000},},
+					},
+				},
 				[""Appearance""] = 
 				{
-		"
-72567,[2] 12.1.0_[PSU]_Shot_1150_IGC,"			[""events""] = 
+					[""events""] = 
 					{
 						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(91910), fileDataID=fid(0), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=true},},
 					},
@@ -2937938,13 +2937945,6 @@ scene:EndScene()"
 					[""events""] = 
 					{
 						{[0.000] = {transform={position={x=5122.900, y=-12978.174, z=68.983}, yaw=-121.058, pitch=0.000, roll=0.000}},},
-					},
-				},
-				[""Scale""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {scale=0.700, duration=0.000},},
 					},
 				},
 				[""GroundSnap""] = 
@@ -2937967,7 +2937967,7 @@ scene:EndScene()"
 				{
 					[""events""] = 
 					{
-						{[""props""] = {animID=adid(1), variation=0, looping=false, speed=0.000, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=4.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
+						{[""props""] = {animID=adid(6), variation=0, looping=false, speed=0.000, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
 						 [41.466] = {},
 						 [45.633] = {},},
 					},
@@ -2938019,7 +2938019,7 @@ scene:EndScene()"
 				{
 					[""events""] = 
 					{
-						{[""props""] = {animID=adid(1), variation=0, looping=false, speed=0.000, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=4.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
+						{[""props""] = {animID=adid(6), variation=0, looping=false, speed=0.000, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
 						 [41.466] = {},
 						 [45.633] = {},},
 					},
@@ -2938037,18 +2938037,18 @@ scene:EndScene()"
 						{[0.000] = {isSheathed=true, isRanged=false, animated=false},},
 					},
 				},
-				[""GroundSnap""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {snap=true},},
-					},
-				},
 				[""Scale""] = 
 				{
 					[""events""] = 
 					{
 						{[0.000] = {scale=0.650, duration=0.000},},
+					},
+				},
+				[""GroundSnap""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {snap=true},},
 					},
 				},
 				[""Appearance""] = 
@@ -2938065,17 +2938065,8 @@ scene:EndScene()"
 						{[0.000] = {transform={position={x=5110.802, y=-12984.311, z=68.865}, yaw=99.818, pitch=0.000, roll=0.000}},},
 					},
 				},
-				[""Fade""] = 
-"
-72568,[3] 12.1.0_[PSU]_Shot_1150_IGC,"				{
-					[""events""] = 
-					{
-						{[0.000] = {alpha=0.000, time=0.000},},
-						{[41.466] = {alpha=1.000, time=0.000},},
-						{[45.633] = {alpha=0.000, time=0.000},},
-					},
-				},
-				[""HeadFacingTarget""] = 
+				"
+72568,[3] 12.1.0_[PSU]_Shot_1150_IGC,"[""HeadFacingTarget""] = 
 				{
 					[""events""] = 
 					{
@@ -2938083,11 +2938074,32 @@ scene:EndScene()"
 						{[44.586] = {targetActivePlayer=false, target=[[12.1.0_[PSU]_Shot_1150_IGC\c_Kith'ix]], vertical=true, offset={x=0.000, y=0.500, z=-3.500}, FacingTurnRate=3.000, unclampLookAtPitchAngle=false},},
 					},
 				},
+				[""Fade""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {alpha=0.000, time=0.000},},
+						{[41.466] = {alpha=1.000, time=0.000},},
+						{[45.633] = {alpha=0.000, time=0.000},},
+					},
+				},
 				[""EquipWeapon""] = 
 				{
 					[""events""] = 
 					{
 						{[0.000] = {itemID=iid(198359), MainHand=true, OffHand=false, Ranged=false},},
+					},
+				},
+				[""Animation_FullBody""] = 
+				{
+					[""events""] = 
+					{
+						{[""props""] = {animID=adid(27), variation=1, looping=true, speed=0.400, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
+						 [41.466] = {},
+						 [43.866] = {},},
+						{[""props""] = {animID=adid(1132), variation=1, looping=true, speed=0.065, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.709, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
+						 [43.866] = {},
+						 [45.633] = {},},
 					},
 				},
 				[""Animation_UpperBody""] = 
@@ -2938105,18 +2938117,6 @@ scene:EndScene()"
 					{
 						{[""props""] = {animID=adid(60), variation=0, looping=false, speed=0.500, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.250, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.300, blendWeight=1.000},
 						 [41.466] = {},
-						 [45.633] = {},},
-					},
-				},
-				[""Animation_FullBody""] = 
-				{
-					[""events""] = 
-					{
-						{[""props""] = {animID=adid(27), variation=1, looping=true, speed=0.400, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
-						 [41.466] = {},
-						 [43.866] = {},},
-						{[""props""] = {animID=adid(1132), variation=1, looping=true, speed=0.065, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.709, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
-						 [43.866] = {},
 						 [45.633] = {},},
 					},
 				},
@@ -2938140,18 +2938140,18 @@ scene:EndScene()"
 						{[0.000] = {scale=0.500, duration=0.000},},
 					},
 				},
-				[""Appearance""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {creatureID=cid(259664), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(0), fileDataID=fid(0), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=true},},
-					},
-				},
 				[""Transform""] = 
 				{
 					[""events""] = 
 					{
 						{[0.000] = {transform={position={x=5173.727, y=-12900.993, z=65.284}, yaw=-147.220, pitch=0.000, roll=0.000}},},
+					},
+				},
+				[""Appearance""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {creatureID=cid(259664), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(0), fileDataID=fid(0), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=true},},
 					},
 				},
 				[""Fade""] = 
@@ -2938168,8 +2938168,8 @@ scene:EndScene()"
 					[""events""] = 
 					{
 						{[""props""] = {animID=adid(4), variation=0, looping=true, speed=0.500, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},
-						 "
-72569,[4] 12.1.0_[PSU]_Shot_1150_IGC,"[41.466] = {},
+	"
+72569,[4] 12.1.0_[PSU]_Shot_1150_IGC,"					 [41.466] = {},
 						 [45.633] = {},},
 					},
 				},
@@ -2938188,11 +2938188,11 @@ scene:EndScene()"
 		{
 			[""properties""] = 
 			{
-				[""GroundSnap""] = 
+				[""Scale""] = 
 				{
 					[""events""] = 
 					{
-						{[0.000] = {snap=false},},
+						{[0.000] = {scale=1.300, duration=0.000},},
 					},
 				},
 				[""Appearance""] = 
@@ -2938202,11 +2938202,11 @@ scene:EndScene()"
 						{[0.000] = {creatureID=cid(253507), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(0), fileDataID=fid(0), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=true},},
 					},
 				},
-				[""Scale""] = 
+				[""GroundSnap""] = 
 				{
 					[""events""] = 
 					{
-						{[0.000] = {scale=1.300, duration=0.000},},
+						{[0.000] = {snap=false},},
 					},
 				},
 				[""Transform""] = 
@@ -2938240,11 +2938240,11 @@ scene:EndScene()"
 		{
 			[""properties""] = 
 			{
-				[""Scale""] = 
+				[""GroundSnap""] = 
 				{
 					[""events""] = 
 					{
-						{[0.000] = {scale=1.200, duration=0.000},},
+						{[0.000] = {snap=false},},
 					},
 				},
 				[""Appearance""] = 
@@ -2938254,11 +2938254,11 @@ scene:EndScene()"
 						{[0.000] = {creatureID=cid(253507), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(0), fileDataID=fid(0), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=true},},
 					},
 				},
-				[""GroundSnap""] = 
+				[""Scale""] = 
 				{
 					[""events""] = 
 					{
-						{[0.000] = {snap=false},},
+						{[0.000] = {scale=1.200, duration=0.000},},
 					},
 				},
 				[""Transform""] = 
@@ -2938293,13 +2938293,6 @@ scene:EndScene()"
 		{
 			[""properties""] = 
 			{
-				[""GroundSnap""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {snap=false},},
-					},
-				},
 				[""Scale""] = 
 				{
 					[""events""] = 
@@ -2938312,6 +2938305,13 @@ scene:EndScene()"
 					[""events""] = 
 					{
 						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(0), fileDataID=fid(7490191), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=false},},
+					},
+				},
+				[""GroundSnap""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {snap=false},},
 					},
 				},
 				[""Transform""] = 
@@ -2938354,11 +2938354,11 @@ scene:EndScene()"
 		{
 			[""properties""] = 
 			{
-				[""GroundSnap""] = 
+				[""Scale""] = 
 				{
 					[""events""] = 
 					{
-						{[0.000] = {snap=true},},
+						{[0.000] = {scale=0.650, duration=0.000},},
 					},
 				},
 				[""Appearance""] = 
@@ -2938368,18 +2938368,18 @@ scene:EndScene()"
 						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(138287), fileDataID=fid(0), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=true},},
 					},
 				},
+				[""GroundSnap""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {snap=true},},
+					},
+				},
 				[""Transform""] = 
 				{
 					[""events""] = 
 					{
 						{[0.000] = {transform={position={x=5114.300, y=-12982.388, z=68.847}, yaw=40.449, pitch=0.000, roll=0.000}},},
-					},
-				},
-				[""Scale""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {scale=0.650, duration=0.000},},
 					},
 				},
 				[""Animation_FullBodyLooping""] = 
@@ -2938404,11 +2938404,11 @@ scene:EndScene()"
 		{
 			[""properties""] = 
 			{
-				[""GroundSnap""] = 
+				[""Transform""] = 
 				{
 					[""events""] = 
 					{
-						{[0.000] = {snap=true},},
+						{[0.000] = {transform={position={x=5109.089, y=-12988.308, z=68.847}, yaw=-54.546, pitch=0.000, roll=-0.000}},},
 					},
 				},
 				[""Scale""] = 
@@ -2938418,19 +2938418,19 @@ scene:EndScene()"
 						{[0.000] = {scale=0.650, duration=0.000},},
 					},
 				},
+				[""GroundSnap""] = 
+				{
+					[""events""] = 
+					{
+						"
+72571,[6] 12.1.0_[PSU]_Shot_1150_IGC,"{[0.000] = {snap=true},},
+					},
+				},
 				[""Appearance""] = 
 				{
 					[""events""] = 
 					{
-						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, "
-72571,[6] 12.1.0_[PSU]_Shot_1150_IGC,"creatureDisplayInfoID=cdiid(138287), fileDataID=fid(0), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=true},},
-					},
-				},
-				[""Transform""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {transform={position={x=5109.089, y=-12988.308, z=68.847}, yaw=-54.546, pitch=0.000, roll=-0.000}},},
+						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(138287), fileDataID=fid(0), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=true},},
 					},
 				},
 				[""Fade""] = 
@@ -2938455,18 +2938455,18 @@ scene:EndScene()"
 		{
 			[""properties""] = 
 			{
+				[""Scale""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {scale=0.650, duration=0.000},},
+					},
+				},
 				[""GroundSnap""] = 
 				{
 					[""events""] = 
 					{
 						{[0.000] = {snap=true},},
-					},
-				},
-				[""Appearance""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(138095), fileDataID=fid(0), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=true},},
 					},
 				},
 				[""Transform""] = 
@@ -2938476,11 +2938476,11 @@ scene:EndScene()"
 						{[0.000] = {transform={position={x=5106.440, y=-12984.119, z=68.849}, yaw=10.214, pitch=0.000, roll=0.000}},},
 					},
 				},
-				[""Scale""] = 
+				[""Appearance""] = 
 				{
 					[""events""] = 
 					{
-						{[0.000] = {scale=0.650, duration=0.000},},
+						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(138095), fileDataID=fid(0), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=true},},
 					},
 				},
 				[""Fade""] = 
@@ -2938512,18 +2938512,18 @@ scene:EndScene()"
 		{
 			[""properties""] = 
 			{
-				[""GroundSnap""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {snap=true},},
-					},
-				},
 				[""Scale""] = 
 				{
 					[""events""] = 
 					{
 						{[0.000] = {scale=0.650, duration=0.000},},
+					},
+				},
+				[""GroundSnap""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {snap=true},},
 					},
 				},
 				[""Transform""] = 
@@ -2938553,8 +2938553,8 @@ scene:EndScene()"
 				{
 					[""events""] = 
 					{
-						{[0.000] = {animID=adid(1336), variation=0, looping=true, speed=1.000, "
-72572,[7] 12.1.0_[PSU]_Shot_1150_IGC,"randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},},
+						{[0.000] = {animID=adid(1336), variation=0, looping=true, speed=1.000, randomSpeed=false, "
+72572,[7] 12.1.0_[PSU]_Shot_1150_IGC,"randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},},
 					},
 				},
 				[""EquipWeapon""] = 
@@ -2938570,20 +2938570,6 @@ scene:EndScene()"
 		{
 			[""properties""] = 
 			{
-				[""Scale""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {scale=0.650, duration=0.000},},
-					},
-				},
-				[""Appearance""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(138096), fileDataID=fid(0), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=true},},
-					},
-				},
 				[""Transform""] = 
 				{
 					[""events""] = 
@@ -2938591,11 +2938577,25 @@ scene:EndScene()"
 						{[0.000] = {transform={position={x=5100.120, y=-12957.563, z=68.848}, yaw=-173.239, pitch=0.000, roll=0.000}},},
 					},
 				},
+				[""Scale""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {scale=0.650, duration=0.000},},
+					},
+				},
 				[""GroundSnap""] = 
 				{
 					[""events""] = 
 					{
 						{[0.000] = {snap=true},},
+					},
+				},
+				[""Appearance""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(138096), fileDataID=fid(0), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=true},},
 					},
 				},
 				[""EquipWeapon""] = 
@@ -2938627,11 +2938627,11 @@ scene:EndScene()"
 		{
 			[""properties""] = 
 			{
-				[""Scale""] = 
+				[""Appearance""] = 
 				{
 					[""events""] = 
 					{
-						{[0.000] = {scale=0.650, duration=0.000},},
+						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(138096), fileDataID=fid(0), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=true},},
 					},
 				},
 				[""GroundSnap""] = 
@@ -2938641,18 +2938641,18 @@ scene:EndScene()"
 						{[0.000] = {snap=true},},
 					},
 				},
-				[""Appearance""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(138096), fileDataID=fid(0), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=true},},
-					},
-				},
 				[""Transform""] = 
 				{
 					[""events""] = 
 					{
 						{[0.000] = {transform={position={x=5104.442, y=-12966.154, z=68.848}, yaw=-74.026, pitch=0.000, roll=-0.000}},},
+					},
+				},
+				[""Scale""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {scale=0.650, duration=0.000},},
 					},
 				},
 				[""Fade""] = 
@@ -2938691,19 +2938691,19 @@ scene:EndScene()"
 						{[0.000] = {snap=false},},
 					},
 				},
-				[""Scale""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {scale=1.050, "
-72573,[8] 12.1.0_[PSU]_Shot_1150_IGC,"duration=0.000},},
-					},
-				},
 				[""Appearance""] = 
 				{
 					[""events""] = 
 					{
-						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(0), fileDataID=fid(7234130), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=false},},
+						{[0.000] = {creatureID=cid(0), "
+72573,[8] 12.1.0_[PSU]_Shot_1150_IGC,"creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(0), fileDataID=fid(7234130), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=false},},
+					},
+				},
+				[""Scale""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {scale=1.050, duration=0.000},},
 					},
 				},
 				[""Transform""] = 
@@ -2938749,11 +2938749,11 @@ scene:EndScene()"
 		{
 			[""properties""] = 
 			{
-				[""GroundSnap""] = 
+				[""Scale""] = 
 				{
 					[""events""] = 
 					{
-						{[0.000] = {snap=false},},
+						{[0.000] = {scale=2.500, duration=0.000},},
 					},
 				},
 				[""Appearance""] = 
@@ -2938763,11 +2938763,11 @@ scene:EndScene()"
 						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(0), fileDataID=fid(7752025), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=false},},
 					},
 				},
-				[""Scale""] = 
+				[""GroundSnap""] = 
 				{
 					[""events""] = 
 					{
-						{[0.000] = {scale=2.500, duration=0.000},},
+						{[0.000] = {snap=false},},
 					},
 				},
 				[""Transform""] = 
@@ -2938790,8 +2938790,8 @@ scene:EndScene()"
 				{
 					[""events""] = 
 					{
-						{[""props""] = {animID=adid(158), variation=0, looping=true, speed=0.500, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, "
-72574,[9] 12.1.0_[PSU]_Shot_1150_IGC,"randomStartTimeRangeEnd=0.000, blendIn=0.300, blendOut=0.000, blendWeight=1.000},
+						{[""props""] = {animID=adid(158), variation=0, looping=true, speed=0.500, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, "
+72574,[9] 12.1.0_[PSU]_Shot_1150_IGC,"blendIn=0.300, blendOut=0.000, blendWeight=1.000},
 						 [41.466] = {},
 						 [45.633] = {},},
 					},
@@ -2938816,18 +2938816,18 @@ scene:EndScene()"
 						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(0), fileDataID=fid(165551), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=false},},
 					},
 				},
-				[""Transform""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {transform={position={x=5106.203, y=-12963.186, z=69.624}, yaw=127.468, pitch=0.000, roll=0.000}},},
-					},
-				},
 				[""GroundSnap""] = 
 				{
 					[""events""] = 
 					{
 						{[0.000] = {snap=true},},
+					},
+				},
+				[""Transform""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {transform={position={x=5106.203, y=-12963.186, z=69.624}, yaw=127.468, pitch=0.000, roll=0.000}},},
 					},
 				},
 				[""Fade""] = 
@@ -2938888,6 +2938888,13 @@ scene:EndScene()"
 		{
 			[""properties""] = 
 			{
+				[""GroundSnap""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {snap=false},},
+					},
+				},
 				[""Scale""] = 
 				{
 					[""events""] = 
@@ -2938900,13 +2938907,6 @@ scene:EndScene()"
 					[""events""] = 
 					{
 						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(0), fileDataID=fid(165551), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=false},},
-					},
-				},
-				[""GroundSnap""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {snap=false},},
 					},
 				},
 				[""Transform""] = 
@@ -2938931,18 +2938931,26 @@ scene:EndScene()"
 		{
 			[""properties""] = 
 			{
-				[""GroundSnap""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {snap=false},},
-					},
-				},
 				[""Scale""] = 
 				{
 					[""events""] = 
 					{
 						{[0.000] = {scale=0.500, duration=0.000},},
+					},
+				},
+				[""Appearance""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(0), fileDataID=fid(6316086), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, "
+72575,[10] 12.1.0_[PSU]_Shot_1150_IGC,"smoothPhase=false},},
+					},
+				},
+				[""GroundSnap""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {snap=false},},
 					},
 				},
 				[""Transform""] = 
@@ -2938952,12 +2938960,11 @@ scene:EndScene()"
 						{[0.000] = {transform={position={x=5073.787, y=-13000.224, z=68.847}, yaw=27.316, pitch=0.000, roll=0.000}},},
 					},
 				},
-				[""Appearance""] = 
+				[""Animation_FullBodyLooping""] = 
 				{
 					[""events""] = 
 					{
-				"
-72575,[10] 12.1.0_[PSU]_Shot_1150_IGC,"		{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(0), fileDataID=fid(6316086), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=false},},
+						{[0.000] = {animID=adid(0), variation=0, looping=true, speed=1.000, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},},
 					},
 				},
 				[""AttachToActor""] = 
@@ -2938976,13 +2938983,6 @@ scene:EndScene()"
 						{[45.633] = {alpha=0.000, time=0.000},},
 					},
 				},
-				[""Animation_FullBodyLooping""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {animID=adid(0), variation=0, looping=true, speed=1.000, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},},
-					},
-				},
 			},
 		},
 		[""l_Fill_White_01""] = 
@@ -2938996,18 +2938996,18 @@ scene:EndScene()"
 						{[0.000] = {snap=false},},
 					},
 				},
-				[""Appearance""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(0), fileDataID=fid(1083712), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=false},},
-					},
-				},
 				[""Scale""] = 
 				{
 					[""events""] = 
 					{
 						{[0.000] = {scale=2.000, duration=0.000},},
+					},
+				},
+				[""Appearance""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(0), fileDataID=fid(1083712), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=false},},
 					},
 				},
 				[""Transform""] = 
@@ -2939067,21 +2939067,12 @@ scene:EndScene()"
 						{[0.000] = {snap=false},},
 					},
 				},
-				[""Fade""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {alpha=0.000, time=0.000},},
-						{[41.466] = {alpha=0.300, time=0.000},},
-						{[45.633] = {alpha=0.000, time=0.000},},
-					},
-				},
 				[""Animation_FullBodyLooping""] = 
 				{
 					[""events""] = 
 					{
-						"
-72576,[11] 12.1.0_[PSU]_Shot_1150_IGC,"{[0.000] = {animID=adid(4), variation=0, looping=true, speed=1.000, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},},
+						{[0.000] = {animID=adid(4), variation=0, looping=true, speed=1.000, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, "
+72576,[11] 12.1.0_[PSU]_Shot_1150_IGC,"randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},},
 					},
 				},
 				[""AttachToActor""] = 
@@ -2939091,17 +2939082,26 @@ scene:EndScene()"
 						{[0.000] = {parent=[[12.1.0_[PSU]_Shot_1150_IGC\c_NekZali]], parentAttachment=1, useChildAttachOrientation=true, childAttachment=-1, useTargetOffset=true, targetOffset={position={x=0.300, y=0.000, z=0.000}, yaw=0.000, pitch=0.000, roll=0.000}, transitionTime=0.000, respectGroundSnap=false},},
 					},
 				},
+				[""Fade""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {alpha=0.000, time=0.000},},
+						{[41.466] = {alpha=0.300, time=0.000},},
+						{[45.633] = {alpha=0.000, time=0.000},},
+					},
+				},
 			},
 		},
 		[""l_Green_Rim""] = 
 		{
 			[""properties""] = 
 			{
-				[""GroundSnap""] = 
+				[""Scale""] = 
 				{
 					[""events""] = 
 					{
-						{[0.000] = {snap=false},},
+						{[0.000] = {scale=2.000, duration=0.000},},
 					},
 				},
 				[""Appearance""] = 
@@ -2939111,18 +2939111,18 @@ scene:EndScene()"
 						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(0), fileDataID=fid(1083712), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=false},},
 					},
 				},
-				[""Scale""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {scale=2.000, duration=0.000},},
-					},
-				},
 				[""Transform""] = 
 				{
 					[""events""] = 
 					{
 						{[0.000] = {transform={position={x=5088.837, y=-12997.965, z=70.429}, yaw=45.634, pitch=0.000, roll=0.000}},},
+					},
+				},
+				[""GroundSnap""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {snap=false},},
 					},
 				},
 				[""Animation_FullBodyLooping""] = 
@@ -2939147,6 +2939147,13 @@ scene:EndScene()"
 		{
 			[""properties""] = 
 			{
+				[""GroundSnap""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {snap=false},},
+					},
+				},
 				[""Scale""] = 
 				{
 					[""events""] = 
@@ -2939166,13 +2939173,6 @@ scene:EndScene()"
 					[""events""] = 
 					{
 						{[0.000] = {transform={position={x=5090.318, y=-12992.627, z=68.021}, yaw=45.634, pitch=0.000, roll=0.000}},},
-					},
-				},
-				[""GroundSnap""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {snap=false},},
 					},
 				},
 				[""Fade""] = 
@@ -2939212,9 +2939212,9 @@ scene:EndScene()"
 					},
 				},
 				[""Transform""] = 
-			"
-72577,[12] 12.1.0_[PSU]_Shot_1150_IGC,"	{
-					[""events""] = 
+				{
+					"
+72577,[12] 12.1.0_[PSU]_Shot_1150_IGC,"[""events""] = 
 					{
 						{[0.000] = {transform={position={x=5111.522, y=-12982.320, z=72.387}, yaw=75.457, pitch=0.000, roll=0.000}},},
 					},
@@ -2939248,11 +2939248,11 @@ scene:EndScene()"
 		{
 			[""properties""] = 
 			{
-				[""Scale""] = 
+				[""GroundSnap""] = 
 				{
 					[""events""] = 
 					{
-						{[0.000] = {scale=1.000, duration=0.000},},
+						{[0.000] = {snap=false},},
 					},
 				},
 				[""Appearance""] = 
@@ -2939262,11 +2939262,11 @@ scene:EndScene()"
 						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(0), fileDataID=fid(1083712), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=false},},
 					},
 				},
-				[""GroundSnap""] = 
+				[""Scale""] = 
 				{
 					[""events""] = 
 					{
-						{[0.000] = {snap=false},},
+						{[0.000] = {scale=1.000, duration=0.000},},
 					},
 				},
 				[""Transform""] = 
@@ -2939305,18 +2939305,18 @@ scene:EndScene()"
 						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(0), fileDataID=fid(1083712), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=false},},
 					},
 				},
-				[""Transform""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {transform={position={x=5094.362, y=-12967.473, z=91.790}, yaw=61.488, pitch=12.997, roll=0.000}},},
-					},
-				},
 				[""Scale""] = 
 				{
 					[""events""] = 
 					{
 						{[0.000] = {scale=8.000, duration=0.000},},
+					},
+				},
+				[""Transform""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {transform={position={x=5094.362, y=-12967.473, z=91.790}, yaw=61.488, pitch=12.997, roll=0.000}},},
 					},
 				},
 				[""GroundSnap""] = 
@@ -2939339,8 +2939339,8 @@ scene:EndScene()"
 				{
 					[""events""] = 
 					{
-						{[0.000] = {animID=adid(1), variation=0, looping=true, speed=1.000, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, "
-72578,[13] 12.1.0_[PSU]_Shot_1150_IGC,"startTime=0.000, randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},},
+						{[0.000] = {animID=adid(1), variation=0, looping=true, speed=1.000, randomSpeed=false, randomSpeedRangeStart=0.000, randomSpeedRangeEnd=0.000, startTime=0.000, "
+72578,[13] 12.1.0_[PSU]_Shot_1150_IGC,"randomStartTime=false, randomStartTimeRangeStart=0.000, randomStartTimeRangeEnd=0.000, blendIn=0.000, blendOut=0.000, blendWeight=1.000},},
 					},
 				},
 				[""MoveSpline""] = 
@@ -2939358,18 +2939358,18 @@ scene:EndScene()"
 		{
 			[""properties""] = 
 			{
-				[""GroundSnap""] = 
-				{
-					[""events""] = 
-					{
-						{[0.000] = {snap=false},},
-					},
-				},
 				[""Appearance""] = 
 				{
 					[""events""] = 
 					{
 						{[0.000] = {creatureID=cid(0), creatureDisplaySetIndex=0, creatureDisplayInfoID=cdiid(0), fileDataID=fid(7491647), wmoGameObjectDisplayID=gdi(0), itemID=iid(0), showItemVisual=false, isPlayerClone=false, isPlayerCloneNative=false, playerSummon=false, dragonRidingMount=false, playerGroupIndex=0, smoothPhase=false},},
+					},
+				},
+				[""GroundSnap""] = 
+				{
+					[""events""] = 
+					{
+						{[0.000] = {snap=false},},
 					},
 				},
 				[""Transform""] = 

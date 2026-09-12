@@ -398915,6 +398915,7 @@ ID,Name_lang
 1277814,Collect Spring Blossom Tranquility Garden
 1277815,Collect Spring Blossom Pond
 1277817,Collect Soulcoiler Canopy
+1277818,Collect Flat Snakeskin Canopy
 1277820,Graftshaper Tongs
 1277821,Graftshaper Hammer
 1277822,Graftshaper Chisel
@@ -399929,6 +399930,7 @@ ID,Name_lang
 1280312,Collect [DNT] [AUTOGEN] 12PH_Leg_7NB_Nightborn_Bookshelf01_filled.M2
 1280313,Collect [DNT] [AUTOGEN] 12PH_Folk_Chandelier02.m2
 1280314,Collect Ula'tek Ritual Monolith
+1280315,Collect Venom Scholar's Focus
 1280316,Panther's Guile
 1280317,Consume Essence
 1280318,Consume Essence
@@ -404405,6 +404407,7 @@ ID,Name_lang
 1288727,[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_Opulent_Chandelier02.M2
 1288728,[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_BloodElf_Decor_Chair_Porchswing01.M2
 1288729,Collect Sin'dorei Garden Swing
+1288742,Collect Venomjade Necklace
 1288743,Collect Feathered Ula'tek Talisman
 1288745,Collect Opened Serpentine Reliquary
 1288750,Queue for The Molten Incursion
@@ -408646,7 +408649,7 @@ ID,Name_lang
 1297214,Cate Test Damage
 1297215,Purged Venom Eruption
 1297216,Venom Serpent - Purple
-1297217,Venom Serpent - Green
+1297217,Caustic Venomfang
 1297218,Flag Tracking
 1297219,Flag Tracking
 1297220,Crimson Venomfang
@@ -413694,8 +413697,14 @@ ID,Name_lang
 1313756,Writhing Gestation
 1313757,Boiling Venom
 1313758,Boiling Venom
-1313800,Cosmetic Orbs
+1313800,Magical Trash
 1313802,Barrier Integrity
+1313803,Drain Barrier
+1313804,Drain Barrier
+1313809,Petting
+1313813,J'imothy
+1313818,Feedback
+1313819,Feedback
 1313909,[DNT] Dread Bolt
 1313945,Caustic Waves
 1313965,Warden's Protection
@@ -413789,6 +413798,79 @@ ID,Name_lang
 1315787,Generic Spell
 1315796,Tracking Quest Flag [DNT]
 1315798,Unstable Corruption
+1315805,Call of the Serpent
 1315876,Burrow
 1315888,<DNT> 12.0.7 Skip
 1316060,[DNT] Spawn Visuals - Murloc
+1316355,Volatile Purge
+1316356,Volatile Purge
+1316357,Volatile Purge
+1316611,Reevaluate Quest [DNT]
+1316627,[DNT] Summon Mushroom Pad
+1316628,[DNT] Summon Mushroom Pad
+1316630,[DNT] Summon Mushroom Pad
+1316684,[DNT] Summon Mushroom Pad
+1316701,[DNT] Salute!
+1316706,Generic Spell
+1316707,Generic Spell
+1316710,Spectral Coils
+1316716,Rolling Thunder
+1316719,[DNT] Evolution Ritual
+1316721,[DNT] Evolution Ritual
+1316728,March of the Damned
+1316739,Generic Spell
+1316746,Spirit Walk
+1316793,Generic Spell
+1316795,Generic Spell
+1316796,Generic Spell
+1316797,March of the Damned
+1316798,Generic Spell
+1316834,Teleport (On Leave Combat)
+1316835,Teleport (On Leave Combat)
+1316938,Chiral Marrowgraft
+1316939,[DNT] Ping Taplist
+1316944,[DNT] Blood Rain
+1316950,Greasy Egg
+1316952,Drop Egg
+1316958,Open Coffin
+1316960,Open Coffin
+1316982,Delver's Cosmetic Surprise Bag
+1316988,Mark as Bad
+1317008,Generic Spell
+1317009,Generic Spell
+1317010,Generic Spell
+1317036,Venomcursed Critical Strike
+1317188,Gladiator's Distinction
+1317236,Side 01
+1317237,Mass Gestation
+1317258,Venom Volley
+1317287,Generic Spell
+1317289,Generic Spell
+1317434,Medal of Conquest
+1317528,Fixate
+1317558,Melee
+1317568,Generic Spell
+1317581,Venomcursed Ascendance
+1317582,Venomcursed Ascendance
+1317585,[DNT] Death Checker
+1317688,Heart Defense
+1317723,Toxic Incubation
+1317846,Make Inert
+1317906,Bloodthirsty Gaze
+1317955,Blight Vein
+1318116,[DNT] Fresh Meat Warning Aura
+1318176,Forceful Slam
+1318266,[DNT] Backup Despawn
+1318267,[DNT] Backup Despawn Check Aura
+1318271,Generic Spell
+1318272,Generic Spell
+1318291,[DNT] Fall Damage Preventer
+1318313,Generic Spell
+1318329,Calcified Corpse
+1318378,[DNT] March of the Damned
+1318382,Generic Spell
+1318387,[DNT] March of the Damned
+1318521,[DNT] Portal Visual
+1318523,Teleport
+1318543,Leave Vehicle - Teleport - Cancel Aura [DNT]
+1318608,Mother's Wrath

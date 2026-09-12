@@ -195,7 +195,7 @@ Cannot be used if you have Forbearance. Causes Forbearance for $25771d.",Immune 
 712,Summon,"Summons a Succubus under your command to seduce enemy Humanoids, preventing them from attacking.",
 720,,"The lair of Fankriss the Unyielding pulls the target into the path of nearby silithid hatchlings, rooting it for $d.",Rooted.
 731,,"The lair of Fankriss the Unyielding pulls the target into the path of nearby silithid hatchlings, rooting it for $d.",Rooted.
-740,,"Heals all allies within $a2 yards for $<healing> over $d.$?s197721[ Extends the duration of all your heal over time effects by $s6 sec every $t1 sec.][] Healing decreased beyond $s3 targets.
+740,,"Heals all allies within $a2 yards for $<healing> over $d.$?s197721[ Extends the duration of all your heal over time effects by $197721s1 sec every $t1 sec.][] Healing decreased beyond $s3 targets.
 
 Roots form around you while channeling, absorbing up to $s6% of your health in damage and preventing knockbacks.",Absorbing $w5 damage and protected from knockbacks.
 742,,,
@@ -5379,7 +5379,7 @@ Use this ability when below 20% health.
 17863,,,
 17877,,"Blasts a target for $s1 Shadowflame damage. Only usable on enemies that have less than $s4% health.
 
-|cFFFFFFFFRestores ${$245731s1/10} Soul Shard and removes its cooldown if the target dies within $d.|r",
+|cFFFFFFFFRestores ${$245731s1/10} Soul Shard and removes its cooldown if the target dies within $1311913d.|r",
 17883,,"Burns an enemy, then inflicts additional Fire damage every $t1 sec. for $d.",Fire damage inflicted every $t1 sec.
 17904,,Decreases mana cost of Fire spells and effects by $s1.,
 17912,,Decreases mana cost of Shadow spells and effects by $s1.,
@@ -207237,7 +207237,7 @@ Debug total threat: $w3"
 270493,,,
 270494,,"Causes the earth to rumble in front of the caster, periodically inflicting Nature damage.",
 270495,,$@spelldesc270497,Healing $s1% health every $t1 sec.
-270496,,,
+270496,,$@spelldesc270495,$@spellaura270495
 270497,,Summons a totem that heals all nearby allies for $270495s1% every $270495t1 sec. The totem lasts for $d or until killed.,
 270498,,,
 270499,,"Freezes the target, inflicting $s1 Frost damage and reducing their movement speed by $s2% for $d.",Movement speed slowed by $s2%.
@@ -449916,9 +449916,9 @@ Immune to Taunt."
 1277023,,,
 1277025,,Sszorak executes multiple attacks in rapid succession. Taunt effects can change his current target while casting.,
 1277026,,$@spelldesc1241288,Hammer of Wrath can be cast.
-1277027,,"$?DIFF16[Sszorak rakes his venom-coated claws in a frontal cone, inflicting $1285999s1 Nature damage split evenly among players struck and afflicting them with $@spellname1277051.
+1277027,,"$?DIFF17[Sszorak rakes his venom-coated claws in a frontal cone, inflicting $1285999s1 Nature damage split evenly among players struck and afflicting them with $@spellname1277051.][Sszorak rakes his venom-coated claws in a frontal cone, inflicting $1285999s1 Nature damage split evenly among players struck and afflicting them with $@spellname1277051.
 
-If $@spellname1277027 strikes fewer than $s1 players, it inflicts deadly damage.][Sszorak rakes his venom-coated claws in a frontal cone, inflicting $1285999s1 Nature damage split evenly among players struck and afflicting them with $@spellname1277051.]",
+If $@spellname1277027 strikes $s1 or fewer players, it inflicts deadly damage.]",
 1277028,,The creature is invigorated in its kin's mutagenic venom.,The creature is invigorated in its kin's mutagenic venom.
 1277029,,,
 1277030,,Critical strike chance increased by $s1%.,
@@ -450358,6 +450358,7 @@ Suffering $s1% of maximum health in Shadowflame damage per sec."
 1277814,,Add this Decor to your House Chest.,
 1277815,,Add this Decor to your House Chest.,
 1277817,,Add this Decor to your House Chest.,
+1277818,,Add this Decor to your House Chest.,
 1277820,,,"Holding Graftshaper Tongs, allowing you to pull the Void energy from enemies."
 1277821,,,"Holding a Graftshaper Hammer, which can swing to deal great damage in an area around you."
 1277822,,,"Holding a Graftshaper Chisel: a blade sharp enough to shape the Void itself, yet delicate enough to shatter with a single use."
@@ -451519,6 +451520,7 @@ All attacks and abilities against the caster have a chance to inflict $1280293s1
 1280312,,Add this Decor to your House Chest.,
 1280313,,Add this Decor to your House Chest.,
 1280314,,Add this Decor to your House Chest.,
+1280315,,Add this Decor to your House Chest.,
 1280316,,"When Shred or Moonfire generate combo points, they have a $h% chance to generate full combo points.",
 1280317,,"Devours the life of enemies within 10 yards, inflicting $1280318s1 Shadow damage every $t1 sec for $d1 and healing the caster.",$1280318s1 health drained from nearby enemies every $t1 sec.
 1280318,,$@spelldesc1280317,$s1 health leeched every $1280317t1 sec.
@@ -455283,7 +455285,7 @@ Only active while in Zul'Aman."
 1286574,,,
 1286577,,$@spelldesc1263970,
 1286579,,,
-1286592,,Collect 10 Adventurer Mistcrests. These Crests ignore the seasonal cap.,
+1286592,,Collect 10 Adventurer Mistcrests.,
 1286593,,,
 1286594,,,
 1286595,,,
@@ -455292,10 +455294,10 @@ Only active while in Zul'Aman."
 1286598,,,
 1286600,,,
 1286601,,,
-1286602,,Collect 10 Champion Mistcrests. These Crests ignore the seasonal cap.,
+1286602,,Collect 10 Champion Mistcrests.,
 1286603,,Rummage through the debris.,Rummage through the debris.
-1286604,,Collect 10 Hero Mistcrests. These Crests ignore the seasonal cap.,
-1286605,,Collect 10 Veteran Mistcrests. These Crests ignore the seasonal cap.,
+1286604,,Collect 10 Hero Mistcrests.,
+1286605,,Collect 10 Veteran Mistcrests.,
 1286606,,Summons and dismisses this mount.,$?j1g[Increases ground speed by $j1g%. ][]$?j1f[Increases flight speed by $j1f%. ][]$?j1s[Increases swim speed by $j1s%. ][]
 1286607,,,
 1286608,,,
@@ -455357,7 +455359,7 @@ Destroys Manifestations of Dread.",
 1286704,,,
 1286705,,,
 1286716,Core Rune,$@spelldesc1279596,
-1286720,,Slows the target and inflicts $s2 Nature damage every $t2 sec $d.,Slowed. Inflicts $s2 Nature damage every $t2 sec for $d.
+1286720,,Slowed. Inflicts Nature damage every 1 second.,Slowed. Taking Nature damage every second.
 1286721,Core Rune,$@spelldesc1279596,
 1286722,,$?pc128267[$@spelldesc1260939][Recommended for adventurers at item level $M1+.],
 1286723,,$?pc128267[$@spelldesc1260943][Recommended for adventurers at item level $M1+.],
@@ -456552,6 +456554,7 @@ $@spelldesc455680",
 1288727,,Add this Decor to your House Chest.,
 1288728,,Add this Decor to your House Chest.,
 1288729,,Add this Decor to your House Chest.,
+1288742,,Add this Decor to your House Chest.,
 1288743,,Add this Decor to your House Chest.,
 1288745,,Add this Decor to your House Chest.,
 1288750,,,
@@ -456759,11 +456762,7 @@ Watch out!
 
 Watch out!"
 1289167,,,
-1289168,,"Applying X stacks of Ula'tek's Gift to a target causes Loa to intervene, expunging the Gift dealing it's remaining damage instantly to the target before being removed while also triggering your corrosive effects at 200% value regardless of cooldown.
-
-
-
-Deal all remaining Ula'tek's Gift damage to the afflicted target.",Deal all remaining Ula'tek's Gift damage to the afflicted target.
+1289168,,$@spelldesc1291581,Deal all remaining Ula'tek's Gift damage to the afflicted target.
 1289169,,,
 1289172,,,
 1289173,,,
@@ -457607,7 +457606,7 @@ A Lightning Spire forms at the base of impact that attempts to Energize Galvazzt
 1290514,,This vehicle is out of bounds. Return to the active area at once!,This vehicle is out of bounds. Return to the active area at once!
 1290516,,"Ithraz attempts to consume players $s1 times in quick succession. Each strike inflicts $1290662s1 Physical damage split evenly among players within $1290654a1 yards.
 
-Ithraz consumes $s2 $Lapplication:applications; of $@spellname1290336 from players struck$?DIFF15|DIFF16[, applies $@spellname1310096 to them, and knocks them away.][.]",
+Ithraz consumes $s2 $Lapplication:applications; of $@spellname1290336 from players struck, applying $@spellname1310096 to them$?DIFF15|DIFF16[ and knocking them away.][.]",
 1290519,,,
 1290521,,,
 1290522,,,
@@ -460844,7 +460843,7 @@ If you have not dodged, parried, or blocked for $1306822d, this effect is trigge
 1295798,,$@spelldesc1295796,
 1295799,,,
 1295800,,,
-1295803,,Increases $pri by $s1% and all Tertiary stats by $s2%,$pri increased by $w1% and Tertiary stats increased by $s3%.
+1295803,,Increases $pri by $s1% and all Tertiary stats by $s2%,$pri increased by $w1% and Tertiary stats increased by $w3%.
 1295804,,,
 1295810,,Relocate the Hal'hadar Technology.,
 1295814,,$@spelldesc273995,Immune to disabling effects.
@@ -461772,10 +461771,10 @@ If an afflicted target dies the Venom is expelled, instantly dealing its remaini
 1297303,,,
 1297304,,,
 1297305,,,
-1297306,,"Globikus reassimiliates their form, surrounding themselves with a shield that absorbs up to $473904s1 damage and healing $473895s1% of their health every $473895t1 sec for $d.",
-1297307,,$@spelldesc473903,Absorbing $w1 damage.
+1297306,,"The caster reassimiliates their form, surrounding themselves with a shield that absorbs up to $1297307s1 damage and healing $1297309s1% of their health every $1297309s1 sec for $1297309d.",
+1297307,,$@spelldesc1297306,Absorbing $w1 damage.
 1297308,,,
-1297309,,$@spelldesc473903,Healing $s1%  health every $t1 sec.
+1297309,,$@spelldesc1297306,Healing $s1%  health every $t1 sec.
 1297310,,$@spelldesc473903,
 1297313,,"Inflicts $s1 Nature damage and applies$@spellname1289148 to enemies within $A1 yards.
 ",
@@ -463415,7 +463414,7 @@ Susceptible to crowd control effects."
 1300684,,"A mire of hex magic transforms players within it into a frog, rendering them unable to attack or cast spells and inflicting $s5 Nature damage every $t5 sec.","Transformed and unable to attack or cast spells.
 
 Inflicts $s5 Nature damage every $t5 sec."
-1300685,,"Ula'tek constricts your soul, preventing you from mitigating damage from the next $@spellname1287260.",You are unable to mitigate the damage from $@spellname1287260.
+1300685,,"Ula'tek constricts your soul, preventing you from mitigating damage from $@spellname1287260 for $d.",You are unable to mitigate the damage from $@spellname1287260.
 1300686,,All Uncoiled Writhes converge to reform into The Writhing Coil.,
 1300688,,,
 1300690,,$@spelldesc1296648,Bleeding for $w1 damage every $t1 sec.
@@ -464503,7 +464502,7 @@ Interrupting $@spellname1307346 destroys it.",
 $@spelldesc1232065
 
 $@spellicon457049 $@spellname1232078
-If you spend at least 10 seconds eating, you will become $@spellname1232078 gaining $1219179s7 Stamina and $1219179s4 of your highest secondary stat for $462209d.
+If you spend at least 10 seconds eating, you will become $@spellname1232078 gaining ${$1219179s7*1.1} Stamina and ${$1219179s4*1.1} of your highest secondary stat for $462209d.
 
 This aura persists through death.",
 1303408,,"Place a Hearty Loa's Gathering for all players to enjoy!
@@ -464511,7 +464510,7 @@ This aura persists through death.",
 $@spelldesc1232065
 
 $@spellicon457049 $@spellname1232078
-If you spend at least 10 seconds eating, you will become $@spellname1232078 gaining $1219179s7 Stamina and $1219179s4 of your highest secondary stat for $462209d.
+If you spend at least 10 seconds eating, you will become $@spellname1232078 gaining ${$1219179s7*1.1} Stamina and ${$1219179s4*1.1} of your highest secondary stat for $462209d.
 
 This aura persists through death.",
 1303409,,"Place a Hearty Feast of Knowledge for all players to enjoy!
@@ -464519,7 +464518,7 @@ This aura persists through death.",
 $@spelldesc1232065
 
 $@spellicon457049 $@spellname1232078
-If you spend at least 10 seconds eating, you will become $@spellname1232078 gaining $1219179s7 Stamina and $1219179s4 of your highest secondary stat for $462209d.
+If you spend at least 10 seconds eating, you will become $@spellname1232078 gaining ${$1219179s7*1.1} Stamina and ${$1219179s4*1.1} of your highest secondary stat for $462209d.
 
 This aura persists through death.",
 1303410,,"Disrupting the Ravenous Doomscale's gestation weakens it, increasing all its damage taken by $s1%. In this weakened state, the beast also cannot use $@spellname1305775.",All damage taken increased by $s1%.
@@ -465235,7 +465234,7 @@ Nearby enemies' souls are also shattered."
 1305697,,,
 1305707,,,
 1305708,,Collect the various appearances of these masks.,
-1305709,,"The Weakened Doomscale thrashes, inflicting $s1 Nature damage on impact and an additional $s2 Nature damage every $t2 sec to players within a cone for $d.",Inflicts $s1 Nature damage every $t1 sec.
+1305709,,"The Weakened Doomscale thrashes, inflicting $s1 Nature damage on impact and an additional $s2 Nature damage every $t2 sec to players within the cone for $d.",Inflicts $s2 Nature damage every $t2 sec.
 1305710,,,
 1305711,,$@spelldesc1296572,Damage taken from your spells and abilities increased by $s1%.
 1305714,,,
@@ -465442,7 +465441,9 @@ Dragonflight reputation gains from combat and quests increased by $s1%."
 1306083,,,Explodes on death and leaves behind $@spellname271564.
 1306084,,Explosions rock the water near your boat.,
 1306085,,,
-1306086,,"Players that leech $@spellname1288879 purge their venom after $1312967d. On expiration, the poison erupts from the affected players, inflicting $1305878s1 Nature damage to players within $1305878a1 yards of the purge.
+1306086,,"Players that leech $@spellname1288879 purge their venom after $1312967d. On expiration, the poison erupts from the affected players, inflicting $1305878s1 Nature damage on impact and an additional $1316357s1 Nature damage every $1316356t1 sec for $1316356d to players near the purge. This effect stacks.
+
+In addition, $@spellname1306086 increases damage taken from $@spellname1315732 by $1312967s1%.
 ",
 1306088,,,
 1306089,,,
@@ -465837,7 +465838,7 @@ Only usable below $s3% health.",
 1306925,,$@spelldesc1306922,"$s1 Shadow damage inflicted every $t1 sec.
 Movement speed reduced by $s2%."
 1306926,,,
-1306929,,Combine 4 of these emblems to establish a new Warband Camp in Silvermoon City.,
+1306929,,Establish a new Warband Camp in Silvermoon City.,
 1306938,,Combine 4 vestiges to unlock a new Warband Camp in a void-battered Silvermoon City.,
 1306960,,Dire Beasts are currently summoned.,You currently have an active Dire Beast.
 1306978,,Plant a banner representing your victories within the Venomous arenas.,
@@ -467453,7 +467454,8 @@ Stepping on one attaches itself to the player, applying $@spellname1309759.",
 1312876,,,
 1312911,,,
 1312967,,"$@spelldesc1306086
-",You'll $@spellname1306086 on expiration!
+","You'll $@spellname1306086 on expiration!
+Damage taken from $@spellname1315732 increased by $s1%."
 1312998,,"$?a388667[Drain Soul][Shadow Bolt] and Malefic Grasp damage increased by $s1% or $s2% if the target is affected by Haunt. 
 
 Dark Harvest damage increased by $s3% or $s4% if the target is affected by Haunt.",
@@ -467496,7 +467498,7 @@ Leaves behind $@spellname1257654.",
 1313432,,,
 1313441,,,
 1313448,,$@spelldesc1313402,"$s2 Frost damage inflicted every $t2 sec.
-$?DIFF233|15[Damage taken from $@spellname1313448 increased by $s3%.][]"
+$?diff233|diff15[Damage taken from $@spellname1313448 increased by $s3%.][]"
 1313450,,"The $@spellname1313402 bursts when touched, inflicting $s1 Frost damage to all players.",
 1313453,,,
 1313456,,"The $@spellname1313402 explodes violently if left untouched, inflicting $s1 Frost damage to all players and an additional $s2 Frost damage every $t2 sec for $d. This effect stacks.",$s2 Frost damage inflicted every $t2 sec.
@@ -467533,7 +467535,15 @@ Throughout the storm, Ithraz inflicts $1313533s1 Shadow damage to all players ev
 All damage done increased by $s2%."
 1313758,,$@spelldesc1313757,"On expiration, the Blightscale's Haste increases $1313757s1% and all damage done increases $1313757s2%."
 1313800,,,
-1313802,,,Free Jimothy by siphoning the barrier's energy!
+1313802,,,"An odd little raccoon seems to have gotten into some magical garbage.
+
+Free him by siphoning off the arcane energy!"
+1313803,,Free J'imothy!,Draining the trapped critter's arcane prison.
+1313804,,,
+1313809,,Petting.,Petting.
+1313813,,Right Click to summon and dismiss this companion.,
+1313818,,Knocked away!,Knocked away!
+1313819,,,
 1313909,,,
 1313945,,,
 1313965,,,
@@ -467632,6 +467642,91 @@ All damage done increased by $s2%."
 1315787,,,
 1315796,,,
 1315798,,"$@spellname1300869 erupts from the Corrupted Guardian, inflicting $s1 Shadow damage to players within $A1 yards.",
+1315805,,"Ula'tek roars, causing her spawn to fall from the ceiling and inflict $1304270s1 Nature damage to players within $1304270a1 yards of their impact locations.",
 1315876,,,
 1315888,,,
 1316060,,,
+1316355,,,
+1316356,,$@spelldesc1306086,"Inflicts $1316357s1 Nature damage every $t1 sec.
+Damage taken from $@spellname1315732 increased by $s2%."
+1316357,,$@spelldesc1306086,
+1316611,,,
+1316627,,,
+1316628,,,
+1316630,,,
+1316684,,,
+1316701,,,
+1316706,,,
+1316707,,,
+1316710,,$@spelldesc1287265,
+1316716,,"Thunderhead electrocutes players, inflicting $s1 Nature damage every $t1 sec for $d. This effect stacks.
+
+Upon removal of this affliction, $@spellname1310599 surges into players.","Inflicts $s1 Nature damage every $t1 sec.
+
+Upon removal, $@spellname1310599 surges into players."
+1316719,,,
+1316721,,,
+1316728,,$@spelldesc1285647,
+1316739,,,
+1316746,,"The spirit's winds guide you, shrouding your steps and increasing your movement speed.","Shrouded from sight.
+Movement speed increased by $s2%."
+1316793,,,
+1316795,,,
+1316796,,,
+1316797,,$@spelldesc1285647,Targeted for $@spellname1285643!
+1316798,,,
+1316834,,,
+1316835,,,
+1316938,,Heal a target ally for $s1. Any overhealing passes to the next most injured party member until all healing has been applied.,
+1316939,,,
+1316944,,,
+1316950,,,
+1316952,,,
+1316958,,,
+1316960,,,
+1316982,,,
+1316988,,,
+1317008,,,
+1317009,,,
+1317010,,,
+1317036,,"Your spells and abilities have a chance to increase your Critical Strike by $s1, but reduce your other secondary stats by $s2 for $1307910d.",
+1317188,,"Increases your $pri by $s1% and your Stamina by $s2% when in Arenas, Battlegrounds, and War Mode.",
+1317236,,,
+1317237,,,
+1317258,,"The caster blasts all players with venom, inflicting $s1 Nature damage immediately with an additional $s2 Nature damage every $t2 sec for $d.",$s2 Nature damage inflicted every $t2 sec.
+1317287,,,
+1317289,,,
+1317434,,"Reflect upon your past victories and gain ${$M1/100} Conquest.
+
+Must be used during Midnight Season $M2.",
+1317528,,"The caster fixates on the target, chasing them down while ignoring all others.",Fixated.
+1317558,,Attack for Physical damage.,
+1317568,,,
+1317581,,$@spelldesc1317582,"$?$W1>0[Critical Strike increased by $w1. Haste, Mastery, and Versatility decreased by $w2.]?$W2>0[Haste increased by $w2. Critical Strike, Mastery, and Versatility decreased by $w1.]?$W3>0[Mastery increased by $w3. Critical Strike, Haste, and Versatility decreased by $w1.]?$W4>0[Versatility increased by $w4. Critical Strike, Haste, and Mastery decreased by $w1.][]"
+1317582,,Your spells and abilities have a chance to increase a random secondary stat by $s1 but reduce your other secondary stats by $s2 for $1317581d.,
+1317585,,,
+1317688,,,
+1317723,,,
+1317846,,,
+1317906,,,
+1317955,,$@spelldesc1311600,
+1318116,,,
+1318176,,,
+1318266,,,
+1318267,,,
+1318271,,,
+1318272,,,
+1318291,,,
+1318313,,,
+1318329,,"Ula'tek's venom turns the player to stone, stunning them and inflicting $1306119s2 Nature damage every $1306119t2 sec. This effect pierces immunities.
+
+In addition, the $@spellname1318329 radiates toxins inflicting $s1 Nature damage every $1306119t2 sec to players.","Petrified.
+Inflicts $1306119s2 Nature damage every $1306119t2 sec.
+Inflicts $s1 Nature damage every $1306119t2 sec to players."
+1318378,,,
+1318382,,,
+1318387,,,
+1318521,,,
+1318523,,Teleports the caster.,
+1318543,,,
+1318608,,$@spelldesc1298367,

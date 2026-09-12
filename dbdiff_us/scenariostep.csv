@@ -4530,19 +4530,19 @@ Unbind the Quel'Thalas Sentries and clear their way of Void forces.,Make Way,168
 ,Section 4 - Scenario A,16832,3348,223997,0,0,0,0,0,0,842
 ,Section 4 - Scenario B,16833,3349,223995,0,0,0,0,0,0,842
 The ritual will begin shortly.,Prepare for the Ritual,16847,3357,224123,0,0,0,0,0,0,1987
-Shrines are being empowered for use.,Empower the Shrines,16853,3356,224141,0,0,0,0,0,0,1988
+Shrines are being empowered for use.,Empower the Shrines,16853,3356,224141,0,0,0,0,16,0,1988
 Deliver any combination of offerings to the ritual circle.,Deliver Sacrificial Offerings,16855,3357,224125,0,0,0,1,0,0,2096
-Slay serpents and disrupt rituals before they overrun the temple.,Stem the Tide of Serpents,16856,3360,224127,0,0,0,1,0,0,0
+Slay serpents and disrupt rituals before they overrun the temple.,Stem the Tide of Serpents,16856,3360,224127,0,0,0,1,16,0,0
 Eliminate the threat summoned by the ritual.,Eliminate the Spirit,16857,3357,224132,0,0,0,3,0,0,2096
-Utilize the Shrines to collect Impurity Orbs.,Use the Shrines of Earth and Sky,16858,3356,224143,0,0,0,1,0,0,0
+Utilize the Shrines to collect Impurity Orbs.,Use the Shrines of Earth and Sky,16858,3356,224143,0,0,0,1,16,0,0
 Prune back the Lightbloom's growth.,The Blinding Vale,16863,3367,224186,0,0,0,0,0,0,0
 ,Voidscar Arena,16866,3370,224209,0,0,0,0,0,0,0
 Prove your strength by enduring Nalorakk's Trials.,Den of Nalorakk,16867,3371,224220,0,0,0,0,0,0,0
 ,Murder Row,16868,3372,224229,0,0,0,0,0,0,0
 Interrupt Zul'jan's ritual.,Altar of Fangs,16872,3374,224242,0,0,0,0,0,0,0
-Gather Wicked Spirits and burn them at Spirit Pyres. Carry flames from the pyres to destroy Profaned Sarcophagi.,Purge the Undead,16873,3359,224426,0,0,0,1,0,0,0
-Carry the three staves from each stone to the cache.,Retrieve the Staves,16875,3362,224460,0,0,0,1,0,0,2092
-Cache unlocked.,Cache Unlocked,16876,3362,224502,0,0,0,2,0,0,0
+Gather Wicked Spirits and burn them at Spirit Pyres. Carry flames from the pyres to destroy Profaned Sarcophagi.,Purge the Undead,16873,3359,224426,0,0,0,1,16,0,0
+Carry the three staves from each stone to the cache.,Retrieve the Staves,16875,3362,224460,0,0,0,1,16,0,2092
+Cache unlocked.,Cache Unlocked,16876,3362,224502,0,0,0,2,16,0,0
 The supply wagon will depart shortly. Prepare to escort it to its destination.,Gather at the Supply Wagon,16893,3363,224500,0,0,0,0,0,0,2015
 Delve into the Temple of Sethraliss.,Temple of Sethraliss,16895,3377,224508,0,0,0,0,0,0,0
 Delve into the Temple of Sethraliss.,Temple of Sethraliss,16896,3378,224515,0,0,0,0,0,0,0
@@ -4561,20 +4561,20 @@ Venture deeper into Sporefall and defeat Rotmire.,Sporefall,16914,3387,224727,0,
 Domanaar Ritualists defeated.,Breaking Through the Ritual,16915,3388,224740,97491,0,0,0,16,0,0
 Void-Corrupted Springclaw defeated.,Stalking Shadows,16916,3388,224742,92589,0,0,1,16,0,0
 Unbind the Quel'Thalas Sentries and clear their way of Void forces.,Make Way,16917,3389,224744,92589,0,0,0,16,0,0
-Wait for the portal to open.,Summon the Portal,16918,3364,224749,0,0,0,0,0,0,2085
-Enter multiple portals and destroy Ruuk'Jar's Eggs.,Destroy the Clutch,16919,3364,224925,0,0,0,1,0,0,0
-A strange cache has been discovered!,Examine the Cache,17028,3362,224800,0,0,0,0,0,0,2073
-Flametenders are preparing the Spirit Pyres.,Prepare the Pyres,17030,3359,224834,0,0,0,0,0,0,2075
+Wait for the portal to open.,Summon the Portal,16918,3364,224749,0,0,0,0,16,0,2085
+Enter multiple portals and destroy Ruuk'Jar's Eggs.,Destroy the Clutch,16919,3364,224925,0,0,0,1,16,0,0
+A strange cache has been discovered!,Examine the Cache,17028,3362,224800,0,0,0,0,16,0,2073
+Flametenders are preparing the Spirit Pyres.,Prepare the Pyres,17030,3359,224834,0,0,0,0,16,0,2075
 ,Venomfall Deeps,17031,3395,224836,0,0,0,0,0,0,842
-Prepare yourself--a tide of serpents rises.,Slithering from the Depths,17032,3360,224852,0,0,0,0,0,0,2079
+Prepare yourself--a tide of serpents rises.,Slithering from the Depths,17032,3360,224852,0,0,0,0,16,0,2079
 A powerful foe has risen from the temple's depths.,Slay Congealed Malice,17033,3396,224861,0,0,0,0,0,0,2093
 The Amani have set up a base of attack. Check in with Kul'amara.,Impending Assault,17036,3174,224886,0,0,0,0,16,0,0
 Purge the corrupting spirits from the keepsake!,The Cleansing,17038,3399,229973,0,0,0,0,0,0,2167
 The forces of Ula'tek were victorious. This event has been lost.,Defeat,17039,3400,224890,0,0,0,0,0,0,0
-Enter the Underbelly and defeat the enemies there.,Clear the Underbelly,17044,3358,225021,0,0,0,1,0,0,0
-Prepare to attack the Underbelly.,Prepare the Attack,17048,3358,225038,0,0,0,0,0,0,2084
-Find a way into the Cursed Depths.,Access the Cursed Depths,17052,3405,225279,0,0,0,0,0,0,2089
-Enter the cursed chambers beneath the Seal of Wrath and eliminate the threats within.,Clear the Cursed Depths,17053,3405,225222,0,0,0,1,0,0,0
+Enter the Underbelly and defeat the enemies there.,Clear the Underbelly,17044,3358,225021,0,0,0,1,16,0,0
+Prepare to attack the Underbelly.,Prepare the Attack,17048,3358,225038,0,0,0,0,16,0,2084
+Find a way into the Cursed Depths.,Access the Cursed Depths,17052,3405,225279,0,0,0,0,16,0,2089
+Enter the cursed chambers beneath the Seal of Wrath and eliminate the threats within.,Clear the Cursed Depths,17053,3405,225222,0,0,0,1,16,0,0
 A powerful foe has risen from the temple's depths.,Slay Khu'tulak,17082,3411,225191,0,0,0,0,0,0,2093
 A powerful foe has risen from the temple's depths.,Slay Susarikk,17083,3412,225193,0,0,0,0,0,0,2093
 ,Gnarldor Isle,17090,3414,225261,0,0,0,0,0,0,842
