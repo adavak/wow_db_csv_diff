@@ -1107,8 +1107,7 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200成就：|r传奇：“地心之战”第3赛季|n|cFFFFD200分类：|r竞技场,1618,242636,2,-1
 |cFFFFD200游戏商城|r|n,1620,256141,2,9
 |cFFFFD200商人出售：|r内纳尔|n|cFFFFD200地区：|r哈籁恩达尔|n|cFFFFD200价格：|r4000|Hcurrency:3316|h|TInterface\ICONS\INV_112_RaidTrinkets_VoidPrism.BLP:0|t|h,1621,256552,0,2
-"|cFFFFD200世界任务：|r进军奎尔丹纳斯
-|cFFFFD200地区：|r进军奎尔丹纳斯",1622,257736,0,1
+|cFFFFD200任务：|r进军奎尔丹纳斯|n|cFFFFD200地区：|r奎尔丹纳斯岛,1622,257736,0,1
 |cFFFFD200特殊|r,1623,258129,2,9
 |cFFFFD200特殊|r,1624,258135,2,9
 |cFFFFD200特殊|r,1625,258136,2,9
@@ -1123,7 +1122,7 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200游戏商城|r|n,1636,258840,2,9
 "|cFFFFD200宝藏：|r轮回的礼物
 |cFFFFD200地区：|r哈籁恩达尔",1637,259084,0,0
-|cFFFFD200商人出售：|r娜蕾迪亚·流光|n|cFFFFD200地区：|r银月城|n|cFFFFD200价格：|r5000|Hcurrency:2803|h|TInterface\ICONS\INV_Misc_ElvenCoins.blp:0|t|h,1638,262431,0,2
+|cFFFFD200商人出售：|r传送师阿斯特兰迪斯|n|cFFFFD200地区：|r银月城|n|cFFFFD200价格：|r5000|Hcurrency:3316|h|TInterface\ICONS\INV_112_RaidTrinkets_VoidPrism.BLP:0|t|h|n,1638,262431,0,2
 |cFFFFD200任务：|r迷失于光芒|n|cFFFFD200地区：|r永歌森林,1642,263198,0,1
 ,1643,263244,0,-1
 |cFFFFD200特殊：|r“燃烧的远征”,1644,263489,2,7
@@ -1157,8 +1156,11 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200专业技能：|r卡兹阿加工程学,1713,248485,2,-1
 |cFFFFD200世界事件：|r儿童周|n|cFFFFD200商人出售：|r蕾尔·涅塔顿/布伦迪雅·辫锤|n|cFFFFD200地区：|r奥格瑞玛/暴风城|n|cFFFFD200价格：|r1|TINTERFACE\ICONS\INV_Misc_Primitive_toy18.BLP:0|t,1715,272287,0,2
 |cFFFFD200《魔兽世界》电竞：|r“至暗之夜”第1赛季,1717,272339,2,7
+|cFFFFD200游戏商城|r|n,1723,274730,2,9
 |cFFFFD200专业技能：|r至暗之夜钓鱼 - 盘卷蛇岛,1724,274817,2,-1
 |cFFFFD200宝藏：|r结满盐霜的宝箱|n|cFFFFD200地区：|r盘卷蛇岛,1725,274921,0,0
+|cFFFFD200游戏商城|r|n,1727,274967,2,9
+|cFFFFD200商人出售：|r大看护者埃斯特莉亚|n|cFFFFD200地区：|r银月城|n|cFFFFD200价格：|r2500|Hcurrency:3316|h|TInterface\ICONS\INV_112_RaidTrinkets_VoidPrism.BLP:0|t|h,1728,275039,0,2
 |cFFFFD200专业技能：|r至暗之夜工程学,1729,275683,2,-1
 |cFFFFD200成就：|r使命之旅：盘卷蛇岛|n|cFFFFD200分类：|rPvP,1730,275825,0,5
 |cFFFFD200任务：|r难忘今宵毒牙夜|n|cFFFFD200地区：|r银月城,1731,275988,4,1
@@ -1177,3 +1179,14 @@ SourceText_lang,ID,ItemID,Flags,SourceTypeEnum
 |cFFFFD200《魔兽世界》电竞：|r“至暗之夜”第2赛季,1755,279590,2,7
 |cFFFFD200任务：|r坚强的心|n|cFFFFD200地区：|r盘卷蛇岛,1756,280201,0,1
 |cFFFFD200成就：|r嘶声历史学者|n|cFFFFD200分类：|r至暗之夜,1758,280419,0,5
+|cFFFFD200游戏商城|r|n,1760,280541,2,9
+|cFFFFD200掉落：|r金多赞|n|cFFFFD200地区：|r金多赞的迷宫,1763,280820,4,0
+|cFFFFD200宝藏：|r|cffA335EE古代储物箱|n|cFFFFD200地区：|r金多赞的迷宫,1764,280821,4,-1
+|cFFFFD200宝藏：|r|cffA335EE古代储物箱|n|cFFFFD200地区：|r金多赞的迷宫,1765,280822,4,-1
+|cFFFFD200宝藏：|r|cffA335EE古代储物箱|n|cFFFFD200地区：|r金多赞的迷宫,1766,280823,4,-1
+|cFFFFD200掉落：|r基希克斯|n|cFFFFD200地区：|r基希克斯破封,1767,281615,0,0
+|cFFFFD200宝藏：|r|cffA335EE古代储物箱|n|cFFFFD200地区：|r金多赞的迷宫,1768,280825,4,-1
+|cFFFFD200游戏商城|r|n,1773,284572,2,9
+|cFFFFD200掉落：|r基希克斯（史诗）|n|cFFFFD200地区：|r基希克斯破封,1775,284159,0,-1
+|cFFFFD200任务：|r不惜一切代价|n|cFFFFD200地区：|r祖阿曼|n|cFFFFD200地区：|r永歌森林|n|cFFFFD200地区：|r盘卷蛇岛|n|cFFFFD200地区：|r阿塔乌特克地窟,1780,281136,0,1
+|cFFFFD200任务：|r……有时正是归途|n|cFFFFD200地区：|r永歌森林|n|cFFFFD200地区：|r金多赞的迷宫,1781,286643,0,2

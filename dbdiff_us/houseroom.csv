@@ -16,6 +16,7 @@ Base Plot Medium,18,1,5,0,172,0,0,0,0
 Entry,46,1,5,0,177,0,0,0,0
 Stairwell Room (Empty),48,1,6,0,179,31144,6,0,430
 Stairwell (Right),50,1,6,0,180,31141,7,0,410
+Full_Layout_Prefab_S,113,0,8,0,187,0,100,274672,6000
 Orgrimmar Council Room,132,3,8,0,202,35463,20,274673,840
 Orgrimmar Stone Pit Room,151,3,8,0,219,35465,5,274675,820
 Daylight Circle Room,223,3,8,0,233,32639,8,272045,710
@@ -31,8 +32,12 @@ Bel'ameth Temple Room,287,3,8,0,347,35461,20,274670,1140
 Bel'ameth Meeting Room,288,3,8,0,348,35460,12,274668,1130
 Bel'ameth Theater,289,3,8,0,349,35462,5,274669,1120
 Bel'ameth Nestled Bedroom,290,3,8,0,350,35459,5,274671,1110
+Full_Layout_Rugged_Prn,291,0,8,0,351,0,100,274656,0
 Orgrimmar Theater,292,3,8,0,352,35466,12,274674,830
 Orgrimmar Display Room,294,3,8,0,353,35464,5,274676,810
+Sky Blue Riverside Room,296,3,8,0,0,0,20,274677,730
+Verdant Riverside Room,297,3,8,0,0,0,20,274678,740
 Silvermoon Small Study,307,3,8,0,371,35470,5,274662,1020
 Autumnal Westfall Barn,400,3,8,0,378,36094,18,276243,750
 Springtime Westfall Barn,401,3,8,0,379,36095,18,276244,760
+Spirited Grimtide Foyer,439,3,8,0,380,37454,20,284706,0

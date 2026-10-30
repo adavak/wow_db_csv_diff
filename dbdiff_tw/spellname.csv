@@ -84704,6 +84704,7 @@ ID,Name_lang
 142512,火箭跳躍
 142513,計算者
 142514,計算
+142515,守爐人的遊蕩商隊
 142517,計算
 142518,計算
 142519,寶笛爺爺挑戰卡
@@ -173052,6 +173053,7 @@ ID,Name_lang
 249981,審判衝擊
 249982,十字軍衝鋒
 249984,熾炎天空
+249986,沒有艾澤萊晶岩
 249987,Alleria Initial Conversation
 249988,Accept TH
 249989,塵
@@ -298253,7 +298255,7 @@ ID,Name_lang
 396579,矯捷號角
 396581,護甲尖刺
 396582,翻找中
-396583,[DNT] Crystalized Steelshard Cosmetic Desaturate
+396583,[DNT] Crystallized Steelshard Cosmetic Desaturate
 396584,矯捷號角
 396585,矯捷號角
 396586,矯捷號角
@@ -303740,7 +303742,7 @@ ID,Name_lang
 404440,泰坦能量
 404441,離開軟泥
 404442,黏性炸彈
-404443,黏性炸彈
+404443,轟炸
 404444,[DNT] 10.1 UG - Ch01 - C2 - B - Grand Fire Portal Down - Cimbra Ping
 404445,灼燒高熱
 404446,修復柱子
@@ -364874,6 +364876,7 @@ ID,Name_lang
 1223406,加里維克斯
 1223407,踹！
 1223408,加里維克斯
+1223409,進入大橋之戰
 1223410,電荷賭注
 1223411,轉移
 1223412,靈魂碎片
@@ -364892,9 +364895,11 @@ ID,Name_lang
 1223429,Q02a/b - Quest Accept Conversation [DNT]
 1223430,攜帶貨物
 1223432,畏縮
+1223434,離開大橋之戰
 1223435,搜尋垃圾
 1223436,狂野高漲
 1223438,搜尋垃圾
+1223439,結束大橋之戰
 1223440,以太重組
 1223441,狂野高漲
 1223442,[DNT] Cosmetic
@@ -365654,6 +365659,7 @@ ID,Name_lang
 1224640,升級中
 1224641,表情狀態 - 跳舞
 1224642,造型侍者太陽眼鏡
+1224644,虛無屏障
 1224648,Visual [DNT]
 1224651,[DNT] Cosmetic Aura
 1224652,[DNT] Cosmetic Aura
@@ -365807,7 +365813,7 @@ ID,Name_lang
 1224858,斬首
 1224859,斬首
 1224860,斬首
-1224861,Crystalized[NOT USED]
+1224861,Crystallized[NOT USED]
 1224862,斬首
 1224863,五星評價！
 1224864,斬首
@@ -366226,6 +366232,7 @@ ID,Name_lang
 1225377,死靈爆發
 1225379,Spell [DNT]
 1225380,投影儀投像
+1225381,虛無屏障
 1225383,阿拉特的守望
 1225384,阿拉特觸發光環
 1225385,糾纏暗影
@@ -370108,7 +370115,7 @@ ID,Name_lang
 1231534,收集優雅精靈木桶
 1231535,[DNT] [AUTOGEN] Add Decor 991 To Storage
 1231536,收集開啟的精靈木箱
-1231537,Collect [DNT] Open Elegant Elven Barrel - DO NOT USE - duplicate
+1231537,[DNT] [AUTOGEN] Collect Open Elegant Elven Barrel - DO NOT USE - duplicate
 1231539,[DNT] [AUTOGEN] Add Decor 994 To Storage
 1231540,秘法虹吸
 1231542,秘法培育
@@ -370279,6 +370286,7 @@ ID,Name_lang
 1231852,綁縛標槍
 1231856,破碎的鑰石
 1231857,淡入/淡出
+1231861,Ping Ethereal Game Object [DNT]
 1231862,同調結界破除裝置
 1231864,同調結界破除裝置
 1231865,相移
@@ -370723,10 +370731,12 @@ ID,Name_lang
 1232558,惡魔化身
 1232559,振翅攻擊
 1232561,[DNT] Kill Shot - Root
+1232563,Play Scene [DNT]
 1232566,輻射能量
 1232567,懺悟
 1232568,惡魔化身
 1232569,惡魔化身
+1232570,Cleanup After Cutscene COE [DNT]
 1232571,懺悟
 1232573,Knockback Trigger
 1232574,潛行
@@ -372069,6 +372079,7 @@ ID,Name_lang
 1234309,不屈鼓舞
 1234310,光子衝擊
 1234311,法力新生
+1234312,復仇之盾
 1234313,屠宰中
 1234314,雪堆
 1234315,[DNT] Meta Takeoff
@@ -372404,11 +372415,13 @@ ID,Name_lang
 1234784,Start Trail 01 (DNT)
 1234786,影縛長矛
 1234787,深湧轟擊
+1234788,強化屏障
 1234789,[DNT] Phase Transition - Pt 01 - Stun + Sanctuary
 1234791,愈挫愈勇
 1234794,[DNT] Phase Transition - Pt 02a - Screen Fade + Teleport
 1234795,[DNT] summon grain
 1234796,轉移
+1234797,Start Talking Head Convo [DNT]
 1234798,[DNT] Phase Transition - Pt 02b - Teleport
 1234799,[DNT] Phase Transition - Pt 03a - Maintain Vehicle Summon
 1234800,恐慌！
@@ -372528,6 +372541,7 @@ ID,Name_lang
 1234963,無可避免的結局
 1234966,[DNT] Arcane Javelin
 1234969,以太強化
+1234970,Cancel Unfriendly Skies [DNT]
 1234971,浮誇加洛克
 1234974,[DNT] Work
 1234985,傳送
@@ -372541,6 +372555,7 @@ ID,Name_lang
 1235017,法力熔爐移位裝置
 1235018,法力熔爐移位裝置
 1235019,加入一撮啤酒花
+1235021,Start Talking Head Convo [DNT]
 1235022,凝神蹲守
 1235023,破法者
 1235029,Play Timeline Scene (DNT)
@@ -372737,6 +372752,7 @@ ID,Name_lang
 1235273,變成石頭
 1235274,[DNT] Falling
 1235275,[DNT] Falling
+1235276,Start Talking Head Convo [DNT]
 1235277,套裝：特級大師深淵裝束
 1235278,虛空魅影
 1235279,虛空魅影
@@ -372835,6 +372851,7 @@ ID,Name_lang
 1235423,傳送
 1235425,縛魂者之擁
 1235426,吞噬
+1235427,Start Talking Head Convo [DNT]
 1235428,[DNT] [AUTOGEN] Add Decor 1255 To Storage
 1235429,[DNT] [AUTOGEN] Add Decor 1256 To Storage
 1235430,[DNT] [AUTOGEN] Add Decor 1257 To Storage
@@ -372865,6 +372882,10 @@ ID,Name_lang
 1235455,收集長者高地地毯
 1235456,收集向左束起的銀月簾幕
 1235457,收集向右束起的銀月簾幕
+1235458,Trigger for Liadrin Moment [DNT]
+1235459,Trigger for Shandris Moment [DNT]
+1235460,Trigger for Thalyssra Moment [DNT]
+1235461,Trigger for Umbric Moment [DNT]
 1235462,Void Beam to Arator + Umbric [DNT]
 1235463,幽暗大門
 1235466,幽暗大門
@@ -372974,6 +372995,7 @@ ID,Name_lang
 1235600,阿奇爾森的祝福
 1235601,相位轉換
 1235602,阿奇爾森的祝福
+1235603,Trigger for Lor'themar Moment [DNT]
 1235605,阿奇爾森的祝福
 1235607,Kill Credit [DNT]
 1235609,引導阿奇爾森之力
@@ -373025,6 +373047,7 @@ ID,Name_lang
 1235657,雷擊
 1235658,冰凍風暴
 1235659,盲目狂熱
+1235660,Start Talking Head Convo [DNT]
 1235661,Cosmetic Boxes [DNT]
 1235662,[DNT] Guide
 1235663,Alliance Wagon Decoration [DNT]
@@ -373102,6 +373125,7 @@ ID,Name_lang
 1235762,變成石頭
 1235763,特級大師深淵棋盤
 1235766,致死打擊
+1235768,Arcane Bombardment - Ping Bridge Enemy [DNT]
 1235769,靈魂重聚
 1235770,災殃
 1235771,災殃
@@ -373135,6 +373159,7 @@ ID,Name_lang
 1235803,特級大師皇家棋盤
 1235804,秘法活力
 1235806,特級大師白煙棋盤
+1235807,虛無屏障
 1235808,石之看守者
 1235809,石之看守者
 1235812,Q02a/b - Quest Accept Conversation [DNT]
@@ -373222,6 +373247,7 @@ ID,Name_lang
 1235987,合約：凱瑞西信託同盟
 1235988,合約：凱瑞西信託同盟
 1235989,設定資料
+1235990,Start Talking Head Convo [DNT]
 1235991,Kill Credit (DNT)
 1236054,附魔胸甲 - 納羅拉克印記
 1236055,附魔頭盔 - 汲取妖術
@@ -373453,6 +373479,7 @@ ID,Name_lang
 1236384,Paladin Herald of the Sun 11.2 Class Set 4pc
 1236385,靈魂砲轟
 1236386,恢復盟友
+1236388,屏障防護
 1236389,Paladin Lightsmith 11.2 Class Set 2pc
 1236390,Paladin Lightsmith 11.2 Class Set 4pc
 1236391,Paladin Templar 11.2 Class Set 2pc
@@ -373556,7 +373583,9 @@ ID,Name_lang
 1236556,林精
 1236559,強力踐踏
 1236560,強力踐踏
+1236561,屏障防護
 1236562,<DNT> Explosion Visual
+1236563,虛無屏障
 1236564,灰皮
 1236565,馬不停蹄
 1236566,銳利尖牙
@@ -373710,9 +373739,11 @@ ID,Name_lang
 1236753,[DNT]Telekinetic Onslaught
 1236755,[DNT]Telekinetic Onslaught
 1236756,[DNT] Farstrider Shoots Bow - Missile
+1236757,Start Talking Head Convo [DNT]
 1236758,[DNT] Glide Suppression
 1236759,飽和爆發
 1236761,吞噬
+1236762,Arcane Bombardment - Ping Boss or Boss Support Enemy [DNT]
 1236763,哈拉尼爾感知藥瓶
 1236764,[DNT] Hey look free bronze
 1236765,[DNT] I Have the Power!
@@ -373862,6 +373893,7 @@ ID,Name_lang
 1236947,<DNT> Damage Self
 1236948,<DNT> Kill Credit
 1236949,崩解
+1236950,Start Private Convo [DNT]
 1236951,吸收力量
 1236952,小艇
 1236953,虛無之怒
@@ -373927,13 +373959,13 @@ ID,Name_lang
 1237022,收集嚎叫骨窖容器
 1237023,收集格利夫塔的神秘怨鬼甕
 1237024,收集被遺忘的阿曼尼骨灰甕
-1237025,Collect [DNT] [AUTOGEN] 12TR_Amani_Ritual_FuneraryUrn01_Destroyed01.m2
+1237025,收集破損的阿曼尼儀式之甕
 1237026,[DNT] Test Sound Void Channel Omni
 1237027,[DNT] Boss Emote at Self
 1237028,收集純淨食人妖甕
-1237029,Collect [DNT] [AUTOGEN] 12TR_Amani_Ritual_FuneraryUrn05.m2
-1237030,Collect [DNT] [AUTOGEN] 12TR_Amani_Ritual_FuneraryUrn04_Destroyed01.m2
-1237031,Collect [DNT] [AUTOGEN] 12TR_Amani_Ritual_FuneraryUrn02_Destroyed01.m2
+1237029,收集裂開的阿曼尼骨灰甕
+1237030,收集毀壞的阿曼尼儀式之甕
+1237031,收集粉碎的阿曼尼儀式之甕
 1237032,符文武器幻舞
 1237033,充能閃電箭
 1237034,[DNT] Clone Despawn
@@ -374000,6 +374032,7 @@ ID,Name_lang
 1237116,Play Timeline Scene (DNT)
 1237117,共鳴爆發
 1237118,Casting (DNT)
+1237119,[PH] Temporary Boss Emote
 1237120,圍攻
 1237121,[DNT] Don't run! Walk! Slowly!
 1237122,共鳴集中
@@ -374041,6 +374074,7 @@ ID,Name_lang
 1237173,灌注繫鏈
 1237180,終幕
 1237182,傳送
+1237183,[PH] Temporary Boss Emote
 1237184,命運裂塊
 1237185,[DNT] No Fall Damage
 1237186,碎裂命運
@@ -374105,6 +374139,7 @@ ID,Name_lang
 1237251,強化黑暗
 1237252,虛無光束
 1237253,虛無轟炸
+1237254,Area Trigger [DNT]
 1237255,虛無之怒
 1237256,停用投擲
 1237257,分解水坑
@@ -374516,6 +374551,7 @@ ID,Name_lang
 1237868,虛無召喚
 1237869,虛無召喚
 1237870,[Do not use]Precast missile from tubes
+1237871,Cosmetic - Arcane Teleport
 1237872,[Do not use]Precast missile
 1237873,"[DNT] Override Name: Tul'amar, Thrice-Exiled"
 1237874,兇殺路魚鉤
@@ -374610,10 +374646,10 @@ ID,Name_lang
 1237988,已變形
 1237990,神秘霧霾
 1237994,Kill Credit [DNT]
-1237995,Collect [DNT] 12PH_NightElf_INE01_Partition_Pillar.wmo - DO NOT USE - duplicate
-1237996,Collect [DNT] 12PH_NightElf_INE01_Partition_W_S.wmo - DO NOT USE - duplicate
-1237997,Collect [DNT] 12PH_NightElf_INE01_Partition_W_L.wmo - DO NOT USE - duplicate
-1237998,Collect [DNT] 12PH_NightElf_INE01_Partition_W_L_Arch.wmo - DO NOT USE - duplicate
+1237995,[DNT] [AUTOGEN] Collect 12PH_NightElf_INE01_Partition_Pillar.wmo - DO NOT USE - duplicate
+1237996,[DNT] [AUTOGEN] Collect 12PH_NightElf_INE01_Partition_W_S.wmo - DO NOT USE - duplicate
+1237997,[DNT] [AUTOGEN] Collect 12PH_NightElf_INE01_Partition_W_L.wmo - DO NOT USE - duplicate
+1237998,[DNT] [AUTOGEN] Collect 12PH_NightElf_INE01_Partition_W_L_Arch.wmo - DO NOT USE - duplicate
 1238001,Ethereal Control Zone 01 Visual [DNT]
 1238002,秘法外洩
 1238003,Kill Credit (DNT)
@@ -374636,6 +374672,7 @@ ID,Name_lang
 1238022,Ping [DNT]
 1238023,神秘霧霾
 1238024,裂隙瘋狂
+1238025,Portalkeeper Visual [DNT]
 1238026,傳送
 1238027,逮個正著
 1238028,回來再戰！
@@ -374883,7 +374920,7 @@ ID,Name_lang
 1238400,收集阿爾加萵苣植栽
 1238401,收集加樂宮L.U.C.K.轉盤
 1238402,收集無火箭動力火箭
-1238403,Collect [DNT] Relaxing Goblin Beach Chair with Cup Gripper - DO NOT USE - new asset
+1238403,[DNT] [AUTOGEN] Collect Relaxing Goblin Beach Chair with Cup Gripper - DO NOT USE - new asset
 1238404,收集幽坑城豆袋椅
 1238405,收集愜意鐵架床
 1238406,收集幽坑城書架
@@ -374944,9 +374981,9 @@ ID,Name_lang
 1238464,Kill Credit (DNT)
 1238465,英雄世界級別
 1238467,荊棘之花
-1238470,Collect [DNT] Schmancy Goblin String Lights - DO NOT USE
-1238471,Collect [DNT] Chair for Testing Decor Limits - do not use
-1238472,Collect [DNT] Chair - do not use
+1238470,[DNT] [AUTOGEN] Collect Schmancy Goblin String Lights - DO NOT USE
+1238471,[DNT] [AUTOGEN] Collect Chair for Testing Decor Limits - do not use
+1238472,[DNT] [AUTOGEN] Collect Chair - do not use
 1238473,收集結實木製棺材
 1238474,荊棘之花
 1238475,收集開啟的木製棺材
@@ -374986,9 +375023,9 @@ ID,Name_lang
 1238510,收集好景井
 1238511,收集結實木製手推車
 1238512,Collect [DNT] Sturdy Wooden Interior Pillar - DO NOT USE
-1238513,Collect [DNT] Plain Interior Wall - DO NOT USE
+1238513,[DNT] [AUTOGEN] Collect Plain Interior Wall - DO NOT USE
 1238514,Collect {DNT] Plain Interior Doorway - DO NOT USE
-1238515,Collect [DNT] Plain Interior Narrow Wall - DO NOT USE
+1238515,[DNT] [AUTOGEN] Collect Plain Interior Narrow Wall - DO NOT USE
 1238516,收集結實木製室內柱
 1238517,收集樸素室內牆壁
 1238518,勝利
@@ -374997,7 +375034,7 @@ ID,Name_lang
 1238521,收集蘇拉瑪爾衣櫃
 1238522,收集好學的辛多雷桌子
 1238523,收集獠牙壁爐
-1238524,Collect [DNT] Orgrimmar Interior Wall - DO NOT USE
+1238524,[DNT] [AUTOGEN] Collect Orgrimmar Interior Wall - DO NOT USE
 1238525,收集天花板蛛網
 1238526,收集帳篷蛛網
 1238527,收集小型懸吊蛛網
@@ -375022,8 +375059,8 @@ ID,Name_lang
 1238546,收集祖達薩欄杆柱
 1238547,收集亞昆達掛毯
 1238548,收集贊庫爾掛毯
-1238549,Collect [DNT] Partition Doorway (WMO) - DO NOT USE
-1238550,Collect [DNT] Partition Pillar (WMO) - DO NOT USE
+1238549,[DNT] [AUTOGEN] Collect Partition Doorway (WMO) - DO NOT USE
+1238550,[DNT] [AUTOGEN] Collect Partition Pillar (WMO) - DO NOT USE
 1238551,收集卡拉伯爾床
 1238552,收集德萊尼書架
 1238553,收集德萊尼球體綠雕
@@ -375120,7 +375157,7 @@ ID,Name_lang
 1238652,收集布瑞爾棺蓋
 1238653,收集羅德隆柵欄
 1238654,收集羅德隆欄杆柱
-1238655,Collect [DNT] Green Book of Runes - DO NOT USE
+1238655,[DNT] [AUTOGEN] Collect Green Book of Runes - DO NOT USE
 1238656,戒備
 1238657,收集鑲釘木椅
 1238658,收集熊貓人烹飪台
@@ -375132,7 +375169,7 @@ ID,Name_lang
 1238665,收集吉爾尼斯長椅
 1238666,收集吉爾尼斯大鍋
 1238667,收集狼人的雞舍
-1238668,Collect [DNT] Gilnean Problem Solver - Do Not Use - Updated Asset Available
+1238668,[DNT] [AUTOGEN] Collect Gilnean Problem Solver - Do Not Use - Updated Asset Available
 1238669,收集吉爾尼斯節慶酒桶
 1238670,收集贊達拉石燈
 1238671,收集宏偉伯昂撒姆第面具
@@ -375319,7 +375356,7 @@ ID,Name_lang
 1238947,電擊
 1238948,收集織夢者符文月亮石
 1238949,收集工人的木桌
-1238950,Collect [DNT] Cornerstone 02 - DO NOT USE
+1238950,[DNT] [AUTOGEN] Collect Cornerstone 02 - DO NOT USE
 1238951,跳！
 1238952,陷捕飛彈
 1238953,陷捕飛彈
@@ -375359,7 +375396,7 @@ ID,Name_lang
 1239016,收集八角形赭石窗戶
 1239017,收集酒莊赭石窗戶
 1239018,收集華麗赭石窗戶
-1239019,Collect [DNT] Cornerstone 01 - DO NOT USE
+1239019,[DNT] [AUTOGEN] Collect Cornerstone 01 - DO NOT USE
 1239023,刺穿
 1239024,豐碩
 1239025,<DNT> Transform Scale
@@ -375539,7 +375576,6 @@ ID,Name_lang
 1239275,Enter Scenario (DNT)
 1239276,次級武裝
 1239277,Channel: Void Orb (Can Move) [DNT]
-1239278,布瑞爾棺蓋
 1239279,黑暗迴盪
 1239280,UNUSED
 1239281,扭曲打擊
@@ -375576,7 +375612,6 @@ ID,Name_lang
 1239318,濃霧
 1239319,阿斯帛爾的血
 1239320,[DNT] Shortsighted Darkness
-1239321,布瑞爾棺材
 1239324,Push Loot Arcane Transfer Staff and Private Convo 1(DNT)
 1239325,Push Loot Arcane Transfer Staff and Private Convo 2 (DNT)
 1239326,Push Loot Arcane Transfer Staff and Private Convo 3 (DNT)
@@ -375682,7 +375717,7 @@ ID,Name_lang
 1239436,收集吉爾尼斯搖椅
 1239437,收集月虧木頭柵欄
 1239438,收集貝拉梅斯長椅
-1239439,Collect [DNT] Ornamental Kaldorei Glaive - DO NOT USE - new asset coming
+1239439,[DNT] [AUTOGEN] Collect Ornamental Kaldorei Glaive - DO NOT USE - new asset coming
 1239440,收集精靈神殿火盆
 1239441,Ready Anim [DNT]
 1239442,和諧湧動
@@ -376295,7 +376330,7 @@ ID,Name_lang
 1240269,收集漂浮蒼藍燈籠
 1240270,Collect [DNT] [AUTOGEN] 12BE_BloodElf_Lighting_LanternHanging01.m2
 1240271,Collect [DNT] [AUTOGEN] 12BE_BloodElf_Lighting_LanternHanging02.m2
-1240272,Collect [DNT] 12BE_BloodElf_Lighting_LanternFloating01_Off.m2 - DO NOT USE - no off lights
+1240272,[DNT] [AUTOGEN] Collect 12BE_BloodElf_Lighting_LanternFloating01_Off.m2 - DO NOT USE - no off lights
 1240273,以太布萊恩塑形師
 1240274,Collect [DNT] [AUTOGEN] 11WE_WildElves_Navigation_RootPortal01.m2
 1240275,Collect [DNT] [AUTOGEN] 12BE_BloodElf_Lighting_Chandelier02.m2
@@ -376380,9 +376415,9 @@ ID,Name_lang
 1240382,[Do not use]Living Silk Barrier
 1240383,[Do not use]Living Silk Barrier
 1240384,Collect [DNT] [AUTOGEN] 12BE_BloodElf_Lighting_LanternHanging03.m2
-1240385,Collect [DNT] 12BE_BloodElf_Lighting_LanternHanging01_Off.m2 - DO NOT USE - no off lights
-1240386,Collect [DNT] 12BE_BloodElf_Lighting_LanternHanging02_Off.m2 - DO NOT USE - no off lights
-1240387,Collect [DNT] 12BE_BloodElf_Lighting_LanternHanging03_Off.m2 - DO NOT USE - no off lights
+1240385,[DNT] [AUTOGEN] Collect 12BE_BloodElf_Lighting_LanternHanging01_Off.m2 - DO NOT USE - no off lights
+1240386,[DNT] [AUTOGEN] Collect 12BE_BloodElf_Lighting_LanternHanging02_Off.m2 - DO NOT USE - no off lights
+1240387,[DNT] [AUTOGEN] Collect 12BE_BloodElf_Lighting_LanternHanging03_Off.m2 - DO NOT USE - no off lights
 1240388,黑暗思緒
 1240391,秘法釋能
 1240393,[Do not use]Living Silk Barrier
@@ -376412,17 +376447,17 @@ ID,Name_lang
 1240441,Block Fog (DNT)
 1240442,Collect [DNT] Silvermoon Beam Platform - WMO - DO NOT USE
 1240443,Collect [DNT] Silvermoon Angled Platform - WMO - DO NOT USE
-1240444,Collect [DNT] Bel'ameth Beam Platform - WMO - DO NOT USE
-1240445,Collect [DNT] Bel'ameth Round Platform - WMO - DO NOT USE
-1240446,Collect [DNT] Bel'ameth Large Platform - WMO - DO NOT USE
+1240444,[DNT] [AUTOGEN] Collect Bel'ameth Beam Platform - WMO - DO NOT USE
+1240445,[DNT] [AUTOGEN] Collect Bel'ameth Round Platform - WMO - DO NOT USE
+1240446,[DNT] [AUTOGEN] Collect Bel'ameth Large Platform - WMO - DO NOT USE
 1240447,召喚挑戰房間
-1240448,Collect [DNT] Bel'ameth Small Platform - WMO - DO NOT USE
-1240449,Collect [DNT] Bel'ameth Angled Platform - WMO - DO NOT USE
-1240450,Collect [DNT] Orgrimmar Beam Platform - WMO - DO NOT USE
-1240451,Collect [DNT] Orgrimmar Round Platform - WMO - DO NOT USE
-1240452,Collect [DNT] Orgrimmar Large Platform - WMO - DO NOT USE
-1240453,Collect [DNT] Orgrimmar Small Platform - WMO - DO NOT USE
-1240454,Collect [DNT] Orgrimmar Angled Platform - WMO - DO NOT USE
+1240448,[DNT] [AUTOGEN] Collect Bel'ameth Small Platform - WMO - DO NOT USE
+1240449,[DNT] [AUTOGEN] Collect Bel'ameth Angled Platform - WMO - DO NOT USE
+1240450,[DNT] [AUTOGEN] Collect Orgrimmar Beam Platform - WMO - DO NOT USE
+1240451,[DNT] [AUTOGEN] Collect Orgrimmar Round Platform - WMO - DO NOT USE
+1240452,[DNT] [AUTOGEN] Collect Orgrimmar Large Platform - WMO - DO NOT USE
+1240453,[DNT] [AUTOGEN] Collect Orgrimmar Small Platform - WMO - DO NOT USE
+1240454,[DNT] [AUTOGEN] Collect Orgrimmar Angled Platform - WMO - DO NOT USE
 1240455,Collect [DNT] Stormwind Beam Platform - WMO - DO NOT USE
 1240456,Collect [DNT] Stormwind Round Platform - WMO - DO NOT USE
 1240457,Collect [DNT] Stormwind Large Platform - WMO - DO NOT USE
@@ -376701,8 +376736,8 @@ ID,Name_lang
 1240883,[DNT] Altar C - Rare Active Aura
 1240884,秘法之息
 1240887,[DNT] Flag Tracking Quest
-1240888,Collect [DNT] Ornate Ironforge Bench - DO NOT USE - new asset coming
-1240889,Collect [DNT] Pyrewood Glass Bottle - DO NOT USE - duplicate
+1240888,[DNT] [AUTOGEN] Collect Ornate Ironforge Bench - DO NOT USE - new asset coming
+1240889,[DNT] [AUTOGEN] Collect Pyrewood Glass Bottle - DO NOT USE - duplicate
 1240890,鎖鏈符印
 1240891,鎖鏈符印
 1240895,Periodic Widget Modifier (DNT)
@@ -378505,7 +378540,7 @@ ID,Name_lang
 1243427,收集裝飾用燼火蜂蜜罐
 1243428,收集多尼克切片礦條
 1243429,收集土靈款待用疑似乳酪磚
-1243430,Collect [DNT] 12BE_BloodElf_Food_CheeseBoard01.m2 - DO NOT USE - duplicate
+1243430,[DNT] [AUTOGEN] Collect 12BE_BloodElf_Food_CheeseBoard01.m2 - DO NOT USE - duplicate
 1243431,收集優雅圓柱枕
 1243432,相移口
 1243435,光球精通
@@ -378742,9 +378777,9 @@ ID,Name_lang
 1243752,光滑冰面
 1243753,貪婪深淵
 1243754,Kill Credit (DNT)
-1243756,Collect [DNT] 12BE_BloodElf_Lighting_LanternHanging01_Off_blue.m2 - DO NOT USE - no off lights
-1243757,Collect [DNT] 12BE_BloodElf_Lighting_LanternHanging02_Off_blue.m2 - DO NOT USE - no off lights
-1243758,Collect [DNT] 12BE_BloodElf_Lighting_LanternHanging03_Off_blue.m2 - DO NOT USE - no off lights
+1243756,[DNT] [AUTOGEN] Collect 12BE_BloodElf_Lighting_LanternHanging01_Off_blue.m2 - DO NOT USE - no off li
+1243757,[DNT] [AUTOGEN] Collect 12BE_BloodElf_Lighting_LanternHanging02_Off_blue.m2 - DO NOT USE - no off li
+1243758,[DNT] [AUTOGEN] Collect 12BE_BloodElf_Lighting_LanternHanging03_Off_blue.m2 - DO NOT USE - no off li
 1243759,Collect [DNT] [AUTOGEN] 12BE_BloodElf_Lighting_LanternHanging03_blue.m2
 1243760,Collect [DNT] [AUTOGEN] 12BE_BloodElf_Lighting_LanternHanging02_blue.m2
 1243761,收集通吊掛法力火盆
@@ -379008,7 +379043,7 @@ ID,Name_lang
 1244142,收集農夫水槽
 1244143,收集填滿乾草的結實飼料槽
 1244144,收集石雕長椅
-1244145,Collect [DNT] Plush Cushioned Chair - DO NOT USE - new asset coming
+1244145,[DNT] [AUTOGEN] Collect Plush Cushioned Chair - DO NOT USE - new asset coming
 1244146,收集結實火盆
 1244147,收集開拓角街燈
 1244148,收集開拓角路燈
@@ -379209,6 +379244,7 @@ ID,Name_lang
 1244425,Collect [DNT] [AUTOGEN] 12FN_Fungarian_Defense_Barricade01_Destroyed.m2
 1244426,收集大師工藝真菌花槽
 1244427,收集密封的真菌罐
+1244428,收集打開的真菌罐
 1244429,收集優雅坐墊
 1244430,[DNT] Temp Lower Aggro Radius
 1244438,套裝：魔化騎士的蒼藍裝束
@@ -379611,16 +379647,16 @@ ID,Name_lang
 1245221,收集玉廟庭龍噴泉
 1245222,收集風暴烈酒酒桶
 1245223,收集熊貓人漫步地毯
-1245224,Collect [DNT] Kun-Lai Lacquered Rickshaw - do not use - new asset
+1245224,[DNT] [AUTOGEN] Collect Kun-Lai Lacquered Rickshaw - do not use - new asset
 1245225,收集科特魔古聖壇
 1245226,收集科特魔古異能球
 1245227,收集經典餃子餐車
-1245228,Collect [DNT] Hanging Paper Lanterns - do not use - duplicate
+1245228,[DNT] [AUTOGEN] Collect Hanging Paper Lanterns - do not use - duplicate
 1245229,收集聯盟決鬥旗幟
 1245230,收集部落決鬥旗幟
 1245231,收集銀翼哨兵旗幟
 1245232,收集戰歌先遣騎旗幟
-1245233,Collect [DNT] Kyrian Spirit Healer - DO NOT USE - NPC tech not ready yet
+1245233,[DNT] [AUTOGEN] Collect Kyrian Spirit Healer - DO NOT USE - NPC tech not ready yet
 1245234,收集地行礦坑礦車
 1245235,收集礦運水晶
 1245236,收集關閉的凱瑞西扭曲火炮
@@ -380116,6 +380152,7 @@ ID,Name_lang
 1245866,捕捉（第2部分）
 1245868,插旌旗
 1245869,驅散
+1245870,Void Portal [DNT]
 1245871,重力衝擊
 1245872,神聖聖物
 1245873,虛無傳送門
@@ -380134,6 +380171,7 @@ ID,Name_lang
 1245887,<DNT> Summon
 1245888,驅逐
 1245891,撫慰
+1245893,"GENERIC - Transform Invisible, Uninteractable on Periodic Trigger (DNT)"
 1245894,收集夜裔燈籠
 1245895,收集蘇拉瑪爾欄杆柱
 1245896,收集蘇拉瑪爾燭台
@@ -380209,6 +380247,7 @@ ID,Name_lang
 1246001,繞行之物
 1246002,爆炸球體
 1246003,開啟隱藏寶藏箱
+1246004,Arcane Portal [DNT]
 1246005,Follow the Echo [DNT]
 1246008,聖光餘燼
 1246009,虛無餘燼
@@ -380269,6 +380308,7 @@ ID,Name_lang
 1246088,箭雨
 1246089,幻象之行
 1246090,[DNT] Summon Chunks
+1246091,Cosmetic - Void Teleport Away
 1246093,水晶碎片
 1246094,精粹
 1246095,水晶碎片
@@ -380281,8 +380321,13 @@ ID,Name_lang
 1246103,增量
 1246104,能量切割者
 1246107,Portal Advert (DNT)
+1246108,Extra Action Button [DNT]
 1246109,Portal Advert (DNT)
+1246110,示意凡蕾莎
+1246111,Cancel Extra Action Button [DNT]
 1246113,爆發區
+1246114,Cleanup After Cutscene BSH [DNT]
+1246115,Play Cutscene BSH [DNT]
 1246116,無響火焰
 1246117,聖光訓戒
 1246119,死亡事件管理者
@@ -380441,7 +380486,7 @@ ID,Name_lang
 1246284,收集紅龍軍團文獻
 1246285,收集龍族圓地毯
 1246286,收集非致命獨臂強盜
-1246287,Collect [DNT] DuelingFlag_HousingProp.m2 - DO NOT USE - tester asset
+1246287,[DNT] [AUTOGEN] Collect DuelingFlag_HousingProp.m2 - DO NOT USE - tester asset
 1246288,收集寶庫入口
 1246289,收集毀滅之地傳送門
 1246292,Ingredient A (Steel Ingot) Visuals
@@ -380652,6 +380697,7 @@ ID,Name_lang
 1246605,不穩定的混合物
 1246606,[DNT]Aura Checks
 1246607,集中光束
+1246608,Master EAB Control [DNT]
 1246610,星界刻刃
 1246611,秘法精準
 1246612,能量裂片
@@ -380836,6 +380882,7 @@ ID,Name_lang
 1246861,馬汀烈怒
 1246862,虛無震擊
 1246863,馬汀烈怒
+1246864,Void Elf Destroy Cannon [DNT]
 1246865,狂野怒火
 1246866,光綻精華
 1246867,拔除枯萎植物
@@ -380877,6 +380924,7 @@ ID,Name_lang
 1246908,根焰營火
 1246909,自斟的薩拉斯日酒
 1246910,聖輝之霧
+1246911,Cosmetic - Void Teleport In
 1246912,強化黑暗
 1246913,滯留魔視
 1246914,束縛妖術
@@ -381329,6 +381377,7 @@ ID,Name_lang
 1247593,虛無之光奔騰者
 1247594,虛無之光奔騰者
 1247595,[DNT] Create Bonfire
+1247599,Start Talking Head Convo [DNT]
 1247600,[DNT]Telekinetic Onslaught Ping
 1247601,相位扭曲傳送
 1247602,[DNT]Desaturate
@@ -381491,9 +381540,9 @@ ID,Name_lang
 1247787,收集暴風城武器架
 1247788,收集艾爾文草地
 1247789,收集艾爾文鋪草地
-1247790,Collect [DNT] Rugged Brazier - DO NOT USE - neighborhood use only
+1247790,[DNT] [AUTOGEN] Collect Rugged Brazier - DO NOT USE - neighborhood use only
 1247791,Collect [DNT] Standing Rugged Brazier - DO NOT USE - neighborhood use only
-1247792,Collect [DNT] Rugged Fire Pit - DO NOT USE - neighborhood use only
+1247792,[DNT] [AUTOGEN] Collect Rugged Fire Pit - DO NOT USE - neighborhood use only
 1247793,收集奈辛瓦里裝飾鍬牙頭
 1247794,收集奈辛瓦里裝飾麋鹿頭
 1247795,收集虛無腐化圓廳
@@ -381615,7 +381664,7 @@ ID,Name_lang
 1248042,收集有罩鐵燈籠
 1248043,收集暴風城路燈
 1248044,收集魔血祭壇複製品
-1248045,Collect [DNT] Dreadscar Battle Planning Map - do not use - new asset
+1248045,[DNT] [AUTOGEN] Collect Dreadscar Battle Planning Map - do not use - new asset
 1248046,收集五晨戰略桌
 1248047,收集黑穫旌旗
 1248048,召喚典籍
@@ -382606,7 +382655,9 @@ ID,Name_lang
 1249681,閃電箭
 1249683,[DNT] Test Sound Lightbloom Bolt
 1249684,暗流毒液
+1249685,錐形絲網
 1249687,[DNT] Free Animal
+1249688,可愛的織網者
 1249690,Npc Join Player Party
 1249691,探究者的決心
 1249692,[DNT] Fire Beam End
@@ -382688,8 +382739,10 @@ ID,Name_lang
 1249791,連環打：幽冥掌
 1249793,復活寵物
 1249794,12.0 Delves - TwilightsBlade02 - V01 - Spear Trap: Closed (Hufton)
+1249795,穹頂絲網
 1249796,破碎天幕
 1249797,破碎天幕
+1249798,退出
 1249800,弧光法力
 1249801,弧光法力
 1249802,鋒利鐵絲
@@ -382745,7 +382798,7 @@ ID,Name_lang
 1249912,暮光倒影
 1249913,{DNT} Play Movie
 1249928,[DNT] Arcane Dunk Charge
-1249929,Magic Broom [PH]
+1249929,送貨掃帚
 1249930,[DNT] Kill Credit
 1249931,飛舞刀刃
 1249932,鮮血合約
@@ -382827,7 +382880,7 @@ ID,Name_lang
 1250055,虛無之握
 1250057,Broom Ride [DNT]
 1250058,捉鬼
-1250059,Catch Ghost [PH]
+1250059,鬼魂光束
 1250061,防護
 1250062,[DNT] Worm Chomp
 1250063,[DNT] Worm Chomp - Ping Vehicle
@@ -382839,7 +382892,7 @@ ID,Name_lang
 1250069,[DNT] Kill Credit
 1250070,Cancel Aura [DNT]
 1250071,至暗烈焰
-1250072,收集靈魂
+1250072,收集鬼魂
 1250073,"[DNT] Remove 1 stack, add to tank"
 1250076,Prey Torment Clone Visuals [DNT]
 1250078,無限潛能
@@ -382979,7 +383032,7 @@ ID,Name_lang
 1250281,11.2 Delves - Fungarians01 - V04 - Pickup and Carry Object: Send Event (Hufton)
 1250283,[dnt] 12.0 - Silvermoon - Jet Says C - Sig Roth D
 1250284,[dnt] 12.0 - Silvermoon - Roth Says D - Sig Jet E
-1250285,試鯊者紋角麋
+1250285,試鯨者紋角麋
 1250287,踏冰者紋角麋
 1250288,登壁者紋角麋
 1250292,Coffee Tray [DNT]
@@ -383126,7 +383179,6 @@ ID,Name_lang
 1250528,兇殺路魚鉤
 1250529,兇殺路魚鉤
 1250530,長城智慧
-1250531,油火驚喜
 1250533,送貨者的精煉藥劑
 1250541,永恆詛咒的回音
 1250546,穿心者符印
@@ -383862,6 +383914,7 @@ ID,Name_lang
 1251602,與莫菈塔莉的恆龍集會
 1251603,專業工具
 1251604,收集赤紅水晶柱
+1251605,收集赤紅水晶核
 1251606,收集赤紅水晶碎片
 1251607,[DNT] Random Conversation - Enter
 1251608,[DNT] Random Conversation - Midway
@@ -383939,7 +383992,7 @@ ID,Name_lang
 1251685,古怪火雞
 1251686,無縛暗影
 1251687,[DNT] - Fire
-1251689,渾水火雞
+1251689,茄紫戰鬥火雞
 1251690,獲獎火雞
 1251695,[DNT] Boss 4 Ready Cosmetics
 1251696,穿雲者
@@ -384098,6 +384151,7 @@ ID,Name_lang
 1251918,暮色之駭
 1251920,光鑄
 1251921,暮色之駭
+1251934,咿莫嗄
 1251939,深根海藻
 1251941,暮色之駭
 1251943,舉杯慶祝
@@ -385045,7 +385099,7 @@ ID,Name_lang
 1253498,收集金霧葡萄
 1253499,Collect [DNT] [AUTOGEN] 12BE_BloodElf_Food_Meat01.m2
 1253500,收集奢華莓子派
-1253501,Collect [DNT] Elegant Silvermoon Dessert Tray - DO NOT USE - duplicate
+1253501,[DNT] [AUTOGEN] Collect Elegant Silvermoon Dessert Tray - DO NOT USE - duplicate
 1253502,Collect [DNT] [AUTOGEN] 12BE_BloodElf_Food_Cheese01.m2
 1253503,Throw Ingredient 1 (DNT)
 1253504,Throw Ingredient 2 (DNT)
@@ -385523,8 +385577,8 @@ ID,Name_lang
 1254105,收集一袋密封的烘烤卡法
 1254106,收集達拉然濃縮咖啡機
 1254107,收集純淨食人妖水罐
-1254108,Collect [DNT] [AUTOGEN] 12TR_Amani_Cooking_Mug01.m2
-1254109,Collect [DNT] [AUTOGEN] 12TR_Amani_Cooking_Mug02.m2
+1254108,收集阿曼尼獸角燒杯
+1254109,收集阿曼尼獸角杯子
 1254110,收集真菌藤架
 1254111,跳躍衝鋒
 1254112,鎖定
@@ -386546,7 +386600,7 @@ ID,Name_lang
 1255866,虛無箭
 1255867,虛無箭
 1255873,收集聖匣帳篷
-1255874,Collect [DNT] Horde Warlord's Throne - DO NOT USE - new asset here
+1255874,[DNT] [AUTOGEN] Collect Horde Warlord's Throne - DO NOT USE - new asset here
 1255876,收集部落督軍王座
 1255877,收集貝拉梅斯前門
 1255878,收集新年慶祝者海生館
@@ -386943,16 +386997,16 @@ ID,Name_lang
 1256408,Add [DNT] [AUTOGEN] 11WE_WildElves_Decor_HangingBanner03.m2 to storage
 1256409,Add [DNT] [AUTOGEN] 12BE_BloodElf_Crafting_Forge01.m2 to storage
 1256410,Add [DNT] [AUTOGEN] 12BE_BloodElf_Decor_DraperySet03_Small.m2 to storage
-1256411,Collect [DNT] 12PH_Opulent_INE01_Partition_Pillar.wmo - DO NOT USE - unfinished
-1256412,Collect [DNT] 12PH_Opulent_INE01_Partition_W_L.wmo  - DO NOT USE - unfinished
+1256411,[DNT] [AUTOGEN] Collect 12PH_Opulent_INE01_Partition_Pillar.wmo - DO NOT USE - unfinished
+1256412,[DNT] [AUTOGEN] Collect 12PH_Opulent_INE01_Partition_W_L.wmo - DO NOT USE - unfinished
 1256413,Add [DNT] [AUTOGEN] 12RU_Rutaani_Decor_Fountain01.m2 to storage
-1256414,Collect [DNT] 12PH_Opulent_INE01_Partition_W_S.wmo - DO NOT USE - unfinished
+1256414,[DNT] [AUTOGEN] Collect 12PH_Opulent_INE01_Partition_W_S.wmo - DO NOT USE - unfinished
 1256415,Add [DNT] [AUTOGEN] 12BE_BloodElf_Navigation_FenceCapper01.m2 to storage
-1256416,Collect [DNT] 12PH_Opulent_INE01_Partition_W_L_Arch.wmo - DO NOT USE - unfinished
+1256416,[DNT] [AUTOGEN] Collect 12PH_Opulent_INE01_Partition_W_L_Arch.wmo - DO NOT USE - unfinished
 1256417,Add [DNT] [AUTOGEN] 12TR_Amani_Ritual_Sarcophagus03.m2 to storage
-1256418,Collect [DNT] 12PH_Opulent_IBE01_Partition_W_L.wmo - DO NOT USE - duplicate
+1256418,[DNT] [AUTOGEN] Collect 12PH_Opulent_IBE01_Partition_W_L.wmo - DO NOT USE - duplicate
 1256419,Add [DNT] [AUTOGEN] 11WE_WildElves_Decor_WallShelf02.m2 to storage
-1256420,Collect [DNT] 12PH_Opulent_IBE01_Partition_W_S.wmo - DO NOT USE - duplicate
+1256420,[DNT] [AUTOGEN] Collect 12PH_Opulent_IBE01_Partition_W_S.wmo - DO NOT USE - duplicate
 1256421,Add [DNT] [AUTOGEN] 11WE_WildElves_Decor_Jug01.m2 to storage
 1256422,Add [DNT] [AUTOGEN] 12RU_Rutaani_Decor_Fountain01_LightBloom.m2 to storage
 1256423,Add [DNT] [AUTOGEN] 12RU_Rutaani_Storage_SporePod01_LightBloom.m2 to storage
@@ -388000,7 +388054,7 @@ ID,Name_lang
 1257962,收集Z-205機械裝置
 1257963,收集上好油的機器輪齒
 1257964,收集應急的電氣耦合
-1257965,Collect [DNT] Gnomeregan Recyli-Kiln - DO NOT USE - duplicate
+1257965,[DNT] [AUTOGEN] Collect Gnomeregan Recyli-Kiln - DO NOT USE - duplicate
 1257966,收集迷你充能站
 1257967,收集電流儲存和維護裝置
 1257968,收集春綻吊椅
@@ -388200,7 +388254,7 @@ ID,Name_lang
 1258208,12.0.5 Event - Prop Hunt - Funiture - Anchor
 1258209,特強的永歌鑽石
 1258210,大地的永歌鑽石
-1258211,Collect [DNT] Sandy Vulpera Banner - do not use - duplicate
+1258211,[DNT] [AUTOGEN] Collect Sandy Vulpera Banner - do not use - duplicate
 1258212,收集小型烈風方桌
 1258213,收集巨魔勇士頭顱戰利品
 1258216,強風奔騰
@@ -388563,12 +388617,12 @@ ID,Name_lang
 1258770,醞釀的風暴
 1258771,醞釀的風暴
 1258776,解除坐騎
-1258778,[PH] Pumpkin Missile
+1258778,南瓜發射器
 1258779,Kill Credit (DNT)
 1258781,撕裂觸鬚
-1258782,[PH] Pumpkin
+1258782,南瓜發射器
 1258785,Kill Credit (DNT)
-1258787,[PH] Pumpin Impact
+1258787,南瓜頭
 1258788,暗潮
 1258789,撕裂觸鬚
 1258790,[DNT] Maintain Anais Summon
@@ -389300,6 +389354,7 @@ ID,Name_lang
 1259833,飛行書籍
 1259834,Teleport (DNT)
 1259835,[DNT] Summon Pinata
+1259836,[DNT] Pinata Timer
 1259837,[DNT] Sling-a-ma-jig Aura Maintain
 1259838,毀滅種子
 1259839,虛無能量
@@ -389347,7 +389402,7 @@ ID,Name_lang
 1259915,狂舞殘殺
 1259916,[DNT] Teleport to Zuldazar
 1259917,[DNT] Conversation
-1259919,Collect [DNT] Legion's Fel Brazier - DO NOT USE - new asset in place
+1259919,[DNT] [AUTOGEN] Collect Legion's Fel Brazier - DO NOT USE - new asset in place
 1259920,[DNT] Teleport to Zim'Torga
 1259921,虛無氣息
 1259922,致命偷襲
@@ -389589,7 +389644,7 @@ ID,Name_lang
 1260358,蠕行
 1260359,事件視界
 1260360,收集影爐石椅
-1260361,Collect [DNT] Kharanos Stone Bed - DO NOT USE - new asset present
+1260361,[DNT] [AUTOGEN] Collect Kharanos Stone Bed - DO NOT USE - new asset present
 1260362,召喚骷髏
 1260363,收集翼息信號火盆
 1260364,收集沃卓肯掛燈
@@ -390353,11 +390408,13 @@ ID,Name_lang
 1261419,光綻箭雨
 1261420,取得
 1261421,Trophy (DNT)
+1261422,Start Talking Head Convo [DNT]
 1261423,臣服虛無
 1261424,Faction Override - Alliance to Horde (DNT)
 1261426,Isle of Quel'Danas - Environment Set Default
 1261427,Isle of Quel'Danas - Environment Set 00
 1261428,[DNT] Fish Pickup
+1261429,Start Talking Head Convo [DNT]
 1261430,Wand Sheath [DNT]
 1261431,Isle of Quel'Danas - Environment Set 01
 1261432,Isle of Quel'Danas - Environment Set 02
@@ -390365,6 +390422,7 @@ ID,Name_lang
 1261434,Isle of Quel'Danas - Environment Set 03
 1261435,Isle of Quel'Danas - Environment Set 04
 1261436,傳送
+1261437,Start Talking Head Convo [DNT]
 1261439,惡意射線
 1261440,傳送
 1261441,[DNT]  Teleport - Orange Visual
@@ -390607,6 +390665,7 @@ ID,Name_lang
 1261810,Teleport (DNT)
 1261812,添加
 1261814,[DNT] Void Orb - Ground Effect - Spawning  (JTL)
+1261815,幽靈槍
 1261816,添加
 1261817,添加
 1261818,添加
@@ -390623,6 +390682,7 @@ ID,Name_lang
 1261831,崩解空無核心
 1261832,腐化空無核心
 1261833,鋒銳鋸齒
+1261835,OnLunkerr Handler (Harpooned!) [DNT]
 1261837,狂熱空無核心
 1261838,飢渴空無核心
 1261839,裂隙之綻
@@ -391892,8 +391952,12 @@ ID,Name_lang
 1263578,Player Action React (DNT)
 1263580,凝霜粉碎
 1263581,聖光生長物
+1263582,魚叉繩索張力
 1263583,頭暈
+1263584,OnGhost Handler (Harpooned Cosmetic!) [DNT]
 1263585,凝霜粉碎
+1263586,用力拉
+1263587,Harpoon Victory Pull Visual
 1263588,凝霜粉碎
 1263589,以太族之影
 1263590,凝霜粉碎
@@ -391907,7 +391971,10 @@ ID,Name_lang
 1263600,輔助
 1263601,臣服於虛無
 1263602,墓地
+1263603,精準跳躍充能
+1263604,魚叉拉扯
 1263605,祈倫托太陽吊燈
+1263606,按下捲線按鈕
 1263607,"[DNT] Forgotten Oubliette - Interact, Increment PDE"
 1263608,Cosmetic Luminbulb [DNT]
 1263609,Kill Credit (DNT)
@@ -391970,10 +392037,12 @@ ID,Name_lang
 1263672,Summon Students [DNT]
 1263673,[DNT] Sniper Rifle Vehicle - Summon Lysikas
 1263674,[DNT] Summon Decimus
+1263677,魚叉繩索長度
 1263678,"[DNT] SNiper Rifle Vehicle - Ride Vehicle, Aura"
 1263679,[DNT] SNiper Rifle Vehicle - Ride Vehicle Reverse Cast
 1263680,聖光孢子
 1263681,[DNT] Mirror Player
+1263682,魚叉
 1263683,傳送
 1263684,[DNT] Sniper Rifle Vehicle - Maintain Summon
 1263685,鑿子
@@ -392045,6 +392114,7 @@ ID,Name_lang
 1263762,聖光輻輝
 1263763,死亡之握
 1263764,死亡之握
+1263765,幽靈槍
 1263766,死亡之握
 1263767,虛無風暴
 1263768,聖光祝福
@@ -392111,8 +392181,10 @@ ID,Name_lang
 1263843,裂隙災變
 1263844,對戰中
 1263845,[DNT] Instakill Other
+1263846,幽靈槍
 1263847,<DNT> Void Obelisk Spawn
 1263848,[DNT] Light Trail Scene
+1263851,沒中！
 1263852,套裝：精緻深灰魔紋
 1263853,琪瑞安志士捲墊
 1263854,套裝：精緻淡紫魔紋
@@ -394462,10 +394534,11 @@ ID,Name_lang
 1266977,節制恩澤
 1266980,陰暗哈洛爾
 1266981,秘法發射
+1266982,王者之轎
 1266984,升起篝火
 1266985,碾碎
 1266988,AI Cast AoE
-1266989,Ghostly Scream [PH]
+1266989,鬼魅尖嘯
 1266990,Kill Credit (DNT)
 1266991,虛無之怒
 1266992,虛無之怒
@@ -394538,6 +394611,7 @@ ID,Name_lang
 1267074,[DNT] [No Visual]Murloc move to point 03
 1267075,播放動畫：麥格尼保護達格蘭
 1267076,[DNT] Summon Decimus
+1267077,血色女士
 1267080,古語邪咒
 1267081,古語邪咒
 1267082,雙重碾碎
@@ -395455,7 +395529,7 @@ ID,Name_lang
 1269699,收集偉南的結界複製品
 1269700,收集哈拉尼爾斜躺床
 1269701,收集哈朗達花期燈
-1269702,Collect [DNT] 11WE_WildElves_Lighting_Campfire01_off.m2 - DO NOT USE - no off lights
+1269702,[DNT] [AUTOGEN] Collect 11WE_WildElves_Lighting_Campfire01_off.m2 - DO NOT USE - no off lights
 1269703,收集世界之根複製品
 1269704,收集根芒路燈
 1269705,收集工匠聯盟能量桶
@@ -395821,7 +395895,7 @@ ID,Name_lang
 1270381,收集簡約阿曼尼籃子
 1270382,Collect [DNT] [AUTOGEN] 12TR_Amani_Storage_Basket02.m2
 1270383,收集縛繩的阿曼尼籃子
-1270384,Collect [DNT] [AUTOGEN] 12TR_Amani_Storage_Basket05.m2
+1270384,收集磨損的阿曼尼祭籃
 1270385,Collect [DNT] [AUTOGEN] 11WE_WildElves_Cooking_Ladle01.m2
 1270386,Collect [DNT] [AUTOGEN] 12BE_BloodElf_Structure_Statue03.M2
 1270387,[DNT] Start conversation
@@ -396688,7 +396762,7 @@ ID,Name_lang
 1271498,收集銀河虛無之痕壁壘
 1271499,收集祖阿曼三層架
 1271500,收集阿曼尼戰利品外框
-1271501,Collect [DNT] [AUTOGEN] 12TR_Amani_Decor_AnimalTrophy02.m2
+1271501,收集牆飾阿曼尼動物戰利品
 1271502,收集祖阿曼軍械架
 1271503,收集綻放熔爐
 1271504,收集昂西亞的呼喚
@@ -396775,7 +396849,7 @@ ID,Name_lang
 1271618,虛無之慾
 1271620,呼吸量表
 1271621,AI Brain - Generic - NPCs Interact: Set Partner Variable (Hufton)
-1271622,[DNT] Head Mason's Tablet
+1271622,[DNT] Tainted Page
 1271623,冰霜新星
 1271625,[DNT] Shadowgraft Harness
 1271626,AI Brain - Generic - NPCs Interact: Sparring (Hufton)
@@ -396964,6 +397038,8 @@ ID,Name_lang
 1271910,野性印記醒目標示
 1271911,真言術：韌焦點
 1271912,青銅龍的祝福醒目標示
+1271916,Cleanup After Cutscene SFO [DNT]
+1271917,Play Scene [DNT]
 1271918,沐聖之觸
 1271922,[DNT] Turn-in Trigger: Cradenza
 1271924,New Warrior Talent [NYI]
@@ -397043,24 +397119,24 @@ ID,Name_lang
 1272036,以太族管線
 1272037,以太族技術
 1272038,共享苦痛
-1272039,Collect [DNT] 12PH_Leg_Worgen_Bench_02.M2
+1272039,[DNT] [AUTOGEN] Collect 12PH_Leg_Worgen_Bench_02.M2
 1272040,收集雷霆圖騰郵箱
-1272041,Collect [DNT] 12PH_Leg_7NE_Nightelf_Chair03.M2
+1272041,[DNT] [AUTOGEN] Collect 12PH_Leg_7NE_Nightelf_Chair03.M2
 1272042,收集天織阿曼尼掛毯
 1272043,收集綠藤阿曼尼掛毯
 1272044,收集地皮阿曼尼掛毯
 1272045,收集虛無精靈火炬
 1272046,收集宇宙虛無篝火
-1272047,Collect [DNT] [AUTOGEN] 12TR_Amani_Decor_WallTapestry04.m2
-1272048,Collect [DNT] [AUTOGEN] 12TR_Amani_Decor_WallTapestry05.m2
-1272049,Collect [DNT] [AUTOGEN] 12TR_Amani_Decor_WallTapestry06.m2
+1272047,收集藍色阿曼尼掛毯
+1272048,收集綠色阿曼尼掛毯
+1272049,收集棕色阿曼尼掛毯
 1272050,Collect [DNT] [AUTOGEN] 12VDL_Arid_Tendril_Top_B01.m2
 1272051,Collect [DNT] [AUTOGEN] 12VDL_Main_Plant_JellyPod_B02.m2
 1272052,Collect [DNT] [AUTOGEN] 12VDL_Arid_Plant_GlowShrub_A03.m2
 1272053,Collect [DNT] [AUTOGEN] 12VDL_Arid_Plant_VoidFingers_B01.m2
 1272054,收集虛無之縛牢房
 1272055,收集混沌虛無淵喉
-1272056,收集開啟的多曼納爾儲物箱
+1272056,收集打開的多曼納爾儲物箱
 1272057,收集多曼納爾條紋儲物箱
 1272058,Collect [DNT] [AUTOGEN] 12XP_Generic_BearTotem_Ice01.m2
 1272059,Collect [DNT] [AUTOGEN] 12XP_Generic_ElementalFloatingRocks01.m2
@@ -397363,12 +397439,12 @@ ID,Name_lang
 1272506,收集樂吱的歡樂列車牆
 1272507,收集吉爾尼斯備用馬鞍
 1272509,收集森林之心旌旗
-1272510,Collect [DNT] 12PH_Leg_PA_innBench_01.M2
+1272510,[DNT] [AUTOGEN] Collect 12PH_Leg_PA_innBench_01.M2
 1272511,收集祖阿曼吊掛火爐
 1272512,收集妖術墳墓火盆
 1272513,收集阿曼尼結界妖術
-1272514,Collect [DNT] [AUTOGEN] 12TR_Amani_Navigation_Canoe01.m2
-1272515,Collect [DNT] [AUTOGEN] 12TR_Amani_Navigation_Oar01.m2
+1272514,收集阿曼尼釣魚獨木舟
+1272515,收集破舊的阿曼尼船槳
 1272516,收集虛無精靈睡墊
 1272517,收集吉祥古董展示櫃
 1272518,收集吉祥水墨大師畫桌
@@ -397504,7 +397580,7 @@ ID,Name_lang
 1272805,收集阿拉卡鍊金師的混合物
 1272806,收集阿拉卡鍊金師的瓶子
 1272807,[DNT] Talking Head: ZA Scenario C4 S2
-1272808,Collect [DNT] 12PH_Leg_7NE_Druid_StoneRune01.M2
+1272808,[DNT] [AUTOGEN] Collect 12PH_Leg_7NE_Druid_StoneRune01.M2
 1272809,聖光審判
 1272810,聖光審判
 1272811,+1000光環
@@ -398781,7 +398857,7 @@ ID,Name_lang
 1277562,至暗之夜驅逐
 1277563,Learned From You Scene (DNT)
 1277564,傳送
-1277565,穿過眼睛
+1277565,視界
 1277566,啟動
 1277567,啟動
 1277568,12.0.5 Event - Prop Hunt - Scenario - Boot from Instance
@@ -398865,7 +398941,7 @@ ID,Name_lang
 1277748,吞噬
 1277749,掩護射擊
 1277750,Collect [DNT] [AUTOGEN] 12FN_Fungarian_Lighting_LampPost01.m2
-1277751,Collect [DNT] - Anim doesn't play - Self-Pouring 590 Quel'Lithien Red
+1277751,[DNT] [AUTOGEN] Collect - Anim doesn't play - Self-Pouring 590 Quel'Lithien Red
 1277752,成就完成
 1277753,對話
 1277754,召喚僕從
@@ -399297,11 +399373,13 @@ ID,Name_lang
 1278959,狂焰
 1278960,黑暗裂隙
 1278961,看起來像玩家
+1278962,[DNT] Reuse
 1278963,黑暗裂隙
 1278964,黑暗裂隙
 1278966,載具看起來像玩家
 1278967,黑暗裂隙
 1278969,狂上加狂
+1278970,顫慄尖嘯
 1278971,[DNT] Random Arcane Charge - Large
 1278972,秘法折磨
 1278973,[DNT] Prop Hunt: Spellbreaker Outfit On Vehicle
@@ -399324,7 +399402,7 @@ ID,Name_lang
 1278993,設定代理人目標
 1278994,骨堆
 1278995,[DNT] Remove Item
-1278996,Collect [DNT] DR_DRAENEI_HOLORUNES02.M2 - Do not use - duplicate
+1278996,[DNT] [AUTOGEN] Collect DR_DRAENEI_HOLORUNES02.M2 - Do not use - duplicate
 1278997,收集亞榭洛之眼
 1278998,收集爐缸許願蠟燭架
 1278999,收集阿曼尼訓練假人
@@ -399363,6 +399441,16 @@ ID,Name_lang
 1279082,準備完成
 1279084,卡斯拉納提爾之痕
 1279085,Summon [DNT]
+1279087,崩解
+1279088,崩解
+1279090,崩解
+1279091,崩解
+1279093,崩解
+1279094,崩解
+1279096,崩解
+1279097,崩解
+1279098,崩解
+1279099,崩解
 1279101,[DNT] Attack Ethereal
 1279104,削切
 1279105,[DNT] Attack Ethereal
@@ -399372,12 +399460,14 @@ ID,Name_lang
 1279110,傳送
 1279111,Null Zone Ramp - Sound Only
 1279112,12.1 Delves - Fungarians03 - V04 - Intro NPC: Interact Spell
+1279113,[DNT] Hookshot Landing
 1279114,烏蘭跳躍
 1279115,[DNT] Altar Empowered
 1279116,[DNT] Altar Empowered
 1279117,[DNT] Altar Empowered
 1279118,淨化痛苦
 1279119,[DNT] Altar Empowered
+1279120,崩解
 1279121,地脈噬食
 1279122,[DNT] Convert Accolade Fragments to Field Accolades
 1279123,薩拉斯鍊金連體服
@@ -399409,6 +399499,7 @@ ID,Name_lang
 1279180,旋風烈焰
 1279181,旋風烈焰
 1279182,[DNT] Cancel Treasure Aura - Alliance
+1279185,砂岩甲殼
 1279186,暗影衝擊
 1279187,十字軍聖擊
 1279189,愉悅之虐
@@ -399416,6 +399507,7 @@ ID,Name_lang
 1279192,Convo if Condition Met [DNT]
 1279194,縮小
 1279196,Highlight Aura [DNT]
+1279199,[DNT] Hookshot Landing Knockback and Parachute
 1279200,全體消滅
 1279201,坡道區域觸發點
 1279202,毒液箭
@@ -399425,10 +399517,12 @@ ID,Name_lang
 1279211,愉悅之虐
 1279213,放置屍體
 1279216,愉悅之虐
+1279217,[DNT] Hookshot
 1279220,[DNT] 1. Maintain Skiff Summon
 1279221,[DNT]Shield
 1279222,[DNT] 2. Skiff Summon
 1279223,屍體掉落
+1279224,砂岩甲殼
 1279228,Allied Race Unlock Widget (DNT)
 1279229,Extra Action Button [DNT]
 1279233,俯衝彈
@@ -399459,6 +399553,7 @@ ID,Name_lang
 1279349,[DNT] Arcane Dome - Miniboss
 1279350,喚來夢魘
 1279351,儀式地點
+1279352,石鑄哨兵
 1279353,催狂觸手
 1279354,虛無碾壓
 1279355,鬼影幢幢
@@ -399544,6 +399639,7 @@ ID,Name_lang
 1279511,餵食虛無
 1279512,星辰破片
 1279514,靈魂爆發
+1279516,粉碎甲殼
 1279517,靈魂爆發
 1279518,虛無衝擊
 1279519,暗潮
@@ -399564,10 +399660,12 @@ ID,Name_lang
 1279592,地裂
 1279595,[DNT] Arcane Dome - Miniboss - Summoned Collision
 1279596,虛無之觸球體符文
+1279597,暗焰
 1279599,火焰釋放符文
 1279603,自癒符文
 1279604,虛無污化護盾符文
 1279605,山貓迅閃符文
+1279607,暗焰
 1279609,致命之力符文
 1279610,加速燃燒符文
 1279612,精通狡詐符文
@@ -399595,7 +399693,7 @@ ID,Name_lang
 1279662,收集繁翠花園獸欄
 1279663,Collect [DNT] [AUTOGEN] 12PH_Folk_Candelabra01.m2
 1279664,收集純淨鄉村蠟燭
-1279665,Collect [DNT] [AUTOGEN] 12PH_Opulent_Chair_Dining_Small01.M2
+1279665,[DNT] [AUTOGEN] Collect 12PH_Opulent_Chair_Dining_Small01.M2
 1279666,暗影長矛
 1279667,暗影長矛
 1279668,暗影矛兵
@@ -399694,6 +399792,7 @@ ID,Name_lang
 1279798,時光旅行
 1279799,尖牙突刺
 1279800,時光旅行
+1279801,鉤槍降落傘
 1279803,引導：絞殺
 1279804,Necro Explosion - Destroyed [DNT]
 1279805,虛無衝擊
@@ -399851,6 +399950,7 @@ ID,Name_lang
 1280128,死靈傳送
 1280129,"12.1 Delves - DevouringHost01 - V04 - Impenetrable Poison: Spawn Spell, Large"
 1280131,灼熱之光
+1280132,暗焰
 1280133,掃擊
 1280134,灼熱之光
 1280137,屈心魔
@@ -399876,6 +399976,7 @@ ID,Name_lang
 1280160,水上行走
 1280161,腐蝕碎擊
 1280162,水上行走
+1280163,砂岩甲殼
 1280164,12.0.5 Prop Hunt - Reward Chest - Base
 1280165,豐盈占兆
 1280167,傳送
@@ -399886,6 +399987,7 @@ ID,Name_lang
 1280172,暗影惡魔
 1280173,救世信標
 1280182,烏拉特克毒池
+1280187,沙咒
 1280189,惡意爆發
 1280190,抓住她…
 1280199,惡意爆發
@@ -399916,6 +400018,7 @@ ID,Name_lang
 1280264,死靈護盾
 1280272,[DNT] Have Bees
 1280273,花之閃光
+1280275,粉碎甲殼
 1280276,彩虹產生裝置
 1280277,[DNT] Need Bees
 1280278,[DNT] Boss Emote at Self
@@ -399927,6 +400030,7 @@ ID,Name_lang
 1280292,風暴之盾
 1280293,風暴之盾
 1280297,霧脈
+1280303,[DNT] Build Hex Brazier
 1280304,灰暗斬擊
 1280307,靈魂彈幕
 1280311,收集五晨旗幟
@@ -399971,6 +400075,7 @@ ID,Name_lang
 1280420,Test Item [DNT] - When X has poison dispelled - Dummy Tracker
 1280421,Test Item [DNT] - When X has poison dispelled
 1280422,軟泥爆炸
+1280426,[DNT] Construction Placement Visual State with Requirement Calls
 1280427,噴濺
 1280434,維爾之翼
 1280436,神經消音
@@ -399998,6 +400103,9 @@ ID,Name_lang
 1280482,克索諾斯的引導
 1280483,煉獄
 1280485,餐點
+1280489,[DNT] Construction Area Trigger [Special Action Button]
+1280491,建造！
+1280492,[DNT] Construction Special Action Aura
 1280493,Collect [DNT] [AUTOGEN] 12PH_Leg_7NB_Nightborn_Fountain02.M2
 1280494,收集純淨卡多雷蠟燭
 1280495,[DNT] Mood Decor - NONE
@@ -400022,6 +400130,7 @@ ID,Name_lang
 1280559,傳送
 1280560,卑鄙臭柄
 1280561,傳送
+1280562,臨時建造
 1280563,拿著斯庫茲
 1280567,[DNT] BCT Lines
 1280588,測試移除宇宙之殼
@@ -400117,6 +400226,7 @@ ID,Name_lang
 1280863,深海碎擊
 1280865,歷史學家典籍
 1280868,次元裂隙
+1280869,建造！
 1280870,綁架施法者
 1280871,劇毒傾瀉
 1280872,空無之握
@@ -400127,6 +400237,7 @@ ID,Name_lang
 1280880,虛無再生
 1280881,劇毒傾瀉
 1280882,幻象之行
+1280884,建造！
 1280885,[DNT] Conversation
 1280886,虛無爆炸
 1280887,[DNT] Despawn Boss Time
@@ -400155,12 +400266,14 @@ ID,Name_lang
 1280924,活力恩澤
 1280925,活力恩澤
 1280926,聖光降雨
+1280927,[DNT] Build! Special Action Highlight
 1280928,虛無順劈斬
 1280929,血騎士訓練手冊
 1280930,白銀之手侍從聖契
 1280934,滴毒尖牙
 1280935,滴毒尖牙
 1280936,滑移步
+1280937,[DNT] Construction Area Trigger [Empty]
 1280939,成就檢查
 1280940,虛空裝甲
 1280942,[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12BE_BloodElf_Navigation_SecretDoor03.M2
@@ -400765,6 +400878,7 @@ ID,Name_lang
 1281734,寂滅之怒
 1281735,寂滅之怒
 1281743,容器
+1281745,緊急降落
 1281746,[DNT] Periodic Test Spell
 1281747,觀測之地
 1281748,採礦
@@ -401044,6 +401158,7 @@ ID,Name_lang
 1282215,哈拉尼語
 1282216,Collect DO NOT USE - new asset coming - Well-Lit Incontinental Couch
 1282219,Cosmetic - On Fire [DNT]
+1282220,Cleanup After Cutscene SFO - Cancel Version [DNT]
 1282221,投擲
 1282222,[DNT] Send Event
 1282223,投擲
@@ -401054,6 +401169,10 @@ ID,Name_lang
 1282228,刺中！
 1282229,[DNT]
 1282230,[DNT]Light Source
+1282233,收集風井
+1282234,收集塑風者風鈴
+1282235,收集申多雷戰旗
+1282236,收集微風島簾幕
 1282239,[DNT] Cancel All Convos
 1282240,無盡行軍
 1282242,[DNT] Cancel All Convos
@@ -401133,6 +401252,8 @@ ID,Name_lang
 1282382,跟蹤獵物
 1282388,投擲蜂巢
 1282390,宇宙裂變
+1282391,Scenario Transition - Apply [DNT]
+1282392,Scenario Transition - Cancel [DNT]
 1282399,虛無標記
 1282400,聖光羽毛
 1282401,聖光羽毛
@@ -401211,17 +401332,22 @@ ID,Name_lang
 1282500,盤蛇祭壇之牙
 1282501,阿古斯的統治：莎珂蕾希女士
 1282502,阿古斯的統治：大術士艾黎瑟絲
+1282505,坐下
 1282506,Cancel Everything [DNT]
 1282507,暗影新星
 1282508,Play Stay A While Scene (DNT)
 1282509,惡意催化
 1282512,盤蛇祭壇之牙
+1282514,[DND] Throne - Enter - Summon Clone
+1282515,[DND] Clone Player
 1282516,惡意催化
 1282518,惡意催化
 1282520,雙牙毒素
 1282521,[DNT] Restored Coffer Key
+1282524,取消隱形
 1282525,惡意催化
 1282526,盤蛇祭壇之牙
+1282528,搭乘載具
 1282530,[DNT] Restored Coffer Key
 1282533,燃炎
 1282534,燃炎
@@ -401465,6 +401591,7 @@ ID,Name_lang
 1283015,[DNT] Shark Explode - Missiles
 1283025,[DNT] Kill Credit - Agility Course - Checkpoint
 1283026,[DNT] Kill Credit - Agility Course - End
+1283029,毀壞
 1283035,Trigger IGC - TSA [DNT]
 1283036,碎脈天空
 1283049,{DNT} Play Movie
@@ -401646,8 +401773,10 @@ ID,Name_lang
 1283467,尾巴猛擊
 1283468,沐浴艾恩之塵
 1283469,艾恩之塵結界
+1283470,詛咒
 1283472,[dnt] Channel: Anguish Beam to Target (reversed)
 1283473,信念熄滅
+1283474,詛咒
 1283485,斬首
 1283489,斬首
 1283490,穿山甲裝甲
@@ -401656,6 +401785,7 @@ ID,Name_lang
 1283493,[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12SN_Snakeoid_Decor_Tendril08.m2
 1283494,[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_Opulent_Table_Bar_Small01.M2
 1283495,[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_Opulent_Sconce01.M2
+1283496,收集申多雷手工枕頭
 1283497,[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS02.M2
 1283498,[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS03.M2
 1283499,[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 8HU_KULTIRAS_ROPELIGHTS04.M2
@@ -401674,8 +401804,12 @@ ID,Name_lang
 1283524,摸摸流浪動物
 1283526,[dnt] Imbuing
 1283528,[DNT] Player Cred for Stray Dropoff
+1283530,虛無箭
 1283532,12.0.5 Event - Prop Hunt - Label Bunny - GAME OVER - View Chest
+1283533,撕裂
 1283534,12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Summon
+1283535,奉獻
+1283536,奉獻
 1283537,12.1 Delves - TwilightsBlade01 - V04 - Cauldron: Spawn [Periodic]
 1283538,奧核回饋
 1283539,奧核屏障
@@ -401739,6 +401873,7 @@ ID,Name_lang
 1283642,Warrior - Midnight PrePatch - 11.2 Class Set 2pc
 1283643,Warrior - Midnight PrePatch - 11.2 Class Set 4pc
 1283644,Season Widget (DNT)
+1283645,"Set Health 75%, No Regen - Self [DNT]"
 1283647,Druid - Midnight PrePatch - 11.2 Class Set 2pc
 1283648,Druid - Midnight PrePatch - 11.2 Class Set 4pc
 1283649,Druid - Midnight PrePatch - 11.2 Class Set 2pc - Healing
@@ -401810,11 +401945,19 @@ ID,Name_lang
 1283762,捉迷藏陷阱選擇：鳴禽
 1283763,死刑宣判
 1283764,[dnt] Health reduction no regen
+1283765,生成
+1283766,[DNT] Script-Spawned Creature Monitor
 1283767,徹骨之寒
+1283768,生成
+1283769,互動
 1283770,防禦協定
+1283771,生成拉桿
 1283772,虛無之怒
 1283773,能量提升
+1283775,拉桿
+1283776,拉桿
 1283777,能量提升
+1283778,未解鎖
 1283779,卓越空無錘
 1283780,挺住！
 1283781,轉化飢餓湮滅元素
@@ -401840,6 +401983,7 @@ ID,Name_lang
 1283818,凶暴野獸
 1283819,牽幼犬
 1283820,[DNT] Ping Leasher
+1283823,打開箱子
 1283824,重置檢查
 1283826,[DNT] Player Cred for Poop Pickup
 1283827,重置檢查
@@ -401852,11 +401996,17 @@ ID,Name_lang
 1283834,磨斧者
 1283835,冰川超載
 1283836,磨斧者
+1283837,若司之翼尋暗者
+1283838,若司之翼尋淵者
 1283839,磨斧者
 1283840,磨斧者
 1283841,磨斧者
+1283845,[DNT] Companion Roc Mount - Master - Audio
 1283847,[DNT] Play Scene
 1283848,Guard Salute (DNT)
+1283851,[DNT] Companion Roc Mount - Head - Avian
+1283852,[DNT] Companion Roc Mount - Head - Feline
+1283853,[DNT] Companion Roc Mount - Head - Draconic
 1283856,空無射線
 1283859,12.0.5 Event - Prop Hunt - Winner's Podium - Stats - Last Hider Traveled
 1283863,Summon Attendant (DNT)
@@ -401868,9 +402018,11 @@ ID,Name_lang
 1283880,[DNT] Travel Pack
 1283884,[DNT] Cooldown Always Secret Test Spell
 1283885,[DNT] Cooldown Never Secret Test Spell
+1283886,建立格線
 1283887,岩石爆發
 1283888,[DNT] Aura Never Secret Test Spell
 1283889,岩石爆發
+1283890,法師格線 - 壁飾
 1283891,特大岩石
 1283893,特大岩石
 1283894,[DNT] Aura Always Secret Test Spell
@@ -402190,22 +402342,28 @@ ID,Name_lang
 1284553,投擲劇毒黏液
 1284554,位移爆裂
 1284555,[DNT] Cancel Sniffenseeker Guardian
+1284557,浮現
 1284558,吞噬無序
 1284561,有毒蒸汽
 1284562,[DNT] Cosmetic Venom Missile
 1284563,有毒蒸汽
 1284565,[DNT] Cosmetic Venom Missile
 1284566,武器庫：飛龍降伏者武器
+1284567,血跡
 1284568,[DNT] Circle Visual
 1284569,武器庫：煉獄花武器
 1284570,[DNT] Venomancer Cosmetic
+1284572,幼蟲死亡
 1284573,[DNT] Preyseeker's Prize
 1284574,伏擊
 1284577,火焰彈
 1284580,核心收割
 1284581,[DNT] Cancel Vehicle Auras
+1284582,浮現
+1284583,撕裂之爪
 1284584,[DNT] First Area Complete
 1284585,[DNT] Cosmetic Venom Missile
+1284586,持續出血
 1284587,攜帶靈魂之甕
 1284588,硫酸恆定
 1284589,進入黑暗之井
@@ -402219,9 +402377,11 @@ ID,Name_lang
 1284603,[DNT] Circle Visual
 1284605,Doomsayer Advert (DNT)
 1284606,硫酸恆定
+1284607,出血
 1284610,硫酸恆定
 1284611,Push conversation [DNT]
 1284612,Push conversation [DNT]
+1284613,浸血
 1284614,迅捷游泳
 1284615,丟蘋果
 1284616,充分進食
@@ -402249,7 +402409,8 @@ ID,Name_lang
 1284649,澎湃充分進食
 1284650,澎湃充分進食
 1284651,劇毒黏液
-1284654,遠古之卵
+1284653,Bloodsoaked FX
+1284654,石化的蛋
 1284655,塵霧之雲
 1284656,黃金灰燼災變
 1284657,投擲靈魂之甕
@@ -402398,6 +402559,7 @@ ID,Name_lang
 1284960,[DNT]Lindormi Path Visual (Missiles Version)
 1284961,Cosmetic - Freeze at Stand 0.0 sec Anim Kit
 1284963,不穩定打擊
+1284965,爆裂
 1284966,煙火
 1284967,比賽開始
 1284968,比賽開始
@@ -402416,6 +402578,7 @@ ID,Name_lang
 1284987,躍步恩典
 1284989,躍步恩典
 1284990,[DNT]Route Messaging
+1284991,爆發昏迷觸發
 1284992,寵物傷害
 1284993,神秘霧霾
 1284994,恐怖交響曲
@@ -402441,6 +402604,7 @@ ID,Name_lang
 1285022,生命力
 1285023,Visual [DNT]
 1285029,靈魂之球
+1285031,飽食
 1285032,視覺效果
 1285033,治療
 1285034,[DNT] Spawn Spell
@@ -402540,7 +402704,10 @@ ID,Name_lang
 1285185,[DNT] Investigate Dagger
 1285190,硫酸能量
 1285192,[DNT] Cosmetic - Mor'duun Dies
+1285194,Generator - Aqir Egg - Summon Larva
+1285195,Generator - Aqir Egg - Summon Larva
 1285199,[DNT] Dissolve In/Out
+1285200,Generator - Aqir Egg - Summon Larva
 1285203,[DNT]
 1285208,[DNT] Talking Head: Scenario C1 S3
 1285209,Kill Credit
@@ -402714,6 +402881,7 @@ ID,Name_lang
 1285498,笨重踩踏
 1285499,狂暴撕咬
 1285501,[DNT] Cosmetic Spawnin Missile
+1285502,On Public Scenario 01 (DNT)
 1285504,黑暗輻射
 1285505,[DNT] Open Door
 1285508,極熾火焰
@@ -402792,7 +402960,9 @@ ID,Name_lang
 1285594,重力井
 1285595,重力井
 1285597,釋放靈魂之球
+1285598,嗜血體驗
 1285599,玩家選擇
+1285600,嗜血
 1285601,[DNT] Speed Boost Charge
 1285602,聚集暴風
 1285604,聚集暴風
@@ -402861,6 +403031,7 @@ ID,Name_lang
 1285706,[DNT] Ethereal Trail Aura
 1285707,恐怖交響曲
 1285708,恐怖交響曲
+1285710,[DNT] Start Conversation
 1285711,恐懼進軍
 1285712,[DNT] Spark
 1285713,不穩定的秘法火花
@@ -402898,6 +403069,7 @@ ID,Name_lang
 1285758,Unset Flag [DNT]
 1285759,滑行逃脫
 1285760,滑行逃脫衝擊
+1285761,[DNT] Start Conversation
 1285762,毒蛇逃跑中！
 1285764,[DNT] Cosmetic Cast - Shadow
 1285765,[DNT] Cosmetic Cast - Shadow
@@ -402906,18 +403078,23 @@ ID,Name_lang
 1285768,取消繽趣相機
 1285769,[DNT] Cosmetic Cast - Shadow
 1285770,淨化痛苦
+1285771,[DNT] Start Conversation
 1285772,淨化痛苦
 1285773,REUSE
 1285774,淨化痛苦
 1285775,淨化痛苦
+1285776,[DNT] Play Scene
 1285777,牢牢凍住
 1285778,破冰者
 1285779,低壓氣流
+1285782,[DNT] Start Conversation
+1285789,[DNT] Start Conversation
 1285790,退出
 1285791,飢饞猛撲
 1285792,退出
 1285793,[DNT] Arcane Spark Periodic
 1285794,釋放野獸
+1285796,[DNT] Start Conversation
 1285797,Kill Credit (DNT)
 1285799,毒素之滴
 1285800,開始巫妖王
@@ -402929,8 +403106,11 @@ ID,Name_lang
 1285807,凝結體
 1285808,Lure Visual [DNT]
 1285809,清理玩具
+1285810,召喚工蟲
 1285812,拯救
+1285814,[DNT] Start Conversation
 1285815,吸血收割
+1285817,[DNT] Teleport
 1285818,吸血收割
 1285819,退出故事漫遊
 1285821,吸血收割
@@ -402941,15 +403121,20 @@ ID,Name_lang
 1285828,凜風大漩渦
 1285829,收集蓋上的辛多雷烹調鍋
 1285830,收集打開的辛多雷烹調鍋
+1285831,[DNT] Start Conversation
+1285832,[DNT] Start Conversation
 1285834,毒蛇之怒
 1285836,毒蛇之怒
 1285837,[DNT] Toss Battery - Pylon Self Damage
 1285838,綻放膽汁
 1285840,恐懼化身
+1285841,[DNT] Start Conversation
 1285842,恐懼化身
+1285843,[DNT] Start Conversation
 1285844,恐懼化身
 1285846,恐懼化身
 1285847,無懈可擊
+1285848,[DNT] Start Conversation
 1285850,開始薩拉塔斯
 1285851,開始精靈
 1285852,Kill Credit (DNT)
@@ -402986,6 +403171,7 @@ ID,Name_lang
 1285888,[DNT] Race Cancel
 1285889,[DNT] Player On Race Course
 1285890,返回賽道上！
+1285891,Event Send Test (DNT)
 1285892,綻放膽汁
 1285893,[DNT] Ping Sprint Charge Bunny
 1285894,光綻射線
@@ -403028,6 +403214,7 @@ ID,Name_lang
 1285957,看啊！
 1285958,看啊！
 1285961,烏拉特克領域
+1285962,摧毀
 1285965,烏拉特克領域
 1285966,小艇爆炸
 1285970,潛行
@@ -403042,6 +403229,7 @@ ID,Name_lang
 1285980,毒藥飛彈
 1285981,毒藥飛彈
 1285985,腐蝕高漲
+1285986,刺耳折磨
 1285988,聚集暴風
 1285991,接種艾恩之塵
 1285993,[DNT] Cosmetic - Shoot Bow and Set on Fire
@@ -403079,6 +403267,7 @@ ID,Name_lang
 1286054,Kill Credit (DNT) + Hog Aggro
 1286055,夥伴經驗值
 1286056,狂怒
+1286057,Initial Set Up Complete (DNT)
 1286064,屏障目標 - 只有聲音
 1286068,[DNT]Visual Improvement Aura
 1286082,劇毒膿血
@@ -403090,6 +403279,7 @@ ID,Name_lang
 1286089,顯示
 1286091,顯示小工具
 1286092,顯示
+1286093,Aqir Spawn Action Cleanup (DNT)
 1286094,孢子花
 1286097,孢子花
 1286098,[DNT] 12.1 Ulatek -  Campaign - Ch 1 - Cosmetic - Poison Beam Channel - Ulatek (RRN)
@@ -403128,8 +403318,11 @@ ID,Name_lang
 1286184,富饒恩澤
 1286187,銀月城傳送門
 1286190,劇毒之縛
+1286191,Generator - Aqir Larva - Mature into Drone
+1286193,Generator - Aqir Egg - Summon Larva - Larva Aura
 1286198,化為石頭2！
 1286199,[DNT] Exit - Kick Out Sequence
+1286202,Generator - Aqir Larva - Mature into Scarab
 1286215,凜風大漩渦
 1286217,圓圈
 1286218,富饒恩澤
@@ -403138,10 +403331,12 @@ ID,Name_lang
 1286225,嘲諷
 1286228,進入控制
 1286229,嘲諷
+1286235,Generator - Aqir Egg - Summon Larva - Larva Aura
 1286239,虛無鐐銬
 1286241,宇宙箭
 1286243,星殞術
 1286244,雷霆一擊
+1286245,Generator - Aqir Larva - Mature Action Set
 1286247,星殞術
 1286248,加入事件中
 1286249,[DNT] Add to Scenario Big One
@@ -403193,6 +403388,7 @@ ID,Name_lang
 1286319,束縛鐐銬
 1286320,孢子花
 1286321,[DNT Poison Breath
+1286322,Scenario 01 Aura (DNT)
 1286324,暗影之牙
 1286325,復仇追獵
 1286326,暗影之牙
@@ -403204,6 +403400,7 @@ ID,Name_lang
 1286332,Carry Staff of Shackles [DNT]
 1286333,吐毒者
 1286334,吐毒者
+1286336,Bonus Event (DNT)
 1286339,吐毒者
 1286340,吐毒者
 1286354,血紅反應
@@ -403262,6 +403459,8 @@ ID,Name_lang
 1286499,頑強勝利祝福
 1286503,惡意纏魂者
 1286505,[DNT] Cosmetic Area Necrotic
+1286507,Kill Credit (DNT)
+1286508,Kill Credit (DNT)
 1286511,Cosmetic - Teleport
 1286512,空無區域
 1286521,舒壓之流
@@ -403269,6 +403468,8 @@ ID,Name_lang
 1286526,收集縫補灼牙背包
 1286527,收集尖牙鱗皮小包
 1286528,[DNT] Add to Ritual Event
+1286531,套裝：艾薩拉暗鱗衣飾
+1286532,套裝：艾薩拉深鱗衣飾
 1286533,腐瓣花
 1286534,重置哈拉尼爾坐騎
 1286535,食物
@@ -403292,8 +403493,10 @@ ID,Name_lang
 1286572,裂隙開綻
 1286573,靈魂切離
 1286574,[DNT] Out of Bounds
+1286576,遠端乘坐
 1286577,天堂長槍
 1286579,[DNT] Serpent-Caller Cosmetic
+1286581,Toast Complete (DNT)
 1286592,一批冒險者迷霧紋章
 1286593,調查中
 1286594,調查中
@@ -403319,6 +403522,8 @@ ID,Name_lang
 1286615,[DNT] March of Time
 1286616,[DNT] March of Time
 1286617,靈魂切離
+1286618,摧毀
+1286619,亞基之怒
 1286620,靈魂切離
 1286621,分裂凝塊
 1286622,分裂凝塊
@@ -403363,6 +403568,7 @@ ID,Name_lang
 1286703,深淵釣手釣魚
 1286704,深淵水泡
 1286705,召喚深淵水泡
+1286707,On Boss Finale Scenario 01 (DNT)
 1286716,虛無之觸球體符文
 1286720,毒化之網
 1286721,虛無之觸球體符文
@@ -403458,6 +403664,7 @@ ID,Name_lang
 1286861,嚴寒蟲害
 1286862,[DNT] Score - Fish Points V2
 1286865,隊伍輪廓
+1286866,Kill Credit [DNT]
 1286869,汙穢噴吐
 1286870,補給貨車受到威脅。
 1286872,惡意爆發
@@ -403491,9 +403698,13 @@ ID,Name_lang
 1286915,死亡輓歌
 1286917,火箭彈幕
 1286918,永夜無光
+1286920,Boss Finale Toast Complete (DNT)
 1286921,冰縛烈焰
 1286922,冰縛烈焰
 1286938,赫哈達撤退
+1286939,Transfer into Scenario (DNT)
+1286940,Preload (DNT)
+1286941,Transfer back to Overworld (DNT)
 1286942,廢料炸彈
 1286943,釣手爪鉤
 1286944,窒息黑暗
@@ -403518,6 +403729,7 @@ ID,Name_lang
 1286970,火焰釋放符文
 1286971,妖術之王印記
 1286972,卵爆
+1286973,調查中
 1286974,汙穢噴吐
 1286976,Loa Trinket - Quest Tracking
 1286981,School of Fish - Visual
@@ -403651,8 +403863,11 @@ ID,Name_lang
 1287227,荒疫劇毒
 1287230,荒疫劇毒
 1287232,腐蝕毒液
+1287235,設置中
+1287236,準備中
 1287237,12.0.7 Showdowns - Naigtal - Event - Floating Shrooms Visual (Purple)
 1287238,12.0.7 Showdowns - Naigtal - Event - Floating Shrooms Jump (Purple)
+1287241,取得中
 1287243,凜風大漩渦
 1287244,蛇母之怒
 1287248,蛇母之怒
@@ -403711,8 +403926,11 @@ ID,Name_lang
 1287339,超載小龍鰻
 1287343,冰霜裂縫
 1287347,冰霜裂縫
+1287348,Teleport Normal (DNT)
+1287349,Teleport Normal (DNT)
 1287350,魚人攜帶
 1287351,冰霜裂縫
+1287352,Teleport Far Away (DNT)
 1287354,虛無驅逐
 1287355,吸取毒液
 1287356,Kill Credit (DNT)
@@ -403751,6 +403969,10 @@ ID,Name_lang
 1287406,[DNT] Breath Refill B
 1287407,[DNT] Breath Refill C
 1287408,呼吸補充
+1287409,預載訓練
+1287410,預載訓練
+1287411,預載訓練
+1287412,預載訓練
 1287413,牢牢凍住
 1287414,冰雨風暴
 1287415,屏障B3怪物
@@ -403838,12 +404060,17 @@ ID,Name_lang
 1287556,Destroy Repair Supplies Items [DNT]
 1287558,墓縛進擊
 1287559,淤泥波
+1287562,黑暗召喚
+1287563,孵化呼喚
+1287564,黑暗召喚
 1287565,閃電箭
+1287567,孵化呼喚
 1287568,電能打擊
 1287569,黏液
 1287572,破除附身
 1287575,電能打擊
 1287576,電能打擊
+1287577,孵化呼喚
 1287578,囓咬抽取
 1287579,沼泥
 1287580,破除附身
@@ -403893,6 +404120,7 @@ ID,Name_lang
 1287645,腐蝕散播
 1287646,[DNT] Collar
 1287647,無縛
+1287649,狂亂
 1287650,大解八塊
 1287651,狂暴
 1287652,孢子之殞
@@ -403973,6 +404201,7 @@ ID,Name_lang
 1287750,"Ingredient A,B,C,D Visuals"
 1287751,[DNT] Summon Skeleton
 1287753,12.1 Ula'tek - LS5 - Q03b - Let'aka Fire Visual - Left Hand
+1287754,毒液噴射
 1287755,有趣愛好者
 1287757,隨機名稱
 1287761,追跡裂隙
@@ -404001,9 +404230,12 @@ ID,Name_lang
 1287791,火焰彈幕
 1287792,火焰彈幕
 1287794,毒刃斬擊
+1287795,<DNT> Slow Fall
 1287796,火焰彈幕
 1287797,藤蔓之握
 1287798,藤蔓之握
+1287800,<DNT> Remove Clone
+1287804,<DNT> Cancel Invis
 1287805,解纏
 1287806,解纏
 1287807,解纏
@@ -404011,6 +404243,7 @@ ID,Name_lang
 1287811,解纏
 1287812,延滯虛無
 1287815,冰寒衝擊
+1287816,[DND] Invis Clone
 1287819,寒冽血肉
 1287820,標記儀式
 1287837,隱沒虛無
@@ -404079,6 +404312,10 @@ ID,Name_lang
 1287921,[DNT] Attack
 1287924,召喚傳送門
 1287928,Cosmetic - Ofi Staff
+1287929,連鎖震地
+1287930,連鎖震地
+1287931,連鎖震地
+1287932,連鎖震地
 1287933,傳送新星
 1287934,惡意外殼
 1287935,造型蛋找尋者
@@ -404090,6 +404327,7 @@ ID,Name_lang
 1287954,閃電躍擊
 1287955,虛無污化護盾符文
 1287956,飢餓
+1287957,暮光屏障
 1287958,木頭愛好者
 1287959,好奇
 1287960,自然愛好者
@@ -404099,6 +404337,7 @@ ID,Name_lang
 1287970,閃電躍擊
 1287971,家具狂人
 1287972,疲倦
+1287974,驅逐暮光
 1287975,糾纏根鬚
 1287977,格拉爾印記
 1287978,山貓迅閃符文
@@ -404123,8 +404362,14 @@ ID,Name_lang
 1288025,[DNT] Periodic Scaling Summons
 1288026,[DNT] Periodic Scaling Summons
 1288028,[DNT] Sculptor Working Channel
+1288031,連鎖震地
+1288032,連鎖震地
+1288033,連鎖震地
+1288034,連鎖震地
+1288035,Ping [DNT]
 1288036,[DNT] Summon Banner
 1288038,Transition 1 Trigger
+1288039,[DNT] Wave Event Area Trigger Aura
 1288040,Transition 2 Trigger
 1288041,Transition 3 Trigger
 1288042,轉換1
@@ -404136,10 +404381,14 @@ ID,Name_lang
 1288049,雷霆與閃電
 1288051,[DNT] Summon Banner
 1288052,囓咬抽取
+1288053,Generic Targeting (DNT)
+1288056,射擊
+1288057,射擊
 1288058,黎明水晶
 1288059,Generic - Scale NPC by 20% (0.3 second)
 1288065,受到束縛！
 1288066,[DNT] Dak'zor gets kidnapped Play Scene
+1288067,Generic Targeting (DNT)
 1288068,解譯之魂
 1288070,[DNT] Change Name - Wax Sculpture
 1288072,釋放
@@ -404156,14 +404405,23 @@ ID,Name_lang
 1288087,雷霆與閃電
 1288092,雷霆與閃電
 1288094,恐懼
+1288095,熔岩附魔長靴
+1288096,The Boots are Lava (DNT)
+1288098,地鼠出沒
+1288100,Scarab Missile Launch (DNT)
 1288101,虛無傳送門開啟
 1288103,烏拉特克的佈道
 1288106,虛無傳送門關閉
+1288107,Scarab Missile Launch (DNT)
 1288108,虛無傳送門切換
 1288109,[DNT] Ice Block - Mount
+1288110,What a Mole Summon (DNT)
+1288111,What a Mole Summon (DNT)
+1288112,What a Mole Summon (DNT)
 1288113,[DNT] Ice Block - Mount
 1288114,[DNT] Ice Block - Mount
 1288115,毒液噴濺
+1288116,What a Mole Summon (DNT)
 1288117,能量中斷
 1288122,解讀骸骨
 1288123,吞滅
@@ -404177,14 +404435,17 @@ ID,Name_lang
 1288134,Barricade Scaling Spawning 03a - Send Event to Spawn T1 [DNT]
 1288135,Barricade Scaling Spawning 03b - Send Event to Spawn T3 [DNT]
 1288137,[DNT] Ice Block - Mount
+1288138,Kill Credit [DNT]
 1288139,破損的電線
 1288140,扯出電線
+1288148,[DNT] Wave Event Area Trigger Aura
 1288150,Da-Nel's Arrival [DNT]
 1288151,囓咬抽取
 1288178,號角護盾
 1288180,號角護盾
 1288181,虛無衝擊
 1288183,[DNT] Generic Spell
+1288186,Cancel Aqir Special Abilities (DNT)
 1288187,解讀骸骨
 1288188,12.0.7 Showdowns - Naigtal - Skiff - Gun
 1288189,驅魔
@@ -404193,13 +404454,16 @@ ID,Name_lang
 1288205,崩解
 1288207,菲莉帕的朋友造型
 1288208,圓圈
+1288209,Teleport (DNT)
 1288210,重骰
 1288212,修復補給品
 1288215,[DNT] Diver - Fresh Start
 1288216,[DNT] Diver - Fresh Start
+1288217,空中煞停
 1288218,沃爾多的疣術
 1288219,賈納雷的吐息
 1288220,[DNT] Diver - Fresh Start
+1288224,空中暫停
 1288228,猛毒噴霧
 1288231,猛毒噴霧
 1288232,不穩定的瘴氣
@@ -404247,8 +404511,12 @@ ID,Name_lang
 1288312,酥脆羊肉沙拉碗
 1288314,賈納雷之息
 1288315,開花盆栽
+1288316,Latch (DNT)
 1288317,卡法蘋果酒
 1288318,迷人坐墊
+1288319,Falling (DNT)
+1288320,"GENERIC - Transform Invisible, Uninteractable on Periodic Trigger (DNT)"
+1288321,Charge Area Trigger (DNT)
 1288323,法力風暴的綽綽有魚
 1288324,法力風暴的綽綽有魚
 1288326,念力操石
@@ -404257,23 +404525,46 @@ ID,Name_lang
 1288329,Biting Larvae Stomp [DNT]
 1288330,念力操石
 1288331,念力操石
+1288334,標記自身
 1288335,蛇皮內襯
 1288336,螺旋毒素
 1288337,法力風暴的綽綽有魚
+1288338,Cancel Latch (DNT)
+1288339,Kill Credit (DNT)
+1288340,"GENERIC - Transform Invisible, Uninteractable on Periodic Trigger (DNT)"
 1288341,螺旋毒素
+1288342,轟炸
+1288347,轟炸
+1288348,轟炸
 1288349,念力操石
+1288351,Scenario Controller Skyriding (DNT)
+1288352,[DNT] Wave Event Area Trigger Aura
+1288353,Kill Credit [DNT]
 1288354,燒焦的樹人
 1288360,Ghostly Object [DNT]
 1288361,泥巴射線
+1288362,[DNT] Ping boss
+1288373,魅影之潮
+1288374,鬼魅召喚
+1288375,詭譎召喚
+1288376,鬼魅干擾
+1288377,鬼魅干擾
 1288378,扭動的水豚
 1288380,卡皮
 1288381,好奇的小山貓
+1288382,Vine Pull Complete [DNT]
+1288383,拔出藤蔓
+1288384,Vine Pulling Sound [DNT]
+1288385,Twisted Vine [DNT]
+1288386,費伍德森林
 1288398,[DNT] Contribute Water
+1288399,[DNT] Achievement Credit
 1288400,隕石火雨
 1288401,雙子
 1288402,Carry 12TR_AMANI_STORAGE_CRATE01 [DNT]
 1288423,[DNT] Trading Post Credit
 1288425,雙子
+1288426,[DNT] Wave Event Area Trigger Aura
 1288427,衝鋒
 1288428,超載
 1288433,套裝：陽光瓣織
@@ -404286,14 +404577,23 @@ ID,Name_lang
 1288441,套裝：粉嫩瓣織
 1288442,[DNT] Medium Event - PushLoot
 1288444,套裝：蒼藍瓣織
+1288445,Kill Credit [DNT]
+1288446,包紮傷口
+1288448,Kill Credit [DNT]
 1288452,強風充能
+1288454,穿上裝備
 1288455,狂風
 1288456,取消召喚
 1288457,狂風
+1288458,投擲裝備
+1288459,投擲裝備
 1288460,[DNT] Small Repeatables Selector
+1288461,Scared Recruit (DNT)
 1288463,[DNT] Wax Sculpture Player Choice
+1288468,Kill Credit [DNT]
 1288470,開啟
 1288472,奔竄
+1288473,屈膝
 1288474,分析
 1288476,奔竄
 1288477,尼比的義務協助
@@ -404301,6 +404601,7 @@ ID,Name_lang
 1288480,血之契印
 1288481,[DNT] Medium Event Scheduler - Upper
 1288482,[DNT] Cosmetic Void Drain
+1288483,Throw Equipment (DNT)
 1288484,碎石擊
 1288485,割裂打擊
 1288486,割裂打擊
@@ -404325,8 +404626,10 @@ ID,Name_lang
 1288512,[DNT] Ping Wax Sculptor: Jaina [cost: 5]
 1288513,[DNT] Ping Wax Sculptor: Sylvanas [cost: 5]
 1288514,[DNT] Ping Wax Sculptor: Anduin [cost: 5]
+1288515,Toast Complete (DNT)
 1288516,[DNT] Cast spells
 1288517,召喚火焰石
+1288519,Demoralized Aura (DNT)
 1288520,召喚火焰石
 1288523,(DNT) Ritual Sites
 1288526,[DNT] stun
@@ -404347,6 +404650,8 @@ ID,Name_lang
 1288553,[DNT] Encounter Event
 1288554,潛伏的教徒
 1288555,空洞
+1288556,[DNT] Play Conversation
+1288557,12.1.5  TLS/RTC Start [DNT]
 1288562,[DNT] Medium Event - Upper Area
 1288563,[DNT] Medium Event - Lower Area
 1288566,[DNT] Cursed Curios - Scenario Entry - Legion
@@ -404357,8 +404662,11 @@ ID,Name_lang
 1288589,[DNT] Kill Credit
 1288591,[DNT] Cover
 1288594,[DNT] Fishing Icon Bubble
+1288598,Ping Leaves [DNT]
 1288599,輕鬆騎乘
 1288600,[DND] Pet Interact Check
+1288601,Ping Leaves [DNT]
+1288602,[DNT] Rotleaf Pile
 1288603,添加
 1288604,添加
 1288605,添加
@@ -404385,12 +404693,17 @@ ID,Name_lang
 1288638,召喚劇毒黏液
 1288640,[DNT] Came from Razorwind
 1288641,[DNT] Came from FP
+1288644,Kill Credit (DNT)
+1288645,Kill Credit (DNT)
 1288650,Kill Credit (DNT)
 1288656,[DNT] Hidden in Well
 1288662,劇毒衝擊
 1288663,Kill Credit (DNT)
+1288669,Play Timeline Scene (DNT)
+1288670,Play Timeline Scene (DNT)
 1288673,暗影箭
 1288678,[DNT] Ping Flametender
+1288681,Client Scene Linger (DNT)
 1288685,[DNT] Enemy Type Checker
 1288699,加入洪荒壁壘佇列
 1288706,加入灌注洞穴佇列
@@ -404405,6 +404718,8 @@ ID,Name_lang
 1288719,魂之殲滅
 1288720,加入埃達希爾的命運佇列
 1288722,受控的腐化
+1288723,偷來的神器
+1288724,[DNT] Ping Tank for Despawn
 1288725,收集黑暗方尖碑
 1288726,[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_Opulent_Window_Interior02.M2
 1288727,[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 12PH_Opulent_Chandelier02.M2
@@ -404412,11 +404727,16 @@ ID,Name_lang
 1288729,收集辛多雷花園鞦韆
 1288742,收集毒玉項鍊
 1288743,收集烏拉特克羽飾護符
+1288744,黑暗翻騰
 1288745,收集打開的盤蛇聖匣
+1288746,黑暗翻騰
+1288748,黑暗翻騰
+1288749,Convo (DNT)
 1288750,加入熔火入侵佇列
 1288753,[DNT] Update Phases
 1288754,[DNT] Reservation
 1288755,[DNT] Cancel Aura
+1288756,Convo (DNT)
 1288761,幽魂步伐
 1288763,芬諾餌食
 1288764,幽魂步伐
@@ -404429,6 +404749,7 @@ ID,Name_lang
 1288772,纏魂儀式
 1288773,纏魂儀式
 1288774,燼靈
+1288779,巫妖光環
 1288780,纏魂儀式
 1288781,毒液灌注
 1288782,毒液灌注
@@ -404442,23 +404763,26 @@ ID,Name_lang
 1288790,精華陷阱
 1288791,精華陷阱
 1288792,墓縛進擊
-1288794,12.1 Delves - Season 2 - Curio - Combat 4 - Ancient (1) - [Name PH] [1] - 1. Passive
-1288795,Marked Serpent Rune PH
-1288796,12.1 Delves - Season 2 - Curio - Combat 4 - Ancient (1) - [Name PH] [2] - 1. Passive
-1288797,12.1 Delves - Season 2 - Curio - Combat 4 - Ancient (1) - [Name PH] [3] - 1. Passive
-1288798,12.1 Delves - Season 2 - Curio - Combat 4 - Ancient (1) - [Name PH] [4] - 1. Passive
+1288794,蛇風塑像
+1288795,蛇風塑像
+1288796,蛇風塑像
+1288797,蛇風塑像
+1288798,蛇風塑像
 1288800,長矛
-1288801,12.1 Delves - Season 2 - Curio - Utility 4 - Ancient (2) - [Name PH] [1] - 1. Passive
-1288802,Amorphous Totem PH
-1288803,12.1 Delves - Season 2 - Curio - Utility 4 - Ancient (2) - [Name PH] [2] - 1. Passive
-1288804,12.1 Delves - Season 2 - Curio - Utility 4 - Ancient (2) - [Name PH] [3] - 1. Passive
-1288805,12.1 Delves - Season 2 - Curio - Utility 4 - Ancient (2) - [Name PH] [4] - 1. Passive
+1288801,滿是灰塵的羅亞圖騰
+1288802,滿是灰塵的羅亞圖騰
+1288803,滿是灰塵的羅亞圖騰
+1288804,滿是灰塵的羅亞圖騰
+1288805,滿是灰塵的羅亞圖騰
+1288806,靈魂風暴
 1288807,調查中
 1288808,調查力量碎片
 1288824,施放
 1288825,寶庫
+1288827,[DNT] Play Conversation
 1288829,腐蝕靈魂
 1288830,腐蝕靈魂
+1288831,Kill Credit (DNT)
 1288843,收集暮光方尖碑
 1288858,力量耗盡
 1288859,外殼耗盡
@@ -404469,13 +404793,16 @@ ID,Name_lang
 1288866,艾克索達複製品
 1288868,清除
 1288869,狂暴之風
+1288872,靈魂風暴
 1288873,狂暴之風
 1288874,狂暴之風
 1288875,菌絲綻放
 1288876,[DNT] Scenario: Cursed Keepsake
 1288878,苦痛榴彈
 1288879,毒蛇之咬
+1288880,靈魂風暴
 1288881,苦痛榴彈
+1288882,Play Timeline Scene (DNT)
 1288884,合成銀河虛無之銀
 1288885,狂暴之風
 1288886,(DNT) Void Assaults - Hostile Activity
@@ -404486,20 +404813,25 @@ ID,Name_lang
 1288892,[DNT] Cancel Auras
 1288893,解鎖挑戰：觸鬚
 1288895,解鎖挑戰：污染屍體
+1288896,靈魂風暴
+1288897,靈魂風暴
 1288898,[DNT] Generic Spell
 1288900,解鎖挑戰：化身
 1288901,投擲盾牌
 1288902,銀河虛無矩陣
 1288903,注入
 1288906,潛行
+1288907,靈魂風暴
 1288909,[DNT] Summon Soulcoiler Elite - Summon
 1288911,[DNT] Summon Soulcoiler Elite - Missile
 1288912,解鎖挑戰：增援
+1288913,懸掛絲網
 1288915,Ping Sarcophagus Bunny [DNT]
 1288916,解鎖挑戰：魔法警鈴
 1288917,解鎖挑戰：巡邏
 1288918,解鎖挑戰：惡意恩澤
 1288920,解鎖挑戰：餘燼
+1288922,角落絲網
 1288924,拯救
 1288925,[DNT] Medium Event Scheduler - Lower
 1288927,烹飪魚
@@ -404508,28 +404840,40 @@ ID,Name_lang
 1288932,最後的光
 1288933,盲目衝鋒
 1288934,盲目衝鋒
+1288938,角落絲網
+1288939,靈魂風暴
 1288940,Snakeoid Brute Eating Animation [DNT]
 1288941,盲目衝鋒
 1288944,盲目衝鋒
 1288945,小鬼領主
+1288946,懸掛絲網
+1288947,穹頂絲網
+1288948,靈魂風暴
 1288949,遺失的儀式長矛
 1288950,魔化劫毀者
 1288951,啟動
+1288955,錐形絲網
 1288957,暗影箭
 1288958,Pillar Emerge Effect [DNT]
 1288959,清除屏障
 1288960,暗影格柵區域觸發點
 1288966,收集烏拉特克之窩
 1288970,Recently Demon Has Been Summoned [DNT]
+1288971,Cancel Aura [DNT]
 1288997,[DNT] Venom  Creation - Shadow - Multi Summon- ENHANCED
 1289036,組裝鑰匙
+1289038,疲憊蜘蛛
+1289040,召喚靈魂
+1289045,靈魂儀式
 1289046,受傷
 1289047,[DNT] Venom  Creation - Blood - ENHANCED
 1289048,Pillar Emerge Effect [DNT]
 1289049,[DNT] Active Fountain Aura
 1289050,[DNT] 12.0.7 Showdowns - Naigtal - Event - Floating Shrooms - Treasure - Got Loot
+1289051,靈魂儀式
 1289052,打包
 1289054,Pillar Emerge Effect [DNT]
+1289056,靈魂儀式
 1289057,解鎖
 1289059,烈風之力
 1289060,Determine Targets for Kill Credit [DNT]
@@ -404537,6 +404881,7 @@ ID,Name_lang
 1289063,回音符文
 1289065,烈風之力
 1289066,[DNT] Summon Thaze'ala - Annihilation Time
+1289068,靈魂儀式
 1289070,柱子回收視覺效果
 1289071,柱子回收視覺效果
 1289072,一般強化噴泉啟用
@@ -404548,10 +404893,17 @@ ID,Name_lang
 1289081,偷襲
 1289083,[DNT] Major Attack Completed Aura
 1289086,烈風之力
+1289087,火球術
+1289088,火球術
 1289089,惡意恩澤
 1289090,烈風之力
+1289091,安靜自殺
 1289092,碎石擊
 1289093,多頭蛇儀式
+1289094,Defense (DNT)
+1289095,Defense (DNT)
+1289096,Defense (DNT)
+1289097,Defense (DNT)
 1289098,毒液遮罩
 1289099,套裝：公正秩序之源
 1289100,套裝：血衛暴徒
@@ -404613,11 +404965,15 @@ ID,Name_lang
 1289212,烏拉特克之牙
 1289219,[DNT]Fire Pyre
 1289221,聖光守護者的獎勵
+1289222,返回銀月城
 1289223,多頭蛇打擊
 1289224,多頭蛇打擊
+1289225,黑暗爆發
+1289226,黑暗爆發
 1289227,儀式屏障
 1289228,儀式屏障
 1289229,風暴祝福
+1289231,黑暗爆發
 1289232,毒藥飛彈
 1289233,[DNT]Blood Stain
 1289234,儀式強化
@@ -404628,10 +404984,12 @@ ID,Name_lang
 1289241,毒藥飛彈
 1289242,毒藥飛彈
 1289243,毒藥飛彈
+1289244,黑暗爆發
 1289245,靈魂祈求
 1289247,增加回收視覺效果
 1289251,多頭蛇儀式
 1289252,標記餘燼
+1289254,黑暗爆發
 1289257,[DNT] I Don't Feel So Well...
 1289258,腐蝕精華
 1289260,腐蝕精華
@@ -404639,6 +404997,10 @@ ID,Name_lang
 1289262,劇毒創傷
 1289263,毒尖劍刃
 1289265,腐蝕精華
+1289267,腐爛傾瀉
+1289268,腐爛傾瀉
+1289269,腐爛傾瀉
+1289270,腐爛傾瀉
 1289274,毒化
 1289275,毒液爆發
 1289281,哈卡殘骸
@@ -404667,7 +405029,9 @@ ID,Name_lang
 1289325,Met Person A (DNT)
 1289326,Met Person B (DNT)
 1289327,Met Person C (DNT)
+1289330,污穢箭
 1289331,[DNT] Cosmetic Cast - Void
+1289334,污穢箭
 1289335,掠魟丟擲
 1289336,交流
 1289337,掠魟丟擲
@@ -404707,10 +405071,15 @@ ID,Name_lang
 1289395,迅捷鬼靈獅鷲獸
 1289396,呼吸量表
 1289397,鬼魅
+1289398,中斷施放
 1289399,[DNT] Conditional Visibility
 1289400,擾動深淵
+1289402,套裝：申多雷博學者裝束
+1289407,套裝：申多雷保安官裝束
 1289416,毒化
+1289417,套裝：申多雷觀天者裝束
 1289418,Locate Prey Cancel [DNT]
+1289419,套裝：奧拉凱斯狂熱者裝束
 1289420,監控
 1289421,囓咬抽取
 1289423,腐蝕增強
@@ -404771,6 +405140,7 @@ ID,Name_lang
 1289507,[DNT] Ritual Complete - Player
 1289508,靈魂嚮導
 1289509,[DNT] Hot/Cold - Summon
+1289510,易傷
 1289511,更閃亮！
 1289512,引導中
 1289514,儀式地點名望
@@ -404798,13 +405168,16 @@ ID,Name_lang
 1289551,[DNT] Speak to Er'inye
 1289552,拉
 1289553,劇毒傾瀉
+1289558,怨靈行走
 1289559,[DNT] Jump Attack
+1289560,怨靈傳送
 1289562,拉
 1289563,拉
 1289564,[DNT] Push Key
 1289565,[DNT] Push Stew
 1289566,[DNT] Push Potion
 1289567,[DNT] Cast spells
+1289568,怨靈傳送
 1289569,Kill Credit [DNT] Broadcast
 1289570,[DNT] Remove Item
 1289571,[DNT] Cast spells
@@ -404840,6 +405213,8 @@ ID,Name_lang
 1289609,[DNT] 12.0.7 Showdowns - Ethereal Transport Skiff - Transport Loot Interact
 1289611,腐蝕
 1289612,[DNT] Climbing Gear
+1289614,[DNT] Bear's Burden - Grasping Vines
+1289615,纏繞之藤
 1289616,神性戰馬
 1289617,神性戰馬
 1289618,極熾鱗片
@@ -404853,6 +405228,7 @@ ID,Name_lang
 1289626,儀式屏障
 1289627,召喚
 1289628,召喚
+1289629,希望光環
 1289630,魔力之源
 1289631,永恆不朽
 1289634,收集劇毒觸鬚
@@ -404910,6 +405286,7 @@ ID,Name_lang
 1289715,烏拉特克子嗣
 1289719,[DND] Firework - Blue - Straight or Triburst
 1289720,更新區域光環和階段轉換（惡魔製造者）
+1289721,[DNT] Summon Large Rock Object
 1289725,[DNT] Rescue Rope Beam
 1289726,赤紅藥瓶煙霧
 1289728,神聖武裝
@@ -404921,9 +405298,11 @@ ID,Name_lang
 1289736,[DNT] Quest Start Ping
 1289737,枯木戰熊背心
 1289741,靈魂轉移
+1289743,鐵樹液之握
 1289744,濃縮版銀月城生命藥水
 1289745,流光藥劑
 1289746,誘惑靈藥
+1289748,[DNT] Large Rock Interact [4] Player is Carrying
 1289749,[DNT] Angler Grapple
 1289751,豐碩寶庫額外戰利品
 1289752,[DNT] Angler Grapple
@@ -404935,6 +405314,7 @@ ID,Name_lang
 1289759,淨化痛苦
 1289760,最後的光
 1289761,狂暴之風
+1289763,[DNT] Carry-Check Aura
 1289765,12.0.7 Showdowns - Naigtal - Skiff - End Looping Route
 1289766,最後的光
 1289768,托卡臺地傳送門
@@ -404993,6 +405373,7 @@ ID,Name_lang
 1289846,[DNT] Flag Tracking Quest
 1289848,製造滿溢的法力容器
 1289850,[DNT] Add to medium06
+1289853,鼓勵
 1289855,飢饞蛇火
 1289856,開啟
 1289857,[DNT] Speak to Er'inye
@@ -405040,6 +405421,7 @@ ID,Name_lang
 1289922,神聖武裝撤銷
 1289923,虔誠之喚
 1289924,假人
+1289925,喚藤者的惡臭
 1289930,[DNT] Demonic Language Comprehension
 1289933,[DNT] Spilled Wax trigger visual
 1289934,放置蠟燭
@@ -405068,14 +405450,18 @@ ID,Name_lang
 1289969,12.0.7 Showdowns - Naigtal - Skiff - Exit Skiff (with random delay)
 1289970,疫鱗窩巢
 1289971,虔誠之喚
+1289972,[DNT] Knockback
 1289974,疫鱗窩巢
+1289976,[DNT] Knockback Aura
 1289977,Fly Through Snakes - Normal [DNT]
+1289978,失落的靈魂
 1289979,警戒
 1289981,獻身追擊
 1289982,召喚護送
 1289983,召喚
 1289984,召喚
 1289985,潛伏的教徒
+1289986,靈魂捕捉者
 1289988,[DNT] AreaTrigger Visual
 1289992,[DNT] Track and Face Demon Creator
 1289993,腐蝕水珠
@@ -405086,6 +405472,7 @@ ID,Name_lang
 1290001,解纏
 1290002,黑暗殘殺
 1290003,解纏
+1290025,納羅拉克的援助
 1290027,鍋中有蠟！
 1290029,蛇群
 1290030,蛇群
@@ -405109,6 +405496,7 @@ ID,Name_lang
 1290064,進入範圍內
 1290067,收集/戰利品事件
 1290068,收集/戰利品事件
+1290071,靈魂捕捉者
 1290072,收集/戰利品事件
 1290074,收集/戰利品事件
 1290076,收集/戰利品事件
@@ -405138,9 +405526,12 @@ ID,Name_lang
 1290160,等待
 1290163,受擾的阿曼尼
 1290164,Kill Credit (DNT)
+1290166,喚藤者的惡臭
 1290171,毒性之息
 1290173,受擾的阿曼尼
 1290174,毒性之息
+1290175,[DNT] Bear's Burden - Grasping Vines
+1290176,[DNT] Bear's Burden - Grasping Vines
 1290177,更新階段轉換和互動
 1290178,鮮血之毒
 1290179,劇毒洪流
@@ -405155,12 +405546,16 @@ ID,Name_lang
 1290199,燒灼傷口
 1290200,Cosmetic - EmoteWave
 1290205,閃電箭
+1290208,藤花之韌
 1290212,爆發
 1290213,爆發
 1290214,爆發
 1290215,爆發
+1290216,藤花之韌
+1290217,藤花之韌
 1290218,燃燒噬咬
 1290219,[DNT] Increment Soulcoil Rite
+1290220,[DNT] Jump-Charge-Pull
 1290224,毒素爆發
 1290225,不穩定
 1290231,瘴氣
@@ -405191,6 +405586,7 @@ ID,Name_lang
 1290265,召喚
 1290266,體內有髒東西
 1290269,叮噹
+1290272,失落的靈魂
 1290274,[DNT]Blister Creep Visual Aura
 1290282,收集中
 1290284,收集純淨牛頭人鍋子
@@ -405208,6 +405604,7 @@ ID,Name_lang
 1290296,Collect [DNT] [AUTOGEN] 11EA_Earthen_Cooking_Country_HoneyPot01.m2
 1290297,收集純淨土靈鍋子
 1290305,鍋子不燙！
+1290310,失落的靈魂
 1290311,[DNT] Add to WorldBoss01
 1290313,[DNT] Add to WorldBoss02
 1290314,[DNT] Add to WorldBoss03
@@ -405218,6 +405615,7 @@ ID,Name_lang
 1290322,受擾的阿曼尼
 1290324,腐蝕洪流
 1290325,[DNT] Hide Self
+1290327,靈魂捕捉者
 1290329,召喚
 1290331,召喚
 1290336,永恆毒液
@@ -405258,16 +405656,26 @@ ID,Name_lang
 1290405,閃電尖塔
 1290406,法力熔爐物資
 1290407,纏魂儀式
+1290408,爆炸蟲卵
 1290409,疫鱗窩巢
 1290411,[DNT] Area Visuals
+1290412,衝鋒的亞基蟲族
+1290415,劇毒空氣
+1290416,安杜因與法林的援助
+1290417,貴族晚會
+1290418,阿斯塔樂的好奇心
 1290419,火焰箭
 1290425,[DNT] Energy Controller
 1290426,[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 6OR_Garrison_Torch01.m2
 1290427,[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 7NE_Blackrook_Torch01.m2
 1290428,[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 7NE_Blackrook_Torch02.m2
 1290429,[DNT] [AUTOGEN] Collect [DNT] [AUTOGEN] 7NE_Blackrook_Torch03.m2
+1290430,Egg Proc (DNT)
+1290432,卵爆
 1290434,黑暗爆發
+1290441,Charge Area Trigger (DNT)
 1290442,閃電尖塔
+1290444,Collect Loot (DNT)
 1290448,響應徵召
 1290451,[DNT] Spawn Spell
 1290452,超載傳送門
@@ -405281,14 +405689,21 @@ ID,Name_lang
 1290465,[DNT] Area Visuals
 1290467,[DNT] Ger'Lok Cosmetic Idle
 1290468,取消
+1290469,靈魂捕捉者
 1290470,[DNT] Cosmetic Corpse
 1290474,解開燈芯結
+1290475,永恆瘋狂
 1290477,[DNT] Exit Combat Phase
 1290480,永恆毒液
 1290483,Kill Credit (DNT)
 1290484,Kill Credit (DNT)
+1290485,藤蔓衝擊
+1290486,永恆瘋狂
 1290487,Kill Credit (DNT)
 1290488,[DNT] Portal - Summon - Voidwalker
+1290489,永恆瘋狂
+1290494,永恆瘋狂
+1290496,[DNT] Countdown Timer
 1290500,[DNT] Carry Crate
 1290501,偷聽對話
 1290502,聆聽
@@ -405324,14 +405739,17 @@ ID,Name_lang
 1290556,12.0.5 Event - Prop Hunt - Label Bunny - Seek Phase (For Seekers)
 1290557,[DNT] Power Source Cosmetic Missile
 1290558,迴盪咆哮
+1290559,Falling (DNT)
 1290561,梵陀符文：海潮
 1290562,突變毒雨
+1290563,Client Scene (DNT)
 1290565,噬穿
 1290566,烈焰祝福
 1290568,撕裂爪
 1290569,纏魂點燃
 1290570,雙重撕咬
 1290571,雙重撕咬
+1290572,琥珀膠殘渣
 1290573,箭雨
 1290574,射擊
 1290575,集中突擊
@@ -405348,13 +405766,19 @@ ID,Name_lang
 1290605,易爆亡者
 1290606,腐肉之觸
 1290607,[DNT] Ride Vehicle - SpawnGroup Only
+1290608,Cover Spell (DNT)
 1290609,靈魂之握
 1290610,靈魂之握
+1290611,蟲鳴瘋狂
+1290612,Throw Equipment (DNT)
+1290613,擺脫束縛
 1290615,準備好幫幼犬洗澡
 1290623,[DNT] Invisible
 1290625,腐肉之觸
 1290626,米奇的骨頭哨子
+1290627,靈魂捕捉者
 1290628,威脅
+1290630,靈魂捕捉者
 1290631,Ping Gal'fon and Let'aka [DNT]
 1290632,易爆亡者
 1290637,Ping Stage 1 Boss Corpse [DNT]
@@ -405390,6 +405814,8 @@ ID,Name_lang
 1290682,鬼魅
 1290683,鬼魅
 1290693,[DNT] Cancel Aura
+1290695,動能
+1290696,動能
 1290697,Emerge -> Burst [DNT]
 1290700,[DNT] East Graveyard
 1290701,[DNT] Middle Graveyard
@@ -405406,6 +405832,7 @@ ID,Name_lang
 1290722,貪婪盛宴
 1290723,窩巢噴吐
 1290730,易變能量核心
+1290731,Client Scene (DNT)
 1290735,恐嚇咆哮
 1290738,蛋
 1290739,開始任務
@@ -405413,8 +405840,11 @@ ID,Name_lang
 1290741,閃霜進攻地傳送門
 1290742,閃現新星
 1290743,閃現新星
+1290744,冥魄壟罩
 1290745,<DNT> Play Intro
+1290746,Arator Combat (DNT)
 1290751,百萬噸衝擊
+1290752,Halduron Combat (DNT)
 1290753,傳送門
 1290759,學習射線！
 1290760,鑽地
@@ -405428,11 +405858,13 @@ ID,Name_lang
 1290768,切斷隱形術繫鏈
 1290769,沃魯敦傳送門
 1290770,獻祭光環
+1290772,Halduron Combat (DNT)
 1290773,拿走蠟鍋
 1290774,毒液爆發
 1290775,百萬噸衝擊
 1290776,[DNT] Complete Conversation
 1290777,百萬噸衝擊
+1290778,Abandon (DNT)
 1290779,惡意
 1290781,[DNT] Void Creature Portal Pointer
 1290784,[DNT] Pot aura cleanup
@@ -405449,6 +405881,7 @@ ID,Name_lang
 1290801,幽纏咆哮
 1290802,秘法偏斜
 1290803,枯萎熱浪
+1290804,末日之帶
 1290806,秘法偏斜
 1290807,雷歐娜的鬼靈調和
 1290808,秘法偏斜
@@ -405485,6 +405918,7 @@ ID,Name_lang
 1290928,食物和飲料
 1290929,飲料
 1290930,召喚載具
+1290931,末日之帶
 1290932,召喚載具
 1290934,貫穿冰霜
 1290935,刺水母漣漪
@@ -405495,6 +405929,7 @@ ID,Name_lang
 1290943,暴風之羽回家光環
 1290944,暴風之羽回家移除光環
 1290949,刺水母漣漪
+1290952,套裝：瓦里安青龍裝束
 1290953,召喚暴風之羽，重置（自我）
 1290956,擾動深淵
 1290957,晦影勇士輝煌旌旗
@@ -405553,18 +405988,25 @@ ID,Name_lang
 1291048,空間扭曲
 1291052,獵豹形態
 1291062,解除變身
+1291063,末日之帶
 1291066,[DNT] Player Controlling Vehicle
 1291070,[DNT] Player Controlling Lynx
 1291073,[DNT] Domanaar Boss - Escape
 1291074,[DNT] Player Inside WMO
+1291079,在祭壇放上聖物
+1291081,暗影視界
+1291090,持有聖物：烈焰戰刃
 1291091,[DNT] Cosmetic Cosmic Missile - Complete Scenario
 1291092,12.0.5 Event - Prop Hunt - Tagged Hider onSpawn
 1291093,[DNT] Kill Credit
+1291094,檢查聖物
+1291095,放下聖物
 1291096,[DNT] Kill Credit
 1291098,惡意恩澤
 1291100,Cosmetic Cosmic Missile (Missile)
 1291104,增援
 1291106,[DNT] Backup Kill Credit
+1291108,[DNT] Buffer
 1291109,巡邏兵
 1291110,化身
 1291111,Phase Transition Stage 01 -> Intermission 01
@@ -405596,7 +406038,12 @@ ID,Name_lang
 1291165,指示隱形老鷹
 1291166,12.1 Ula'tek - Temple Traversal - Flightmaster Phase for Eagles [DNT]
 1291171,12.1 Temple Traversal - 1. Summon Eagle Spirit Vehicle - Hub to East Entrance [DNT]
+1291174,靈魂捕捉者 - 釋放
 1291175,Cancel Everything and Active Puzzle Auras [DNT]
+1291178,靈魂捕捉者 - 釋放
+1291185,暗影裂隙
+1291186,暗影裂隙
+1291211,暗影裂隙
 1291254,Phase Transition Intermission 01 -> Stage 02
 1291255,Phase Transition Stage 02 -> Intermission 02
 1291256,Phase Transition Intermission 02 -> Stage 03
@@ -405606,16 +406053,20 @@ ID,Name_lang
 1291262,閃電箭
 1291263,放置黑暗粒子錨
 1291264,Kill Credit (DNT)
+1291265,撿起聖物
 1291266,射擊
 1291267,褻瀆儀式
 1291268,射擊
 1291270,12.1 Temple Traversal - 1. Summon Eagle Spirit Vehicle - Center to East Entrance [DNT]
 1291271,12.1 Temple Traversal - 1. Summon Eagle Spirit Vehicle - Center to Hub [DNT]
+1291272,持有聖物：匕首
 1291276,黃沙追擊者
 1291278,能量屏障
 1291279,12.1 Temple Traversal - 1. Summon Eagle Spirit Vehicle - East Entrance to Hub [DNT]
 1291288,12.1 Temple Traversal - 1. Summon Eagle Spirit Vehicle - East Entrance to Center [DNT]
 1291303,扯裂現實
+1291307,持有聖物：巨斧
+1291314,持有聖物：長矛
 1291315,春日熊貓
 1291325,Kill Credit (DNT)
 1291332,[DNT] Hour of Need
@@ -405660,7 +406111,9 @@ ID,Name_lang
 1291422,Kill Credit (DNT)
 1291423,扯裂現實
 1291424,開啟裂隙
+1291426,撿起戰刃
 1291428,放置黑暗粒子錨
+1291430,撿起聖物
 1291439,[DNT] Blood Barrier
 1291440,劇毒傾瀉
 1291443,投擲湯！
@@ -405668,6 +406121,9 @@ ID,Name_lang
 1291447,[DNT] Blood Elf Orphan Time Paradox
 1291449,毒液箭
 1291450,[DNT] Blood Elf Orphan Time Paradox 2
+1291451,撿起斧頭
+1291452,撿起長矛
+1291453,撿起匕首
 1291454,酸蝕驟雨
 1291455,幻影裝飾 - 綻放聖光
 1291456,[DNT] Cosmetic Cast - Shadow
@@ -405782,6 +406238,11 @@ ID,Name_lang
 1291620,旋動之魂
 1291621,旋動之魂
 1291622,風暴催化劑
+1291623,攜帶聖匣
+1291625,Kill Credit (DNT)
+1291626,Kill Credit (DNT)
+1291627,Kill Credit (DNT)
+1291628,Kill Credit (DNT)
 1291636,時空屏障
 1291639,[DNT] Resummon Walkable Pup
 1291643,複製幼犬載具外觀
@@ -405809,7 +406270,9 @@ ID,Name_lang
 1291675,[DNT] Flag Tracking Quest
 1291677,風暴催化劑
 1291678,憤怒之錘
+1291679,[DNT] Soul Channel
 1291680,[DNT] Down with the Catch!
+1291681,[DNT] Soul Channel
 1291682,憎惡合金
 1291683,獵人儀式石
 1291684,[DNT] Blood Elf Orphan Time Paradox 3
@@ -405837,7 +406300,10 @@ ID,Name_lang
 1291713,[DNT] Arcantina Portal Visuals
 1291714,陰晦護罩
 1291716,毒尖長槍
+1291717,禁忌儀式
 1291718,毒液之牙
+1291719,禁忌儀式
+1291720,禁忌儀式
 1291721,毒尖長槍
 1291722,危險襲擊
 1291723,毒蛇之握
@@ -405887,6 +406353,7 @@ ID,Name_lang
 1291773,輻射護盾
 1291774,危險襲擊
 1291775,鎖定
+1291776,禁忌儀式
 1291777,旋殼擊
 1291778,視覺效果
 1291779,毒液洪流
@@ -405895,23 +406362,33 @@ ID,Name_lang
 1291783,收集虛無精靈漂浮桌子
 1291789,[DNT] Create Trait Config
 1291791,飲料
+1291793,痛苦的靈魂
+1291794,痛苦的靈魂
+1291795,痛苦的靈魂
+1291798,Return to Location (DNT)
 1291799,收集符文羊皮紙
 1291804,收集虛無墨瓶
+1291810,"Judgment, NPC (DNT)"
+1291811,Farstrider Shot (DNT)
 1291812,[DNT] PSU Dummy Phase
 1291815,感應力場
 1291817,感應
+1291818,虛無箭
 1291819,[DNT] Wick Winder channel
 1291820,[DNT] Orweyna Leaves
 1291821,[DNT] Wick Winder apply stack
 1291822,食物
+1291823,Push Trigger (DNT)
 1291824,食物
 1291825,食物
 1291826,食物
 1291827,食物
 1291828,食物
 1291829,[DNT] Cancel Aura
+1291830,(DNT) Knockback
 1291831,飲料
 1291832,腐蝕毒牙
+1291833,"GENERIC - Transform Invisible, Uninteractable on Periodic Trigger (DNT)"
 1291835,Ping Minchi [DNT]
 1291837,食物
 1291838,食物
@@ -405942,6 +406419,7 @@ ID,Name_lang
 1291863,腐蝕翅膀
 1291864,[DNT] Cancel Aura
 1291865,施加腐潰
+1291866,禁忌儀式
 1291867,污化暴風
 1291868,污化暴風
 1291869,毒蛇之握
@@ -405961,7 +406439,10 @@ ID,Name_lang
 1291897,[DNT] Unlock Challenges
 1291899,毒蛇之握
 1291900,爆炸孢子
+1291902,禁忌儀式
+1291903,禁忌儀式
 1291905,獻祭
+1291907,調查中
 1291910,[DNT] Being Sacrificed
 1291911,黏稠之絲
 1291912,[DNT] Being Sacrificed
@@ -406013,15 +406494,22 @@ ID,Name_lang
 1291994,Cosmetic - Chef Hat - Amani [DNT]
 1291995,黏稠之絲
 1291996,[DNT] Swing Test
+1291998,死亡召喚
 1291999,滲液噴吐
 1292000,黏稠之絲
+1292001,死亡召喚
 1292002,黏稠之絲
 1292004,黏稠之絲
 1292005,滲液噴吐
+1292006,死亡召喚
 1292007,滲漏毒液
 1292010,滲漏毒液
 1292014,[DNT] Cancel the Cancel Aura
+1292018,污穢箭
 1292019,撫摸
+1292020,污穢箭
+1292022,刺耳折磨
+1292023,污穢箭
 1292024,強化斬殺
 1292026,[DNT] Reward Treats - 5
 1292027,[DNT] Reward Treats - 10
@@ -406080,11 +406568,19 @@ ID,Name_lang
 1292114,腐蝕尾巴
 1292117,蛇魔凝視
 1292124,[DNT] Material Creation - Health
+1292127,折磨風暴
+1292128,折磨風暴
+1292129,折磨風暴
+1292130,折磨風暴
 1292131,[DNT] Material Creation - Health
+1292134,[DNT] Area Trigger Visual
 1292137,暢飲
 1292138,暢飲
+1292140,折磨風暴
+1292141,折磨風暴
 1292143,暢飲
 1292144,腐蝕領域
+1292146,折磨風暴
 1292147,丟擲蘑菇
 1292148,[DNT] Void Assaults - System - Major Attack Eligible
 1292151,窒息
@@ -406097,6 +406593,7 @@ ID,Name_lang
 1292164,水豚的復仇之誓
 1292166,莉斯克之羽
 1292177,蘑菇爆發
+1292178,折磨風暴
 1292185,腐蝕膽汁
 1292187,Grant Kill Credit: Commission Sculpture [DNT]
 1292188,腐蝕波
@@ -406151,6 +406648,8 @@ ID,Name_lang
 1292248,靈魂轉移
 1292249,銜尾蛇循環
 1292255,收集濃縮靈魄球體
+1292259,[DNT] Relic Interact Blocker
+1292269,撿起夏卓柯爾之斧
 1292270,冰川長槍
 1292271,蒸汽孔
 1292272,宇宙恐懼怪
@@ -406162,16 +406661,20 @@ ID,Name_lang
 1292280,過剩能量
 1292283,Fire Aura - Boss Emote [DNT]
 1292284,Kill Credit (DNT)
+1292285,攜帶聖匣
+1292286,攜帶聖匣
 1292287,不穩定的劇毒
 1292288,漂浮救生艙
 1292289,不穩定的劇毒
 1292290,殘餘泡泡
 1292291,蓋博的無底之包
 1292292,蘑菇爆發
+1292294,[DNT] Reacting
 1292295,腐蝕增強
 1292299,非常鋒利的貝殼
 1292300,脆裂托加圖騰
 1292301,獲取精神控制套索
+1292302,[DNT] Summon Reliquary
 1292304,靈魂轉移
 1292305,靈魂轉移
 1292306,[DNT] Pot knock up
@@ -406182,18 +406685,26 @@ ID,Name_lang
 1292322,無縛烈焰
 1292323,無縛烈焰
 1292325,無縛烈焰
+1292335,[DNT] Summon Reliquary
+1292336,[DNT] Summon Reliquary
+1292337,撿起雄鷹守望法杖
+1292341,[DNT] Wake Up
 1292342,Green Rocket Mount [PH]
 1292344,污水極限版煙火發射器
 1292345,Pink Rocket Mount [PH]
 1292346,Kill Credit (DNT)
+1292347,撿起無主烈焰火盆
 1292348,永恆毒液
 1292349,被附身
 1292350,保衛者之怒
+1292351,撿起七大主張之冠
 1292354,吞噬者精神控制 - 套索
 1292355,吞噬者精神控制 - 套索
 1292356,日焰飄蛾
+1292359,撿起尋路之骨
 1292362,[DNT] Force Cast Tap List
 1292363,[DNT] Cosmetic - Loa Dissolve In
+1292364,撿起札賈利倒影之刃
 1292366,請問是諾克嗎？
 1292368,扭曲傳送
 1292370,[DNT] Time of Day - Sunset
@@ -406224,8 +406735,13 @@ ID,Name_lang
 1292421,保衛者之怒
 1292422,保衛者之怒
 1292423,[DNT] Sequenced Conversation
+1292424,折磨風暴
 1292425,保衛者之怒
 1292427,劇毒泡沫
+1292428,死亡衝刺
+1292429,死亡衝刺
+1292430,死亡衝刺
+1292431,死亡衝刺
 1292435,原初踐踏
 1292437,原初踐踏
 1292438,[DNT] Boss Kill
@@ -406234,14 +406750,18 @@ ID,Name_lang
 1292441,活體毒液
 1292442,吞噬遺骸
 1292443,吞噬
+1292444,[DNT] Relic At Altar
 1292445,盤繞膿液
 1292446,最後的光
 1292452,緊束
 1292454,劇毒泡沫
+1292455,[DNT] Ping Bunny
 1292457,劇毒泡沫
 1292460,烈風之力
 1292462,Kill Credit (DNT)
 1292463,導引裝置
+1292466,靈魂儀式
+1292469,死亡衝刺
 1292470,投擲魚
 1292471,DNT
 1292472,保衛者之怒
@@ -406260,12 +406780,17 @@ ID,Name_lang
 1292488,火焰衝擊
 1292490,噁心的魚
 1292491,Kill Credit (DNT)
+1292492,[DNT] Erupt
 1292494,魚偵測器
 1292495,召喚靈魂
 1292496,通訊中
 1292498,潛行
 1292499,毒蛇結界
+1292500,上古之矛
+1292501,上古之矛
+1292502,上古之矛
 1292503,屍爆術
+1292504,上古之矛
 1292505,凝結血肉
 1292506,不穩定的精華
 1292507,復仇怒吼
@@ -406276,6 +406801,7 @@ ID,Name_lang
 1292513,[DNT] Corpse Explosion - Countdown
 1292515,秘法掃擊
 1292516,混沌閃亮光環
+1292517,Client Scene Linger (DNT)
 1292518,雷霆與閃電
 1292520,[DNT] Vehicle Entrance
 1292521,隱沒
@@ -406285,16 +406811,22 @@ ID,Name_lang
 1292525,無縛
 1292527,[DNT] Create Acid Pool
 1292528,Summon Voidstalkers - Portals and Voidstalkers 1. Cover [DNT]
+1292529,死亡衝刺
+1292530,上古之矛
 1292531,驅散
 1292534,凋萎突進
 1292535,酸液灼燒
 1292537,凋萎突進
+1292538,調查妖術堆
 1292539,孢子引爆
 1292540,幽魂步伐
+1292542,[DNT] Hex Pile Knock Over
 1292543,無縛
 1292544,毒液升降機
 1292545,旗標追蹤任務
 1292548,摧毀
+1292549,死亡衝刺
+1292550,死亡衝刺
 1292551,Ghostly Ritual Circle Area Trigger Visual [DNT]
 1292552,凝結血肉
 1292554,至暗之夜工程學專精重設
@@ -406314,6 +406846,7 @@ ID,Name_lang
 1292584,中斷精神控制
 1292585,沙爆箭
 1292586,[DNT] Template - Studying
+1292589,[DNT] Hex Pile Knocked Over
 1292591,隱沒
 1292592,狩獵開始
 1292593,雙子
@@ -406356,10 +406889,14 @@ ID,Name_lang
 1292655,傳送
 1292656,傳送
 1292658,算了。
+1292659,折磨風暴
 1292660,[DNT] Ping Shrine
 1292661,用力拉扯
 1292662,被傳送！
+1292663,折磨風暴
 1292664,梅德嘉之護
+1292665,死靈橫掃
+1292666,死靈橫掃
 1292667,[DNT] Heal Nearest Enemy - 2
 1292668,托加拉之靈
 1292671,[DNT] Is Active Participant - Cancel Aura
@@ -406394,6 +406931,7 @@ ID,Name_lang
 1292736,腐蝕靈魂
 1292740,附魔烈焰
 1292741,"Generic Blue - Transform Invisible, Uninteractable on Periodic Trigger (DNT)"
+1292744,永不安息的靈魂
 1292747,冰霜掃擊
 1292751,纏魂
 1292752,邪惡之眼
@@ -406483,7 +407021,10 @@ ID,Name_lang
 1292863,靈魂緩降
 1292864,放置
 1292867,魂能緩速
+1292868,禁忌儀式
+1292869,易變靈魂
 1292870,水晶之牙
+1292871,禁忌儀式
 1292872,錨定連結
 1292873,12.0.7 Showdowns - Naigtal - Skiff - Assault Skiff - Camera Scene - Waiting to Launch
 1292874,神聖彈跳手榴彈
@@ -406493,6 +407034,7 @@ ID,Name_lang
 1292878,錨定連結
 1292882,12.0.7 Showdowns - Naigtal - Skiff - On Bombing Run
 1292884,[DNT] Range Increase
+1292885,痛苦
 1292886,12.0.7 Showdowns - Naigtal - Skiff - Show Health DISABLED
 1292887,相移
 1292888,錨定通道
@@ -406501,10 +407043,13 @@ ID,Name_lang
 1292891,盤旋
 1292892,控制毒液
 1292893,鎮定飛鏢
+1292894,痛苦
+1292895,痛苦
 1292899,潛伏的教徒
 1292901,鋸齒夾鉗
 1292903,鋸齒夾鉗
 1292904,孵育
+1292905,靈魂陷阱
 1292909,變形玩家
 1292911,傳送
 1292912,穿過裂隙
@@ -406532,6 +407077,7 @@ ID,Name_lang
 1293024,傳送
 1293025,屍體陷阱
 1293026,Corpse Trap - Visual
+1293028,巨牙海民寄居蟹
 1293029,妖術傳送
 1293032,[DNT] Decoy You
 1293034,[DNT] Anchor Credit
@@ -406539,16 +407085,23 @@ ID,Name_lang
 1293037,錨定連結
 1293038,秘法護罩
 1293039,秘法護罩
+1293042,靈魂陷阱
+1293043,苦痛洪流
 1293046,毒蛇之咬
 1293047,[DNT] Corpse Trap - 1
 1293048,毒蛇風暴
+1293052,反抗之靈
+1293053,反抗之靈
 1293054,疾速炸彈
+1293055,反抗之靈
 1293056,疾速炸彈
+1293058,救贖的靈魂
 1293059,孵化
 1293060,疾速炸彈
 1293061,[DNT] Port to Transit Platform
 1293062,[DNT] Port to Transit Platform
 1293064,[DNT Dripping Water
+1293065,[DNT] Waiting for Pick-Up
 1293066,虛無占卜
 1293072,靈魂精華
 1293077,孵化
@@ -406562,14 +407115,20 @@ ID,Name_lang
 1293095,加重縛錘彈
 1293097,殘餘救生艙
 1293099,疾速炸彈
+1293100,靈魂陷阱
 1293101,暗影撕咬
+1293104,靈魂陷阱
 1293106,開啟傳送門
+1293114,啟用靈魂陷阱
 1293116,疾速炸彈
 1293119,往上漂
+1293120,攜帶札賈利倒影之刃
 1293121,REUSE
 1293122,躍移
 1293123,血腥響尾
 1293124,[DNT] Clear Voidspire
+1293125,折磨風暴
+1293126,折磨風暴
 1293131,毒蛇的風暴之喚
 1293133,滯留風暴
 1293135,血紅藥瓶
@@ -406594,8 +407153,17 @@ ID,Name_lang
 1293186,靈魂- 淡出/淡入
 1293187,魔化火焰寶珠
 1293188,放棄任務
+1293191,苦痛洪流
+1293192,[DNT] Push Out Visual
+1293193,攜帶夏卓柯爾之斧
 1293194,Play Stay A While Scene (DNT)
+1293195,攜帶雄鷹守望法杖
+1293196,靈魂儀式
 1293197,甦醒繫鏈
+1293198,靈魂儀式
+1293200,攜帶無主烈焰火盆
+1293201,攜帶尋路之骨
+1293202,攜帶七大主張之冠
 1293203,遠方掉落
 1293205,遠方掉落
 1293208,水球
@@ -406612,7 +407180,10 @@ ID,Name_lang
 1293220,誘拐漩渦
 1293226,誘拐漩渦
 1293231,結合材料
+1293233,集聚苦痛
 1293234,[DNT] Kill Credit - Destroy Ethereal Tools
+1293235,集聚苦痛
+1293236,集聚苦痛
 1293237,[DNT] Destroy Harvester Machine
 1293243,吞噬箭雨
 1293245,苦痛波動
@@ -406657,9 +407228,13 @@ ID,Name_lang
 1293338,暗邪實驗
 1293339,暗邪實驗
 1293340,死亡印記
+1293343,永不安息者的復仇
 1293344,殘餘感染
 1293346,監控
 1293348,虛無穿刺者
+1293350,[DNT] Drop Any Relic
+1293353,被擊倒
+1293357,切換
 1293360,[DNT] Kill Credit: Hatch Egg
 1293363,[DNT] Kill Credit
 1293364,破解魔法結界
@@ -406671,15 +407246,19 @@ ID,Name_lang
 1293370,鎮定飛鏢
 1293372,[DNT] Wave of Anguish - Aura
 1293374,鋸齒夾鉗
+1293376,[DNT] Scale
 1293377,[DNT] Voided Venom
 1293378,Kill Credit
+1293382,在房屋中
 1293384,[DNT] Visibility Booster
 1293391,暗邪實驗
 1293406,鋸齒夾鉗
 1293408,毒液輸送
 1293411,急救
 1293412,急救
+1293413,Override Display (DNT)
 1293415,魔化斬
+1293416,(DNT) Override
 1293417,加重縛錘彈
 1293418,魔化斬
 1293419,加重縛錘彈
@@ -406699,12 +407278,15 @@ ID,Name_lang
 1293444,烈焰風暴
 1293448,烈焰引導
 1293450,監控
+1293453,Kill Credit (DNT)
 1293454,糾纏之網
 1293456,薩拉兔
+1293457,處決者的劫奪
 1293458,糾纏之網
 1293459,鎮定飛鏢
 1293460,強力重擊
 1293461,鎮定飛鏢
+1293462,狂暴
 1293463,開啟寶庫
 1293464,蓄積能量
 1293465,致敬
@@ -406722,6 +407304,7 @@ ID,Name_lang
 1293481,第二階段
 1293488,[DNT] Despawn Spell
 1293490,[DNT] Energy to 100 (60s)
+1293492,[DNT] Area Trigger Visual
 1293497,交錯步伐
 1293498,赫哈達精華灌注
 1293499,卡布泊
@@ -406769,7 +407352,9 @@ ID,Name_lang
 1293585,[DNT] Worm Hit
 1293587,搭乘墨尾的強化獨木舟
 1293590,搭乘墨尾的強化獨木舟
+1293592,長矛陷阱
 1293593,[DNT] Abyss Angler - Reward - Scaling
+1293594,[DNT] Conversation Start Spell
 1293595,[DNT] Cancel Aura
 1293596,[DNT] Ride Aura
 1293598,秘法洪水
@@ -406785,8 +407370,11 @@ ID,Name_lang
 1293616,無縛能量
 1293618,深淵釣手釣魚
 1293619,取消浮標
+1293620,長矛
 1293622,[DNT] Fel Grub Spawn Aura
+1293623,振奮
 1293624,魚叉衝擊
+1293625,Kill Credit (DNT)
 1293626,[DNT] Murloc Wave Normal
 1293627,攀爬
 1293629,[DNT] Fade to Black
@@ -406809,6 +407397,10 @@ ID,Name_lang
 1293661,秘法壁壘
 1293663,Entrance [DNT]
 1293664,纏魂點燃
+1293666,[DNT] Conversation Start Spell
+1293667,[DNT] Conversation Start Spell
+1293668,[DNT] Conversation Start Spell
+1293669,[DNT] Conversation Start Spell
 1293676,[DNT] Credit
 1293677,秘法壁壘
 1293678,[DNT] Murloc Wave World
@@ -406847,6 +407439,7 @@ ID,Name_lang
 1293750,[DNT] Test Sound Massive - Scifi Rattle - Large
 1293751,[DNT] Test Sound Massive - Scifi Rattle - Medium
 1293753,12.0.7 Showdowns - Naigtal - Skiff - Assault Skiff - Bindsight
+1293755,尖嘯
 1293756,[DNT] Lifeline Rez
 1293757,"12.1 Delves - All - Ula'tek Poison Pool: Spawn Spell, Large, Tall"
 1293759,生命線
@@ -406859,6 +407452,7 @@ ID,Name_lang
 1293778,[DNT] Wake of the Darkwell Completion RP
 1293779,[DNT] Race Start
 1293780,[DNT] Candle Workshop Start Notification
+1293781,凋萎靈魂
 1293784,精神導引
 1293785,Kill Credit (DNT)
 1293791,12.0.7 Showdowns - Naigtal - WQ - Simple - 002 - Ethereal Gun Destroyed
@@ -406887,8 +407481,10 @@ ID,Name_lang
 1293860,REUSE
 1293861,REUSE
 1293862,REUSE
+1293863,沉滯之怒
 1293865,REUSE
 1293867,引導能量
+1293869,不牢固的獨木舟
 1293873,蛆蟲投擲
 1293879,強化池
 1293880,冰霜之心
@@ -406909,6 +407505,7 @@ ID,Name_lang
 1293909,崩毀
 1293910,毒裔雙子
 1293911,毒裔雙子
+1293912,[DNT] Summon Canoe
 1293913,[DNT] Emerge Aura
 1293914,[DNT] Ping Players
 1293915,虛無穿刺者
@@ -406947,6 +407544,10 @@ ID,Name_lang
 1293970,黑暗爆發
 1293971,注入烈焰
 1293972,黑暗爆發
+1293974,枯萎傾瀉
+1293975,枯萎傾瀉
+1293976,枯萎傾瀉
+1293977,枯萎傾瀉
 1293979,腐蝕唾液
 1293981,深淵碎擊
 1293982,Play Stay A While Scene (DNT)
@@ -406988,9 +407589,11 @@ ID,Name_lang
 1294042,[DNT] Item Create
 1294043,收集中
 1294044,NPC Juggle Torch (Juggling) - until canceled
+1294045,Kill Credit (DNT)
 1294046,未誕生的華爾琪
 1294047,[DNT] Cancel Aura
 1294049,真菌處理器爆炸
+1294050,哀歌之潮
 1294052,[DNT] Empowerment Tether - Summon
 1294056,Play Stay A While Scene (DNT)
 1294059,靈魂步伐
@@ -407002,7 +407605,9 @@ ID,Name_lang
 1294069,[DNT] Brazier Aura
 1294073,迴旋寒冰
 1294074,迴旋寒冰
+1294075,Kill Credit (DNT)
 1294079,Ghostly Circle Area Trigger Visual [DNT]
+1294083,不牢固的獨木舟
 1294085,[DNT] Waves of Anguish - Random Locator
 1294089,腐蝕唾液
 1294090,12.0.7 Showdowns - Naigtal - Skiff - Rider - Up Top
@@ -407017,6 +407622,8 @@ ID,Name_lang
 1294103,神射手巴瑞特
 1294104,Cancel Guardian (DNT)
 1294107,惡意催化
+1294108,[DNT] Summon Canoe
+1294113,[DNT] Summon Canoe
 1294114,奧核龍寶寶
 1294115,刺棘掠行蟹
 1294117,毒液結界
@@ -407038,11 +407645,13 @@ ID,Name_lang
 1294144,歐薇娜的瓣翼鳥
 1294151,冰川長槍
 1294152,冰川長槍
+1294153,爪鉤
 1294155,冰川長槍
 1294156,冰川長槍
 1294158,[DNT] Brazier Aura
 1294159,引誘泡泡
 1294160,毒液結界
+1294161,爪鉤地
 1294162,崑萊小雪人
 1294163,燃燒膽汁
 1294164,歐薇娜的瓣翼鳥
@@ -407053,18 +407662,24 @@ ID,Name_lang
 1294169,召喚寶藏
 1294170,清醒藥劑
 1294172,被遺忘的鍊金術
+1294176,移除絲網
 1294177,燃燒膽汁
 1294178,燃燒膽汁
 1294179,獻祭齊射
 1294180,低階食屍鬼
 1294181,[DNT] Brazier Aura Trigger
 1294182,燃燒膽汁
+1294183,爪鉤
+1294184,爪鉤
 1294185,燃燒膽汁
+1294186,爪鉤
 1294187,燃燒膽汁
+1294188,爪鉤
 1294190,Placeholder Scrolling Text RTC
 1294191,燃燒膽汁
 1294192,燃燒膽汁
 1294193,[DNT] Naigtal Fungal Spores VFX
+1294196,[DNT] Area Trigger Visual
 1294197,實驗劇毒
 1294201,獻祭齊射
 1294202,獻祭齊射
@@ -407116,6 +407731,7 @@ ID,Name_lang
 1294298,膿血膽汁
 1294304,膿血膽汁
 1294306,膿血膽汁
+1294309,放置聖物
 1294317,[DNT] Collect Full_Layout_BloodElf_Prefab_S02 Room
 1294318,膿血膽汁
 1294320,膿血膽汁
@@ -407150,12 +407766,14 @@ ID,Name_lang
 1294375,收集森林食人妖柵欄
 1294378,收集森林食人妖欄杆柱
 1294388,收集巫醫的搗缽
+1294394,哀歌之潮
 1294396,收集『戰爭羅亞』納羅拉克聖壇
 1294400,收集『火焰羅亞』賈納雷聖壇
 1294403,收集『狩獵羅亞』哈拉齊聖壇
 1294416,12.0.5 Event - Prop Hunt - Label Bunny - GAME OVER - Stat - Excellence
 1294418,12.0.5 Event - Prop Hunt - Label Bunny - GAME OVER - Stat - Excellence
 1294419,多曼納爾幻幕
+1294420,冰洞
 1294421,Kill Credit (DNT)
 1294422,灼熱光束
 1294424,分數開關
@@ -407172,8 +407790,13 @@ ID,Name_lang
 1294439,"12.1 Delves - All - Ula'tek Poison Pool - Spawn Spell: Small, Tall"
 1294440,受控的腐化
 1294443,感染
+1294446,冰洞
+1294463,冰洞釣魚
 1294464,孢子風暴
+1294465,[DNT] Ice Fishing Ride Vehicle
+1294467,哀歌之潮
 1294468,視覺效果
+1294469,哀歌之潮
 1294473,[DNT] Vehicle Exit Spell
 1294474,Fledgling Corpseburster 01 - Summon [DNT]
 1294475,視覺效果
@@ -407184,6 +407807,7 @@ ID,Name_lang
 1294485,[DNT] Vehicle Spawn Spell
 1294486,[DNT] Showdowns - Val - Start Conversation with Umbrawarden
 1294487,窒息中
+1294495,[DNT] Knockdown Blocker
 1294504,暗影嫁接
 1294511,藥用植物
 1294513,[DNT] Summon Boss
@@ -407290,6 +407914,7 @@ ID,Name_lang
 1294669,衝鋒
 1294673,旗標追蹤任務
 1294675,[DNT] Creature - Spawn Visual
+1294676,Collect Full_Layout_Rugged_Prn room
 1294677,[PH] Horse with Hat
 1294678,[DNT] Caught Creature - Cosmetic Aura
 1294681,螺旋星體
@@ -407310,6 +407935,7 @@ ID,Name_lang
 1294707,收集貝拉梅斯劇場房間
 1294708,收集貝拉梅斯廟堂房間
 1294709,收集貝拉梅斯臥室房間
+1294710,Collect Full_Layout_Prefab_S room
 1294712,收集奧格瑪議事廳房間
 1294713,收集奧格瑪劇場房間
 1294715,收集奧格瑪石坑室房間
@@ -407336,8 +407962,10 @@ ID,Name_lang
 1294750,螺旋星體
 1294751,螺旋星體
 1294752,恐怖交響曲
+1294753,Credit Aura (DNT)
 1294755,[DNT] Capture Point Done
 1294756,毒液灌注
+1294758,Kill Credit (DNT)
 1294759,DNT
 1294760,靈魂吸取
 1294762,劇毒狂亂
@@ -407350,6 +407978,7 @@ ID,Name_lang
 1294772,Generic: Interact
 1294773,[DNT] Kill Credit
 1294774,惡魔狂亂
+1294775,轟鳴蟲群
 1294776,閃爍太陽微粒
 1294778,洪流
 1294779,DNT
@@ -407412,13 +408041,16 @@ ID,Name_lang
 1294860,平衡
 1294861,迴盪怒吼
 1294862,平衡
+1294863,Egg Kill Credit [DNT]
 1294864,平衡
+1294865,Cosmetic - Small Squish [DNT]
 1294867,無盡浪潮
 1294868,魔痕大地
 1294869,無盡浪潮
 1294870,魔痕大地
 1294871,戰龜
 1294872,淨化
+1294873,摧毀
 1294876,鳴響
 1294878,踹
 1294879,[DNT] TEST - Quest Reward Treasure
@@ -407428,6 +408060,7 @@ ID,Name_lang
 1294883,射擊
 1294884,魔化火焰之雨
 1294885,製作治療文卷，第二輪
+1294886,暮光甦醒
 1294889,平衡
 1294891,Skiff Rider Aura - Bomb
 1294893,[DNT] Teleport
@@ -407471,12 +408104,14 @@ ID,Name_lang
 1294951,銀河衝擊波
 1294953,硬殼震擊
 1294955,硬殼震擊
+1294956,[DNT] Ping Target
 1294958,毒性噴放
 1294959,Azta'rec Spawn [DNT]
 1294960,12.1 Delves - TwilightsBlade01 - V04 - T3 Taxi: Anim Replace
 1294962,戰龜殲滅
 1294963,靈魂滅絕
 1294965,劇毒爆發
+1294967,火焰引導
 1294968,劇毒爆發
 1294970,Kill Credit x30 (DNT)
 1294971,靈魂之箭
@@ -407503,6 +408138,7 @@ ID,Name_lang
 1295001,[DNT] Sanctum to The Coiled Isle
 1295003,投擲電池
 1295004,怒氣釋放
+1295005,[DNT] Start Conversation
 1295006,傳送
 1295007,[DNT]RP Fel Channel Fel Guard
 1295008,戰龜
@@ -407529,6 +408165,7 @@ ID,Name_lang
 1295033,聖化新星
 1295035,旋刃飛擲
 1295036,神聖打擊
+1295037,[DNT] Play Scene
 1295038,阿茲塔瑞
 1295040,解除坐騎
 1295043,劇毒膽汁
@@ -407575,15 +408212,19 @@ ID,Name_lang
 1295099,濃縮唾沫
 1295102,雙子
 1295104,Play Stay A While Scene (DNT)
+1295106,弓箭射擊
 1295107,濃縮唾沫
+1295108,[DNT] Halduron Shoots Bow - Missile
 1295113,凝結之箭
 1295115,凝結之箭
 1295117,羞辱嘲諷
 1295118,南側前廳
+1295119,逃脫
 1295122,幽魂箭
 1295123,衰弱之毒
 1295124,甦醒儀式
 1295125,幽魂箭
+1295126,巨牙海民冰上釣魚帳篷
 1295127,計數
 1295128,雙子
 1295129,雙子
@@ -407603,8 +408244,11 @@ ID,Name_lang
 1295153,Kill Credit
 1295154,[DNT] Break Targeting + Uninteractible
 1295156,受控的腐化
+1295157,淨化腐化
 1295158,利爪順劈斬
+1295159,復仇之怒
 1295160,[DNT] Library Hallway
+1295161,戰吼
 1295163,Ghostly Cosmetic
 1295164,恢復精華
 1295165,[DNT] Spawn Spell
@@ -407658,8 +408302,11 @@ ID,Name_lang
 1295244,吸取感染
 1295247,濃縮版銀月城生命藥水
 1295248,冰霜注射噴劑
+1295251,Stirred Warrior (DNT)
 1295252,踢頭骨足球
 1295253,盧瑪的蟲害根除者
+1295254,At Advert (DNT)
+1295255,[DNT] Teleport
 1295256,虛無飢餓者噴劑
 1295257,踢頭骨足球
 1295261,冥魄爆發
@@ -407693,6 +408340,8 @@ ID,Name_lang
 1295320,界外球
 1295323,大副的防護龜殼
 1295328,大副的防護龜殼
+1295329,潮誓增強符文
+1295330,召喚潮誓增強符文
 1295331,球門
 1295332,繫鏈切斷噴劑
 1295333,冰霜注射噴劑
@@ -407703,6 +408352,7 @@ ID,Name_lang
 1295338,震波增幅器
 1295339,[DNT] Spore Vehicle Creature Aura
 1295340,[DNT] Shrink Aura
+1295341,[DND] Conjure Tidesworn Augment Rune
 1295343,[DNT] Spawn Spell
 1295344,[DNT] Despawn Aura
 1295347,[DNT] Kill Credit
@@ -407832,9 +408482,11 @@ ID,Name_lang
 1295603,黑暗洶湧
 1295606,黑暗洶湧
 1295610,滑蛇打擊
+1295616,迷宮探索進行中
 1295617,司札瑞克的凶暴
 1295618,幽暮降臨
 1295619,滑蛇打擊
+1295620,已完成的迷宮密室
 1295623,歡騰珍珠
 1295624,幽暮降臨
 1295625,溫暖2
@@ -407845,6 +408497,7 @@ ID,Name_lang
 1295637,扭曲之步
 1295642,星雲轟炸
 1295643,嚎叫奧核塑像
+1295644,亞基碎步者
 1295645,星雲轟炸
 1295646,星雲轟炸
 1295647,劇毒印記
@@ -407853,14 +408506,22 @@ ID,Name_lang
 1295652,星雲轟炸
 1295653,毒性反芻
 1295657,嗜毒
+1295658,小洲
 1295660,抗真菌面具
 1295662,鎮靜附魔
+1295663,亞基劫翼者
+1295669,攻擊！
 1295670,永恆毒液
+1295671,命令之吼
 1295672,瘟疫泡沫
 1295673,黑暗尖牙
+1295674,爪鉤
+1295675,爪鉤地
 1295676,扭動毒液
+1295677,爪鉤箭
 1295679,扭動毒液
 1295680,[DNT] Pot Retaliate
+1295681,火焰轟擊
 1295686,抗真菌面具
 1295690,扭動毒液
 1295693,阿茲塔瑞傳送門
@@ -407874,6 +408535,7 @@ ID,Name_lang
 1295712,駭入控制臺
 1295714,世界階級 - 英雄
 1295715,世界階級 - 傳奇
+1295724,召喚
 1295725,破爛的阿曼尼戰旗
 1295726,5分鐘汲取
 1295728,自毀
@@ -407894,6 +408556,7 @@ ID,Name_lang
 1295754,割取
 1295755,[DNT] Screen Effect - Void
 1295757,[DNT] Screen Effect - War
+1295758,Ping Targets [DNT]
 1295759,[DNT] Screen Effect - Old Gods
 1295761,腐蝕膽汁之矛
 1295762,腐蝕膽汁之矛
@@ -407918,11 +408581,15 @@ ID,Name_lang
 1295790,毒液長槍
 1295791,摧毀
 1295796,瘟疫波
+1295797,投擲炸彈
 1295798,瘟疫波
 1295799,毒液長槍
 1295800,毒液長槍
+1295801,[DNT] Wave Event Area Trigger Aura
+1295802,[DNT] Wave Event Area Trigger Aura
 1295803,銜尾蛇贈禮
 1295804,毒液長槍衝擊
+1295806,噴湧烈焰
 1295810,位移科技
 1295814,慘重終末
 1295815,相位轉移
@@ -407955,10 +408622,13 @@ ID,Name_lang
 1295858,撕碎裂片
 1295866,[DNT] Spawn Spell
 1295867,收集濱海提基觀景亭
+1295869,著火！
 1295871,抓住彈力藤蔓
 1295876,毒蛇之咬
 1295877,催眠瓦斯
 1295878,收集濱海火坑
+1295880,長矛陷阱
+1295881,長矛陷阱
 1295884,妖術領主的災厄塑像
 1295885,妖術領主的末日
 1295886,霜火齊射
@@ -407980,6 +408650,7 @@ ID,Name_lang
 1295909,靈魂束縛
 1295910,靈魂束縛
 1295911,靈魂束縛
+1295912,射擊
 1295913,精華陷阱
 1295914,精華陷阱
 1295915,投射星圖
@@ -408025,6 +408696,7 @@ ID,Name_lang
 1295977,秘法脈衝
 1295978,精華陷阱
 1295979,[DNT] AreaTrigger
+1295980,秘法汲取
 1295982,[DNT] Pick Up Goober
 1295985,霜火齊射
 1295986,林多米的光輝
@@ -408052,6 +408724,7 @@ ID,Name_lang
 1296025,閃現新星
 1296032,水豚屏障
 1296033,播放《Legends of Azeroth》
+1296034,亞基詛咒
 1296035,暗影打擊
 1296038,12.0 - Housing - Jukebox - Play Song from Criteria
 1296039,敦敦的恩寵
@@ -408119,6 +408792,7 @@ ID,Name_lang
 1296125,播放《Ghost》
 1296126,播放《Ghost》
 1296127,放置遙控炸彈
+1296129,[DNT] Ride Vehicle
 1296131,"12.1 Delves - DevouringHost01 - V04 - Wave Shaman: Intro Room Stair, Summon"
 1296132,"12.1 Delves - DevouringHost01 - V04 - Wave Shaman: Intro Room Stair, Periodic"
 1296133,強力重擊
@@ -408186,8 +408860,10 @@ ID,Name_lang
 1296304,"12.1 Delves - DevouringHost01 - V04 - Wave Shaman, Long Ramp: Summon, Left"
 1296305,"12.1 Delves - DevouringHost01 - V04 - Wave Shaman, Long Ramp, Left: Periodic"
 1296310,腐蝕利爪
+1296315,Soaring Spelltome - Test mount - DNT
 1296318,鐮形刀刃
 1296319,治療水晶塔
+1296321,[DNT] Play Scene
 1296329,淨化毒液
 1296335,剝落毒液
 1296336,淨化毒液
@@ -408225,8 +408901,12 @@ ID,Name_lang
 1296395,戳刺長矛
 1296397,12.0.7 Showdowns - Naigtal - Mushroom - Unlock - Kill Credit - Naigtal Spore
 1296399,UNUSED 12.0.7 Showdowns - Naigtal - Event - Floating Shrooms - unlock - level 1
+1296400,燃燒亂舞
+1296401,血紅亂舞
 1296406,[DNT]Cancel Cast Down Targeting Aura
+1296408,虛無防護
 1296411,戳刺長矛
+1296412,搜索
 1296413,剝落軟泥
 1296414,戳刺長矛
 1296415,剝落軟泥
@@ -408235,30 +408915,43 @@ ID,Name_lang
 1296419,酸甜烤肉串
 1296420,崩壞的靈魂
 1296421,UNUSED 12.0.7 Showdowns - Naigtal - Event - Floating Shrooms - unlock - Grapple - level 1 (and 2)
+1296423,虛無屏障
 1296429,仿製毒液濺灑
 1296432,阿曼尼豐饒盛宴
 1296433,羅亞集結
 1296434,知識盛宴
+1296435,克希斯的毀滅
 1296436,死靈疾衝
+1296437,克希斯的毀滅
+1296438,克希斯的毀滅
 1296439,死屍荒疫
 1296440,剝落軟泥
 1296441,妖術堆
 1296444,妖術堆
 1296446,烈焰引導
+1296447,虛無破裂
 1296448,魯莽躍擊
 1296449,組合豬肉
 1296450,植物蛋白
 1296453,死屍荒疫
 1296454,神秘蘑菇
+1296455,虛無破裂
+1296456,虛無破裂
 1296457,神秘蘑菇
 1296458,躁動鎖定
 1296459,躁動鎖定
+1296460,阿斯塔樂的苦痛
+1296463,阿斯塔樂的苦痛
 1296464,[DNT] Kill Credit: Hatch Single Egg
 1296465,[DNT] Ritual Pole Destroyed
+1296470,阿斯塔樂的苦痛
 1296471,中和的毒液凝塊
 1296472,中和的毒液凝塊
+1296473,呼叫蟲群
+1296474,阿斯塔樂的標記
 1296477,亡域消散進入
 1296480,神秘快捷
+1296482,[DNT] Create Conversation
 1296483,神秘迅敏
 1296484,神秘增長
 1296485,神秘精準
@@ -408266,6 +408959,8 @@ ID,Name_lang
 1296487,神秘遲緩
 1296490,復活之軀
 1296492,竊魂強化
+1296493,Kill Credit [DNT]
+1296494,Kill Credit [DNT]
 1296495,阿曼尼鍛造大師工作桌
 1296496,阿曼尼鍛造大師裝飾長矛
 1296497,阿曼尼鍛造大師架子
@@ -408289,6 +408984,7 @@ ID,Name_lang
 1296519,撼動守護
 1296520,冰凍槌擊
 1296524,[DNT] Send Event
+1296528,住宅區
 1296530,中樞傳送門
 1296531,收集點唱機6000型
 1296535,噁心的魚
@@ -408297,6 +408993,8 @@ ID,Name_lang
 1296543,癒療射線
 1296546,秘法結界
 1296547,蛋複製體消除
+1296548,亞基詛咒
+1296549,亞基詛咒
 1296550,蛇皮內襯
 1296552,竊魂強化
 1296557,相位轉移
@@ -408334,6 +409032,7 @@ ID,Name_lang
 1296593,Rogue Subtlety 12.1 Class Set 4pc
 1296594,沉默之波
 1296595,12.1 Delves - Fungarians03 - V04 - Altar: Periodic > Random Missile
+1296600,[DNT] Scenario Setup
 1296602,腐蝕殘餘
 1296603,Druid Balance 12.1 Class Set 2pc
 1296604,Druid Balance 12.1 Class Set 4pc
@@ -408394,27 +409093,40 @@ ID,Name_lang
 1296660,Paladin Retribution 12.1 Class Set 2pc
 1296661,Paladin Retribution 12.1 Class Set 4pc
 1296667,腐蝕殘餘
+1296668,[DNT] Add Gold
+1296669,亞基詛咒
 1296670,兇惡光綻野豬
 1296671,隊長之壁壘
 1296672,兇惡光綻野豬
+1296678,[DNT] Stage 01 Summoner
+1296679,召喚秘法虹吸者
 1296681,12.1 Delves - Fungarians03 - V04 - Burrow: Periodic + Spell Visual
 1296684,12.1 Delves - Fungarians03 - V04 - Burrow: Missile
+1296685,[DNT] Add Gold
 1296686,12.1 Delves - Fungarians03 - V04 - Burrow: Summon
 1296687,翔陽腳
+1296690,[DNT] Stage 01 Summoner - 2a. Summon Melee
+1296691,[DNT] Stage 01 Summoner - 2b. Summon Ranged
 1296692,獻祭
 1296693,獻祭
 1296697,獻祭
 1296698,[DNT] Crowd
 1296700,疾風爆發
 1296702,爆燃
+1296703,[DNT] Add Gold
 1296704,火焰衝擊
 1296706,獻祭
+1296707,[DNT] Add Gold
 1296708,獻祭
+1296709,[DNT] Coin Visual
+1296711,[DNT] Add Gold
+1296712,[DNT] Add Gold
 1296714,烏拉特克信仰
 1296715,獻祭
 1296719,叉狀閃電
 1296722,地震術
 1296724,秋日巫芯騎帚
+1296725,[DNT] Add Gold
 1296727,浸血陷阱
 1296731,天藍死亡行者
 1296732,銳利的光木斬匕
@@ -408426,7 +409138,9 @@ ID,Name_lang
 1296740,摧毀
 1296742,毒性注入
 1296743,否定力量
+1296744,倒數中！
 1296745,否定力量
+1296746,[DNT] Stage 01 Summoner - 3. Override Name & Item Drop
 1296747,獻祭
 1296748,獻祭
 1296749,獻祭
@@ -408472,9 +409186,11 @@ ID,Name_lang
 1296899,毒蛇風暴
 1296901,虛空突進
 1296902,相位步進
+1296903,亞基詛咒
 1296904,[DNT] Cosmetic Gear
 1296905,相位步進
 1296907,[DNT] Cosmetic Gear
+1296910,亞基詛咒
 1296912,風暴打擊
 1296921,炫示斬
 1296922,12.1 Delves - Fungarians03 - V04 - Altar: Player Enters Trigger
@@ -408484,10 +409200,14 @@ ID,Name_lang
 1296929,撕裂血肉
 1296930,蓄積之力
 1296934,亡者之怒
+1296937,爆炸
 1296948,秘法結界
+1296949,轟炸
+1296951,轟炸
 1296952,集結聖光
 1296955,黑洞
 1296957,腐蝕之息
+1296958,烈焰波
 1296960,聖輝箭
 1296961,精神鞭笞
 1296962,原型毒液爆發
@@ -408561,6 +409281,7 @@ ID,Name_lang
 1297075,最終晉升
 1297086,死靈箭
 1297087,Death Knight Unholy 12.1 Class Set 2pc
+1297089,[DNT] Scenario Setup
 1297091,凋零之握
 1297093,毀滅之雨
 1297094,腐蝕小蛇妖
@@ -408740,6 +409461,7 @@ ID,Name_lang
 1297308,充能
 1297309,再聚合
 1297310,再聚合
+1297311,迴旋戰斧
 1297313,毒液爆發
 1297314,毒液爆發
 1297317,永恆連結
@@ -408765,7 +409487,9 @@ ID,Name_lang
 1297361,暗影閃現
 1297362,背刺
 1297363,新靈魂氣味
+1297364,調查中
 1297365,冰凍風暴
+1297366,亞基詛咒
 1297367,毒蛇之怒
 1297368,[DNT] Phase Shift
 1297371,小艇爆炸
@@ -408819,6 +409543,7 @@ ID,Name_lang
 1297444,In Founders Point (DNT)
 1297445,恐懼進軍
 1297446,回去安息
+1297447,Cosmetic - Reading Book (DNT)
 1297450,Take Flight Path (DNT)
 1297452,In Founders Point (DNT)
 1297453,In Razorwind (DNT)
@@ -408883,6 +409608,7 @@ ID,Name_lang
 1297514,[DNT] Tortollan Collectible Visual - RW 059
 1297515,[DNT] Tortollan Collectible Visual - RW 060
 1297516,[DNT] Necro Beam
+1297518,設定代理人目標
 1297521,星際防護
 1297522,破壞幻幕
 1297523,R0CKY
@@ -409076,13 +409802,17 @@ ID,Name_lang
 1297765,傳送至虛無風暴
 1297766,傳送至虛無風暴
 1297767,治療波
+1297768,[DNT] Abundance - Area Trigger
 1297769,治療波
+1297770,豐足 - 飛彈
+1297771,[DNT] Abundance - Area Trigger Visual
 1297772,喚醒靈魂護衛
 1297778,弧狀閃電
 1297779,突發割裂
 1297780,突發割裂
 1297781,突發割裂
 1297785,抑制
+1297788,光榮豐足！
 1297789,纏魂者共鳴
 1297790,弧狀閃電
 1297792,壓倒性猛襲
@@ -409097,12 +409827,14 @@ ID,Name_lang
 1297801,12.0.7 Showdowns - Naigtal - Event - Floating Shrooms Jump - Lasso Spell Override unlock quest
 1297804,爪鉤知識
 1297805,[DNT]Shield Visual
+1297808,活生生的禍心大鍋
 1297810,箭矢之雨
 1297811,箭矢之雨
 1297812,箭矢之雨
 1297815,敦敦的奇異之形
 1297821,敦敦的奇異之形
 1297822,傳送
+1297823,粉粉
 1297824,神聖箭
 1297826,寵物保護者免疫
 1297827,寵物保護者免疫
@@ -409120,6 +409852,7 @@ ID,Name_lang
 1297850,蛇蛋破壞
 1297853,光幕鉤吊射擊
 1297854,三連射
+1297855,[DNT] Interact Blocker
 1297857,弄破孢子浮標
 1297858,可弄破孢子浮標
 1297859,爆炸
@@ -409195,6 +409928,12 @@ ID,Name_lang
 1298016,收集祖阿曼匍匐穿山根
 1298023,『腐蝕吐息』札薩特克
 1298033,纏魂者共鳴
+1298034,收集一窩飽滿的蟲卵
+1298036,收集一堆飽滿的蟲卵
+1298038,收集飽滿的蟲卵
+1298040,收集一窩休眠的蟲卵
+1298042,收集休眠的蟲卵
+1298048,收集一堆休眠的蟲卵
 1298052,幻魅孢子毒素
 1298053,召喚探究機器人8002型
 1298054,召喚探究機器人8002型
@@ -409305,6 +410044,7 @@ ID,Name_lang
 1298345,旗標追蹤
 1298356,[DNT] Summon
 1298358,[DNT] Summon
+1298359,Transfer into Scenario (DNT)
 1298361,雙重撕咬
 1298363,孵化
 1298365,[dnt] Silvermoon artist loop - painting actively
@@ -409328,6 +410068,7 @@ ID,Name_lang
 1298401,保衛者壁壘
 1298402,保衛者壁壘
 1298403,保衛者壁壘
+1298408,Pattern Test (DNT)
 1298417,石之毒液
 1298418,石之毒液
 1298425,探究者新手組合
@@ -409339,6 +410080,7 @@ ID,Name_lang
 1298433,腐蝕勝利
 1298439,太陽祭典彩繪大鵬
 1298441,套裝：太陽祭典烈焰圖騰
+1298444,魔精爆發
 1298446,不破連結
 1298447,[DNT] Reset Appetizing Stacks
 1298449,盤蛇祭壇褻瀆
@@ -409391,6 +410133,8 @@ ID,Name_lang
 1298568,昏迷
 1298569,升級中
 1298570,腐蝕波
+1298577,魔精爆發
+1298580,[DNT] Test Aura
 1298581,AI Brain - Ula'tek - Spell Visual: Poison Puddle Barf
 1298582,血液爆發
 1298583,幽暗爆發
@@ -409411,16 +410155,24 @@ ID,Name_lang
 1298617,慢慢放鬆
 1298628,AI Brain - Ula'tek - Responding Snakes
 1298629,AI Brain - Ula'tek - Initiator: Hypnotize Snakes
+1298631,[DNT] Pick Up Item
 1298632,三連射
 1298633,三連射
+1298635,魔精爆發
+1298637,魔精爆發
 1298641,12.1 Delves - HexTrolls01 - V04 - Venom Vapor: Spell Visual
+1298647,哈謝的指揮
 1298652,Dezi's Emetic Created - Push Loot [DNT]
 1298653,傳送至奈格塔
 1298655,傳送至奈格塔
+1298656,哈謝的指揮
 1298657,傳送至衛爾
 1298658,傳送至衛爾
 1298659,玳姿的催吐劑
 1298662,Quest Abandon [DNT]
+1298668,飛斧彈幕
+1298669,飛斧彈幕
+1298670,飛斧彈幕
 1298673,虛空突進
 1298675,多頭蛇打擊
 1298677,多頭蛇打擊
@@ -409464,27 +410216,37 @@ ID,Name_lang
 1298752,[DNT] Tortollan Kid anim replacement
 1298753,火球術
 1298754,火球術
+1298762,飛斧彈幕
 1298763,消化霜齧
 1298764,消化霜齧
+1298765,飛斧彈幕
 1298767,盤蛇祭壇褻瀆
 1298771,Play Timeline Scene (DNT)
 1298777,鑽地
 1298779,險峻救贖
 1298787,[DNT] Dive splash
 1298788,適應感染
+1298789,沉重揮擊
 1298792,火球術
 1298793,盧瑪的傳送文卷
 1298795,腐化毒素
 1298796,失落
+1298798,黑霧蟲群
 1298800,救贖之靈
 1298804,移位坦克尾巴
 1298808,腐蝕碎魂者
+1298810,斬首
+1298811,斬首
 1298812,易變毒素
 1298815,爆發感染
 1298816,吸取感染
 1298817,冥魄感染
 1298826,菊花茶
+1298834,法拉克斯衝鋒
+1298842,法拉克斯衝鋒
+1298844,[DNT] Scan For Item
 1298846,傳送
+1298857,[DNT] Scan For Item
 1298859,腐化爆發
 1298860,腐化爆發
 1298863,托加拉的祝福
@@ -409541,8 +410303,10 @@ ID,Name_lang
 1298964,[DNT] Corruption Cancellation - 5 yd
 1298966,說服洛摩斯
 1298968,隱蔽暗影
+1298969,[dnt] Block - Scan For Item
 1298970,躍步符文
 1298972,蝕魂打擊
+1298973,法拉克斯衝鋒
 1298974,暴躁
 1298975,12.1 Delves - HexTrolls01 - V04 - Springstep Rune: Delayed Trigger [Feather Fall]
 1298977,說服洛摩斯
@@ -409569,6 +410333,7 @@ ID,Name_lang
 1299014,真菌法師的爐石
 1299019,變成敦敦
 1299021,原型毒液
+1299023,淨化火焰
 1299025,血腥風暴
 1299027,戰龜
 1299028,"12.1 Delves - HexTrolls01 - V04 - Chest, Gauntlet: Summon"
@@ -409611,6 +410376,7 @@ ID,Name_lang
 1299106,戰龜
 1299108,[DNT] PushLoot + Cancel Participation Aura
 1299109,[DNT] Active Participant Check - Test
+1299117,碾擊
 1299125,兇猛躍擊
 1299126,Seamless Test (DNT)
 1299130,鑽地衝鋒
@@ -409618,6 +410384,7 @@ ID,Name_lang
 1299132,收集
 1299133,兇猛躍擊
 1299135,鑽地衝鋒
+1299144,碾擊
 1299145,裂地者
 1299149,剝落軟泥
 1299150,收集秋季西部荒野獸倉房間
@@ -409625,8 +410392,11 @@ ID,Name_lang
 1299152,12.1 Delves - HexTrolls01 - V04 - Rune Chest: Targeting
 1299154,同步毒液
 1299155,同步毒液
+1299156,暗影高山鷹
 1299159,[DNT] Showdowns - Val - Start Conversation with Umbrawarden
 1299160,[DNT] Showdowns - Val - Start Conversation with Umbrawarden
+1299178,[DNT] Scan For Item
+1299183,淨化火焰目標
 1299185,扭動毒液
 1299187,毒牙
 1299188,劇毒鞭笞
@@ -409635,21 +410405,37 @@ ID,Name_lang
 1299191,碎裂心靈
 1299192,碎裂心靈
 1299193,為我殺敵！
+1299198,淨化火焰目標
 1299200,假人
+1299201,淨化火焰
 1299206,響尾蛇猛擊
+1299207,光榮豐足！
+1299208,淨化火焰
 1299209,被鎖定
 1299210,餘震
 1299211,被鎖定
 1299212,皮皮裝飾
+1299215,[DNT] Summon Treasure Dundun [N]
 1299217,為我殺敵！
+1299218,[DNT] Summon Treasure Dundun [E]
+1299219,[DNT] Summon Treasure Dundun [S]
+1299221,[DNT] Summon Treasure Dundun [W]
 1299224,尋找目標
+1299228,淨化火焰
+1299229,淨化火焰目標
+1299231,淨化火焰目標
 1299234,狂暴颱風
 1299240,狂暴颱風
 1299241,沙塵侵蝕
 1299244,狂暴颱風
 1299245,孵化
+1299247,淨化火焰
+1299249,淨化火焰
+1299250,正在拾取
 1299251,不撓領域
 1299252,不撓領域
+1299253,[DNT] Abundance - Impact Only
+1299254,豐足- 返回飛彈
 1299255,蛇札利
 1299256,粉碎浪潮
 1299257,粉碎浪潮
@@ -409710,6 +410496,7 @@ ID,Name_lang
 1299401,死亡低語
 1299405,劫毀
 1299406,星界波動
+1299407,淨化火焰
 1299409,眼鏡蛇劈斬
 1299410,恐怖斬首
 1299412,[DNT] Val - Impotus - Post-Questline Title Change
@@ -409795,6 +410582,7 @@ ID,Name_lang
 1299553,豐足夥伴經驗值
 1299554,豐足裝飾
 1299555,豐足補給品
+1299561,狂怒強風
 1299567,傳送突襲
 1299568,傳送突襲
 1299572,生命耗損
@@ -409814,7 +410602,10 @@ ID,Name_lang
 1299618,池化毒液
 1299619,池化毒液
 1299623,取消
+1299626,狂怒強風
+1299628,狂怒強風
 1299636,戰爭藝術
+1299646,狂怒強風
 1299649,訊息
 1299650,硬化
 1299652,訊息
@@ -409883,6 +410674,7 @@ ID,Name_lang
 1299777,毒霧
 1299781,聚合毒液
 1299787,[DNT] Grant Item
+1299828,巨熊暴怒
 1299830,箭雨
 1299838,毒液破裂
 1299854,彈跳
@@ -409916,6 +410708,8 @@ ID,Name_lang
 1299947,震盪衝擊
 1299949,爆發感染
 1299950,冥魄感染
+1299955,巨熊暴怒
+1299959,巨熊暴怒
 1299960,劇毒洪流
 1299961,黃寶石天牙風蛇
 1299963,紫背天牙風蛇
@@ -409948,34 +410742,55 @@ ID,Name_lang
 1300042,受到加爾馮保護
 1300043,致敬
 1300044,毒液噴射
+1300045,巨熊暴怒
 1300051,收集寬型莫魯凱路障
+1300053,[DNT] Capture Point Aura
 1300054,致敬
 1300056,召喚蕾塔卡
 1300057,被蕾塔卡的存在所溫暖
 1300058,深呼吸卷軸
+1300059,旗標追蹤
 1300060,Kill Credit (DNT)
 1300061,烏拉特克石化蜥蜴
 1300062,<DNT> Cover
+1300064,暗影計謀
 1300066,<DNT> Eligible for Storytime
+1300067,暗影計謀
 1300069,旗魚卷軸
 1300070,<DNT> Teleport
+1300071,[DNT] Capture Point Stacks - Cover
+1300072,[DNT] Pathway Tile - Area Trigger
+1300074,[DNT] Tile Activate
 1300075,[DNT] Event
 1300077,[DNT] Create Area Trigger - Cancel Nearby Player Baraat Guardian
+1300078,暗影計謀
+1300079,暗影計謀
+1300080,[DNT] Remove Capture Point Stacks
+1300081,[DNT] Capture Point Stacks
 1300083,鑽地衝鋒
+1300084,[DNT] Capture Point Done
+1300085,強化圖騰
+1300086,強化圖騰
+1300088,掠食者的狡詐
 1300089,惡疾
 1300090,蔓延膽汁
+1300091,[DNT] Create Capture Point Area Trigger
 1300092,[DNT] Random Amani Guardian Summon
 1300093,[DNT] Invalidate Baraat Guardian Aura
 1300095,[DNT] Ping Bone Pile
 1300096,[DNT] Bone Pile Area Aura
 1300099,猛烈強風
 1300100,Complete Corpesburster Achievement [DNT]
+1300101,掠食者的狡詐
+1300105,掠食者的狡詐
 1300107,毒液噴射
 1300113,持續召喚測試
 1300115,Maintain Summon Test 2. Summoning
 1300116,迴旋狂風
 1300117,迴旋狂風
+1300120,掠食者的狡詐
 1300121,一般酒
+1300122,掠食者的狡詐
 1300123,"12.1 Delves - Ethereals02 - V04 - Snake: Spawn [Periodic, FX + Area Trigger]"
 1300125,飲料
 1300126,劇毒洪流
@@ -410014,12 +410829,15 @@ ID,Name_lang
 1300190,[DNT]Area Trigger visual
 1300194,孵化毀滅
 1300195,孵化毀滅
+1300198,掠食者的狡詐
 1300201,孵化毀滅
 1300203,Kill Credit (DNT)
+1300206,掠食者的狡詐
 1300208,RP對話泡泡
 1300210,<DNT> Fade to Black
 1300213,[DNT] Talking Head Conversation Root of Survival
 1300215,烹飪
+1300218,掠食者的狡詐
 1300219,流動元素
 1300220,號令咆哮
 1300222,超載！
@@ -410034,6 +410852,8 @@ ID,Name_lang
 1300243,殘暴爪
 1300244,殘暴爪
 1300245,號令咆哮
+1300246,黑暗
+1300247,窒息黑暗
 1300248,吞噬
 1300249,吞噬
 1300250,吞噬之力
@@ -410080,6 +410900,7 @@ ID,Name_lang
 1300330,疫病命令
 1300331,<DNT> Fade to Black
 1300340,甬道之門
+1300348,阿奇爾森之印
 1300349,硬殼震擊
 1300351,毒液噴濺
 1300357,General Trigger 3
@@ -410091,7 +410912,9 @@ ID,Name_lang
 1300370,Kill Credit (DNT)
 1300371,[DNT]Cosmetic missile
 1300372,宇宙撞擊
+1300374,匯聚的風暴
 1300375,能量光束
+1300376,匯聚的風暴
 1300377,[DNT] Boss Delay
 1300378,丟擲蘑菇
 1300379,[DNT]Cosmetic missile
@@ -410118,15 +410941,19 @@ ID,Name_lang
 1300459,劇毒波
 1300463,雕刻利刃
 1300465,Abort Conversation [DNT]
+1300466,法拉克斯衝鋒
 1300468,旋動之魂
 1300470,攫取深淵
 1300472,Abort Conversation [DNT]
 1300476,"12.1 Delves - Ethereals02 - V04 - Energy, Stake: Spawn, FX"
+1300479,魔精爆發
+1300480,魔精爆發
 1300482,孢子俯衝
 1300483,滲液淤泥
 1300486,滲液淤泥
 1300487,[DNT] Showdowns - Val - Ch1 Q03 - On Abandon (JTL)
 1300489,滅鱗的蛋
+1300491,魔精爆發
 1300492,[DNT] Ping Soul Guardian
 1300495,光幕披風
 1300498,<DNT> Teleport
@@ -410179,6 +411006,7 @@ ID,Name_lang
 1300590,苦痛怒火
 1300592,[DNT] Cancel Aura
 1300596,滲液彈幕
+1300597,淨化火焰
 1300600,[DNT] Grant Feather
 1300601,滲液彈幕
 1300603,滲漏毒液
@@ -410216,6 +411044,7 @@ ID,Name_lang
 1300684,妖術淤泥
 1300685,靈魂巨蚺
 1300686,同化
+1300687,掠食者的狡詐
 1300688,Kill Credit (DNT)
 1300690,血腥責難
 1300693,Kill Credit (DNT)
@@ -410264,6 +411093,10 @@ ID,Name_lang
 1300756,召喚將至的恩澤
 1300757,指示將至的恩澤
 1300758,Kill Credit (DNT)
+1300765,掠食者的狡詐
+1300767,失序魔精
+1300768,迴旋戰斧
+1300769,巨熊暴怒
 1300771,包圍獵物
 1300772,包圍獵物
 1300773,包圍獵物
@@ -410357,6 +411190,7 @@ ID,Name_lang
 1301049,斑彩爆裂
 1301055,[DNT] Reapply Splash!
 1301056,成就死亡之觸
+1301058,播放影片
 1301063,毒牙儀式
 1301065,雙重撕咬
 1301067,Cosmetic - Sleep Zzz Breakable
@@ -410374,7 +411208,9 @@ ID,Name_lang
 1301103,[DNT]Visual Periodic
 1301104,劇毒唾沫
 1301105,[DNT]Missiles
+1301108,八重蝕影
 1301109,[DNT]Impact Check
+1301110,冥河咆哮
 1301111,磨斧者
 1301112,磨斧者
 1301113,磨斧者
@@ -410394,8 +411230,10 @@ ID,Name_lang
 1301169,[DNT] Split Health
 1301171,[DNT] Combine Health
 1301172,旅店宣傳者
+1301173,[DNT] Capture Point Summon Stacks
 1301182,毒素水箭
 1301184,不穩定的黑暗
+1301186,[DNT] Summon Spirit
 1301190,暗影蛻皮
 1301191,劇毒釋放
 1301192,劇毒獻祭
@@ -410406,6 +411244,7 @@ ID,Name_lang
 1301198,燃燒淤泥
 1301199,褻瀆污染
 1301202,褻瀆污染
+1301203,迴旋戰斧
 1301213,暗影蛻皮
 1301217,放血
 1301224,放血
@@ -410417,14 +411256,18 @@ ID,Name_lang
 1301232,放血
 1301235,[DNT] Spell
 1301238,[DNT] Promoter Credit
+1301239,[DNT] Summon Spirit
 1301240,瑟沙利斯的痛苦
 1301243,武器庫：羅亞武裝
+1301244,聖光之子
 1301245,瑟沙利斯的痛苦
 1301246,[DNT] Miniboss Totem Interact
 1301248,取得情報
+1301251,Kill Credit (DNT)
 1301253,瑟沙利斯的痛苦
 1301254,瑟沙利斯的痛苦
 1301256,瑟沙利斯的痛苦
+1301262,Kill Credit (DNT)
 1301266,腐蝕贈禮
 1301268,腐臭薄膜
 1301269,腐蝕寶典
@@ -410432,15 +411275,22 @@ ID,Name_lang
 1301279,洞穴之光
 1301286,血污利爪
 1301287,腐蝕寶典
+1301288,魔精爆發
 1301289,賈納雷的靈魂
 1301290,腐蝕寶典
 1301291,腐蝕寶典
+1301294,魔精爆發
 1301297,"12.1 Delves - Ethereals02 - V04 - Taxi, Entrance: Cancel Aura"
 1301300,賈納雷的靈魂
 1301301,甬道之門
 1301302,"12.1 Delves - Ethereals02 - V04 - Taxi, Midpoint: Cancel Aura"
+1301303,魔精爆發
+1301305,Kill Credit (DNT)
+1301309,12.1.5 Kithix - Campaign - Epilogue - Lor'themar Zul'jarra Convo (AS)
 1301311,心靈碎裂
+1301321,Kill Credit (DNT)
 1301324,賈納雷的靈魂
+1301331,腐化群居蟲
 1301332,火焰牢籠
 1301340,化身：生命之樹
 1301344,賈納雷的靈魂
@@ -410449,18 +411299,24 @@ ID,Name_lang
 1301350,劈砍
 1301353,劈砍
 1301371,火焰牢籠
+1301376,阿曼尼庇護
 1301377,[DNT] Free Miniboss
 1301379,[DNT] Visual
+1301380,阿曼尼庇護
 1301389,狂怒
 1301392,奔竄
+1301393,亞基刃翼
+1301394,阿曼尼庇護
 1301395,奔竄
 1301397,放血
 1301398,打鼓
+1301399,[DNT] Bumper Blocker
 1301402,打鼓
 1301405,尖牙打擊
 1301406,戰術裝填
 1301407,痛苦回音
 1301408,根除詛咒
+1301409,Kill Credit (DNT)
 1301410,灼燒
 1301412,根除詛咒
 1301413,削骨者
@@ -410468,12 +411324,15 @@ ID,Name_lang
 1301416,削骨者
 1301417,熊熊燃燒
 1301418,著火
+1301419,Kill Credit (DNT)
 1301467,腐蝕靈魂
 1301470,火焰傳送門
 1301472,Ravenous Doomscale Cosmetic Spawn
+1301473,[DNT] Large Rock Interact [3]
 1301476,無定毒液
 1301477,燙手山芋
 1301478,無定毒液
+1301479,八重蝕影
 1301480,詛咒礦床
 1301481,無定毒液
 1301482,暗影之門
@@ -410482,6 +411341,7 @@ ID,Name_lang
 1301486,詛咒明亮銀礦
 1301487,旋動之魂
 1301489,烏拉特克塑像
+1301490,播放影片
 1301491,腐蝕之息
 1301492,詛咒輝煌銅礦
 1301493,腐蝕之息
@@ -410500,15 +411360,28 @@ ID,Name_lang
 1301508,削骨者
 1301509,削骨者
 1301510,包圍獵物
+1301511,虛無群怪
 1301512,隱沒
 1301513,摧毀中央平台
 1301514,包圍獵物
 1301515,[DNT] Kill Credit
 1301524,Brushing [DNT]
+1301525,Play Stay A While Scene (DNT)
+1301542,Kill Credit (DNT)
 1301543,12.1 Delves - Ethereals02 - V04 - Waygate: Spawn [FX]
+1301545,Kill Credit (DNT)
 1301549,凜風大漩渦
 1301552,充能唾沫
+1301553,[DNT] Corruption Aura
+1301554,魔精爆發
+1301556,[DNT] Launch Quest
+1301557,[DNT] Launch Quest
+1301558,[DNT] Launch Quest
+1301559,<DNT> Choice
+1301560,迴旋戰斧
 1301564,池化毒液箭
+1301566,[DNT] Kill Credit
+1301569,Kill Credit (DNT)
 1301573,對戰中
 1301595,池化毒液箭
 1301596,開始鬼魅儀式
@@ -410542,10 +411415,12 @@ ID,Name_lang
 1301654,詛咒血棘
 1301655,詛咒靜心花
 1301657,超載詛咒草藥
+1301660,[DNT] Pathway Rock Bumper FX
 1301662,放血
 1301663,放血
 1301666,守門員
 1301667,黑暗耳語
+1301668,虛無群怪
 1301671,守門員
 1301672,注血
 1301677,注血
@@ -410569,6 +411444,8 @@ ID,Name_lang
 1301742,星殞術
 1301745,[DNT] Waves On
 1301747,星殞術
+1301753,掠食者的狡詐
+1301761,掠食者的狡詐
 1301762,血箭
 1301764,血箭
 1301768,阿奇爾森的清晰
@@ -410582,6 +411459,9 @@ ID,Name_lang
 1301779,螺旋毒素
 1301781,螺旋毒素
 1301782,螺旋毒素
+1301787,虛無群怪
+1301793,虛無群怪
+1301794,虛無群怪
 1301795,平台C被摧毀
 1301796,平台B被摧毀
 1301797,平台D被摧毀
@@ -410590,6 +411470,7 @@ ID,Name_lang
 1301800,強酸爆發
 1301801,[DNT] Spawn Health Pickup - 3
 1301803,昏昏欲睡
+1301811,掠食者的狡詐
 1301813,受控的腐化
 1301814,受控的腐化
 1301816,心臟防禦
@@ -410614,7 +411495,9 @@ ID,Name_lang
 1301854,螺旋毒素
 1301863,靈魂撕裂
 1301884,[DNT]Generic Power Bar Color - Green/Poison
+1301885,[DNT] Push Bonus Objective
 1301886,[DNT]Generic Full Energy (60 sec)
+1301889,寵物救援
 1301895,[DNT] Recently Dreadmarched Aura
 1301899,螺旋毒素
 1301908,重獲腐化
@@ -410635,8 +411518,10 @@ ID,Name_lang
 1301976,[DNT] Corruption Creep - 10 yd
 1301979,[DNT] Skip Totem Objective
 1301984,怒牙毒液
+1301985,Kill Credit (DNT)
 1301989,蔓生術
 1301992,[DND] Pet Mount
+1301993,匯聚的風暴
 1301995,猛烈毒液
 1301996,[DNT] Kill Credit
 1302002,[DND] Pet Mount
@@ -410650,19 +411535,24 @@ ID,Name_lang
 1302015,惡臭雲霧
 1302016,[DNT] Mephitic Cloud
 1302018,毒液戒斷
+1302021,Kill Credit (DNT)
 1302028,靈魂碎擊
+1302036,阿曼尼，來吧！
 1302038,分岔吐息
 1302040,蛇魔凝視
 1302044,Test Thisalee And Zen'Tabra Scene (DNT)
 1302047,血腥反芻
 1302048,血腥爆發
+1302050,Kill Credit (DNT)
 1302052,靈魂之握
 1302053,摧毀
 1302055,第三循環
 1302057,粉碎
+1302058,[DNT] Venom Pool
 1302059,收集諸王秘典
 1302060,第二循環
 1302061,第一循環
+1302074,[DNT] Darkness - Room Atmosphere
 1302078,毒液戒斷
 1302080,踹人…
 1302081,遊蕩的幽靈
@@ -410674,7 +411564,9 @@ ID,Name_lang
 1302091,迅疾
 1302094,喵卡韓
 1302095,阿喵比沙斯
+1302096,虛無群怪
 1302097,[DNT] Phase Shift - Val - Ch3 Q03
+1302098,虛無群怪
 1302099,呱！
 1302100,黏滑
 1302101,踹
@@ -410684,6 +411576,7 @@ ID,Name_lang
 1302107,傳送
 1302114,光幕披風
 1302116,|cnIQ4:星雲虛無之核|h|R
+1302117,腸胃反應
 1302118,傳送
 1302125,[DNT] Check Totals
 1302126,[DNT] Cleanse Corruption
@@ -410703,11 +411596,15 @@ ID,Name_lang
 1302152,潛在妖術
 1302153,潛在妖術
 1302154,妖術淤泥
+1302155,哈謝離去
+1302156,哈謝離去
 1302157,[DNT] Player Cleansing Tracker Hack
 1302158,烈焰震擊
 1302159,點心！
 1302162,[DNT] Apply Cleansing Tracker to Players
 1302163,點心！
+1302164,Kill Credit (DNT)
+1302168,Kill Credit (DNT)
 1302169,[DNT] Player Wave Mult
 1302170,腐蝕靈魂
 1302171,[DNT] Player Cleansing Mult
@@ -410733,15 +411630,19 @@ ID,Name_lang
 1302213,腐蝕靈魂
 1302216,妖術蠟燭
 1302221,蒼蠅油膏
+1302233,Play Camera Grab Scene (DNT)
 1302234,放置多頭蛇誘餌
 1302235,Key to the Arcantina - KM Test [DNT]
+1302240,Kill Credit (DNT)
 1302243,祈禱
 1302244,[DNT]
 1302252,孵化
+1302254,世界之魂溝通
 1302255,生生不息
 1302258,腐蝕靈魂
 1302259,腐蝕靈魂
 1302262,鎖定
+1302263,世界之魂閃光
 1302265,萬象儀對開本
 1302270,獻祭
 1302271,獻祭
@@ -410757,16 +411658,19 @@ ID,Name_lang
 1302289,折磨高漲
 1302291,吸收弱者
 1302292,吸收弱者
+1302295,鎖定
 1302296,吸收弱者
 1302298,吸收弱者
 1302299,吸收弱者
 1302300,吸收弱者
+1302302,鎖定
 1302313,Set Target 31 [DNT]
 1302314,Set Target 32 [DNT]
 1302315,Set Target 33 [DNT]
 1302316,Set Target 34 [DNT]
 1302317,Set Zone 5 [DNT]
 1302318,Mod Phase Shift [DNT]
+1302319,消化液
 1302320,Summon Prey [DNT]
 1302321,Summon Prey [DNT]
 1302322,Summon Prey [DNT]
@@ -410780,6 +411684,10 @@ ID,Name_lang
 1302330,追獵
 1302331,追獵
 1302332,追獵
+1302333,虛無編織
+1302334,虛無編織
+1302335,虛無編織
+1302336,虛無編織
 1302337,蛇母之怒
 1302338,蛇母之怒
 1302339,蛇母之怒
@@ -410815,9 +411723,11 @@ ID,Name_lang
 1302505,烏拉特克之絆
 1302509,瓦麗拉的講述
 1302512,[DNT] Wave Multiplier Hack Aura
+1302513,12.1.5 Kithix - Campaign - Epilogue - What the World Sees - Turn In (AS)
 1302515,[DNT] Cleansing Multiplier Hack Aura
 1302516,烏拉特克之絆
 1302517,血液凝結
+1302519,以太黑暗
 1302520,瘟疫泡沫波動防護
 1302523,[DNT] Corruption Stacks Hack Aura
 1302525,毒液箭
@@ -410854,6 +411764,7 @@ ID,Name_lang
 1302616,暗邪衝鋒
 1302618,暗邪衝鋒
 1302619,暗邪衝鋒
+1302620,Play Stay A While Scene (DNT)
 1302621,陰險毒液
 1302624,陰險毒液
 1302625,陰險毒液
@@ -410878,6 +411789,7 @@ ID,Name_lang
 1302694,瓦麗拉的講述
 1302695,血腥爆發
 1302703,窒息中
+1302705,夜暮
 1302710,回收中
 1302713,[DNT]Place Skull Right
 1302714,[DNT]Place Skull Left
@@ -410886,6 +411798,9 @@ ID,Name_lang
 1302723,毒性痛擊
 1302724,[DNT] Arcane Explosion
 1302725,[DNT] Arcane Explosion
+1302726,夜暮
+1302727,夜暮
+1302728,夜暮
 1302729,[DNT] Land Spell
 1302755,Destroy Door Cosmetic
 1302756,不穩定的腐化
@@ -410921,9 +411836,12 @@ ID,Name_lang
 1302819,烏拉特克蛇頭魚誘餌
 1302820,烏拉特克蛇頭魚誘餌
 1302821,12.1 Delves - HexTrolls01 - V04 - Spellstorm Rift: FX
+1302823,羅亞鎖定
+1302825,黑暗之盾
 1302826,腐化爆發
 1302827,Visual
 1302828,[DNT] Flag
+1302830,[DNT] Visible
 1302831,瘴氣噴泉
 1302832,Visual
 1302837,Visual
@@ -410940,16 +411858,22 @@ ID,Name_lang
 1302856,膿瘡劈砍
 1302857,淨化生命力
 1302859,淨化生命力
+1302860,羅亞鎖定：哈拉齊
+1302861,羅亞鎖定：阿奇爾森
+1302862,羅亞鎖定：賈納雷
+1302863,羅亞鎖定：納羅拉克
 1302864,Visual
 1302865,膿瘡劈砍
 1302867,膿瘡劈砍
 1302872,穿刺突破
 1302873,蛇魔凝視
 1302877,Visual
-1302878,穿刺突破
+1302879,駕，騾子！
 1302881,腐化
 1302883,Visual
+1302884,劇毒怒吼
 1302886,Visual
+1302887,點燃火盆
 1302889,[DNT] Impotus Cage Despawn
 1302895,吞噬生命力
 1302896,Visual
@@ -410960,6 +411884,10 @@ ID,Name_lang
 1302905,收集泛黃的海藻堆
 1302907,收集粗製釣魚架
 1302909,收集掛著的泛黃海藻
+1302912,[DNT] Swap Brazier Model to On
+1302914,劇毒怒吼
+1302917,劇毒怒吼
+1302928,點燃賈納雷火盆
 1302935,毒液灌注
 1302936,邪惡唾沫
 1302942,瑟沙利斯化身
@@ -410968,7 +411896,10 @@ ID,Name_lang
 1302945,穿刺之矛
 1302946,穿刺之矛
 1302948,穿刺之矛
+1302949,窒息黑暗
 1302950,扭動孵育
+1302951,窒息黑暗
+1302952,輝煌壁壘
 1302953,摧毀蛋
 1302954,計算摧毀的大顆的蛋
 1302962,梅杜莎
@@ -410984,6 +411915,7 @@ ID,Name_lang
 1302977,[DNT] Curse of the Isle - Cancel
 1302978,<DNT>
 1302979,毒惡噴吐
+1302980,[DNT] Area Trigger Visual
 1302981,擠出毒液
 1302982,毒惡噴吐
 1302984,擠出毒液
@@ -411064,7 +411996,11 @@ ID,Name_lang
 1303159,纏魂者詛咒
 1303163,火葬
 1303164,梵陀符文：海潮
+1303165,窒息黑暗
 1303166,梵陀符文：海潮
+1303167,[DNT] Power Bar Color
+1303168,神聖輝光
+1303169,神聖輝光
 1303170,梵陀符文：海潮
 1303171,梵陀符文：海潮
 1303172,梵陀符文：『纏魂者』尼札利
@@ -411083,6 +412019,7 @@ ID,Name_lang
 1303185,梵陀符文：梵克胡與艾司拉茲
 1303186,梵陀符文：祖爾詹
 1303187,梵陀符文：烏拉特克
+1303188,神聖輝光
 1303189,烏拉特克之絆
 1303191,消失！
 1303196,永恆毒液
@@ -411090,14 +412027,20 @@ ID,Name_lang
 1303205,劍刃連擊
 1303206,在海岸邊尋找追尋者！
 1303210,Set Safe Loc
+1303212,Kill Credit (DNT)
 1303213,消失！
+1303221,燃燒祭品
+1303225,燃燒祭品
 1303229,瓦麗拉的講述
 1303230,血腥洪流
 1303231,Lucas Test Gateway
 1303235,血腥洪流
 1303236,調查中
+1303257,窒息
 1303258,腐蝕靈魂
 1303259,神秘祭品
+1303260,黑暗狂亂
+1303261,黑暗狂亂
 1303267,金輝毀滅
 1303268,金輝毀滅
 1303277,[DNT] Time Remaining
@@ -411105,6 +412048,7 @@ ID,Name_lang
 1303281,[DNT] Timer Removal
 1303283,金輝毀滅
 1303284,疾速流動
+1303285,遮蔽迷霧
 1303287,KC：戰利品
 1303288,金輝毀滅
 1303316,毒液噴濺
@@ -411125,6 +412069,8 @@ ID,Name_lang
 1303342,劈顱
 1303345,點亮
 1303347,烏拉特克之絆
+1303349,靈魂囚牢造型
+1303352,[DNT] Clear Buffs
 1303354,刺穿
 1303355,回收中
 1303357,刺穿
@@ -411140,13 +412086,16 @@ ID,Name_lang
 1303384,[DNT]Hatchling Trigger Aura
 1303387,[DNT]Hatchling Trigger Aura Right
 1303390,[DNT]Hatchling Trigger Aura Left
+1303392,窒息黑暗
 1303395,個人最佳紀錄
 1303396,液體黃金
 1303397,液體黃金
 1303398,Egg Destroyed Cosmetic
 1303399,液體黃金
+1303400,深淵之握
 1303404,製作窗：盛宴
 1303405,飢饞滅鱗
+1303406,深淵之握
 1303407,澎湃阿曼尼豐饒盛宴
 1303408,澎湃羅亞集結
 1303409,澎湃知識盛宴
@@ -411170,6 +412119,9 @@ ID,Name_lang
 1303453,毒液破片
 1303454,毒液破片
 1303462,[DNT] Invisible Corruption Source - Spawn
+1303463,[DNT] Test Transfer 01
+1303464,[DNT] Test Transfer 02
+1303465,[DNT] Test Transfer 03
 1303466,[DNT] Invisible Corruption Source - Spread
 1303467,莉斯克之羽
 1303468,銜尾蛇循環
@@ -411192,6 +412144,7 @@ ID,Name_lang
 1303487,蛇魔凝視
 1303488,野蠻槌擊
 1303490,野蠻槌擊
+1303494,丟臉的表現
 1303496,凶狠刺擊
 1303497,暗影之門
 1303500,腐蝕靈魂
@@ -411218,7 +412171,9 @@ ID,Name_lang
 1303583,球體
 1303585,死亡之吻
 1303586,脫落外皮
+1303593,深淵之握
 1303594,虹吸能量
+1303595,深淵之握
 1303596,虹吸能量
 1303597,光鑄鉤槍
 1303600,法力熔爐移位裝置網路
@@ -411237,7 +412192,9 @@ ID,Name_lang
 1303622,腐蝕波
 1303623,嫻熟餌食
 1303624,感知餌食
+1303625,掠食者的狡詐
 1303626,表面張力
+1303627,狂怒強風
 1303628,[DNT] Maintain Summon: Pamphlet Vehicle
 1303629,[DNT] Maintain Summon: Pamphlet Vehicle
 1303630,海中翹楚
@@ -411255,6 +412212,11 @@ ID,Name_lang
 1303668,蛋成長茁壯
 1303675,Venomous Birthling Cosmetic
 1303679,穿過裂隙
+1303681,扭曲附肢
+1303682,扭曲附肢
+1303683,扭曲附肢
+1303684,扭曲附肢
+1303685,扭曲附肢
 1303718,"12.1 Delves - Ethereals02 - V04 - Energy, Beam: Stake to Boss, Double Beam"
 1303722,三眼魚
 1303723,"12.1 Delves - Ethereals02 - V04 - Energy, Beam: Stake to Stake, Double Beam"
@@ -411320,6 +412282,7 @@ ID,Name_lang
 1303910,光幕披風
 1303914,[DNT] Desaturation
 1303916,靈魂編織
+1303919,[DNT] Lamenting Spirit Phasing
 1303931,Cosmetic - Void Teleport In
 1303933,博學者法術書信
 1303935,暗影球體
@@ -411345,13 +412308,22 @@ ID,Name_lang
 1304013,[DNT]
 1304016,毒性反芻
 1304022,毒性反芻
+1304026,孵化
 1304028,亡靈守衛
 1304030,亡靈守衛
 1304032,靈魂綁定
 1304033,鬼靈再生
 1304034,靈魂綁定
+1304035,螫心
+1304040,螫心
+1304044,難言恐懼
+1304045,難言恐懼
+1304046,極度恐懼
+1304047,極度恐懼
 1304074,"12.1 Delves - Ethereals02 - V04 - Energy, Stake: Energized FX"
 1304089,[DNT] Feign Death
+1304105,經典發條小鴨
+1304106,水棲發條小鴨
 1304110,彈射！
 1304113,聖光術
 1304115,Pool Visual Aura
@@ -411366,6 +412338,8 @@ ID,Name_lang
 1304171,石牢
 1304189,回憶
 1304194,[DNT] Digging
+1304198,退場
+1304199,退場
 1304211,聖光引導
 1304213,虛無陰影
 1304214,[DNT] Keep Players In Combat
@@ -411394,15 +412368,20 @@ ID,Name_lang
 1304362,燃燒的火焰
 1304363,肩扛武器
 1304364,液態之怒
+1304368,防禦
 1304370,噴濺！
 1304372,秘法護罩
 1304373,毒性尖嘯
 1304374,毒性尖嘯
+1304378,鮮血拒斥
 1304384,絲繭纏繞
 1304385,測試階段轉換中場01 -> 階段02
 1304390,昏迷
 1304391,喝酒
 1304394,武器庫：狩獵者丟失的裝備
+1304424,滅絕
+1304433,鎖定
+1304434,鎖定
 1304436,Hold Torch [DNT]
 1304440,至暗之夜賽季前夕探究
 1304443,光之屏障
@@ -411419,11 +412398,20 @@ ID,Name_lang
 1304499,毒液灌注
 1304501,[DNT]Blood Beam
 1304503,面對隨機玩家
+1304508,聖光之擁
+1304524,聖光之擁
+1304525,聖光之擁
+1304526,聖光之擁
 1304527,血腥響尾
 1304528,傳送
+1304529,聖光之擁
 1304581,纏魂殘骸
 1304586,靈魂光束
 1304631,12.1 Delves - Ethereals02 - V04 - Boss: Step Begin
+1304638,暗影計謀
+1304640,淨化火焰
+1304641,巨熊暴怒
+1304644,匯聚的風暴
 1304656,凝結
 1304657,天藍珍珠
 1304663,罪惡珍珠
@@ -411450,6 +412438,7 @@ ID,Name_lang
 1304825,Side 01
 1304827,Side 02
 1304836,滲漏踐踏
+1304837,暗影計謀
 1304838,滲漏踐踏
 1304839,滲漏踐踏
 1304841,投擲
@@ -411461,28 +412450,46 @@ ID,Name_lang
 1304882,腐蝕靈魂
 1304887,腐蝕靈魂
 1304888,復仇
+1304891,哈謝隱沒
 1304893,復仇
 1304894,圖騰迷霧
+1304896,哈謝浮現
+1304904,哈謝隱形
 1304915,暗影蛻皮
 1304919,附身甕
 1304920,投擲
 1304923,暗影蛻皮
 1304924,暗影蛻皮
+1304925,黑暗破滅
 1304926,投擲
+1304929,黑暗破滅
+1304930,黑暗破滅
 1304931,投擲
 1304932,投擲
 1304933,投擲
 1304934,Play Stay A While Scene (DNT)
 1304935,黏呼呼
+1304945,黑暗破滅
+1304946,黑暗破滅
+1304947,黑暗破滅
+1304948,毀滅重創
+1304949,虛無之痕
+1304950,虛無之痕
+1304951,虛無之痕
 1304958,Follow Leaf Trail (DNT)
 1304972,鑽地
 1304974,鑽地
 1304977,鑽地
 1305004,腐蝕靈魂
+1305007,領袖氣場
+1305008,領袖氣場
 1305026,駕馭腐蝕
 1305036,腐蝕靈魂
 1305037,惡意外殼
+1305045,[DNT] Power Bar Color
+1305046,[DNT] Energy
 1305049,滅鱗外殼
+1305055,巨熊暴怒
 1305060,[DNT] Miniboss Door Locked FX
 1305062,[DNT] Miniboss Door Unlocked FX
 1305063,防護聖騎士
@@ -411531,6 +412538,7 @@ ID,Name_lang
 1305213,壓制潰擊
 1305215,地鑄打擊
 1305217,地鑄打擊
+1305218,阿曼尼鼓舞
 1305221,套裝：拉文霍德刺客裝束
 1305223,地動打擊
 1305224,胃袋翻騰
@@ -411580,6 +412588,7 @@ ID,Name_lang
 1305271,套裝：劇毒好戰者鎧甲
 1305272,武器庫：劇毒好戰者武器
 1305298,[DNT]PTR Spotlight
+1305302,淨化火焰
 1305303,[DNT]Dummy Despawn Ping
 1305306,燃燒
 1305326,[DNT]Multiple Dummy Aura
@@ -411613,6 +412622,7 @@ ID,Name_lang
 1305387,腐蝕暴風
 1305390,地底破壞
 1305391,死靈撕裂
+1305392,彈塗魚
 1305393,地底破壞
 1305395,腐蝕吐息
 1305396,毒液箭雨
@@ -411625,21 +412635,31 @@ ID,Name_lang
 1305417,[DNT] Reform Boss Cosmetic
 1305421,飢饞蛇火
 1305423,[DNT] Create Grant Vine Grip Trigger
+1305425,最後聖光
+1305427,最後聖光
+1305428,光輝恩典
+1305429,驅散黑暗
+1305430,驅散黑暗
 1305431,收集純淨半龍人酒杯
 1305436,收集純淨哥布林杯子
 1305440,淬毒步法
+1305610,哈謝離去
+1305612,巨大加洛克
 1305613,靈翼升空
 1305614,精華陷阱
 1305618,蘑菇爆發
 1305620,毒蛇之怒
 1305621,毒蛇之怒
 1305624,毒蛇之怒
+1305626,隱藏死亡觸發
 1305627,銜尾蛇詛咒
 1305628,銜尾蛇詛咒
 1305629,銜尾蛇詛咒
+1305631,竄出的靈魂
 1305632,[DNT] Horizontal Jump Charge Vis
 1305636,[DNT] Vertical Jump Charge Vis
 1305637,膿毒濺射
+1305638,靈魂波
 1305641,膿毒濺射
 1305642,腐蝕膽汁之矛
 1305643,腐蝕膽汁之矛
@@ -411656,9 +412676,11 @@ ID,Name_lang
 1305676,[DNT] Vertical Jump Charge Vis
 1305678,無定毒液囊
 1305680,毒蛇之怒
+1305681,破壞視覺效果
 1305682,裂魂捕夢網
 1305683,裂魂捕夢網
 1305684,裂魂捕夢網
+1305685,破壞視覺效果
 1305686,毒液灌注
 1305687,毒液灌注
 1305688,毒液灌注
@@ -411670,6 +412692,15 @@ ID,Name_lang
 1305695,[DNT] Transform 12PH_Folk_Candelabra02
 1305696,[DNT] Transform 12TR_Amani_Cooking_Pitcher01
 1305697,靈翼推進
+1305698,骸骨風暴
+1305699,骸骨風暴
+1305700,冰霜打擊
+1305701,骨甲術
+1305702,骸骨尖刺
+1305703,骸骨尖刺
+1305704,骸骨尖刺
+1305705,骸骨尖刺
+1305706,骸骨尖刺
 1305707,狂戰士協助傳送V2
 1305708,收藏：魔古面具
 1305709,絕望痛擊
@@ -411680,6 +412711,9 @@ ID,Name_lang
 1305717,無定毒液囊
 1305719,收藏：女巫面具
 1305720,無定毒液囊
+1305722,[DNT] Coalesced Anguish summon missile
+1305726,[DNT] Coalesced Anguish summon missile
+1305727,失序苦痛
 1305730,煙火
 1305740,收藏：托維爾面具
 1305741,劇毒血小板
@@ -411711,6 +412745,7 @@ ID,Name_lang
 1305797,[DNT] Kill Credit
 1305798,返還靈魂裂片
 1305810,弧狀閃電
+1305816,[DNT] Force Visible
 1305817,[DNT] Kill Credit
 1305818,[DNT] Kill Credit
 1305820,[DNT] Kill Credit
@@ -411736,7 +412771,11 @@ ID,Name_lang
 1305860,餘燼箭
 1305863,被追蹤
 1305865,燃焰彈幕
+1305870,八重蝕影
 1305872,毒蛇之咬
+1305873,八重蝕影
+1305874,八重蝕影
+1305876,八重蝕影
 1305877,爆裂淨滅
 1305878,爆裂淨滅
 1305879,收集嘶鳴蛋孵化所
@@ -411763,9 +412802,11 @@ ID,Name_lang
 1305923,活體爆彈
 1305924,幻魅孢子毒素
 1305925,AI Brain - Gnarldin - NPCs Interact - Initiator: Submerge and AI Advert
+1305929,[DNT] Large Rock Interact [1]
 1305931,毒瀑
 1305932,[DNT] Soulcoil FX - Uncoiling
 1305934,毒瀑
+1305935,[DNT] Large Rock Interact [2]
 1305936,粉碎
 1305938,毒瀑
 1305940,毒瀑
@@ -411801,9 +412842,11 @@ ID,Name_lang
 1305989,憎惡鮟鱇魚
 1305993,殘餘代償
 1305994,幻影秘技
+1305997,禮帽
 1305998,腐蝕利爪
 1306002,套裝：青苔巫芯套裝
 1306004,毒瀑
+1306005,收集『狩獵羅亞』哈拉齊符記
 1306008,地裂崩引
 1306009,套裝：月光巫芯套裝
 1306010,[DNT] Uncoiling
@@ -411831,8 +412874,11 @@ ID,Name_lang
 1306056,爆裂猛擊
 1306060,甦醒軀殼
 1306064,戰鼓
+1306066,[DNT] Pathway Visual
+1306071,放下巨石
 1306074,野蠻風爆
 1306077,孤立小鬼爆破
+1306078,[DNT] Ping
 1306080,收集中
 1306083,防腐液
 1306084,浮現
@@ -411861,9 +412907,11 @@ ID,Name_lang
 1306119,鈣化屍體
 1306120,毒素湧流
 1306122,尋找魚類
+1306123,頭銜：聖光忠僕
 1306124,爆地擊
 1306125,爆地擊
 1306127,丟垃圾
+1306128,套裝：老練冒險者外出服
 1306129,膿毒濺射
 1306130,地裂崩引移除指示
 1306132,纏繞
@@ -411888,17 +412936,20 @@ ID,Name_lang
 1306163,"AI Brain - Gnarldin, Boar - SpellVisual: EmoteWork w/ Dust Cloud"
 1306166,壓制躍擊
 1306168,壓制躍擊
+1306170,暗影射擊
 1306176,[DNT] GI Message Cleansing Complete
 1306177,壓制躍擊
 1306178,甦醒繫鏈
 1306179,Ping Ritual Bunny [DNT]
 1306187,Despawn Ritual Bunny Clone [DNT]
+1306192,巨礫粉碎
 1306196,[DNT] Trigger Orweyna VO Encounter Fail
 1306197,滑溜毒牙
 1306198,[DNT] Trigger Orweyna VO Player Killed
 1306205,死靈動盪
 1306206,藤蔓之握
 1306214,藤蔓之握
+1306220,先祖召集
 1306222,帶幼犬散步
 1306223,帶幼犬散步
 1306226,邋遢食客
@@ -411917,6 +412968,8 @@ ID,Name_lang
 1306256,召喚阿茲塔瑞的迴響
 1306257,被追蹤
 1306258,被追蹤
+1306259,庫爾吉的恩典
+1306260,庫爾吉的恩典
 1306261,凋零彈射
 1306263,模組大小範圍
 1306269,賈納雷之息
@@ -411930,7 +412983,9 @@ ID,Name_lang
 1306290,全新毒液
 1306293,扭曲毒液
 1306295,扭曲毒液
+1306296,[DNT] Pong
 1306298,扭曲毒液
+1306302,[DNT] Doorway
 1306306,扭曲毒液
 1306307,邋遢食客
 1306308,貪婪
@@ -411952,6 +413007,7 @@ ID,Name_lang
 1306339,[DNT]Cosmetic missile
 1306341,飢嗜之爪
 1306342,飢嗜之爪
+1306343,[DNT] Talking - Stage 02
 1306344,[DNT]Cosmetic missile
 1306345,邋遢食客
 1306347,腐爛爆炸
@@ -412002,6 +413058,7 @@ ID,Name_lang
 1306422,選擇墓碑
 1306423,墓碑
 1306427,完成任務「稜彩潛能」
+1306435,[DNT] Ghostly Visage
 1306436,擁有火炬
 1306439,Torch Vehicle Visuals [DNT
 1306440,腐蝕贈禮
@@ -412009,7 +413066,9 @@ ID,Name_lang
 1306450,灼燒
 1306451,[DNT]
 1306457,收集失落的托爾托卷軸
+1306479,[DNT] Talking - Stage 03
 1306480,脫落外皮
+1306481,[DNT] Talking - Stage 04
 1306484,雕刻
 1306485,雕刻
 1306487,[DNT]
@@ -412138,6 +413197,7 @@ ID,Name_lang
 1306746,惡意圖騰
 1306747,[DNT]Iku Transform
 1306748,[DNT]Cover Despawn
+1306751,[DNT] Coalesced Anguish summon missile
 1306752,[DNT]Cover Despawn
 1306761,毒蛇打擊
 1306763,毒蛇打擊
@@ -412158,15 +413218,24 @@ ID,Name_lang
 1306802,紅色房屋染料
 1306803,白色房屋染料
 1306804,黃色房屋染料
+1306805,哈拉齊之印
+1306806,納羅拉克之印
+1306808,賈納雷之印
 1306809,[DNT]Mummy Spawning
 1306818,惡意圖騰
 1306819,惡意圖騰
 1306820,惡意圖騰
 1306822,強風將至
 1306823,恢復之風
+1306828,鑽地
+1306830,破土衝擊
+1306831,破土衝擊
 1306832,收集「受縛者之怒」壁畫
+1306834,不穩定的虛無能量
 1306837,被泡泡困住
 1306839,收集「甦醒的飢渴」壁畫
+1306842,不穩定的虛無能量
+1306843,不穩定的虛無能量
 1306844,圖騰儀式
 1306846,沉睡
 1306847,毒蛇之咬
@@ -412187,19 +413256,25 @@ ID,Name_lang
 1306863,<DNT>
 1306864,<DNT>
 1306865,劇毒返回藥水
+1306867,不穩定的虛無能量
+1306868,虛無寄生
+1306869,虛無感染
 1306870,殘破的托爾托卷軸
 1306872,血紅風暴
 1306874,[DNT]Player leave combat trigger
 1306875,瘟疫波
 1306876,血紅風暴
+1306882,[DNT] Circle Aura
 1306883,[DNT]Zul'jan Ritual
 1306884,[DNT]Amani Sacrifice
 1306885,[DNT]Amani Sacrifice
+1306886,閃金鎮
 1306887,[DNT]Zul'jan Sacrifice Nova
 1306890,不穩定的圖騰
 1306893,不穩定的圖騰
 1306904,階段2結束
 1306906,毒液之牙
+1306910,幽暗城
 1306911,肢解
 1306913,受苦的靈魂
 1306916,痛苦的靈魂
@@ -412213,18 +413288,29 @@ ID,Name_lang
 1306929,建立銀月城營地
 1306938,憶起銀月城的過去
 1306960,凶暴野獸
+1306962,犧牲儀式
+1306965,犧牲儀式
+1306968,虛無爆炸
 1306978,劇毒勇士輝煌旌旗
 1306980,分發傳單
+1306986,[DNT] Earth Empower Beam to Shaman
 1306988,附身彈幕
 1306990,黑暗召喚
 1306995,[DNT] Summon Secret Souvenir 26
 1306999,小型魚類
 1307000,對話
 1307009,絕望
+1307010,蟲群！
+1307011,[DNT] Interact
+1307012,[DNT] Masked
+1307015,亞基精英
+1307016,虛無感染
+1307017,織網者
 1307022,被泡泡困住
 1307029,妖術：龍鷹
 1307032,絕望
 1307034,[DNT]Orweyna Transform
+1307041,靈魂生成效果
 1307042,源途之行
 1307043,源途之行
 1307045,大波浪
@@ -412292,11 +413378,13 @@ ID,Name_lang
 1307154,擊殺命令
 1307155,劫持
 1307157,擊殺命令
+1307158,Labyrinth Seamless Transfer Screen Effect (DNT)
 1307159,擊殺命令
 1307160,被劫持
 1307163,虛無遁形
 1307164,枯燥文獻
 1307165,烈焰震擊
+1307168,傳送
 1307169,飛舞毒牙
 1307170,劇毒洪流
 1307171,儀式強化
@@ -412306,6 +413394,7 @@ ID,Name_lang
 1307185,毒性砍擊
 1307189,靈魂收割
 1307190,靈魂收割
+1307192,傳送
 1307193,靈魂收割
 1307194,浮誇休憩
 1307195,靈魂收割
@@ -412319,14 +413408,16 @@ ID,Name_lang
 1307212,褻瀆之地
 1307213,褻瀆之地
 1307217,虛無遁形
-1307220,[DNT] Sound Test - Combat Audio Aids - Player Health - 1. Trigger Spell by Health Aura - Decreasing
+1307219,[DNT] Candle
 1307222,毒液濺灑
 1307233,女祭司治療術
 1307249,Cosmetic Holy Healing Touch Effect (Self)
+1307260,[DNT] Interact
 1307268,摧毀中央平台
 1307269,麻痺射擊
 1307279,染疫斬切
 1307280,飛舞毒牙
+1307281,懲戒打擊
 1307283,虛幕滅殺
 1307285,染疫斬切
 1307292,染疫斬切
@@ -412343,6 +413434,7 @@ ID,Name_lang
 1307324,暴風雨
 1307326,收集腐蝕祭壇
 1307328,奇拉克
+1307329,靈魂爆裂
 1307332,劫掠
 1307333,截肢
 1307335,染疫斬切
@@ -412350,25 +413442,33 @@ ID,Name_lang
 1307347,投擲毒液
 1307348,毒刃
 1307352,濕透
+1307353,蛛網纏面
 1307355,Trigger Jeytha 02
 1307356,司札瑞克的凶暴
+1307357,快把它弄掉！
+1307360,放聲尖叫
 1307361,殺戮本能
 1307363,鋒銳壁壘
 1307364,投擲毒液
 1307365,投擲毒液
 1307367,受縛者之怒
+1307368,織網
 1307369,熾炎焚身
 1307371,熾炎焚身
 1307372,熾炎焚身
 1307375,水泡爆裂
 1307376,水泡爆裂
+1307377,[DNT] Ignited
+1307379,點燃火炬
 1307382,加入烏拉特克之心的佇列
 1307403,染疫斬切
 1307405,看守者之護
 1307406,看守者之護
+1307407,孵育
 1307408,毒惡噴吐
 1307409,毒惡噴吐
 1307410,毒惡噴吐
+1307412,孵育
 1307413,[DNT] Taplist Participant Ping
 1307414,[DNT] Nearby Players are Active
 1307415,[DNT] Nearby Players are Active
@@ -412378,7 +413478,6 @@ ID,Name_lang
 1307425,斬首
 1307428,地脈
 1307429,[DNT] Fare Paid - Hub
-1307430,[DNT] Sound Test - Combat Audio Aids - Player Health - 1. Trigger Spell by Health Aura - Increasing
 1307434,地脈光束
 1307435,劇毒返回藥水
 1307442,陰險毒石
@@ -412396,6 +413495,7 @@ ID,Name_lang
 1307485,酸液噴霧
 1307488,閃電洪流
 1307494,暗影之息
+1307495,12.1.5 Labyrinth - Breakable - Ice Wall - ZGS
 1307496,酸液噴霧
 1307497,酸液噴霧
 1307498,切除
@@ -412410,6 +413510,7 @@ ID,Name_lang
 1307507,酸液噴霧
 1307510,蛇母之怒
 1307511,召喚洪荒雷雲
+1307514,Summon (DNT)
 1307518,暗影之息
 1307521,摧毀中央平台
 1307526,放血
@@ -412417,10 +413518,13 @@ ID,Name_lang
 1307530,放血
 1307531,放血
 1307532,放血
+1307533,擊破冰牆
 1307534,12.1 Delves - TwilightsBlade01 - V04 - Boss: Spawn [FX]
 1307536,開啟
 1307537,蛇母之怒
 1307538,鋒銳壁壘
+1307545,燃燒面具
+1307548,燃燒面具
 1307553,潰擊
 1307557,精神打擊
 1307559,[DNT] Convert Water to Corruption
@@ -412445,6 +413549,8 @@ ID,Name_lang
 1307613,劇毒外殼
 1307614,凝結箭
 1307617,劇毒外殼
+1307620,收集亞基獵人的戰利品
+1307625,[DNT] Visual
 1307633,顫動的蛋
 1307634,[DNT]Kings' Rest Teleport To Entrance
 1307635,劇毒噴濺
@@ -412453,11 +413559,16 @@ ID,Name_lang
 1307639,先鋒的榮耀
 1307640,潛伏淨化者
 1307641,潛伏淨化者
+1307643,干擾效應
 1307645,(DNT) Vaults of Atal'Utek
+1307646,血騎士團長之刃
+1307647,頭銜：聖光忠僕
 1307648,[DNT]Check encounter
 1307650,纏魂屏障
+1307651,[DNT] Candle
 1307652,恐怖斬首
 1307653,靈魂轉移
+1307662,精疲力盡
 1307678,Dummy Aura [DNT]
 1307679,火焰之息
 1307681,"AI Brain - Ula'tek, T3 - Spell Visual: Sleep"
@@ -412517,6 +413628,7 @@ ID,Name_lang
 1307873,收集螺旋木製階梯
 1307875,箭毒蛙
 1307877,盤蛇島世界任務
+1307878,儀式意外
 1307879,Kill Credit (DNT)
 1307881,瀝血毛皮
 1307883,附身結束
@@ -412546,6 +413658,7 @@ ID,Name_lang
 1307915,飢餓踐踏
 1307917,長編繩索
 1307918,下垂的長編繩索
+1307919,儀式力場
 1307920,掛著的長編繩索
 1307921,新鮮的肉
 1307922,咒毒精通
@@ -412618,6 +413731,10 @@ ID,Name_lang
 1308073,[DNT] Cursed Curios - Scenario Entry - Void
 1308075,[DNT] Queue for Cursed Keepsake
 1308077,Jeytha Dummy 06 (DNT)
+1308082,阿斯塔樂的苦痛
+1308083,亞基鑽地者
+1308085,虛無之球
+1308086,Summon Affixes (DNT)
 1308088,Kill Credit (DNT)
 1308093,亡魂之怒
 1308098,Kill Credit (DNT)
@@ -412634,9 +413751,11 @@ ID,Name_lang
 1308122,劇毒湧現
 1308123,劇毒湧現
 1308125,亡魂之怒
+1308126,詞綴判定
 1308133,收集中
 1308134,Test Fire Dest Cone
 1308135,Test Fire Target Cone
+1308139,蛛網魔物
 1308148,細胞毒素
 1308150,Jeytha Dummy 07 (DNT)
 1308176,夢境導體
@@ -412670,6 +413789,7 @@ ID,Name_lang
 1308274,[DNT] Cursed Curios - Scenario Entry - Old Gods
 1308275,腐臭薄膜
 1308276,[DNT] Queue for Cursed Keepsake
+1308277,蛇風塑像
 1308284,開啟
 1308292,收集啤酒節木箱
 1308294,收集傳統啤酒節旌旗
@@ -412698,6 +413818,7 @@ ID,Name_lang
 1308371,毒蛇之喚
 1308373,AI Cast AoE
 1308374,AI Cast AoE
+1308381,點燃賈納雷火盆
 1308385,臟腑爆發
 1308386,臟腑爆發
 1308388,光綻精華
@@ -412708,6 +413829,12 @@ ID,Name_lang
 1308399,回應呼喚
 1308407,Jetpack (With Flames - Cast From Vehicle)
 1308408,取消：噴射背包
+1308417,12.1.5 - Aqir Invasions - Set Player Data Element Account - Scenario 01 Complete
+1308421,12.1.5 - Aqir Invasions - Set Player Data Element Account - Scenario 02 Complete
+1308422,12.1.5 - Aqir Invasions - Set Player Data Element Account - Scenario 03 Complete
+1308423,12.1.5 - Aqir Invasions - Set Player Data Element Account - Scenario 04 Complete
+1308424,12.1.5 - Aqir Invasions - Set Player Data Element Account - Scenario 05 Complete
+1308425,12.1.5 - Aqir Invasions - Set Player Data Element Account - Scenario 06 Complete
 1308428,[DNT]Zul'jan Jump Charge
 1308431,[DNT]Zul'jan Jump Charge
 1308433,復仇
@@ -412734,6 +413861,7 @@ ID,Name_lang
 1308500,[DNT] Amani Exile's Words
 1308501,[DNT] Worn Tablet
 1308502,[DNT] Abandoned Tablet
+1308503,詛咒！
 1308504,[DNT] Message in a Bottle
 1308505,[DNT] Oily Black Stone
 1308506,[DNT] Forum Rules
@@ -412745,15 +413873,21 @@ ID,Name_lang
 1308518,淬毒之鋒
 1308522,狂野守護者靈魂
 1308525,[DNT] Ral'kala Treasure Table Push
+1308538,被驅逐的詛咒
 1308539,AI施放範圍技能
 1308541,[DNT] Push Action Set Check
 1308544,屠殺坑洞
 1308545,[DNT] Push Action Set Check
 1308546,劇毒斬擊
+1308549,被驅逐的詛咒
+1308552,吸收詛咒
 1308554,[DNT] Normal + Hard Unlock
 1308556,隱沒
+1308558,播放場景
 1308559,暗影裂銀
 1308565,AI施放範圍技能
+1308566,被驅逐的詛咒
+1308570,Cancel Conversations & Update Phase Shift [DNT]
 1308572,傳送
 1308573,AI施放範圍技能
 1308574,傳送
@@ -412764,6 +413898,8 @@ ID,Name_lang
 1308593,液態不死藥水
 1308594,液態不死藥水
 1308596,世界首領傷害減免
+1308598,遠古寒霜
+1308624,振奮寒意
 1308625,冰霜之能
 1308636,火縛屏障
 1308639,亡魂之怒
@@ -412773,11 +413909,21 @@ ID,Name_lang
 1308654,訓練場任務
 1308655,鑽血根縛
 1308656,暗影引導
+1308659,冰寒徹骨
 1308661,再生根縛
+1308662,賈納雷的溫暖
+1308669,極度恐懼
+1308670,上古之神的血液
+1308671,蝕影碎片
+1308672,蝕影碎片
+1308673,蝕影碎片
+1308674,蝕影碎片
+1308675,輝煌消逝
 1308686,毒液噴霧
 1308687,毒液噴霧
 1308690,毒液噴霧
 1308693,受詛咒的纏魂者徽章
+1308699,衰弱寒意
 1308711,解纏之怒
 1308717,精神萌芽
 1308719,充分休息
@@ -412794,6 +413940,7 @@ ID,Name_lang
 1308744,AI施放範圍技能
 1308745,暗影裂銀
 1308747,根怒猛襲
+1308755,驅除詛咒
 1308759,[DNT] Set Weekly Bit
 1308760,AI施放範圍技能
 1308761,AI施放範圍技能
@@ -412801,18 +413948,26 @@ ID,Name_lang
 1308776,[DNT] Scenario Entry Credit
 1308780,[DNT] Scenario Entry Credit Aura
 1308781,惡意狩獵
+1308782,[DNT] Area Trigger Visual
 1308783,[DNT]Nek'zali Spawn Checker
 1308787,[DNT]Nek'zali Spawn Checker
 1308794,烏拉特克之牙
 1308795,[DNT] Corruption Cancellation - Cover
 1308801,腐蝕之雨
+1308804,熾熱妖術面具魔寵
+1308805,召喚熾熱妖術面具魔寵
+1308806,阿塔烏特克烈焰
 1308808,烏拉特克之牙
 1308809,靈魂切離
+1308810,烏拉特克燃燒凝視
+1308812,烏拉特克凝視
+1308818,燃燒凝視
 1308824,賈納雷之息
 1308826,樹根之盾
 1308827,過度透支
 1308829,令人不安的誘餌
 1308831,毒液噴射
+1308834,最後聖光
 1308835,腐蝕之雨
 1308837,Blocker Aura [DNT]
 1308838,閃電噬咬
@@ -412831,10 +413986,21 @@ ID,Name_lang
 1308864,寄生
 1308865,寄生
 1308871,清除血雨
+1308872,空無之門
+1308873,空無之門
+1308874,空無之門
+1308875,消除
+1308876,消除
+1308877,消除
+1308878,空無之門
+1308879,空無之門
+1308880,空無碎片
+1308881,空無碎片
 1308882,傳送
 1308899,[DNT] Boss Emote at Self
 1308900,[DNT] Boss Emote at Self
 1308901,[DNT] Boss Emote at Self
+1308904,Play Stay A While Scene (DNT)
 1308920,[DNT] Boss Emote at Self
 1308921,[DNT] Boss Emote at Self
 1308925,[DNT] Death Teleport Checker
@@ -412842,34 +414008,64 @@ ID,Name_lang
 1308927,幽魂之纏
 1308928,Open Index of Anguish (DNT)
 1308932,[DNT] Death Teleport - 2
+1308934,Kill Credit (DNT)
 1308936,採收
 1308938,精疲力竭移除
 1308941,[DNT] Decor Proxy
 1308947,毒液爆炸
 1308956,暢飲
 1308957,探究者的地底幣腐蝕小包
+1308967,冰凍妖術面具魔寵
+1308968,雷霆妖術面具魔寵
+1308972,召喚雷霆妖術面具魔寵
 1308973,腐蝕波
+1308974,閃電鏈
+1308975,阿塔烏特克天雷
+1308981,召喚冰凍妖術面具魔寵
 1308982,鮮血炸彈
+1308984,阿塔烏特克寒風
+1308990,冰霜新星
+1308993,冰霜新星
 1308998,Generic Spell
 1309006,無可逃避之握
 1309008,無可逃避之握
 1309012,腐沼孢子之心
 1309021,Play Stay A While Scene (DNT)
 1309022,誘導軟泥怪
+1309040,飛濺爪擊
+1309055,飛濺爪擊
+1309056,飛濺爪擊
+1309057,毒液回收
 1309058,凜風大漩渦
+1309059,Energy Bar [DNT]
 1309060,鑽地
+1309061,毒液新星
 1309063,鑽地
+1309065,淨化中斷
 1309066,鑽地
+1309067,毒液新星
 1309068,鑽地
 1309070,腐蝕波
 1309074,腐蝕波
 1309084,[DNT] Cursed Curios - Get Status
+1309087,[DNT] Cursed Sarcophagus Aura
+1309095,[DNT] Curse Energy Deposit
+1309096,[DNT] Curse Energy Deposit
 1309097,收集奇彩蠟燭
 1309105,靈魂護盾
 1309106,靈魂護盾
 1309108,劇毒雲霧
+1309109,天藍群爪
+1309110,[PH] Purple Cat Mount
+1309112,[PH] Brown Cat Mount
+1309114,[PH] White Blue Cat Mount
 1309117,先祖之視
+1309118,收集巨牙海民火坑
+1309121,召喚冰凍妖術面具魔寵
+1309122,冰凍妖術面具魔寵
+1309123,收集巨牙海民懸掛烤架
 1309126,[DNT] Corruption Cancellation - 5
+1309127,收集巨牙海民捕魚裝備架
 1309129,[DNT] Corruption Cancellation - 15
 1309130,[DNT]Hidden Amani Spirit
 1309131,[DNT] Corruption Cancellation - 25
@@ -412884,9 +414080,11 @@ ID,Name_lang
 1309156,劇毒的珠寶匠底座
 1309157,劇毒的珠寶匠底座
 1309160,劇毒的珠寶匠底座
+1309173,[DNT] Cursed Energy Deposited
 1309174,腐蝕分泌物
 1309175,小夥計
 1309188,顱骨咯咯笑
+1309196,申多雷風井
 1309200,研究
 1309202,研究
 1309211,腐蝕分泌物
@@ -412896,15 +414094,28 @@ ID,Name_lang
 1309235,腐蝕分泌物
 1309239,拉
 1309240,拉
+1309251,收集紙製被遺忘者模型
+1309253,收集紙製人類模型
 1309255,毒惡囊腫
 1309257,<DNT>
+1309260,震地猛擊
 1309261,烏拉特克的布道
+1309264,震地猛擊
 1309267,烏拉特克的布道
 1309274,破喉之咬
 1309275,劇毒洪流
 1309277,劇毒洪流
 1309279,劇毒洪流
+1309282,卓越劇毒石
+1309284,指揮官的防護
+1309285,指揮官的防護
+1309287,升級
 1309288,旋動之魂
+1309289,升級
+1309290,卓越劇毒鍛造
+1309291,卓越劇毒鍛造
+1309292,卓越劇毒鍛造
+1309294,[DNT] Disable Culture Interacts
 1309299,[DNT]Su'mekaya Comforted
 1309301,[DNT] [AUTOGEN] Collect 12PH_Leg_Book_Troll_03.M2
 1309306,[DNT] 12.1 Raid - Sound Squisher
@@ -412919,12 +414130,22 @@ ID,Name_lang
 1309317,[DNT]Kora'man Comforted
 1309340,寒冬巫芯騎帚
 1309344,劇毒之縛
+1309352,蟲群風暴
+1309361,蟲群風暴
 1309362,[DNT]B'faloh Comforted
+1309363,[DNT] Portal Part 1
+1309365,12.1.5 - Aqir Invasions - Set Player Data Element Character - Final Boss Kill
 1309366,烏拉特克的布道
+1309367,蟲群風暴
 1309368,<DNT>
+1309370,[DNT] Portal Part 2
+1309372,[DNT] Portal Part 3
 1309374,烏拉特克的布道
 1309375,烏拉特克的布道
+1309376,老練冒險者的忠誠夥伴
 1309382,寄生
+1309383,蟲群風暴
+1309384,[DNT] Candle 2. Blue Flame
 1309385,黑暗之池
 1309386,[DNT] Brewfest Serving Platter
 1309387,窒息之蛇
@@ -412936,15 +414157,20 @@ ID,Name_lang
 1309400,靈魂碎片
 1309403,恐慌凝視
 1309406,劇毒波
+1309409,迷宮的旅程經驗值
+1309411,[DNT] Torch 2. Blue Flame
 1309412,劇毒波
 1309413,閃電尖塔
 1309415,毒惡龍捲風
 1309416,毒惡龍捲風
 1309418,毒液風暴
+1309424,[DNT] Plinth 2. Blue Flame
 1309426,閃電尖塔
 1309427,[DNT] Use Charm Indicator
 1309429,收集
 1309433,[DNT] Miniboss Totem Check For Achievement Aura
+1309434,光明使者盾牌碎片
+1309441,光明使者盾牌碎片
 1309444,Nightmare I [DNT]
 1309447,Hard I [DNT]
 1309448,Nightmare II [DNT]
@@ -412970,9 +414196,11 @@ ID,Name_lang
 1309494,收集舊月溪鎮日光窗戶
 1309497,折射影像
 1309499,增援
+1309508,卓越劇毒石
 1309519,奇特
 1309522,尋覓腐肉
 1309525,感應
+1309526,光明使者盾牌碎片
 1309527,漂流之滴
 1309528,[DNT] Inverted Infusion Totem
 1309532,孤立小鬼爆破
@@ -412987,6 +414215,10 @@ ID,Name_lang
 1309566,檢查玩家 - 100碼
 1309571,檢查玩家 - 100碼
 1309573,[DNT] Check for Players
+1309593,召喚寶藏
+1309594,召喚寶藏
+1309596,增量
+1309597,增量
 1309600,一包英雄迷霧紋章（戰隊綁定）
 1309602,一包勇士晨曦紋章（戰隊綁定）
 1309606,雕刻
@@ -412995,14 +414227,22 @@ ID,Name_lang
 1309613,喚波
 1309619,治療波
 1309620,[DNT] Desaturation
+1309622,召喚寶藏
+1309623,召喚寶藏
 1309624,靈魂編織
 1309626,[DNT] Necro Beam Sky Pillar
 1309629,[DNT] Cosmetic Poison Aura
+1309632,哈謝之怒
 1309638,博學者法術書信
+1309651,燃燒衝擊
+1309653,火焰之盾
+1309654,火焰之盾
 1309656,清理魚
 1309657,收集「烏拉特克詛咒凝視」壁畫
 1309662,收集鑿刻阿曼尼石板
 1309668,收集咆哮阿曼尼石榴石
+1309670,腐化之怒
+1309682,光明使者盾牌碎片
 1309683,收集劇毒防衛者路障
 1309705,鋼鐵亂舞
 1309707,召喚逼近的突變巨獸 - 只有音效
@@ -413012,17 +414252,25 @@ ID,Name_lang
 1309738,毒惡突變體
 1309741,投擲手榴彈
 1309742,毒惡突變體
+1309743,[DNT] Speach Blocker
 1309749,Play Stay A While Scene (DNT)
 1309750,跪下並握住火炬
+1309753,Kill Credit (DNT)
 1309758,突變毒液
 1309759,突變毒液
+1309762,聖光正義之錘
 1309764,拯救
+1309766,聖光正義之錘
 1309774,惡意
+1309782,聖光正義之錘
 1309786,折射
 1309787,折射
 1309793,增幅折射
 1309794,保護祝福
 1309800,Tame Beast - DEBUG
+1309802,不安遺骸
+1309809,召喚寶藏
+1309811,干擾效應
 1309815,Ping Commander [DNT]
 1309816,檢查中
 1309817,Push Loot - Corrosive Coin [DNT]
@@ -413032,10 +414280,19 @@ ID,Name_lang
 1309821,升級
 1309822,升級
 1309824,看守者之護
+1309825,Blessed Victory [DNT]
+1309826,祝福之勝
+1309827,祝福之勝
+1309828,哈拉齊之徑
+1309830,納羅拉克的力量符咒
+1309831,阿奇爾森之羽
 1309832,[DNT] Safe Zone
 1309839,紀念品支援
+1309844,賈納雷火焰儀式
 1309849,檢查中
+1309854,探究旅程經驗值
 1309859,Ping Er'inye [DNT]
+1309868,迫近蝕星印記
 1309884,標記任務
 1309887,毒泡
 1309889,毒泡
@@ -413044,6 +414301,7 @@ ID,Name_lang
 1309896,<DNT>
 1309902,舞給全場看
 1309904,舞給全場看
+1309909,阻止終局
 1309910,儀式施法材料
 1309911,Starvation Effigy FX
 1309912,[DNT] Tokens
@@ -413069,6 +414327,7 @@ ID,Name_lang
 1309959,突變毒液
 1309960,清潔溢出的蠟
 1309961,清潔蠟
+1309963,阻止終局
 1309964,凜冬
 1309966,[DNT] Ping Wax Sculptor: Cool Rock [cost: 1]
 1309968,[DNT] Ping Wax Sculptor: Boot [cost: 1]
@@ -413112,9 +414371,30 @@ ID,Name_lang
 1310043,播放影片
 1310044,播放影片
 1310045,取消影片
+1310048,[DNT] Launch Quest
+1310049,[DNT] Launch Quest
+1310050,[DNT] Launch Quest
+1310051,<DNT> Choice
+1310057,[DNT] Launch Quest
 1310061,怪異誘餌
+1310063,[DNT] Launch Quest
+1310064,[DNT] Kill Credit
+1310065,[DNT] Necro Fade
+1310066,[DNT] Launch Quest
+1310067,[DNT] Launch Quest
+1310068,[DNT] Launch Quest
+1310069,[DNT] Launch Quest
+1310070,<DNT> Choice
+1310071,[DNT] Kill Credit
+1310082,呼喚蟲群
+1310083,呼喚蟲群
+1310084,玩家選擇
+1310085,玩家選擇
+1310088,酸育天譴
 1310091,玩家檢查
 1310093,玩家檢查
+1310094,不安遺骸
+1310095,不安遺骸
 1310096,進食
 1310097,[DNT] Ghostly
 1310098,腐蝕波
@@ -413122,6 +414402,14 @@ ID,Name_lang
 1310102,腐壞之血
 1310104,腐壞之血
 1310105,腐壞爆發
+1310107,玩家選擇
+1310108,Daakajin Health Trigger
+1310109,玩家選擇
+1310111,玩家選擇
+1310112,玩家選擇
+1310113,玩家選擇
+1310114,玩家選擇
+1310115,玩家選擇
 1310116,毒液噴射
 1310119,燃焰龍捲風
 1310120,毒液箭
@@ -413145,6 +414433,10 @@ ID,Name_lang
 1310176,[DNT] Flightmaster Interact
 1310177,[DNT] Flightmaster Interact
 1310178,[DNT] Flightmaster Interact
+1310202,Kill Credit (DNT)
+1310204,收集BlizzCon門口地墊
+1310208,虛無爆發
+1310209,虛無爆發
 1310211,貪婪盛宴
 1310213,蔓延荊棘
 1310216,幽魂步伐
@@ -413153,9 +414445,16 @@ ID,Name_lang
 1310220,[DNT] Check Cursed Status
 1310223,[DNT] Spirit Cosmetic
 1310224,挑戰荒野
+1310234,蟲巢之心爐石
 1310235,[DNT] Zul'jan Mod Scale
 1310237,[DNT] Zul'jan Remove Mod Scale
+1310241,蟲巢之心爐石變形
 1310248,急速覆凍
+1310252,冷光鳳凰之刃
+1310253,殺戮本能
+1310255,冷光鳳凰之刃
+1310257,咬嚼
+1310258,冷光鳳凰之刃
 1310259,未完成的混合物
 1310261,Gryphon/Wyvern Pet - Mounting Check Aura
 1310270,冰霜彈幕
@@ -413177,6 +414476,7 @@ ID,Name_lang
 1310323,鑽地
 1310324,癒合虛無
 1310347,On Endeavor [DNT]
+1310350,Play Stay A While Scene (DNT)
 1310355,狂風暴雨之盾
 1310357,毒氣彈幕
 1310358,毒素萎縮
@@ -413192,9 +414492,18 @@ ID,Name_lang
 1310383,模組速度100%
 1310389,神聖引導
 1310396,毒蛇的風暴之喚
+1310399,套裝：行政主廚的制服
+1310400,收集克希斯的徽印
 1310402,毒蛇的風暴之喚
+1310404,扭曲恐懼的觸手
+1310405,套裝：副主廚的制服
+1310406,套裝：燒烤主廚的制服
 1310407,收集中
+1310409,套裝：甜點主廚的制服
+1310410,套裝：醬汁主廚的制服
+1310411,套裝：主廚的制服
 1310413,飢餓踐踏
+1310414,毀滅之力
 1310415,[DNT] To Eredath
 1310419,[DNT] Cleaning Supplies Acquired
 1310428,鮮血氣息
@@ -413203,10 +414512,15 @@ ID,Name_lang
 1310434,鮮血氣息
 1310437,梵陀符文：妮莉莎‧喚浪者
 1310439,梵陀符文：妮莉莎‧喚浪者
+1310446,扭曲恐懼的觸手
 1310461,神性仲裁者
 1310464,Spirit Burst [DNT]
+1310465,[DNT] Channel Necromancy
 1310470,永恆毒液
+1310471,微弱的賈納雷之光
+1310472,[DNT] Enervating Chill Blocker
 1310473,獵殺躍擊
+1310475,[DNT] Fear the Light
 1310487,爆破裂塊
 1310488,爆破裂塊
 1310489,爆破裂塊
@@ -413247,18 +414561,24 @@ ID,Name_lang
 1310620,武器庫：斥候七人隊武器
 1310625,燃焰彈幕
 1310626,Send Event - Boon Missile
+1310632,玩家選擇
 1310634,傳送（離開戰鬥時）
+1310635,[DNT] Icy Ghost Aura
 1310637,訓練場
 1310662,貫穿冰霜
+1310664,[DNT] Spawn In Ice Block
 1310665,準備鮮血
 1310666,毒素萎縮
 1310667,燃燒烈焰
 1310670,準備火焰
 1310672,準備暗影
+1310674,寒冰徵召
 1310675,腐蝕贈禮
 1310680,毒液箭
+1310682,寒冰徵召
 1310683,毒液箭
 1310686,忠誠防衛者
+1310688,寒冰徵召
 1310689,斥候七人隊箭袋
 1310690,火花漩渦
 1310691,突變毒液
@@ -413267,6 +414587,7 @@ ID,Name_lang
 1310696,開啟瑟沙利斯之眼
 1310700,開啟瑟沙利斯之眼
 1310701,開啟瑟沙利斯之眼
+1310702,空無之門
 1310712,烈風之力
 1310713,烈風之力
 1310714,烈風之力
@@ -413278,6 +414599,9 @@ ID,Name_lang
 1310720,狂暴之風
 1310722,狂亂
 1310724,消能
+1310729,虛無群怪
+1310730,窒息黑暗
+1310731,八重蝕影
 1310732,惡意共鳴
 1310733,惡意共鳴
 1310734,惡意共鳴
@@ -413308,8 +414632,11 @@ ID,Name_lang
 1310762,惡毒回音
 1310763,潰膿爆發
 1310764,惡毒回音
+1310768,撿起賈納雷之淚
 1310769,比賽開始
 1310770,比賽開始
+1310771,攜帶賈納雷之淚
+1310784,暴風之怒
 1310788,收集中
 1310790,引導幼犬
 1310791,引導幼犬
@@ -413317,6 +414644,7 @@ ID,Name_lang
 1310823,收集中
 1310824,香脆開胃菜
 1310825,香脆開胃菜
+1310830,扭曲恐懼的觸手
 1310881,幽暗炸彈
 1310882,幽暗炸彈
 1310883,幽暗炸彈
@@ -413338,12 +414666,17 @@ ID,Name_lang
 1310955,奢華濃湯
 1310956,美味團塊
 1310957,美味團塊
+1310965,收集角斑馬毛皮地毯
+1310970,完成任務 - 解鎖毒石
 1310974,毒素萎縮
 1310977,果凍甜點
 1310978,果凍甜點
 1310984,放置中
 1310992,蘑菇爆發
+1311005,巨熊羅亞面具
+1311006,山貓羅亞面具
 1311007,藤蔓之握
+1311008,龍鷹羅亞面具
 1311011,[DNT] Disable VO
 1311017,藤蔓之握
 1311021,升級中
@@ -413359,6 +414692,7 @@ ID,Name_lang
 1311061,疫鱗窩巢
 1311066,附身荷吉
 1311075,藤蔓之握
+1311076,[DNT] I dropped you
 1311078,附身荷吉
 1311079,被附身
 1311080,藤蔓之握
@@ -413399,6 +414733,7 @@ ID,Name_lang
 1311133,Vehicle Casts: Wandering Spirit [DNT]
 1311136,銳利釘子
 1311162,腐蝕贈禮
+1311188,[DNT] I dropped you 2.0
 1311488,螺旋毒素
 1311494,靈魂之箭
 1311499,蛇之創生
@@ -413419,6 +414754,8 @@ ID,Name_lang
 1311566,祖爾詹
 1311569,Ghostly Object [DNT]
 1311572,近戰
+1311577,[DNT] Credit Visual Cover
+1311578,[DNT] Credit Visual
 1311579,魔化爆裂
 1311581,音波尖嘯
 1311587,聖物破裂
@@ -413441,19 +414778,27 @@ ID,Name_lang
 1311625,<DNT> Teleport
 1311626,<DNT> Cover
 1311631,收集中
+1311644,奔流湧動
 1311646,劇毒孵育
 1311653,靈魂汲取
 1311673,劇毒膽汁
+1311679,奔流湧動
 1311682,恐慌凝視
+1311683,水上行走
+1311684,水上行走
+1311690,水上行走
 1311692,撕碎護甲
 1311694,爽約
 1311695,撕碎護甲
+1311700,水上行走
 1311702,[DNT] Kill Credit
 1311707,Collect a Bunch of Rooms
 1311710,雷鳴風暴
 1311711,雷鳴風暴
 1311712,閃電之擊
 1311713,召喚探究祭壇
+1311720,放下巨石
+1311721,放下巨石
 1311726,崩解之球
 1311730,干擾衝擊
 1311747,崩解之球
@@ -413461,9 +414806,11 @@ ID,Name_lang
 1311752,崩解之球
 1311754,叉狀閃電
 1311760,纏魂
+1311761,拍掉手上的灰塵
 1311763,纏魂
 1311769,狂風暴雨之盾
 1311778,撕扯削切
+1311785,舉起
 1311788,纏魂
 1311792,極化場域
 1311795,合作詛咒
@@ -413499,6 +414846,7 @@ ID,Name_lang
 1311917,劇毒誕生
 1311923,黑暗波
 1311933,黑暗波
+1311934,影織者爐石
 1311939,進入劇毒深淵團隊副本故事模式
 1311941,暗影斬擊
 1311942,暗影斬擊
@@ -413511,6 +414859,7 @@ ID,Name_lang
 1311969,愉悅吞食
 1311975,治療
 1311976,恐慌凝視
+1311977,最後聖光
 1311979,潛在妖術
 1311980,潛在妖術
 1311981,潛在妖術
@@ -413530,16 +414879,37 @@ ID,Name_lang
 1311999,毒惡噴吐
 1312000,階段02完成
 1312001,隨機滅鱗的蛋灌籃表情符號
+1312003,[DNT] Dust-Hands [Marker]
+1312004,[DNT] Highlight Drop Icon
+1312005,[DNT] Clear Dust-Hands [Marker]
+1312006,[DNT] Cancel Force Visible
 1312014,[DNT] Cancel Carry Auras
 1312015,[DNT] Boss Emote at Self
+1312018,賈納雷之光
+1312023,[DNT] Shielded by Darkness
 1312024,握住錘子
+1312026,碎裂掃擊
 1312027,虛無之觸
+1312028,靈魂怒吼
+1312030,火焰震擊
 1312031,[DNT] Cosmetic - Holyfire Hand
 1312043,AI施放範圍技能
 1312046,亡域消散進入
 1312047,傳送至博學者殿堂
 1312050,傳送：銀月城
 1312066,寄生
+1312068,火焰傾瀉
+1312072,火焰傾瀉
+1312073,火焰傾瀉
+1312074,[DNT] Area Trigger Visual
+1312075,火焰傾瀉
+1312076,火焰傾瀉
+1312077,火焰傾瀉
+1312082,致命撕裂
+1312084,粉碎猛擊
+1312088,第一次轉換
+1312091,轉換
+1312094,第一次轉換
 1312100,[DNT] Wave Event bypass
 1312104,噴吐黃金
 1312131,靈魂帷幕
@@ -413563,6 +414933,7 @@ ID,Name_lang
 1312156,毒素湧流
 1312169,"(DNT) Stun, No Casting, No Fall Dmg"
 1312181,放下蛋
+1312186,收集灌入靈魄的捕夢網
 1312189,惡疾
 1312193,[DNT] Exit - Kick Out Sequence
 1312194,[DNT] Exit - Kick Out Sequence
@@ -413571,26 +414942,56 @@ ID,Name_lang
 1312197,[DNT] Exit - Kick Out Sequence
 1312214,腐化
 1312219,狂怒側風
+1312254,收集防護光鑄晶塔
 1312262,毒性燃燒
+1312265,[DNT] Lighting
+1312322,[DNT] Break Stone
+1312323,[DNT] Break Stone
 1312339,永夜無光
 1312349,[DNT]Hoji Whirlwind
 1312350,[DNT]Hoji Roll
 1312351,[DNT]Hoji Confused
 1312363,裂片
+1312365,[DNT] DEBUG
 1312366,瘴氣塗層
 1312393,淨化寶庫
 1312399,摧毀中央平台
+1312409,故障護盾
 1312411,摧毀中央平台
+1312415,[DNT] Proximity Bubble
+1312418,超載引擎
+1312419,面具追隨者
+1312420,引擎火焰
 1312421,[DNT] Shadow Tumor Lockout
+1312422,面具追隨者
+1312423,震地引爆
 1312424,毫無價值
 1312425,[DNT] wick pile charge
 1312426,究極灌注[PH]
 1312427,瘟疫波
+1312429,緊繫
+1312464,緊繫
+1312470,傳送
+1312471,準備傳送
+1312481,震地引爆
+1312486,緊繫
 1312487,毒惡突變體
+1312488,緊繫
+1312494,[DNT] Teleport - 1a
 1312496,毒惡突變體
+1312497,[DNT] Teleport - 2a
+1312498,[DNT] Teleport - 2b
+1312499,[DNT] Teleport - 2c
+1312500,[DNT] Teleport - 3a
+1312501,[DNT] Teleport - 3b
+1312502,[DNT] Teleport - 3c
+1312503,[DNT] Teleport - 3d
+1312504,[DNT] Teleport - 3e
+1312505,疲倦
 1312565,毒惡突變體
 1312568,[DNT] Wave Aimer
 1312569,防腐處理
+1312578,防護
 1312590,火砲彈幕
 1312593,火砲彈幕
 1312594,火砲彈幕
@@ -413599,17 +415000,23 @@ ID,Name_lang
 1312633,受縛者之怒
 1312635,恐慌凝視
 1312638,Ula'tek Death Cosmetic
+1312652,[DNT] Shadow Door
+1312653,召喚碰撞物件
+1312654,[DNT] Poison Door
 1312660,[DNT] Cover Events
 1312662,惡意
 1312663,靈魂綁定
 1312669,燃焰餘燼
 1312684,熾燃焰息
 1312691,[DNT] Absorb Souls
+1312692,亞基詛咒
 1312703,[DNT] Absorb Souls
 1312708,[DNT] Absorb Souls
 1312711,[DNT] Absorb Souls
 1312742,[DNT] F Off Centaurs
 1312747,收集中
+1312748,收集裝飾用光鑄投影螢幕
+1312750,[DNT] VFX Ghost Gas
 1312759,冰凍風暴
 1312760,冰凍風暴
 1312761,冰凍風暴
@@ -413618,10 +415025,12 @@ ID,Name_lang
 1312797,劇毒地面
 1312811,切砍
 1312812,切砍
+1312815,斷繫
 1312821,染疫斬切
 1312822,染疫斬切
 1312824,靈魂切離
 1312825,靈魂切離
+1312831,[DNT] Beacon
 1312837,[DNT] Use Reagent Indicator
 1312843,湧漲潮汐
 1312844,[DNT] Reagent Applied
@@ -413633,34 +415042,104 @@ ID,Name_lang
 1312865,恐懼進軍
 1312866,恐懼進軍
 1312868,散射
+1312874,召喚碰撞物件
+1312875,[DNT] Shadow Barrier
 1312876,毒蛇之咬
+1312906,收集樸素萬鬼節蠟燭
 1312911,命令魔像
+1312937,靈魂之門
+1312941,收集附魔萬鬼節蠟燭
+1312944,收集禍心蠟燭
+1312952,收集恐怖稻草人
+1312960,收集點亮蠟燭的微笑南瓜燈籠
 1312967,爆裂淨滅
+1312978,收集沒點亮的微笑南瓜燈籠
+1312989,注視著你
+1312990,收集帶扣女巫帽
 1312998,浮躁憤怒
+1313001,收集恆亮發光骷髏
+1313004,收集禍心儀式印記
+1313006,收集不祥的禍心旗幟
+1313008,收集精美的禍心末日網
+1313011,收集禍心末日網
+1313027,震地引爆
+1313032,岩石視覺效果
+1313036,收集懸掛的光鑄戰旗
+1313038,收集光鑄投影高塔
+1313040,收集光鑄投影屏障
+1313042,收集光鑄投影矮牆
+1313045,收集光鑄投影護盾
+1313048,收集金輝石製祭壇
+1313050,收集閃爍光鑄
+1313052,收集懸掛的阿古岩油燈
+1313054,收集阿古岩燭台
+1313056,收集直立阿古岩油燈
+1313058,收集埃雷達斯工匠工作桌
+1313060,收集阿古岩水晶水晶儲藏架
+1313062,收集阿古岩原料
+1313064,收集雕刻阿古岩材料
+1313066,收集閃爍光鑄罐
+1313068,收集發光光鑄磨石
+1313070,收集光鑄召回信標
+1313073,收集光鑄控制臺
+1313075,收集三傑聖物仿製品
+1313077,收集黃金阿古岩水晶
+1313079,收集青瓷阿古岩水晶
+1313081,收集紫水晶阿古岩水晶
+1313083,收集加固燦鐵磚
+1313085,收集裝飾用光紡布捲
+1313087,收集日能法力環
+1313089,收集儀祭光鑄戰旗
+1313091,收集埃雷達斯工作桌
 1313101,毒潮
 1313109,毒潮
 1313122,[DNT] No Spells After Fight
 1313123,黑暗團結
+1313124,梵迪卡爾召回
 1313125,黑暗團結
 1313126,黑暗團結
 1313127,風暴雷雲引爆
 1313131,甦醒軀殼
+1313132,[DNT] Venom Channel
+1313133,[DNT] Venom Channel
+1313134,[DNT] Venom Channel
+1313135,毒液封鎖
+1313137,[DNT] Jump
 1313154,疫鱗毒蛇
 1313155,看守者之護
+1313159,收集蜘蛛女巫帽
 1313161,[DNT] Devolving
+1313172,收集咬蘋果水桶
+1313175,收集點亮蠟燭的尖叫南瓜燈籠
+1313177,收集點亮蠟燭的巨魔南瓜燈籠
+1313179,收集裝滿的糖果桶
+1313181,收集沒點亮的尖叫南瓜燈籠
+1313184,收集沒點亮的巨魔南瓜燈籠
+1313186,收集精美的禍心儀式印記
+1313188,收集不祥的禍心祠堂
+1313190,收集禍心石環
+1313192,收集禍心旗幟
 1313196,靈魂綁定
 1313197,級別11
 1313204,靈魂綁定
 1313207,釋放
 1313213,烏拉特克的印記
+1313216,收集鬼祟的禍心咒像
 1313251,[DNT] Cycle Scenario Propping
+1313285,[DNT] Teach Flightpaths
 1313303,小魚回饋
+1313306,Pattern Test (DNT)
 1313308,Kill Credit: Ula'tek Defeated
+1313317,重物著陸
+1313319,重物著陸
 1313355,滅鱗大鍋
+1313383,收集稻草皮皮
+1313385,收集恐怖騎士頭顱
 1313391,刺骨冰霜
 1313393,刺骨冰霜
 1313394,散射
 1313395,刺骨冰霜
+1313400,[DNT] Shen'dorei Windwell
 1313402,冰霜之球
 1313418,烏拉特克之怒
 1313420,Generic Spell
@@ -413671,35 +415150,71 @@ ID,Name_lang
 1313448,冰霜之球
 1313450,冰霜爆發
 1313453,收集
+1313454,一把糖果
 1313456,粉碎
 1313457,[DNT] 12.1 - Housing - Endeavor - The Ringing Deeps - Teleport (REM)
 1313458,[DNT] 12.1 - Housing - Endeavor - The Ringing Deeps - Teleport (REM)
 1313464,[DNT] 12.1 - Housing - Endeavor - The Ringing Deeps - Teleport (REM)
 1313465,[DNT] 12.1 - Housing - Endeavor - The Ringing Deeps - Teleport (REM)
 1313466,[DNT] Soloability Active
+1313468,[DNT] VFX Ghost Gas Red
 1313469,[DNT] Unit of Interest Gears (<20 yds)
 1313472,地底破壞
 1313473,尖嘯疫鱗
+1313484,震地引爆
+1313485,岩石視覺效果
+1313487,不確定
+1313492,鑽刺衝鋒
+1313498,鑽刺衝鋒
+1313501,鑽刺衝鋒
 1313515,靈魂轉移
+1313520,德萊尼投影交界
+1313521,閃爍光鑄熔爐
+1313522,埃雷達斯工匠工作桌
+1313524,裝飾用光紡布捲
+1313525,閃爍光鑄罐
+1313526,懸掛的阿古岩油燈
+1313527,光鑄召回信標
 1313529,攝入毒液
 1313531,酸蝕爆發
 1313532,血紅風暴
 1313533,血紅風暴
 1313534,永夜無光
+1313550,Kill Credit (DNT)
+1313554,[DNT] Push Bonus Objective
+1313573,岩石破壞
+1313581,鑽刺衝鋒
 1313593,逃亡者
+1313595,收集妖精靈魄菇
 1313630,奮力一擊
+1313631,鑽刺衝鋒
+1313634,鑽刺衝鋒
+1313637,鑽刺衝鋒
 1313638,移除所有減益效果
+1313649,蛇風塑像
 1313651,收集秋季西部荒野獸倉外觀
 1313655,收集春季西部荒野獸倉房屋外觀
 1313663,收集舊月溪鎮夜晚窗戶
 1313667,Generic Spell
 1313690,餘震
+1313723,阿奇爾森之印
+1313724,賈納雷之印
 1313728,纏魂
+1313734,開啟
+1313739,納羅拉克之印
+1313740,阿奇爾森之印
+1313741,哈拉齊之印
 1313754,滑溜孵育
 1313755,一般法術
 1313756,扭動孵育
 1313757,沸騰毒液
 1313758,沸騰毒液
+1313759,阿奇爾森之爪
+1313760,[DNT] Jump
+1313761,阿奇爾森之爪
+1313762,覺醒之懼
+1313763,覺醒之懼
+1313788,孢子使者真菌行者
 1313800,魔法垃圾
 1313802,屏障完整性
 1313803,吸取屏障
@@ -413708,12 +415223,78 @@ ID,Name_lang
 1313813,吉摩西
 1313818,回饋
 1313819,回饋
+1313826,旗標追蹤
+1313829,生成上古守鑰者背包
+1313830,生成上古守鑰者背包
+1313831,旗標追蹤
+1313845,鎖與鑰
+1313862,阿奇爾森的迅捷
+1313868,旗標追蹤
+1313873,旗標追蹤
+1313875,納羅拉克的凶暴
+1313876,旗標追蹤
+1313878,旗標追蹤
+1313879,旗標追蹤
+1313880,旗標追蹤
+1313881,旗標追蹤
+1313882,旗標追蹤
+1313883,旗標追蹤
+1313884,旗標追蹤
+1313885,旗標追蹤
+1313886,旗標追蹤
+1313887,旗標追蹤
+1313888,旗標追蹤
+1313889,旗標追蹤
+1313890,旗標追蹤
+1313891,旗標追蹤
+1313893,旗標追蹤
+1313894,旗標追蹤
+1313895,旗標追蹤
+1313898,旗標追蹤
+1313899,旗標追蹤
+1313900,旗標追蹤
+1313901,旗標追蹤
+1313902,旗標追蹤
+1313903,旗標追蹤
+1313904,旗標追蹤
+1313905,旗標追蹤
 1313909,[DNT] Dread Bolt
+1313911,旗標追蹤
+1313913,旗標追蹤
+1313914,旗標追蹤
+1313915,旗標追蹤
+1313916,旗標追蹤
+1313917,旗標追蹤
+1313919,旗標追蹤
+1313920,旗標追蹤
+1313921,旗標追蹤
+1313922,旗標追蹤
+1313930,[DNT] set seat 1 - 01 AH
+1313931,緩解疲勞
+1313933,[DNT] Check and Set Passenger Type
+1313934,緩解疲勞
+1313937,阿奇爾森的迅捷
+1313938,納羅拉克的凶暴
 1313945,腐蝕波
+1313954,旗標追蹤
+1313955,旗標追蹤
+1313956,旗標追蹤
+1313959,聖光之子
+1313960,聖光之子
+1313961,聖光之子
+1313962,聖光之子
+1313963,神聖輝光
+1313964,[DNT] Jump
 1313965,看守者之護
 1313966,一般法術
+1313999,[DNT] set seat 1 - 02 Mailbox
+1314000,[DNT] set seat 1 - 03 Vendor/Repair
+1314001,[DNT] set seat 1 - 04 Transmog
+1314014,崩壞
+1314035,召喚寶藏
 1314051,雷霆與閃電
 1314061,擴散烈焰
+1314070,崩壞
 1314074,鑽地
 1314082,擾亂心智
 1314090,不穩定的腐化
@@ -413722,62 +415303,313 @@ ID,Name_lang
 1314093,不穩定的腐化
 1314094,淨化生命力
 1314095,淨化生命力
+1314096,覺醒之懼
+1314097,覺醒之懼
+1314098,神聖輝光
+1314099,神聖輝光
+1314100,覺醒之懼
+1314101,覺醒之懼
 1314155,[DNT] Plague Froth
 1314158,腐化爆發
+1314165,超燙越野麵包搬運者4000
+1314166,超燙越野麵包搬運者4200
+1314168,超燙越野麵包搬運者4400
+1314169,超燙越野麵包搬運者4600
 1314178,稀薄血液
+1314189,灰燼懼翼
+1314191,[DNT] Jump
 1314193,劇毒地面
 1314196,褻瀆之地
+1314198,收集
 1314214,腐蝕靈魂
+1314217,收集納撒亞攀伸荊棘
+1314219,收集納撒亞分岔荊棘
+1314221,收集大型納撒亞荊棘根
+1314223,收集小型納撒亞荊棘根
+1314225,收集納撒亞多葉荊棘
+1314227,收集納撒亞灌木叢樹籬
+1314229,收集孤立禍木松木
+1314231,收集納撒亞球體綠雕
+1314233,收集納撒亞罪跡橡木
+1314235,收集納撒亞罪跡灌木叢
+1314237,收集亮灼納撒亞利爪草
+1314239,收集亮灼納撒亞樹根
+1314241,收集納撒亞罪跡藤蔓叢
+1314243,收集歿路沼澤罪沾灌木叢
+1314245,收集歿路沼澤靈魄花朵
+1314247,收集納撒亞真菌腐頂
+1314249,收集蒼白納撒亞玫瑰
+1314251,收集大型納撒亞利刃草
+1314253,收集納撒亞紅寶石根生長物
+1314268,[DNT] set seat 2 - 01 AH
+1314270,[DNT] set seat 2 - 02 Mailbox
+1314271,[DNT] set seat 2 - 03 Vendor/Repair
+1314272,[DNT] set seat 2 - 04 Transmog
 1314273,稀薄血液
+1314276,[DNT] Radiance
+1314277,[DNT] Radiance
+1314278,[DNT] Barrier
+1314279,[DNT] Barrier
+1314282,[DNT] Dissolve
+1314283,燒成灰燼
+1314284,[DNT] Dissolving
 1314285,看守者之護
 1314286,看守者之護
 1314287,看守者之護
 1314288,看守者之護
 1314289,看守者之護
 1314290,看守者之護
+1314332,靈魂強風導體
+1314334,舊繩索
 1314345,惡性強化
+1314346,靈魂大地導體
+1314350,靈魂火焰導體
+1314351,靈魂火焰導體
+1314353,靈魂迷霧導體
+1314355,靈魂迷霧導體
+1314360,舊繩索
+1314361,收集妖精靈魄牆燈籠
+1314367,哈拉齊的裹布
 1314381,Generic Spell
+1314386,[DNT] Kill Credit
 1314387,Generic Spell
+1314389,哈拉齊的裹布
+1314390,哈拉齊的裹布
 1314394,Generic Spell
 1314397,Generic Spell
+1314402,獵鷹猛擊
 1314434,Generic Spell
 1314435,Generic Spell
 1314439,Teleport To Current Target [DNT]
 1314443,Teleport To Current Target [DNT]
 1314451,Generic Spell
 1314455,傳送至階段03起始點
+1314477,收集小型影月谷影刷草
+1314479,收集過盛的維崙草叢
+1314481,收集綠水潭鱗葉
+1314483,收集成熟的星辰百合
+1314485,收集安伯瑞山毛櫸
+1314487,收集蒼白影月谷柳樹
+1314490,收集擁擠的夜夢澤花朵
+1314492,收集彎曲的卡拉伯爾樹籬
+1314494,收集精美的卡拉伯爾樹籬
+1314496,收集卡拉伯爾樹籬
+1314498,收集幽影百合花朵
+1314500,收集幽蔭光莢
+1314502,收集卡拉伯爾山毛櫸
+1314504,收集翠綠影月谷柳樹
+1314506,收集落月之地山毛櫸
+1314513,蛇風塑像
 1314534,Generic Spell
 1314535,Generic Spell
 1314536,Generic Spell
 1314537,Generic Spell
 1314538,Generic Spell
 1314539,Generic Spell
+1314541,蛇風塑像
+1314550,蛇風塑像
 1314563,劇毒雲霧
+1314564,蛇風塑像
+1314565,蛇風塑像
+1314566,蛇風塑像
+1314567,蛇風塑像
+1314568,蛇風塑像
+1314569,蛇風塑像
+1314570,蛇風塑像
+1314571,添加
+1314572,蛇風塑像
+1314573,蛇風塑像
+1314605,收集靈魄能鐵砧
+1314607,收集修復的暗夜妖精符印
+1314610,收集妖精燈籠花
+1314612,收集星界林草
+1314614,收集狐狸人戰旗
+1314616,收集綻放的星界幻夢草
+1314618,收集妖精月枝桌
+1314620,收集小型閃爍月藤
+1314622,收集木製狐狸人拖車
+1314624,收集受損的流浪者臨時路障
+1314626,收集野林樹葉堆
+1314628,收集妖精月枝繭
+1314630,收集繁茂野林蕨
+1314632,收集流浪者扭曲泉水瓠瓜
+1314634,收集流浪者鐵燈籠
+1314636,收集流浪者營火烤架
+1314638,收集流浪者盛裝器皿
+1314640,收集長型紅色狐狸人坐墊
+1314642,收集狐狸人郵箱
+1314644,收集流浪者圓墊
+1314646,收集妖精月枝卷軸
+1314648,收集流浪者鐵製熔爐
+1314650,收集強化的流浪者臨時路障
+1314652,收集流浪者研缽和搗杵
+1314654,收集流浪者蓋住的裝菜碗
+1314656,收集流浪者裝菜碗
+1314658,收集流浪者石製水罐
+1314660,收集流浪者碗具組
+1314662,收集加固的流浪者臨時路障
+1314664,收集空的禿鷲棲木
+1314666,收集闔上的狐狸人卷軸
+1314668,收集流浪者木製路燈
+1314670,收集流浪者破舊泉水瓠瓜
+1314672,收集流浪者泉水瓠瓜
+1314674,收集流浪者木桌
+1314676,收集流浪者石甕
+1314678,收集流浪者飲品用具組
+1314680,收集藍色狐狸人坐墊
+1314682,收集黑色狐狸人坐墊
+1314684,收集星種樹苗
+1314686,收集休眠的野性種子
+1314688,收集華麗狐狸人拖車
+1314690,收集懸掛的野性種子
+1314711,[DNT] Wander
+1314712,套裝：雷克薩的傳奇裝束
+1314714,[DNT] Ritual Summon
+1314715,羅亞賜福旅者
+1314719,收集商隊鐵匠的鐵砧
+1314725,收集妖精月枝大門
+1314730,收集斜倚野林樹
+1314732,收集懸掛的野林藤蔓
+1314734,收集繁茂星界月枝
+1314736,收集斜倚星界蘭花
+1314738,收集妖精靈菇環
+1314740,[DNT] Big Shield
+1314745,迷失攻擊
+1314746,[DNT] Ritual Summon
+1314751,迷失攻擊
+1314756,羅亞軍械
+1314757,[DNT] Den'Zara Death
+1314773,賜福的羅亞軍械
+1314812,賜福的羅亞軍械
+1314813,賜福的羅亞軍械
+1314814,賜福的羅亞軍械
+1314815,賜福的羅亞軍械
+1314816,賜福的羅亞軍械
+1314817,賜福的羅亞軍械
+1314818,賜福的羅亞軍械
+1314819,賜福的羅亞軍械
+1314820,賜福的羅亞軍械
+1314821,賜福的羅亞軍械
+1314836,套裝：林地遊魂的活屍偽裝
 1314837,硬化毒液
+1314839,套裝：寒冰行者的活屍偽裝
+1314840,套裝：餘燼活屍偽裝
+1314841,套裝：冰霜亡魂的活屍偽裝
 1314844,Generic Spell
 1314845,劇毒孵育
 1314846,劇毒孵育
+1314849,蝕影碎片
 1314883,獵殺躍擊
 1314884,獵殺躍擊
 1314885,獵殺躍擊
 1314909,Generic Spell
+1314910,羅亞靈魂導體
+1314915,迷宮密室
+1314916,金多詹
+1314932,染血狂怒
+1314933,羅亞之力
+1314938,羅亞之賜
 1314949,[DNT] Burrowing Charge Overflow Cosmetics
+1314952,滿是灰塵的羅亞圖騰
+1314955,滿是灰塵的羅亞圖騰
+1314959,[DNT] Emerge
+1314966,[DNT] Set Passenger Type Cooldown Seat 1
+1314967,[DNT] Set Passenger Type Cooldown Seat 2
+1314971,滿是灰塵的羅亞圖騰
+1314972,滿是灰塵的羅亞圖騰
+1314973,滿是灰塵的羅亞圖騰
+1314974,滿是灰塵的羅亞圖騰
+1314978,滿是灰塵的羅亞圖騰
+1314979,[DNT]
+1314982,添加
+1314984,[DNT]
+1314992,[DNT] Emerge
+1315026,[DNT]
 1315029,洞穴之光
 1315030,洞穴之光
 1315031,洞穴之光
+1315060,銜尾蛇詛咒
+1315061,腐蝕膽汁之矛
+1315062,精華陷阱
+1315063,敦敦的恩寵
+1315064,裂魂捕夢網
+1315065,毒液灌注
+1315082,巨熊鐵皮
+1315083,炙熱波
+1315084,山貓之眼
+1315094,巨熊鐵皮
+1315096,巨熊鐵皮
+1315099,山貓之眼
+1315100,獵鷹猛擊
+1315101,炙熱波
 1315104,返回形態
 1315106,返回形態
+1315111,獵鷹猛擊
+1315115,獵鷹猛擊
+1315116,炙熱波
+1315117,炙熱波
+1315121,山貓之眼
+1315126,收集納葛蘭三葉草簇
+1315128,收集納葛蘭野麥
+1315131,收集哨兵幼樹
+1315133,收集天槌哨兵樹
+1315135,收集徘徊哨兵樹
+1315137,收集成熟的靈木橡
+1315139,收集靈木橡樹樁
+1315141,收集哨兵樹根
+1315143,收集石壁哨兵樹
+1315145,收集卡蘭崔歐斯百合
+1315147,收集阿柏利爾斯莢果植物
+1315149,收集葛爾道格苔石
+1315151,收集納葛蘭心藤
+1315153,收集天歌哨兵樹
+1315155,收集辛納瑞塔斯草地
 1315157,[DNT] Gloombomb
+1315159,銜尾蛇詛咒
+1315161,添加
+1315162,腐蝕膽汁之矛
+1315163,添加
+1315170,精華陷阱
+1315173,添加
+1315183,敦敦的恩寵
+1315184,添加
+1315185,裂魂捕夢網
+1315186,添加
+1315187,毒液灌注
+1315188,添加
 1315202,被憎恨吞噬
 1315205,[DNT] Energy Gain
+1315208,族母的聖契
+1315209,族母翅膀
+1315210,族母翅膀雕紋
 1315222,Generic Spell
 1315223,Generic Spell
 1315224,Generic Spell
 1315225,Generic Spell
 1315239,烈風之力
 1315241,劇毒波
+1315264,幽魂再生
+1315268,地面潰擊
 1315270,毒蛇之喚
+1315273,斷法怒吼
+1315278,混沌狂亂
+1315279,混沌狂亂
+1315287,混沌衝擊
+1315292,靈魄能鐵砧
+1315293,混沌狂亂
 1315298,毒惡噴吐
+1315300,衰退
+1315312,收集
+1315317,收集
+1315318,收集
+1315319,收集
+1315320,AI施放範圍技能
+1315321,AI施放範圍技能
+1315324,[DNT] Hold Feed
+1315329,[DNT] set seat 1 - 00 Empty
+1315331,[DNT] set seat 2 - 00 Empty
+1315335,妖精月枝卷軸
+1315337,收集永恆之花林地
 1315341,包圍獵物
 1315342,沸騰毒液
 1315343,沸騰毒液
@@ -413785,35 +415617,233 @@ ID,Name_lang
 1315354,疫鱗窩巢
 1315369,惡毒浪潮
 1315375,殺紅眼
+1315397,AI施放範圍技能
+1315398,AI施放範圍技能
+1315400,AI施放範圍技能
+1315403,AI施放範圍技能
+1315411,準備傳送
+1315416,AI施放範圍技能
+1315418,Quest Completed (DNT)
+1315424,[DNT] Kindo Fanfare
+1315426,流浪者營火烤架
+1315430,被撞倒了！
+1315431,被撞倒了！
+1315432,被撞倒了！
+1315433,咬蘋果水桶
+1315440,蜘蛛女巫帽
+1315445,流浪者圓墊
 1315446,破甲猛擊
+1315452,AI施放範圍技能
+1315461,AI施放範圍技能
+1315465,闔上的狐狸人卷軸
+1315468,流浪者鐵製熔爐
+1315470,[DNT] Bomb Crate Ping
+1315476,AI施放範圍技能
+1315479,恐懼黑暗
+1315480,靜止的空無之潮
+1315481,靜止的空無之潮
+1315482,靜止的空無之潮
+1315483,靜止的空無之潮
+1315484,溢流虛無之尖
+1315485,溢流虛無之尖
+1315486,溢流虛無之尖
+1315487,溢流虛無之尖
+1315489,炸飛！
+1315490,順風導體
+1315491,順風導體
+1315492,收集神秘的進口食人魚
+1315493,順風導體
+1315495,順風導體
+1315499,[DNT] Bomb Crate Lit
+1315509,迷失之手
+1315522,[DNT] Clear Cosmetic Auras
 1315525,Generic Spell
+1315529,收集「暴風城的驕傲」雕像
 1315541,毒蛇之喚
-1315542,幽魂之纏
-1315543,幽魂之纏
-1315544,幽魂之纏
-1315545,幽魂之纏
-1315546,幽魂之纏
-1315547,幽魂之纏
-1315548,幽魂之纏
-1315549,幽魂之纏
+1315542,Spectral Coils
+1315543,Spectral Coils
+1315544,Spectral Coils
+1315545,Spectral Coils
+1315546,Spectral Coils
+1315547,Spectral Coils
+1315548,Spectral Coils
+1315549,Spectral Coils
+1315556,靈魂之力
+1315562,死後僵硬
+1315567,狂野揮擊
+1315568,狂野揮擊
+1315569,火焰衝擊
+1315571,壓制躍擊
+1315572,壓制躍擊
+1315573,陰晦爪擊
+1315574,暗影爆發
+1315575,暗影爆發
+1315576,暗影爆發
+1315579,暗影爆發
+1315580,暗影爆發
+1315581,暗影爆發
+1315582,暗影爆發
+1315587,恐懼黑暗
+1315597,AI施放範圍技能
+1315603,AI施放範圍技能
+1315606,AI施放範圍技能
+1315608,AI施放範圍技能
+1315610,AI施放範圍技能
+1315613,AI施放範圍技能
+1315616,AI施放範圍技能
+1315617,AI施放範圍技能
+1315621,AI施放範圍技能
+1315624,AI施放範圍技能
+1315625,AI施放範圍技能
+1315668,收集眾人喜愛的魚人填充娃娃
+1315670,收集眾人喜愛的巨獺填充娃娃
+1315672,收集眾人喜愛的巨～～獺填充娃娃
+1315674,收集莉莉史卓莎的幸運小鴨填充娃娃
+1315676,收集眾人喜愛的填充娃娃
+1315679,AI施放範圍技能
+1315691,莉莉史卓莎的幸運小鴨填充娃娃
+1315702,Spectral Coils
+1315703,[DNT] End Run
+1315704,召喚札爾蘭
+1315705,Spectral Coils
+1315706,Spectral Coils
+1315719,眾人喜愛的巨獺填充娃娃
+1315721,靈魂試煉
+1315728,眾人喜愛的巨～～獺填充娃娃
+1315729,AI施放範圍技能
 1315732,致命毒液
+1315734,AI施放範圍技能
+1315743,更換右側座位的冷卻時間
+1315745,更換左側座位的冷卻時間
+1315757,眾人喜愛的填充娃娃
+1315766,眾人喜愛的魚人填充娃娃
+1315776,收集「蒙娜地莎」繪畫
 1315786,Generic Spell
 1315787,Generic Spell
 1315796,Tracking Quest Flag [DNT]
 1315798,不穩定的腐化
 1315805,毒蛇之喚
+1315829,毒液箭
+1315833,蜘蛛新星
+1315842,蜘蛛躍入開場
 1315876,鑽地
 1315888,<DNT> 12.0.7 Skip
+1315902,召喚蜘蛛
+1315946,點亮
+1315949,沙德拉敕令
+1315975,收集阿曼尼開放火焰烤架
+1315977,收集阿曼尼妖術蠟燭
+1315979,收集遠古阿曼尼壁畫
+1315981,打鼓
+1315982,收集腐蝕的阿曼尼燭台
+1315984,收集獠牙阿曼尼獨木舟
+1316040,收集波拉勒斯餿水瓶
 1316060,[DNT] Spawn Visuals - Murloc
+1316062,黑暗破滅
+1316093,雷克薩的夥伴變形
+1316100,沃卓肯補給硬幣
+1316155,米莎的偽裝
+1316156,胡佛的偽裝
+1316161,收集琪瑞安路標牌匾
+1316163,收集拱形赤紅藤蔓
+1316165,收集扭曲的赤紅樹根
+1316167,收集佐司瓦白閃菇簇
+1316169,收集短型赤紅橡木樹樁
+1316171,收集枯萎的塚草
+1316173,收集佐司瓦疊傘菇
+1316175,收集雪縛高徑松木
+1316177,收集繁茂佐司瓦巫蕨
+1316179,收集枯萎的赤紅橡樹
+1316181,收集高聳赤紅橡木
+1316183,收集血色佐司瓦橡木
+1316185,收集血色佐司瓦棘木
+1316187,收集短型佐司瓦橡木樹樁
+1316189,收集佐司瓦葉叢
+1316191,收集佐司瓦葉子堆
+1316193,收集打開的骨木桶子
+1316195,收集骨化瑪卓薩斯尖刺
+1316197,收集高靠背骨木椅子
+1316199,收集瑪卓薩斯靈魄水晶
+1316201,收集瑪卓薩斯防護晶格
+1316203,收集瑪卓薩斯角獸顱骨
+1316205,收集浮空巫妖圖書館
+1316207,收集吊掛的巫妖卷軸
+1316209,收集繁茂樂土蓮花
+1316211,收集樂土心蓮
+1316213,收集翠綠樂土冠花
+1316215,收集稀疏樂土池塘草
+1316217,收集風捲樂土天羽
+1316219,收集風捲樂土草叢
+1316221,收集懸掛的樂土天藤
+1316223,收集繁茂樂土風鈴草灌木叢
+1316225,收集樂土燈花
+1316227,收集繁茂樂土百合
+1316229,收集風捲樂土柳樹
+1316231,收集有翼樂土螺旋花
+1316233,收集聖輝樂土睡蓮
+1316235,收集風捲樂土草
+1316237,收集樂土天羽葉
+1316239,收集靈魄能琪瑞安烤箱
+1316241,收集窄版琪瑞安簾幕
+1316243,收集琪瑞安侍者雕像
+1316245,收集琪瑞安路標
+1316247,收集符文琪瑞安聖匣
+1316249,收集儀祭琪瑞安戰旗
+1316251,收集華麗的琪瑞安玻璃平台
+1316253,收集汎希爾鍊金術架子
+1316255,收集告解者的靈魄罐
+1316257,收集罪殞城拱形書架
+1316259,收集罪人的絞架
+1316261,收集瑞文崔斯罪人牢獄
+1316263,收集納撒亞窗戶
+1316265,收集汎希爾柵欄
+1316267,收集汎希爾欄杆柱
+1316269,收集罪殞城餐桌
+1316271,收集小型暗隱村窗戶
+1316287,[DNT] 12.1.5 Labyrinth - Door - Loa Seal - Bear - Error
+1316292,[DNT] 12.1.5 Labyrinth - Door - Loa Seal - Eagle - Error
+1316294,[DNT] 12.1.5 Labyrinth - Door - Loa Seal - Lynx - Error
+1316295,[DNT] 12.1.5 Labyrinth - Door - Loa Seal - DragonHawk - Error
+1316298,收集黑曜石熔岩池
+1316300,[DNT] Abandon Vehicle and Teleport (AOC)
+1316301,[DNT] Abandon Vehicle and Teleport (AOC)
+1316306,浮空巫妖圖書館
+1316320,[DNT] Clear Interact Blocker
+1316321,[DNT] Teleport to Lor'themar
+1316323,汎希爾鍊金術架子
+1316326,[DNT] Play Drum
+1316351,劇毒迴旋
+1316352,劇毒迴旋
+1316353,劇毒迴旋
+1316354,劇毒迴旋
 1316355,爆裂淨滅
 1316356,爆裂淨滅
 1316357,爆裂淨滅
+1316401,沙德拉敕令
+1316411,沙德拉敕令
+1316419,沙德拉敕令
+1316461,沙德拉的權衡
+1316468,Interaction Test
+1316499,沙德拉的審判
+1316519,AI施放範圍技能
+1316525,[DNT] Push Candy
+1316541,附魔毒液
+1316577,暗影彈幕
+1316578,暗影彈幕
+1316603,生成
+1316605,生成
+1316607,生成
+1316608,生成
 1316611,Reevaluate Quest [DNT]
+1316624,復仇之怒
 1316627,[DNT] Summon Mushroom Pad
 1316628,[DNT] Summon Mushroom Pad
 1316630,[DNT] Summon Mushroom Pad
+1316679,上古之神的血液
 1316684,[DNT] Summon Mushroom Pad
 1316701,[DNT] Salute!
+1316702,暗影彈幕
+1316703,暗影彈幕
 1316706,Generic Spell
 1316707,Generic Spell
 1316710,幽魂之纏
@@ -413822,21 +415852,52 @@ ID,Name_lang
 1316721,[DNT] Evolution Ritual
 1316728,亡靈行軍
 1316739,Generic Spell
+1316742,殞命之絲
 1316746,幽魂步伐
+1316747,殞命之絲
+1316750,殞命之絲
+1316768,毒液池
+1316782,絕望詛咒
+1316784,殞命之絲
+1316787,AI施放範圍技能
+1316791,刺骨暗影
 1316793,Generic Spell
 1316795,Generic Spell
 1316796,Generic Spell
 1316797,亡靈行軍
 1316798,Generic Spell
-1316834,傳送（離開戰鬥時）
-1316835,傳送（離開戰鬥時）
+1316802,刺骨暗影
+1316803,刺骨暗影
+1316804,刺骨暗影
+1316805,刺骨暗影
+1316807,毒液噴射
+1316808,毒液噴射
+1316811,劇毒迴旋
+1316812,猛烈噴發
+1316817,[DNT] 12.1.5 Labyrinth - Door - Final Boss Room - Area Trigger - Error
+1316819,[DNT] 12.1.5 Labyrinth - Door - Final Boss Room - Area Trigger - Party Memebr - Error
+1316834,Teleport (On Leave Combat)
+1316835,Teleport (On Leave Combat)
+1316867,[DNT] 12.1.5 Labyrinth - (1) Door - Final Boss Room - Chamber Counter - Visual - 1)
+1316874,[DNT] Area Trigger Visual Tester
+1316882,[DNT] 12.1.5 Labyrinth - (2) Door - Final Boss Room - Chamber Counter - Visual - 2)
+1316883,[DNT] 12.1.5 Labyrinth - (3) Door - Final Boss Room - Chamber Counter - Visual - 3)
+1316884,[DNT] 12.1.5 Labyrinth - (4) Door - Final Boss Room - Chamber Counter - Visual - 4)
+1316885,[DNT] 12.1.5 Labyrinth - (5) Door - Final Boss Room - Chamber Counter - Visual - 5)
+1316886,[DNT] 12.1.5 Labyrinth - (6) Door - Final Boss Room - Chamber Counter - Visual - 6)
+1316887,[DNT] 12.1.5 Labyrinth - (7) Door - Final Boss Room - Chamber Counter - Visual - 7)
+1316888,[DNT] 12.1.5 Labyrinth - (8) Door - Final Boss Room - Chamber Counter - Visual - 8)
+1316889,[DNT] 12.1.5 Labyrinth - (9) Door - Final Boss Room - Chamber Counter - Visual - 9)
 1316938,異構植髓
 1316939,[DNT] Ping Taplist
 1316944,[DNT] Blood Rain
+1316945,收集萬聖莊園房間
 1316950,油膩的蛋
 1316952,放下蛋
 1316958,打開棺柩
 1316960,打開棺柩
+1316979,Kill Credit (DNT)
+1316980,Kill Credit (DNT)
 1316982,探究者的驚奇造型包
 1316988,標記為壞
 1317008,Generic Spell
@@ -413844,36 +415905,376 @@ ID,Name_lang
 1317010,Generic Spell
 1317036,咒毒致命一擊
 1317188,鬥士的特質
+1317213,故障護盾
+1317215,故障護盾
+1317216,故障護盾
+1317220,Kill Credit (DNT)
 1317236,Side 01
-1317237,群體孵育
+1317237,Mass Gestation
 1317258,毒液箭雨
 1317287,Generic Spell
 1317289,Generic Spell
+1317308,劇毒之爪
+1317337,崇高羅亞軍械
+1317339,崇高羅亞軍械
+1317340,崇高羅亞軍械
+1317342,崇高羅亞軍械
+1317343,崇高羅亞軍械
+1317344,崇高羅亞軍械
+1317345,崇高羅亞軍械
+1317346,崇高羅亞軍械
+1317347,崇高羅亞軍械
+1317348,崇高羅亞軍械
+1317349,崇高羅亞軍械
+1317350,崇高羅亞軍械
+1317426,擲矛
 1317434,征服勳章
+1317439,傳奇靈魂碎片
+1317449,潛獵者長矛
+1317482,妖術炸彈
+1317484,靈魂破碎
+1317487,靈魂破碎
+1317490,靈魂破碎
+1317491,靈魂破碎
+1317497,混亂
+1317512,"GENERIC - Transform Invisible, Uninteractable on Periodic Trigger (DNT)"
 1317528,鎖定
 1317558,近戰
+1317564,靈魂破碎
 1317568,Generic Spell
+1317572,AI施放範圍技能
 1317581,咒毒晉升
 1317582,咒毒晉升
 1317585,[DNT] Death Checker
+1317598,烈焰噴射
+1317601,毒蛇結界
+1317615,收集凶潮大桌
+1317618,收集凶潮桌子
+1317620,收集凶潮餐桌椅
+1317626,收集凶潮長椅
+1317628,收集小型凶潮地毯
+1317630,收集凶潮地毯
+1317632,收集凶潮咖啡桌
+1317634,收集凶潮三角鋼琴
+1317640,收集凶潮觸手
+1317642,收集凶潮擺飾錨
+1317644,收集凶潮附魔蠟燭
+1317646,收集凶潮吊燈
+1317650,收集凶潮燭台
+1317653,收集凶潮大燭臺
+1317655,收集凶潮書架
+1317657,收集凶潮地窖門
+1317660,收集凶潮長型附魔蠟燭
+1317665,收集凶潮附魔蠟燭
+1317668,收集凶潮小型附魔蠟燭
 1317688,心臟防禦
-1317723,劇毒孵育
+1317697,Play Timeline Scene (DNT)
+1317707,收集儀式安伯瑞拱門
+1317723,Toxic Incubation
+1317724,最後聖光
+1317725,[DNT] Shadow Barrier
+1317753,覓心
+1317754,覓心
+1317775,召喚寶藏
+1317829,收集
 1317846,使其靜止
-1317906,Bloodthirsty Gaze
+1317885,投擲炸彈
+1317906,嗜血凝視
+1317917,地雷炸光光
+1317928,地雷炸光光
+1317935,地雷炸光光
+1317937,地雷炸光光
+1317939,地雷炸光光
+1317950,地雷砰砰
 1317955,荒疫之脈
+1317992,暗影箭雨
+1317993,暗影衝擊
+1317994,幽影結界
+1317997,幽影結界
+1317998,[DNT] Channel
+1318091,[DNT] 12.1.5 Labyrinth - Sound Squisher
 1318116,[DNT] Fresh Meat Warning Aura
+1318122,超大砰砰
+1318138,超大砰砰
+1318149,砰砰棒
+1318167,暗影箭雨
+1318168,暗影箭雨
 1318176,強力猛擊
+1318180,劇毒繫鏈
+1318181,劇毒繫鏈
+1318194,暗影箭
+1318195,暗影疾行
+1318197,暗影疾行
+1318198,暗影疾行
+1318214,指揮官的防護
+1318215,指揮官的防護
+1318218,指揮官的防護
+1318241,[DNT] 12.1.5 Labyrinth - GENERIC - Rewards - Quest - Chamber Completion Tracker
 1318266,[DNT] Backup Despawn
 1318267,[DNT] Backup Despawn Check Aura
 1318271,Generic Spell
 1318272,Generic Spell
 1318291,[DNT] Fall Damage Preventer
+1318297,保護祝福
+1318298,莉雅德倫的保護祝福
+1318299,[DNT] Light
+1318311,受縛者之怒
+1318312,劇毒心臟
 1318313,Generic Spell
 1318329,鈣化屍體
+1318374,地門關閉
+1318375,[DNT] 12.1.5 Labyrinth - Sound Squisher
 1318378,[DNT] March of the Damned
 1318382,Generic Spell
+1318383,[DND] In Your Neighborhood During Holiday - Hallow's End
 1318387,[DNT] March of the Damned
+1318403,取得鬼魅裝備
+1318408,開啟
+1318413,Professions Sparks - Zone Aura: Data Cleanup [DNT]
+1318414,開啟
+1318437,英雄靈魂碎片
+1318449,傳說級讓我單挑他：金多詹
+1318467,負能凝聚
+1318468,負能凝聚
+1318472,爆炸失序
+1318473,爆炸失序
+1318515,[DNT] Broom Deliveries - Customer
+1318519,[DNT] Ultimate Controller
 1318521,[DNT] Portal Visual
 1318523,傳送
 1318543,Leave Vehicle - Teleport - Cancel Aura [DNT]
+1318546,[DNT] Ultimate Controller
+1318551,[DNT] Combat Controller
+1318590,攻擊
+1318591,攻擊
+1318592,攻擊
+1318593,金多詹
+1318594,收集靈魂凶潮宅邸
+1318606,血騎士之盾
+1318607,粉碎甲殼
 1318608,蛇母之怒
+1318612,血騎士之盾
+1318613,粉碎甲殼
+1318616,傳送
+1318618,粉碎甲殼
+1318637,劇毒迴旋
+1318731,赤紅噴濺
+1318775,藏寶室
+1318784,收集夜晚凶潮窗戶
+1318786,收集白天凶潮窗戶
+1318796,裂地猛擊
+1318810,裂地
+1318816,迷宮藏寶室
+1318817,裂地
+1318821,迷宮藏寶室
+1318829,裂地
+1318830,迷宮藏寶室
+1318831,裂地
+1318833,裂地
+1318834,裂地
+1318842,Professions Sparks - Zone Aura: Delete Spark [DNT]
+1318847,死靈光束
+1318849,腐蝕爆發
+1318850,腐蝕爆發
+1318851,腐蝕爆發
+1318852,[DNT] Teleport
+1318858,裂地
+1318862,[DNT] Conversation: Undead Defeated
+1318872,懼靈迷霧
+1318873,懼靈迷霧
+1318874,懼靈迷霧
+1318876,懼靈迷霧
+1318893,衰弱之毒
+1318896,[DNT] Fake Combat
+1318898,[DNT] Cleanse Beam
+1318904,Kill Credit (DNT)
+1318906,Kill Credit (DNT)
+1318911,[DNT] Cancel Aura
+1318968,[DNT] Cosmetic Phase Workers
+1318974,[DNT] Cosmetic Phase Boss
+1318980,[DNT] Mask Cleansed
+1318983,呼叫幫手
+1318988,[DNT] Cancel Cosmetic Worker Aura
+1318997,[DNT] Ping: Run to Door
+1319011,鮮血箭羽
+1319015,鮮血箭羽
+1319016,鮮血箭羽
+1319019,稻草皮皮
+1319061,崩陷之星
+1319066,崩陷之星
+1319068,[DNT] Teleport
+1319080,阿奇爾森之爪
+1319081,阿奇爾森之爪
+1319100,復仇之怒
+1319119,住宅區
+1319120,住宅區
+1319121,[DNT] Leaving Neighborhood - Alliance
+1319122,[DNT] Leaving Neighborhood - Horde
+1319139,mc 迷宮事件清理
+1319141,mc 迷宮事件清理
+1319153,[DNT] Promoter Credit
+1319192,嗡鳴渦流
+1319195,[DNT] Head Empty
+1319198,[DNT]Wind Wall Visual
+1319270,劇毒槍械
+1319274,[DNT] Jump
+1319275,[DNT] Teleport
+1319282,腐蝕波
+1319284,梵陀符文：克希斯
+1319285,帝國之爪
+1319286,梵陀符文：克希斯
+1319287,帝國之爪
+1319301,[DNT] Ghost Tank Interact
+1319312,12.1.0 Acquisition Event - Winds of Mysterious Fortune - Daily Login
+1319318,永恆毒液
+1319361,Generic Spell
+1319417,指定安全區
+1319488,開啟
+1319510,Ethereal Control Zone 01 Visual [DNT]
+1319528,縮小
+1319529,縮小
+1319546,[DNT] Negation
+1319581,復原的寶庫鑰匙測試物件
+1319683,Hotfix/General Purpose - Zone Aura: Data Cleanup [DNT]
+1319738,[DNT] 12.1.5 Labyrinth - Door - Final Boss Room - Kindo'jan Unlock
+1319741,迷宮靈魂碎片
+1319752,[DNT] Mass Death Touch
+1319772,迷宮藏寶室
+1319790,迷宮藏寶室
+1319824,擊退
+1319832,[DNT] summon candy
+1319865,[DNT] Tortollan Souvenirs Cleanup
+1319880,迷宮藏寶室
+1319902,古老阿曼尼鑰匙
+1319904,Kill Credit [DNT]
+1319915,防禦
+1319916,防禦
+1319919,古老阿曼尼鑰匙
+1319978,<REUSE>
+1320010,負能凝聚
+1320089,迷宮藏寶室
+1320111,DNT Countdown Timer
+1320142,造型蛋找尋者
+1320143,造型蛋找尋者
+1320150,暗影蛻皮
+1320151,Generic Spell
+1320152,Generic Spell
+1320159,造型蛋找尋者
+1320161,造型蛋找尋者
+1320167,Generic Spell
+1320168,Generic Spell
+1320228,[DNT] Falling
+1320233,[DNT] Story Mode
+1320361,斷法打擊
+1320397,召喚寶藏
+1320406,[DNT] Conversation: Wrong Door
+1320414,[DNT] Credit: Soul Jar Scenario Complete
+1320415,[DNT] Credit: Soul Jar Boss Scenario Complete
+1320423,[DNT] Conversation: Disrupt Vilebranch
+1320424,[DNT] Conversation: Soul Jars
+1320427,[DNT] Conversation: Soul Jars Complete
+1320435,[DNT] Conversation: Wrong Door
+1320442,[DNT] Ping: Transition to Spawn
+1320506,[DNT] Ping: Den'zara Warning
+1320507,[DNT] Conversation: Examine Effigy
+1320510,[DNT] Shadow Barrier
+1320515,[DNT] Move Target
+1320516,[DNT] Move Target
+1320517,[DNT] Move Target
+1320518,[DNT] Move Target
+1320519,[DNT] Move Target
+1320520,[DNT] Move Target
+1320521,[DNT] Move Target
+1320522,[DNT] Move Target
+1320524,[DNT] Move Target
+1320525,[DNT] Move Target
+1320553,怨靈行走
+1320566,怨靈傳送
+1320584,淨化火焰
+1320592,旗標追蹤
+1320593,準備旋翼機
+1320599,迷宮藏寶室
+1320600,迷宮藏寶室
+1320601,迷宮藏寶室
+1320602,嗜血
+1320647,AI施放範圍技能
+1320703,反手一擊
+1320729,奇異點票券
+1320740,Drilling Charge [DNT]
+1320744,阿曼尼部族票券
+1320745,哈拉提票券
+1320747,銀月城宮廷票券
+1320749,祖爾賈拉的部隊票券
+1320759,鑽刺衝鋒
+1320767,[DNT] Prelit Visual
+1320787,不友善的天空
+1320809,[DNT] Update Interactions
+1320817,[DNT] Override Name
+1320818,[DNT] Override Name
+1320819,[DNT] Override Name
+1320820,[DNT] Override Name
+1320821,[DNT] Override Name
+1320822,[DNT] Override Name
+1320823,[DNT] Override Name
+1320830,[DNT] 12.1.5 Labyrinth - Door - Final Boss Room - Area Trigger - Party Memebr - Error
+1320835,爪擊亂舞
+1320837,爪擊亂舞
+1320841,Ghostly Spawn In [DNT]
+1320845,迴旋靈魂
+1320854,金德魯的靈魂羽毛筆
+1320857,[DNT] Play Conversation
+1320859,Kill Credit (DNT)
+1320865,[DNT] Check Auras for Kill Credit
+1320968,Kill Credit (DNT)
+1320988,Kill Credit (DNT)
+1320989,Play Timeline Scene (DNT)
+1321028,[DNT] Umbral Champion
+1321129,[DNT] Area Clear
+1321389,傳送到祖達薩
+1321496,級別2
+1321497,級別2
+1321603,AI Cast AoE
+1321643,指示
+1321736,[DNT] Remove Soulcatcher
+1321835,[DNT] Spawn
+1321836,[DNT] Spawn
+1321837,[DNT] Shoot
+1321838,[DNT] Impact
+1321839,[DNT] Shoot
+1321840,[DNT] Shoot
+1321882,錯誤
+1321892,錯誤
+1321951,奔竄衝鋒
+1321956,奔竄衝鋒
+1321962,奔竄衝鋒
+1321975,[DNT] Cancel Aura - Agitated Crystal
+1321982,[DNT]
+1322117,[DNT] Exit Labyrinth
+1322161,[DNT] 12.1.5 Labyrinth - Door - Area Trigger - Dummy - ZGS
+1322282,偵測玩家
+1322323,[DNT] Head Mason's Tablet
+1322419,淨化痛苦
+1322545,幽暗城
+1322546,幽暗城
+1322550,卡斯拉納提爾之痕
+1322575,[DNT] Boss's Intimidation
+1322576,[DNT] Boss's Intimidation
+1322662,召喚寶藏
+1322663,召喚寶藏
+1322664,召喚寶藏
+1322665,召喚寶藏
+1322666,召喚寶藏
+1323054,著火！
+1323653,[DNT] Clear Fatigue
+1323829,連環謀殺
+1324613,12.1.5 Labyrinth - Chamber 2a - Scenario B - Drop Soul Jars - TSH
+1325175,[DNT] Cancel Tracker
+1325706,[DNT] Unnerving Fixation
+1327151,[DNT] Murder in a Row
+1327390,靈魂火焰導體
+1327392,靈魂火焰導體
+1327393,靈魂火焰導體
+1327394,靈魂火焰導體
+1327647,[DNT] Phase Exclusion
+1327707,攜帶賈納雷之淚
+1327777,烈風之力

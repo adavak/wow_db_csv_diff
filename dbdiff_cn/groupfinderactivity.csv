@@ -1,4 +1,4 @@
-ID,FullName_lang,ShortName_lang,GroupFinderCategoryID,OrderIndex,GroupFinderActivityGrpID,Flags,MinGearLevelSuggestion,PlayerConditionID,MapID,DifficultyID,AreaID,ExpansionID,MaxPlayers,DisplayType,Field_11_0_7_57361_013,Field_11_0_7_57361_014,Field_11_0_7_57361_015,Field_11_0_7_57361_016,OverrideContentTuningID,MapChallengeModeID
+ID,FullName_lang,ShortName_lang,GroupFinderCategoryID,OrderIndex,GroupFinderActivityGrpID,Flags,MinGearLevelSuggestion,PlayerConditionID,MapID,DifficultyID,AreaID,ExpansionID,MaxPlayers,DisplayType,Field_11_0_7_57361_013,Field_11_0_7_57361_014,MinLevel,MaxLevelSuggestion,OverrideContentTuningID,MapChallengeModeID
 2,泰达希尔,泰达希尔,1,0,3,258,0,0,1,0,141,0,0,4,0,0,0,0,0,0
 3,西部荒野,西部荒野,1,0,2,258,0,0,0,0,40,0,0,4,0,0,0,0,0,0
 4,决战奥格瑞玛（普通难度）,普通,3,0,1,35,0,0,1136,14,0,4,30,0,0,0,0,0,0,0
@@ -1314,8 +1314,11 @@ ID,FullName_lang,ShortName_lang,GroupFinderCategoryID,OrderIndex,GroupFinderActi
 1965,奈格塔尔,奈格塔尔,1,0,397,258,0,156379,3075,0,0,11,40,0,0,0,0,0,0,0
 1968,世界首领（至暗之夜） - 英雄,世界首领 - 英雄,3,99,0,803,0,143837,0,0,0,11,40,0,0,0,0,0,0,0
 1970,瓦尔（英雄）,瓦尔（英雄）,1,0,397,258,0,143837,3047,0,0,11,40,0,0,0,0,0,0,0
-1972,暖房聚会,暖房聚会,6,0,0,35,0,0,0,0,0,11,40,4,0,0,0,0,0,0
+1972,暖房聚会,暖房聚会,1,0,0,34,0,0,0,0,0,11,40,4,0,0,0,0,0,0
 1974,奈格塔尔（英雄）,奈格塔尔（英雄）,1,0,397,258,0,143837,3075,0,0,11,40,0,0,0,0,0,0,0
+1975,基希克斯破封（普通）,普通,3,1,427,35,285,159032,3095,14,0,11,30,0,0,0,0,0,0,0
+1976,基希克斯破封（英雄）,英雄,3,2,427,35,298,159032,3095,15,0,11,30,0,0,0,0,0,0,0
+1977,基希克斯破封（史诗）,史诗,3,3,427,35,311,159032,3095,233,0,11,25,0,0,0,0,0,0,0
 2002,阿塔乌特克地窟,阿塔乌特克地窟,1,0,397,258,0,160458,2916,0,0,11,40,0,0,0,0,0,0,0
 2003,潮缚石窟（普通难度）,普通,3,1,429,35,279,161326,2987,14,0,11,30,0,0,0,0,0,0,0
 2004,潮缚石窟（英雄难度）,英雄,3,1,429,35,295,161326,2987,15,0,11,30,0,0,0,0,0,0,0

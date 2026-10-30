@@ -122941,6 +122941,7 @@ ID,FilePath,FileName
 5426346,Interface\ICONS\,INV_Helm_Misc_Rose_A_01_Red.blp
 5426347,Interface\ICONS\,INV_Helm_Misc_Rose_A_01_White.blp
 5426348,Interface\ICONS\,INV_Helm_Misc_Rose_A_01_Yellow.blp
+5426612,Interface\Glues\CharacterCreate\,kioskassets.BLP
 5445496,Interface\WorldMap\Amirdrassil\,Amirdrassil1.blp
 5445497,Interface\WorldMap\Amirdrassil\,Amirdrassil2.blp
 5445498,Interface\WorldMap\Amirdrassil\,Amirdrassil3.blp
@@ -135816,6 +135817,7 @@ ID,FilePath,FileName
 7263653,Interface\housing\,HousingDecorAbilityBarFX.BLP
 7264163,Interface\ICONS\,INV_Cape_Special_HexTroll_D_01.blp
 7264184,Interface\ICONS\,INV_Shoulder_Armor_HexTroll_D_01.blp
+7264939,Interface\ICONS\,INV_BabyMurloc3_Emerald.blp
 7265335,Interface\ICONS\,INV_Shield_1H_Demon_C_01.blp
 7265340,Interface\WorldMap\UlatekTemple\,UlaTekTemple1.blp
 7265341,Interface\WorldMap\UlatekTemple\,UlaTekTemple10.blp
@@ -139181,6 +139183,7 @@ ID,FilePath,FileName
 7568376,Interface\Shop\,CatalogShopFG500Tender.BLP
 7568378,Interface\Shop\,CatalogShopFG1000Tender.BLP
 7568380,Interface\Shop\,CatalogShopFG1500Tender.BLP
+7568671,Interface\RaidFrame\,RaidFrameAnts.BLP
 7569526,Interface\ICONS\,INV12_Ability_Priest_Madness_Scream.blp
 7569527,Interface\ICONS\,INV12_Ability_Priest_Madness_Veil.blp
 7569528,Interface\ICONS\,INV12_Ability_Priest_Madness_Wisp.blp
@@ -141607,6 +141610,8 @@ ID,FilePath,FileName
 7673149,INTERFACE\GLUES\MODELS\UI_MAINMENU_MIDNIGHT\,MainFrameLowBand_02_02.blp
 7673151,INTERFACE\GLUES\MODELS\UI_MAINMENU_MIDNIGHT\,MainFrameLowBand_02_04.blp
 7673153,INTERFACE\GLUES\MODELS\UI_MAINMENU_MIDNIGHT\,MainFrameLowBand_02_03.blp
+7673157,Interface\ICONS\,INV_OldGodRayMount_Blue.blp
+7673158,Interface\ICONS\,INV_OldGodRayMount_Purple.blp
 7673159,INTERFACE\GLUES\MODELS\UI_MAINMENU_MIDNIGHT\,FairyDust2OffsetTwinkle_2x2_A.blp
 7673160,INTERFACE\GLUES\MODELS\UI_MAINMENU_MIDNIGHT\,Midnight_02_SplashScreen_LeafSwirl.blp
 7673161,INTERFACE\GLUES\MODELS\UI_MAINMENU_MIDNIGHT\,MainFrame01_02.blp
@@ -141718,6 +141723,7 @@ ID,FilePath,FileName
 7680199,Interface\WorldMap\MicroDungeon\NewZulaman\WitKalar_Crypt\,WitKalar_Crypt8.blp
 7680200,Interface\WorldMap\MicroDungeon\NewZulaman\WitKalar_Crypt\,WitKalar_Crypt9.blp
 7681052,Interface\QuestFrame\,QuestBackgroundMidnightLegacyoftheAmani.BLP
+7682074,Interface\ICONS\,INV_Chest_Armor_OldGod_D_02.blp
 7700536,Interface\QuestionFrame\,answer-RitualSites.blp
 7700598,Interface\ICONS\,INV_Bow_1H_OutdoorAmaniLoa_C_01.blp
 7700711,Interface\ICONS\,INV_Misc_ SelfieCamera_Red.blp
@@ -141779,6 +141785,14 @@ ID,FilePath,FileName
 7704507,Interface\cursor\,UIAxeCursor2x.BLP
 7704509,Interface\cursor\crosshair\,UIAxeCrosshair2x.BLP
 7704736,Interface\ICONS\,INV_Knife_1H_OutdoorAmaniLoa_C_01.blp
+7705384,Interface\ICONS\,INV_Belt_Armor_OldGod_D_01.blp
+7705385,Interface\ICONS\,INV_Boot_Armor_OldGod_D_01.blp
+7705386,Interface\ICONS\,INV_Cape_Armor_OldGod_D_01.blp
+7705387,Interface\ICONS\,INV_Chest_Armor_OldGod_D_01.blp
+7705388,Interface\ICONS\,INV_Glove_Armor_OldGod_D_01.blp
+7705389,Interface\ICONS\,INV_Helm_Armor_OldGod_D_01.blp
+7705390,Interface\ICONS\,INV_Pant_Armor_OldGod_D_01.blp
+7705391,Interface\ICONS\,INV_Shoulder_Armor_OldGod_D_01.blp
 7705642,Interface\ICONS\,INV_Belt_Mail_RaidShamanUlatek_D_01.blp
 7705643,Interface\ICONS\,INV_Boot_Mail_RaidShamanUlatek_D_01.blp
 7705644,Interface\ICONS\,INV_Bracer_Mail_RaidShamanUlatek_D_01.blp
@@ -142054,6 +142068,9 @@ ID,FilePath,FileName
 7789857,Interface\ICONS\,INV_Glove_Mail_RaidEvokerUlatek_D_01.blp
 7791861,Interface\CURSOR\,UIWildPetsCursor2x.BLP
 7792096,Interface\Scenarios\,RitualSitesMapIcon.BLP
+7792710,Interface\ICONS\,INV_Shoulder_Armor_HexTroll_D_02_Light.blp
+7792711,Interface\ICONS\,INV_Shoulder_Armor_HexTroll_D_02.blp
+7792712,Interface\ICONS\,INV_Shoulder_Armor_HexTroll_D_02_Dark.blp
 7794032,Interface\ICONS\,INV_Bow_1H_HighElf_D_01.blp
 7798225,Interface\Splash\,Splash1205.BLP
 7802240,Interface\Scenarios\,ShowdownsWorldTierBackgroundNaigtal.BLP
@@ -142403,6 +142420,9 @@ ID,FilePath,FileName
 7893787,Interface\AdventureMap\Val\,Val_Taxi149.blp
 7893788,Interface\AdventureMap\Val\,Val_Taxi15.blp
 7893789,Interface\AdventureMap\Val\,Val_Taxi16.blp
+7893790,Interface\ICONS\,INV_Cape_Special_AmaniTusk_D_01_Amani.blp
+7893791,Interface\ICONS\,INV_Cape_Special_AmaniTusk_D_01_Forest.blp
+7893792,Interface\ICONS\,INV_Cape_Special_AmaniTusk_D_01_Ulatek.blp
 7893793,Interface\AdventureMap\Val\,Val_Taxi17.blp
 7893794,Interface\AdventureMap\Val\,Val_Taxi18.blp
 7893795,Interface\AdventureMap\Val\,Val_Taxi19.blp
@@ -142656,6 +142676,7 @@ ID,FilePath,FileName
 7930348,Interface\ICONS\,INV_Bracer_Armor_Bracelet_C_01.blp
 7931300,Interface\ICONS\,INV_DwarfBearSnowMount.blp
 7931761,Interface\ICONS\,INV_PigmyOwlMount.blp
+7933423,Interface\ICONS\,INV_MurlocMount_Dark.blp
 7935945,Interface\ICONS\,INV_BroomstickSpiceWitch.blp
 7938194,Interface\ICONS\,INV_WindSerpent3Mount_Skeletal_Green.blp
 7938195,Interface\ICONS\,INV_WindSerpent3Mount_Skeletal_Red.blp
@@ -142674,6 +142695,31 @@ ID,FilePath,FileName
 7940326,Interface\WorldMap\MicroDungeon\Naigtal\Naigtal_Micro\,Naigtal_Micro7.blp
 7940327,Interface\WorldMap\MicroDungeon\Naigtal\Naigtal_Micro\,Naigtal_Micro8.blp
 7940328,Interface\WorldMap\MicroDungeon\Naigtal\Naigtal_Micro\,Naigtal_Micro9.blp
+7940903,Interface\WorldMap\12_15_Labyrinth\,12_15_Labyrinth_A1.blp
+7940904,Interface\WorldMap\12_15_Labyrinth\,12_15_Labyrinth_A10.blp
+7940905,Interface\WorldMap\12_15_Labyrinth\,12_15_Labyrinth_A11.blp
+7940906,Interface\WorldMap\12_15_Labyrinth\,12_15_Labyrinth_A12.blp
+7940907,Interface\WorldMap\12_15_Labyrinth\,12_15_Labyrinth_A2.blp
+7940908,Interface\WorldMap\12_15_Labyrinth\,12_15_Labyrinth_A3.blp
+7940909,Interface\WorldMap\12_15_Labyrinth\,12_15_Labyrinth_A4.blp
+7940910,Interface\WorldMap\12_15_Labyrinth\,12_15_Labyrinth_A5.blp
+7940911,Interface\WorldMap\12_15_Labyrinth\,12_15_Labyrinth_A6.blp
+7940912,Interface\WorldMap\12_15_Labyrinth\,12_15_Labyrinth_A7.blp
+7940913,Interface\WorldMap\12_15_Labyrinth\,12_15_Labyrinth_A8.blp
+7940914,Interface\WorldMap\12_15_Labyrinth\,12_15_Labyrinth_A9.blp
+7940915,Interface\WorldMap\12_15_Labyrinth\,12_15_Labyrinth_B1.blp
+7940916,Interface\WorldMap\12_15_Labyrinth\,12_15_Labyrinth_B10.blp
+7940917,Interface\WorldMap\12_15_Labyrinth\,12_15_Labyrinth_B11.blp
+7940918,Interface\WorldMap\12_15_Labyrinth\,12_15_Labyrinth_B12.blp
+7940919,Interface\WorldMap\12_15_Labyrinth\,12_15_Labyrinth_B2.blp
+7940920,Interface\WorldMap\12_15_Labyrinth\,12_15_Labyrinth_B3.blp
+7940921,Interface\WorldMap\12_15_Labyrinth\,12_15_Labyrinth_B4.blp
+7940922,Interface\WorldMap\12_15_Labyrinth\,12_15_Labyrinth_B5.blp
+7940923,Interface\WorldMap\12_15_Labyrinth\,12_15_Labyrinth_B6.blp
+7940924,Interface\WorldMap\12_15_Labyrinth\,12_15_Labyrinth_B7.blp
+7940925,Interface\WorldMap\12_15_Labyrinth\,12_15_Labyrinth_B8.blp
+7940926,Interface\WorldMap\12_15_Labyrinth\,12_15_Labyrinth_B9.blp
+7940961,Interface\ICONS\,INV_CauldronDrustvarMount.blp
 7941015,Interface\ICONS\,INV_Axe_1H_Sunwalker_D_01_Orange.blp
 7941016,Interface\ICONS\,INV_Axe_2H_Sunwalker_D_01_Orange.blp
 7941021,Interface\ICONS\,INV_Mace_1H_Crystalrosemace_C_01.blp
@@ -142769,6 +142815,7 @@ ID,FilePath,FileName
 7958223,Interface\Cursor\Crosshair\,UICrosshairGunner2x.BLP
 7958225,Interface\Cursor\Crosshair\,UICrosshairMapPin2x.BLP
 7958227,Interface\Cursor\Crosshair\,UICrosshairMine2x.BLP
+7958551,Interface\ICONS\,INV_WolfHawkVenthyrMount_Red.blp
 7958571,Interface\Cursor\Crosshair\,UICrosshairMissions2x.BLP
 7958573,Interface\Cursor\Crosshair\,UICrosshairMove2x.BLP
 7958575,Interface\Cursor\Crosshair\,UICrosshairPetBattleGreen2x.BLP
@@ -142839,6 +142886,7 @@ ID,FilePath,FileName
 7976399,Interface\ICONS\,INV_Helm_Armor_GoldenPhoenix_D_01.blp
 7976400,Interface\ICONS\,INV_Cape_Armor_GoldenPhoenix_D_01.blp
 7976401,Interface\ICONS\,INV_Cape_Special_GoldenPhoenix_D_01.blp
+7977688,Interface\,INV_AquirFlyingMount_Blue.blp
 7977787,Interface\ICONS\,INV_CatPet_Naxx.blp
 7977817,Interface\ICONS\,INV_CatPet_Uldum.blp
 7979957,Interface\ICONS\,INV_Helm_Armor_Mask_B_02.blp

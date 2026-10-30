@@ -1,4 +1,4 @@
-ID,FullName_lang,ShortName_lang,GroupFinderCategoryID,OrderIndex,GroupFinderActivityGrpID,Flags,MinGearLevelSuggestion,PlayerConditionID,MapID,DifficultyID,AreaID,ExpansionID,MaxPlayers,DisplayType,Field_11_0_7_57361_013,Field_11_0_7_57361_014,Field_11_0_7_57361_015,Field_11_0_7_57361_016,OverrideContentTuningID,MapChallengeModeID
+ID,FullName_lang,ShortName_lang,GroupFinderCategoryID,OrderIndex,GroupFinderActivityGrpID,Flags,MinGearLevelSuggestion,PlayerConditionID,MapID,DifficultyID,AreaID,ExpansionID,MaxPlayers,DisplayType,Field_11_0_7_57361_013,Field_11_0_7_57361_014,MinLevel,MaxLevelSuggestion,OverrideContentTuningID,MapChallengeModeID
 2,泰達希爾,泰達希爾,1,0,3,258,0,0,1,0,141,0,0,4,0,0,0,0,0,0
 3,西部荒野,西部荒野,1,0,2,258,0,0,0,0,40,0,0,4,0,0,0,0,0,0
 4,圍攻奧格瑪（普通）,普通,3,0,1,35,0,0,1136,14,0,4,30,0,0,0,0,0,0,0
@@ -1314,8 +1314,11 @@ ID,FullName_lang,ShortName_lang,GroupFinderCategoryID,OrderIndex,GroupFinderActi
 1965,奈格塔,奈格塔,1,0,397,258,0,156379,3075,0,0,11,40,0,0,0,0,0,0,0
 1968,世界首領（至暗之夜） - 英雄難度,世界首領 - 英雄難度,3,99,0,803,0,143837,0,0,0,11,40,0,0,0,0,0,0,0
 1970,衛爾（英雄）,衛爾（英雄）,1,0,397,258,0,143837,3047,0,0,11,40,0,0,0,0,0,0,0
-1972,其樂融融,其樂融融,6,0,0,35,0,0,0,0,0,11,40,4,0,0,0,0,0,0
+1972,其樂融融,其樂融融,1,0,0,34,0,0,0,0,0,11,40,4,0,0,0,0,0,0
 1974,奈格塔（英雄）,奈格塔（英雄）,1,0,397,258,0,143837,3075,0,0,11,40,0,0,0,0,0,0,0
+1975,克希斯的解放（普通）,普通,3,1,427,35,285,159032,3095,14,0,11,30,0,0,0,0,0,0,0
+1976,克希斯的解放（英雄）,英雄,3,2,427,35,298,159032,3095,15,0,11,30,0,0,0,0,0,0,0
+1977,克希斯的解放（傳奇）,傳奇,3,3,427,35,311,159032,3095,233,0,11,25,0,0,0,0,0,0,0
 2002,阿塔烏特克寶庫,阿塔烏特克寶庫,1,0,397,258,0,160458,2916,0,0,11,40,0,0,0,0,0,0,0
 2003,浪縛岩窟（普通）,普通,3,1,429,35,279,161326,2987,14,0,11,30,0,0,0,0,0,0,0
 2004,浪縛岩窟（英雄）,英雄,3,1,429,35,295,161326,2987,15,0,11,30,0,0,0,0,0,0,0
